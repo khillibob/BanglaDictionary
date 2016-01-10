@@ -61,7 +61,7 @@ public class ParsePage {
 
 	}
 
-
+/*
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
@@ -69,9 +69,9 @@ public class ParsePage {
 		HashMap<String,String>  map = parsePage(url);
 		Set<String> set = map.keySet();
 		for(String s : set){
-		//	System.out.println(s+" "/*+map.get(s)*/);
+			System.out.println(s+" "+map.get(s));
 		}
 		System.out.println(set.size());
-	}
+	}*/
 
 }

@@ -1,0 +1,1274 @@
+{ "_id" : { "$oid" : "566ff4a5e4b04472e60c7cb2"} , "Word" : "lade" , "meaning" : "খাল; ক্যানেল; জাহাজে মাল বোঝাই করা;"}
+{ "_id" : { "$oid" : "566ff4a5e4b04472e60c7cb3"} , "Word" : "lacks" , "meaning" : "অভাব; ঊনতা; হীনতা; বিহীনতা; রাহিত্য; ব্যতিরেক; কসুর;"}
+{ "_id" : { "$oid" : "566ff4a6e4b04472e60c7cb4"} , "Word" : "lachrymose" , "meaning" : "অশ্রুপাতপূর্ণ; ক্রন্দনরত; ক্রন্দনশীল; ছিঁঁচ্কাঁদুনে; কাঁদুনে; অশ্রুমাখা; অশ্রুময়; বিষাদময়;"}
+{ "_id" : { "$oid" : "566ff4a6e4b04472e60c7cb5"} , "Word" : "lacklustre" , "meaning" : "নিষ্প্রভ; দু্যতিহীন;"}
+{ "_id" : { "$oid" : "566ff4a7e4b04472e60c7cb6"} , "Word" : "labouring" , "meaning" : "শ্রমজীবী; কার্যরত; মেহনতী; শ্রমরত; কার্যবান; শ্রমোপজীবী;"}
+{ "_id" : { "$oid" : "566ff4a7e4b04472e60c7cb7"} , "Word" : "lactose" , "meaning" : "ল্যাকটোজ; দুগ্ধ-শর্করা;"}
+{ "_id" : { "$oid" : "566ff4a7e4b04472e60c7cb8"} , "Word" : "lactic" , "meaning" : "দুগ্ধজ, দুগ্ধ সংক্রান্ত্র"}
+{ "_id" : { "$oid" : "566ff4a8e4b04472e60c7cb9"} , "Word" : "lace-boot" , "meaning" : "ফিতা দিয়া বাঁধা হয় এমন বুট জুতা"}
+{ "_id" : { "$oid" : "566ff4a8e4b04472e60c7cba"} , "Word" : "labelled" , "meaning" : "লেবেল আঁটিয়া দেত্তয়া; আখ্যা দেত্তয়া;"}
+{ "_id" : { "$oid" : "566ff4a8e4b04472e60c7cbb"} , "Word" : "laborious" , "meaning" : "পরিশ্রমী শ্রমশীল, শ্রমসাধ্য"}
+{ "_id" : { "$oid" : "566ff4a9e4b04472e60c7cbc"} , "Word" : "lactate" , "meaning" : "ল্যাকটিক অ্যাসিডের রাসায়নিক লবন; দুগ্ধ নিঃসৃত হওয়া; দুধ হওয়া;"}
+{ "_id" : { "$oid" : "566ff4a9e4b04472e60c7cbd"} , "Word" : "ladders" , "meaning" : "মই; সিঁড়ি; অধিরোহণী; আরোহণী; সোপান; ক্রমোন্নতি;"}
+{ "_id" : { "$oid" : "566ff4a9e4b04472e60c7cbe"} , "Word" : "lacquer" , "meaning" : "বার্নিশ"}
+{ "_id" : { "$oid" : "566ff4aae4b04472e60c7cbf"} , "Word" : "lackeys" , "meaning" : "সামান্য ভৃত্য; দাস; হীন অনুচর;"}
+{ "_id" : { "$oid" : "566ff4aae4b04472e60c7cc0"} , "Word" : "l a" , "meaning" : "বিস্ময় প্রকাশ করতে বা জোর দিয়ে বলার জন্য ব্যবহৃত;"}
+{ "_id" : { "$oid" : "566ff4aae4b04472e60c7cc1"} , "Word" : "laboring" , "meaning" : "শ্রমজীবী; কার্যরত; মেহনতী; শ্রমরত; কার্যবান; শ্রমোপজীবী;"}
+{ "_id" : { "$oid" : "566ff4abe4b04472e60c7cc2"} , "Word" : "lacy" , "meaning" : "লেস লাগানো; লেসের মতো; লেইসের ন্যায়;"}
+{ "_id" : { "$oid" : "566ff4abe4b04472e60c7cc3"} , "Word" : "labour market" , "meaning" : "শ্রমের চাহিদা; যোগানের বাজার; শ্রম-বাজার;"}
+{ "_id" : { "$oid" : "566ff4abe4b04472e60c7cc4"} , "Word" : "lace" , "meaning" : "কারুকার্যময় বস্ত্রবিশেষ,"}
+{ "_id" : { "$oid" : "566ff4ace4b04472e60c7cc5"} , "Word" : "lacked" , "meaning" : "প্রয়োজন বোধ করা; অভাব বোধ করা; অভাবে থাকা; বিহীন হত্তয়া;"}
+{ "_id" : { "$oid" : "566ff4ace4b04472e60c7cc6"} , "Word" : "labia minora" , "meaning" : "ক্ষুদ্রোষ্ঠ;"}
+{ "_id" : { "$oid" : "566ff4ade4b04472e60c7cc7"} , "Word" : "lachry mose" , "meaning" : "অশ্রুপাতপূর্ণ; ক্রন্দনরত; ক্রন্দনশীল; ছিঁঁচ্কাঁদুনে; কাঁদুনে; অশ্রুমাখা; অশ্রুময়; বিষাদময়;"}
+{ "_id" : { "$oid" : "566ff4ade4b04472e60c7cc8"} , "Word" : "labored" , "meaning" : "শ্রমদ্বারাকৃত, শ্রমসাধ্য"}
+{ "_id" : { "$oid" : "566ff4ade4b04472e60c7cc9"} , "Word" : "labyrinth" , "meaning" : "গোলক ধাঁধা, জটিল সমস্যা"}
+{ "_id" : { "$oid" : "566ff4aee4b04472e60c7cca"} , "Word" : "lading" , "meaning" : "বোঝাই করার কাজ"}
+{ "_id" : { "$oid" : "566ff4aee4b04472e60c7ccb"} , "Word" : "label" , "meaning" : "কোন জিনিসের গায়ে লাগানো কাগজের পরিচয়-চিরকুট"}
+{ "_id" : { "$oid" : "566ff4aee4b04472e60c7ccc"} , "Word" : "lack" , "meaning" : "অভাব ; উনতা ; হীনতা ; ঘাটতি ; প্রয়োজন ; অপ্রাতুলতা"}
+{ "_id" : { "$oid" : "566ff4afe4b04472e60c7ccd"} , "Word" : "lacquered" , "meaning" : "লাক্ষিক;"}
+{ "_id" : { "$oid" : "566ff4afe4b04472e60c7cce"} , "Word" : "lacking" , "meaning" : "উদাসীন; অনুপস্থিত;"}
+{ "_id" : { "$oid" : "566ff4afe4b04472e60c7ccf"} , "Word" : "lack of appetite" , "meaning" : "অক্ষুধা;"}
+{ "_id" : { "$oid" : "566ff4b0e4b04472e60c7cd0"} , "Word" : "lacdye" , "meaning" : "জতু;"}
+{ "_id" : { "$oid" : "566ff4b0e4b04472e60c7cd1"} , "Word" : "lachrymal" , "meaning" : "অশ্রুনিঃসারকঃ অশ্রুবাহী"}
+{ "_id" : { "$oid" : "566ff4b0e4b04472e60c7cd2"} , "Word" : "lac-dye" , "meaning" : "জতু;"}
+{ "_id" : { "$oid" : "566ff4b1e4b04472e60c7cd5"} , "Word" : "laborer" , "meaning" : "শ্রমজীবী, মজুর"}
+{ "_id" : { "$oid" : "566ff4b1e4b04472e60c7cd3"} , "Word" : "lacustrine" , "meaning" : "হ্রদবাসী; হৃদে সৃষ্ট; হ্রদ-সংক্রান্ত; হ্রদ সংক্রান্ত; হ্রদের; হ্রদজাত;"}
+{ "_id" : { "$oid" : "566ff4b1e4b04472e60c7cd4"} , "Word" : "la" , "meaning" : "বিস্ময় প্রকাশ করতে বা জোর দিয়ে বলার জন্য ব্যবহৃত;"}
+{ "_id" : { "$oid" : "566ff4b2e4b04472e60c7cd6"} , "Word" : "l e a" , "meaning" : "তৃণক্ষেত্র; পশুচারণার্থ মাঠ; তৃণভূমি; বিস্তীর্ণ বা উন্মুক্ত প্রান্তর;"}
+{ "_id" : { "$oid" : "566ff4b2e4b04472e60c7cd7"} , "Word" : "labia majora" , "meaning" : "বৃহদোষ্ঠ;"}
+{ "_id" : { "$oid" : "566ff4b2e4b04472e60c7cd8"} , "Word" : "labourer" , "meaning" : "শ্রমিক; মজুর; জন; শ্রমজীবী; কার্যকর্তা; মজুরদার; খেটেল; কুলি;"}
+{ "_id" : { "$oid" : "566ff4b3e4b04472e60c7cd9"} , "Word" : "l e d" , "meaning" : "চালিত; চারিত; নীত;"}
+{ "_id" : { "$oid" : "566ff4b3e4b04472e60c7cda"} , "Word" : "labial" , "meaning" : "ওষ্ঠ-সম্বন্ধীয়"}
+{ "_id" : { "$oid" : "566ff4b3e4b04472e60c7cdb"} , "Word" : "lack lusture" , "meaning" : "নিষ্প্রভ; নিস্তেজ; ম্যাড়মেড়ে; ঘোলাটে;"}
+{ "_id" : { "$oid" : "566ff4b4e4b04472e60c7cdc"} , "Word" : "lacuna" , "meaning" : "ফাঁক"}
+{ "_id" : { "$oid" : "566ff4b4e4b04472e60c7cdd"} , "Word" : "lactation" , "meaning" : "স্তন্যদান,"}
+{ "_id" : { "$oid" : "566ff4b4e4b04472e60c7cde"} , "Word" : "lacerate" , "meaning" : "বিদীর্ণ করা; ছিন্ন করা"}
+{ "_id" : { "$oid" : "566ff4b5e4b04472e60c7cdf"} , "Word" : "lacerations" , "meaning" : "বিদারণ; কাটা;"}
+{ "_id" : { "$oid" : "566ff4b5e4b04472e60c7ce0"} , "Word" : "lack-a-day" , "meaning" : "হায়!"}
+{ "_id" : { "$oid" : "566ff4b5e4b04472e60c7ce1"} , "Word" : "ladles" , "meaning" : "হাতা; চমস; কেঠো;"}
+{ "_id" : { "$oid" : "566ff4b6e4b04472e60c7ce2"} , "Word" : "laboured" , "meaning" : "মুশকিল; দুরূহ; কষ্টকল্পিত; কঠিন; শ্রম দ্বারা কৃত; কষ্টকৃত; অতিবিস্তারিত; কষ্টকর; চেষ্টাকৃত; জড়তাপূর্ণ;"}
+{ "_id" : { "$oid" : "566ff4b6e4b04472e60c7ce3"} , "Word" : "laconic" , "meaning" : "সংক্ষিপ্ত, অল্প কথায় অর্থপূর্ণ"}
+{ "_id" : { "$oid" : "566ff4b6e4b04472e60c7ce4"} , "Word" : "lab" , "meaning" : "গবেষণাগার; পরীক্ষাগার; রসায়নাগার; রসশালা; laboratory-র সংক্ষিপ্ত চলিত রূপ;"}
+{ "_id" : { "$oid" : "566ff4b7e4b04472e60c7ce5"} , "Word" : "lac" , "meaning" : "লক্ষ, লাক্ষা, গোলা"}
+{ "_id" : { "$oid" : "566ff4b7e4b04472e60c7ce6"} , "Word" : "lad" , "meaning" : "বালক,"}
+{ "_id" : { "$oid" : "566ff4b7e4b04472e60c7ce7"} , "Word" : "laden" , "meaning" : "ভারাক্রান্ত বোঝাই"}
+{ "_id" : { "$oid" : "566ff4b8e4b04472e60c7ce8"} , "Word" : "lacunae" , "meaning" : "গহ্বর; ফাঁক; গর্ত;"}
+{ "_id" : { "$oid" : "566ff4b8e4b04472e60c7ce9"} , "Word" : "lack of knowledge" , "meaning" : "অজ্ঞান;"}
+{ "_id" : { "$oid" : "566ff4b8e4b04472e60c7cea"} , "Word" : "lackadaisical" , "meaning" : "অবসাদগ্রস্ত; ভান করে এমন; নিরূত্সাহ; নিরূদ্যম; উদাসীন; নিরুত্সাহী; ক্লান্তভাবাপন্ন; অনুত্সুক;"}
+{ "_id" : { "$oid" : "566ff4b9e4b04472e60c7ceb"} , "Word" : "laces" , "meaning" : "জরি; ফিতা; লেস্;"}
+{ "_id" : { "$oid" : "566ff4b9e4b04472e60c7cec"} , "Word" : "lackluster" , "meaning" : "নিষ্প্রভ; দু্যতিহীন;"}
+{ "_id" : { "$oid" : "566ff4b9e4b04472e60c7ced"} , "Word" : "laceration" , "meaning" : "বিদারণ, কাটা"}
+{ "_id" : { "$oid" : "566ff4bae4b04472e60c7cee"} , "Word" : "laddie" , "meaning" : "ছোট ছেলে,বালক"}
+{ "_id" : { "$oid" : "566ff4bae4b04472e60c7cef"} , "Word" : "labile" , "meaning" : "অস্থির; চঁচল; পরিবর্তনশীল; স্থানান্তরপ্রবণ; চঞ্চল; অস্থিত; পরিবর্তনপ্রবণ;"}
+{ "_id" : { "$oid" : "566ff4bae4b04472e60c7cf0"} , "Word" : "lachrymatory" , "meaning" : "সাশ্রু-অশ্রুপুর্ণ,"}
+{ "_id" : { "$oid" : "566ff4bbe4b04472e60c7cf1"} , "Word" : "ladder" , "meaning" : "মই"}
+{ "_id" : { "$oid" : "566ff4bbe4b04472e60c7cf2"} , "Word" : "laburnum" , "meaning" : "সোদার ফুলের গাছ; কর্ণিকার"}
+{ "_id" : { "$oid" : "566ff4bbe4b04472e60c7cf3"} , "Word" : "lack-lustre" , "meaning" : "অনুজ্জ্বল; নিস্ভ্রভ"}
+{ "_id" : { "$oid" : "566ff4bce4b04472e60c7cf4"} , "Word" : "laboratory" , "meaning" : "রসায়নাগার; গবেষণাগার"}
+{ "_id" : { "$oid" : "566ff4bce4b04472e60c7cf5"} , "Word" : "l" , "meaning" : "ইংরেজী বর্ণমালার দ্বাদশ বর্ণ"}
+{ "_id" : { "$oid" : "566ff4bce4b04472e60c7cf6"} , "Word" : "labour" , "meaning" : "পরিশ্রম ; শক্ত কাজ ; প্রসব বেদনা ; শ্রমিক শ্রেণী"}
+{ "_id" : { "$oid" : "566ff4bde4b04472e60c7cf7"} , "Word" : "labium" , "meaning" : "যোনিমুখের ওষ্ঠসদৃশ অংশ; ভগোষ্ঠ; ওষ্ঠ; ফুলের দলমন্ডলের ঠোঁটের মতো অংশ; পতঙ্গের ও শামুক জাতীয় প্রাণীর মুখগহ্বরের নিচের অংশ;"}
+{ "_id" : { "$oid" : "566ff4bde4b04472e60c7cf8"} , "Word" : "labor" , "meaning" : "শ্রম; পরিশ্রম; কাজ; খাটুনি; কায়িক শ্রমের কাজ; বেদনা; ব্যথা; কর্তব্য; শ্রমসাধ্য কাজ; শ্রমসাধ্য প্রচেষ্টা; শ্রমিকগণ; শ্রমের ফল; প্রসববেদনা; কষ্ট পাত্তয়া; শারীরিক বা মানসিক প্রচেষ্টা; খাটনি; প্রয়াস; শ্রমিকশ্রেণী;"}
+{ "_id" : { "$oid" : "566ff4bde4b04472e60c7cf9"} , "Word" : "ladle" , "meaning" : "বড় হাতা"}
+{ "_id" : { "$oid" : "566ff4bee4b04472e60c7cfa"} , "Word" : "laddies" , "meaning" : "বাচ্চা ছেলে; বালক; খোকা; ছোকরা;"}
+{ "_id" : { "$oid" : "566ff4bee4b04472e60c7cfb"} , "Word" : "lactometer" , "meaning" : "দুগ্ধ খাঁটি কি না তাহা পরীক্ষার যন্ত্র"}
+{ "_id" : { "$oid" : "566ff4bee4b04472e60c7cfc"} , "Word" : "lackey" , "meaning" : "ভৃত্য; অনুচর; তোষামুদে লোক; পরগাছা; হুজুরে হাজির থাকা; পা-চাটা কুত্তা; পরিচর্যা করা; ভৃত্যের ন্যায় সেবা করা;"}
+{ "_id" : { "$oid" : "566ff4bfe4b04472e60c7cfd"} , "Word" : "ladida" , "meaning" : "হাবভাবে, চালচলনে হামবড়া ভাবের প্রকাশ; হামবড়া লোক; চালবাজ লোক; কায়দাবাজ;"}
+{ "_id" : { "$oid" : "566ff4bfe4b04472e60c7cfe"} , "Word" : "labyrinthine" , "meaning" : "গোলকধাঁধা; জটিল অবস্থা; বিভ্রান্তিকর পরিস্থিতি; ভুলভুলাইয়া; গোলকধাঁধাতুল্য; গোলকধাঁধাবৎ;"}
+{ "_id" : { "$oid" : "566ff4bfe4b04472e60c7cff"} , "Word" : "lacing" , "meaning" : "দড়ি; ফিতা; ডুড়ি;"}
+{ "_id" : { "$oid" : "566ff4c0e4b04472e60c7d00"} , "Word" : "laborite" , "meaning" : "শ্রমিক দলের সমর্থক বা সদস্য"}
+{ "_id" : { "$oid" : "566ff4c0e4b04472e60c7d01"} , "Word" : "larvas" , "meaning" : "শূককীট; শূক; শুঁয়াপোকা; অণ্ডোদ্গত কীট;"}
+{ "_id" : { "$oid" : "566ff4c1e4b04472e60c7d02"} , "Word" : "lanyard" , "meaning" : "কাঁধ বা গলা থেকে ঝুলিয়ে রাখা সুতো বা দড়ি যাতে ছুরি, হুইসেল ইঃ আটকে রাখা হয়; জাহাজে জিনিসপত্র বাঁধবার জন্যে ব্যবহৃত একরকমে রশি বা দড়ি;"}
+{ "_id" : { "$oid" : "566ff4c1e4b04472e60c7d03"} , "Word" : "laos" , "meaning" : "লাত্তস;"}
+{ "_id" : { "$oid" : "566ff4c1e4b04472e60c7d04"} , "Word" : "lascivious" , "meaning" : "কামুক, লম্পট"}
+{ "_id" : { "$oid" : "566ff4c2e4b04472e60c7d05"} , "Word" : "larval" , "meaning" : "শূক-সংক্রান্ত;"}
+{ "_id" : { "$oid" : "566ff4c2e4b04472e60c7d06"} , "Word" : "large intestine" , "meaning" : "বৃহদন্ত্র;"}
+{ "_id" : { "$oid" : "566ff4c2e4b04472e60c7d07"} , "Word" : "lantern" , "meaning" : "লুন্ঠন"}
+{ "_id" : { "$oid" : "566ff4c3e4b04472e60c7d08"} , "Word" : "lapsing" , "meaning" : "স্বধর্মভ্রষ্ট হত্তয়া; তামাদি হত্তয়া; অতিপন্ন হত্তয়া; অপ্রচলিত হত্তয়া; অক্ষম হত্তয়া; পদস্খলিত হত্তয়া;"}
+{ "_id" : { "$oid" : "566ff4c3e4b04472e60c7d09"} , "Word" : "lanky" , "meaning" : "লম্বা ও রোগা"}
+{ "_id" : { "$oid" : "566ff4c3e4b04472e60c7d0a"} , "Word" : "lapland" , "meaning" : "ল্যাপ্ল্যাণ্ড;"}
+{ "_id" : { "$oid" : "566ff4c4e4b04472e60c7d0b"} , "Word" : "languid" , "meaning" : "অবসন্ন. দুর্বল"}
+{ "_id" : { "$oid" : "566ff4c4e4b04472e60c7d0c"} , "Word" : "laptop" , "meaning" : "ল্যাপটপ;"}
+{ "_id" : { "$oid" : "566ff4c4e4b04472e60c7d0d"} , "Word" : "landgrave" , "meaning" : "জর্মানির জমিদারবিশেষ; জার্মান অভিজাত সম্প্রদায়ের উপাধি;"}
+{ "_id" : { "$oid" : "566ff4c5e4b04472e60c7d0e"} , "Word" : "landfall" , "meaning" : "তটরেখা; স্থলরেখা;"}
+{ "_id" : { "$oid" : "566ff4c5e4b04472e60c7d0f"} , "Word" : "landlocked" , "meaning" : "প্রায় বা সম্পুর্ণ স্থলবেষ্টিত"}
+{ "_id" : { "$oid" : "566ff4c5e4b04472e60c7d10"} , "Word" : "lapel" , "meaning" : "কোটের বুকের দুইদিকে ভাঁজ করা অংশ"}
+{ "_id" : { "$oid" : "566ff4c6e4b04472e60c7d11"} , "Word" : "laps" , "meaning" : "ভাঁজ; অধিস্থাপন; অঁচল; ক্রোড়; কোল; অধিস্থান; আনুকূল্য; প্রাচুর্য; অঙ্ক; অঙ্কদেশ;"}
+{ "_id" : { "$oid" : "566ff4c6e4b04472e60c7d12"} , "Word" : "langour" , "meaning" : "দুর্বলতা; ক্লান্তি; অবসাদ; স্নেহসিক্ত; স্নিগ্ধ;"}
+{ "_id" : { "$oid" : "566ff4c6e4b04472e60c7d13"} , "Word" : "langur" , "meaning" : "একজাতীয় লম্বা লেজওয়ালা এশিয়াবাসী বানর;"}
+{ "_id" : { "$oid" : "566ff4c7e4b04472e60c7d14"} , "Word" : "largess" , "meaning" : "বদান্যতা; উদারতা; উপহারপ্রদান; দান; প্রদত্ত উপহার; ঔদার্য; অকৃপণ দান; উপহারসামগ্রী;"}
+{ "_id" : { "$oid" : "566ff4c7e4b04472e60c7d15"} , "Word" : "languishing" , "meaning" : "ম্লান হত্তয়া; অবসন্ন হত্তয়া; ক্ষীণ হত্তয়া; নিস্তেজ হত্তয়া;"}
+{ "_id" : { "$oid" : "566ff4c7e4b04472e60c7d16"} , "Word" : "languor" , "meaning" : "ক্লান্তি, অবসন্নতা"}
+{ "_id" : { "$oid" : "566ff4c8e4b04472e60c7d17"} , "Word" : "lapp" , "meaning" : "ল্যাপল্যান্ডার বাসী"}
+{ "_id" : { "$oid" : "566ff4c8e4b04472e60c7d18"} , "Word" : "lanterns" , "meaning" : "লণ্ঠন;"}
+{ "_id" : { "$oid" : "566ff4c8e4b04472e60c7d19"} , "Word" : "largest" , "meaning" : "গরিষ্ঠ;"}
+{ "_id" : { "$oid" : "566ff4c9e4b04472e60c7d1a"} , "Word" : "largescale" , "meaning" : "বৃহদায়তন; বড়ো আকারের; বড়;"}
+{ "_id" : { "$oid" : "566ff4c9e4b04472e60c7d1b"} , "Word" : "landmark" , "meaning" : "সীমারেখা"}
+{ "_id" : { "$oid" : "566ff4c9e4b04472e60c7d1c"} , "Word" : "larvae" , "meaning" : "শূককীট; শূক; শুঁয়াপোকা; অণ্ডোদ্গত কীট;"}
+{ "_id" : { "$oid" : "566ff4cae4b04472e60c7d1d"} , "Word" : "largesse" , "meaning" : "উদারতা; বদান্যতা; উপহারপ্রদান; দান; প্রদত্ত উপহার; ঔদার্য;"}
+{ "_id" : { "$oid" : "566ff4cae4b04472e60c7d1e"} , "Word" : "laryngitis" , "meaning" : "গলদাহ; কণ্ঠনালীপ্রদাহ; স্বরনালির প্রদাহ;"}
+{ "_id" : { "$oid" : "566ff4cae4b04472e60c7d1f"} , "Word" : "landslip" , "meaning" : "ভূমিস্থলন; ধস; ভূপাত; ভূমিস্খলন;"}
+{ "_id" : { "$oid" : "566ff4cbe4b04472e60c7d20"} , "Word" : "language" , "meaning" : "ভাষা,"}
+{ "_id" : { "$oid" : "566ff4cbe4b04472e60c7d21"} , "Word" : "large" , "meaning" : "বড়, বিস্তৃত ব্যাপক"}
+{ "_id" : { "$oid" : "566ff4cbe4b04472e60c7d22"} , "Word" : "languishment" , "meaning" : "অবসাদ; কাতরতা;"}
+{ "_id" : { "$oid" : "566ff4cce4b04472e60c7d23"} , "Word" : "largeness" , "meaning" : "আয়তন; প্রশস্ততা; উদারতা;"}
+{ "_id" : { "$oid" : "566ff4cce4b04472e60c7d24"} , "Word" : "laryngeal" , "meaning" : "বাকযন্ত্র সংক্রান্ত;"}
+{ "_id" : { "$oid" : "566ff4cce4b04472e60c7d25"} , "Word" : "languished" , "meaning" : "ম্লান হত্তয়া; অবসন্ন হত্তয়া; ক্ষীণ হত্তয়া; নিস্তেজ হত্তয়া;"}
+{ "_id" : { "$oid" : "566ff4cde4b04472e60c7d26"} , "Word" : "landslide" , "meaning" : "ধস,ভূমিস্থলন"}
+{ "_id" : { "$oid" : "566ff4cde4b04472e60c7d27"} , "Word" : "landscape" , "meaning" : "ভূদৃশ্য"}
+{ "_id" : { "$oid" : "566ff4cde4b04472e60c7d28"} , "Word" : "larks" , "meaning" : "দুষ্টুমি; ক্রীড়া; ক্রীড়; তামাশা; ভরতপক্ষী; মজা; ক্রীড়াকৌতুক; কৌতুক;"}
+{ "_id" : { "$oid" : "566ff4cee4b04472e60c7d29"} , "Word" : "large scale" , "meaning" : "বহুল;"}
+{ "_id" : { "$oid" : "566ff4cee4b04472e60c7d2a"} , "Word" : "lane" , "meaning" : "গলি, সরু পথ"}
+{ "_id" : { "$oid" : "566ff4cee4b04472e60c7d2b"} , "Word" : "lapsed" , "meaning" : "অতিপন্ন; ভূতপূর্ব; পদস্খলিত; প্রাক্তন;"}
+{ "_id" : { "$oid" : "566ff4cfe4b04472e60c7d2c"} , "Word" : "lank" , "meaning" : "লিকলিকে লম্বা ও নমনীয়"}
+{ "_id" : { "$oid" : "566ff4cfe4b04472e60c7d2d"} , "Word" : "landing" , "meaning" : "সিঁড়ির ধাপ, জাহাজ ঘাট"}
+{ "_id" : { "$oid" : "566ff4d0e4b04472e60c7d2e"} , "Word" : "larynx" , "meaning" : "বাগযন্ত্র স্বরযন্ত্র"}
+{ "_id" : { "$oid" : "566ff4d0e4b04472e60c7d2f"} , "Word" : "lapse" , "meaning" : "পতন ঘাঁ"}
+{ "_id" : { "$oid" : "566ff4d0e4b04472e60c7d30"} , "Word" : "land slide" , "meaning" : "ভূমিস্থলন; ধস; ভূপাত; পাহাড়ের ঢাল বেয়ে মাটি, পাথর প্রভৃতির চাঙড় নেমে আসা; জনমতের আকস্মিক পরিবর্তনের ফলে কোনো রাজনৈতিক দলের পক্ষে বিপুল সংখ্যাগরিষ্ঠের সমর্থন বা ভোট;"}
+{ "_id" : { "$oid" : "566ff4d1e4b04472e60c7d31"} , "Word" : "lap" , "meaning" : "কোল ; ক্রোড়"}
+{ "_id" : { "$oid" : "566ff4d1e4b04472e60c7d32"} , "Word" : "larch" , "meaning" : "একজাতীয় হালকা-সবুজ পাতাওয়ালা সরলবর্গীয় গাছ;"}
+{ "_id" : { "$oid" : "566ff4d1e4b04472e60c7d33"} , "Word" : "landward" , "meaning" : "স্থলাভিমুখে"}
+{ "_id" : { "$oid" : "566ff4d2e4b04472e60c7d34"} , "Word" : "lapis lazuli" , "meaning" : "গাড় নীলবর্ণ মুল্যবান প্রস্তুর বিশেষ"}
+{ "_id" : { "$oid" : "566ff4d2e4b04472e60c7d35"} , "Word" : "laplander" , "meaning" : "ল্যাপল্যান্ডার বাসী"}
+{ "_id" : { "$oid" : "566ff4d2e4b04472e60c7d36"} , "Word" : "lapidary" , "meaning" : "জহুরী, মণি ব্যবসায়ী"}
+{ "_id" : { "$oid" : "566ff4d3e4b04472e60c7d37"} , "Word" : "landlord" , "meaning" : "ভূস্বামী ; জমিদার ; বাড়িওয়ালা"}
+{ "_id" : { "$oid" : "566ff4d3e4b04472e60c7d38"} , "Word" : "land-rover" , "meaning" : "হালকা মোটর গাড়ি বিশেষ"}
+{ "_id" : { "$oid" : "566ff4d3e4b04472e60c7d39"} , "Word" : "larva" , "meaning" : "শূক, পতঙ্গেও ডিম থেকে ফুটবার পরবর্তী অবস্থা"}
+{ "_id" : { "$oid" : "566ff4d4e4b04472e60c7d3a"} , "Word" : "larceny" , "meaning" : "চুরি"}
+{ "_id" : { "$oid" : "566ff4d4e4b04472e60c7d3b"} , "Word" : "larder" , "meaning" : "ভাঁড়ারঘর; আলমারি বা মিটসেফ; মাংস ও অন্যান্য খাবারদাবার জমা করে রাখার ঘর;"}
+{ "_id" : { "$oid" : "566ff4d4e4b04472e60c7d3c"} , "Word" : "languorous" , "meaning" : "নির্জীব; অসাড়তাপূর্ণ; জড়তাগ্রস্ত; অবসন্নতাপূর্ণ; নিস্তেজ; ঢিলেঢালা; অবসাদগ্রস্ত;"}
+{ "_id" : { "$oid" : "566ff4d4e4b04472e60c7d3d"} , "Word" : "lap-dog" , "meaning" : "কোল-ধরা ক্ষুদ্র কুকুরবিশেষ"}
+{ "_id" : { "$oid" : "566ff4d5e4b04472e60c7d3e"} , "Word" : "larger" , "meaning" : "গরীয়ান;"}
+{ "_id" : { "$oid" : "566ff4d5e4b04472e60c7d3f"} , "Word" : "landform" , "meaning" : "ভূপৃষ্ঠের স্বাভাবিক ভূপ্রাকৃতিক বৈশিষ্ট্য;"}
+{ "_id" : { "$oid" : "566ff4d5e4b04472e60c7d40"} , "Word" : "landlady" , "meaning" : "ভূস্বামিনী, বাড়িওয়ালী"}
+{ "_id" : { "$oid" : "566ff4d6e4b04472e60c7d41"} , "Word" : "laprosy" , "meaning" : "কুষ্ঠ"}
+{ "_id" : { "$oid" : "566ff4d6e4b04472e60c7d42"} , "Word" : "larn" , "meaning" : "শেখানো; শেখা;"}
+{ "_id" : { "$oid" : "566ff4d6e4b04472e60c7d43"} , "Word" : "languish" , "meaning" : "ম্লান হওয়া,"}
+{ "_id" : { "$oid" : "566ff4d7e4b04472e60c7d44"} , "Word" : "landed" , "meaning" : "স্থাবর ভূসম্পত্তি বিষয়ক"}
+{ "_id" : { "$oid" : "566ff4d7e4b04472e60c7d45"} , "Word" : "larding" , "meaning" : "স্থূলকায় করা; মিশ্রিত করা; চর্বি মাখান; মোটা করা; চর্বি লাগানো; মসলা-যুক্ত করা;"}
+{ "_id" : { "$oid" : "566ff4d7e4b04472e60c7d46"} , "Word" : "landslides" , "meaning" : "ভূমিস্থলন; ধস; ভূপাত;"}
+{ "_id" : { "$oid" : "566ff4d8e4b04472e60c7d47"} , "Word" : "lark" , "meaning" : "ভরতপক্ষী ; তামাশা ; কৌতুক"}
+{ "_id" : { "$oid" : "566ff4d8e4b04472e60c7d48"} , "Word" : "larcenous" , "meaning" : "বামপার্শ্বের অভিমুখ;"}
+{ "_id" : { "$oid" : "566ff4d8e4b04472e60c7d49"} , "Word" : "landowner" , "meaning" : "ভূস্বামী, জমির মালিক"}
+{ "_id" : { "$oid" : "566ff4d9e4b04472e60c7d4a"} , "Word" : "lapped" , "meaning" : "ভাঁজ করা; অধিস্থাপন করা; লেহন করা; জিহ্বা দ্বারা চাটা; মৃদু আঘাত করা; উপরে রাখা; জড়ান; ভাঁজ হত্তয়া; কিছু দিয়া জড়ান; কিছুর মধ্যে রাখা; পরিবেষ্টন করা; কোলে লত্তয়া; অধিস্থাপিত হত্তয়া; সীমা ছাড়ান; উপচাইয়া পড়া; ছাপাইয়া যাত্তয়া;"}
+{ "_id" : { "$oid" : "566ff4d9e4b04472e60c7d4b"} , "Word" : "lapwing" , "meaning" : "টিট্রিভ ; জলচর পক্ষিবিশেষ"}
+{ "_id" : { "$oid" : "566ff4d9e4b04472e60c7d4c"} , "Word" : "largely" , "meaning" : "প্রধানতঃ অংকে পরিমাণে"}
+{ "_id" : { "$oid" : "566ff4dae4b04472e60c7d4d"} , "Word" : "lard" , "meaning" : "রান্নার জন্য ব্যবহৃত শুকরের চর্বি"}
+{ "_id" : { "$oid" : "566ff4dae4b04472e60c7d4e"} , "Word" : "landscapes" , "meaning" : "প্রাকৃতিক ভূদৃশ্য; প্রাকৃতিক ভূচিত্র;"}
+{ "_id" : { "$oid" : "566ff4dae4b04472e60c7d4f"} , "Word" : "lapses" , "meaning" : "ভ্রষ্টতা; তামাদি; ত্রুটিবিচু্যতি; অক্ষমতা; অতিপত্তি; সামান্য দোষ; সামান্য ভুল;"}
+{ "_id" : { "$oid" : "566ff4dbe4b04472e60c7d50"} , "Word" : "lateral" , "meaning" : "পার্শ্বগত, পাশে পাশে সজ্জিত এমন"}
+{ "_id" : { "$oid" : "566ff4dbe4b04472e60c7d51"} , "Word" : "latex vessel" , "meaning" : "ক্ষীরনালী;"}
+{ "_id" : { "$oid" : "566ff4dce4b04472e60c7d52"} , "Word" : "latent" , "meaning" : "প্রচছন্ন, অপ্রকাশিত"}
+{ "_id" : { "$oid" : "566ff4dce4b04472e60c7d53"} , "Word" : "last" , "meaning" : "সর্বশেষ, চূড়ান্ত"}
+{ "_id" : { "$oid" : "566ff4dce4b04472e60c7d54"} , "Word" : "lasting" , "meaning" : "স্থায়ী টেকসই"}
+{ "_id" : { "$oid" : "566ff4dde4b04472e60c7d55"} , "Word" : "lass" , "meaning" : "বালিকা, মেয়ে, তরুণী"}
+{ "_id" : { "$oid" : "566ff4dde4b04472e60c7d56"} , "Word" : "laurels" , "meaning" : "বিজয় বিরত্বের বা কলানৈপুণ্যের সম্মান"}
+{ "_id" : { "$oid" : "566ff4dde4b04472e60c7d57"} , "Word" : "laughed off" , "meaning" : "হাসিয়া এড়ান;"}
+{ "_id" : { "$oid" : "566ff4dee4b04472e60c7d58"} , "Word" : "lathi" , "meaning" : "ঠেঙ্গা;"}
+{ "_id" : { "$oid" : "566ff4dee4b04472e60c7d59"} , "Word" : "latticed" , "meaning" : "জাফরিকাটা; জাফরি আকারে তৈরি;"}
+{ "_id" : { "$oid" : "566ff4dee4b04472e60c7d5a"} , "Word" : "latency" , "meaning" : "অদৃশ্যতা; সুপ্তাবস্থা; প্রচ্ছন্নতা; গুপ্তাবস্থা; প্রছন্নতা; অস্ফুটতা;"}
+{ "_id" : { "$oid" : "566ff4dfe4b04472e60c7d5b"} , "Word" : "lavatory" , "meaning" : "হাতমুখ ধোয়ার ঘর, শৌচাগার"}
+{ "_id" : { "$oid" : "566ff4dfe4b04472e60c7d5c"} , "Word" : "lash" , "meaning" : "চাবুক, চাবুকের আঘাত, কশাঘাত"}
+{ "_id" : { "$oid" : "566ff4dfe4b04472e60c7d5d"} , "Word" : "laser" , "meaning" : "লেজার;"}
+{ "_id" : { "$oid" : "566ff4e0e4b04472e60c7d5e"} , "Word" : "lassie" , "meaning" : "খুকি;"}
+{ "_id" : { "$oid" : "566ff4e0e4b04472e60c7d5f"} , "Word" : "latrine" , "meaning" : "পায়খানা"}
+{ "_id" : { "$oid" : "566ff4e0e4b04472e60c7d60"} , "Word" : "latches" , "meaning" : "দরজার ছিটকিনি; হুড়কা; দরজার তালা; দরজার হুড়কা;"}
+{ "_id" : { "$oid" : "566ff4e1e4b04472e60c7d63"} , "Word" : "laterite" , "meaning" : "মোরাম;"}
+{ "_id" : { "$oid" : "566ff4e1e4b04472e60c7d61"} , "Word" : "lasted" , "meaning" : "চালু থাকা; স্থায়ী হত্তয়া; টিকা; টেকা; টিকে থাকা; টিকিয়া থাকা; টেকসই হত্তয়া; অধিকতর টেকসই হত্তয়া; তাজা থাকা; অক্ষত থাকা;"}
+{ "_id" : { "$oid" : "566ff4e1e4b04472e60c7d62"} , "Word" : "laundrette" , "meaning" : "কাপড় কাচার স্বয়ংক্রিয় মেসিনসমেত লন্ড্রি যেখানে লোকে পয়সা দিয়ে কাপড় কাচিয়ে নিতে পারে;"}
+{ "_id" : { "$oid" : "566ff4e2e4b04472e60c7d64"} , "Word" : "latitudinal" , "meaning" : "অক্ষাংশ সংক্রান্ত;"}
+{ "_id" : { "$oid" : "566ff4e2e4b04472e60c7d65"} , "Word" : "laughs" , "meaning" : "উপহাস করা; উচ্চহাস্য করা; সশব্দে হাসা; উচ্চহাস্যে বলা;"}
+{ "_id" : { "$oid" : "566ff4e2e4b04472e60c7d66"} , "Word" : "laugh" , "meaning" : "হাসা ; উপহাস করা"}
+{ "_id" : { "$oid" : "566ff4e3e4b04472e60c7d67"} , "Word" : "latch" , "meaning" : "দরজা বা জানালার হুড়কা. খিল"}
+{ "_id" : { "$oid" : "566ff4e3e4b04472e60c7d68"} , "Word" : "launder" , "meaning" : "কাচা; পরিষ্কার করা; সাফ করা; ধোত্তয়া; কাচা ও ইস্ত্রি করা; অবৈধভাবে পাওয়া অর্থ ইত্যাদিকে কৌশলে বধ করে নেওয়া;"}
+{ "_id" : { "$oid" : "566ff4e4e4b04472e60c7d69"} , "Word" : "lather" , "meaning" : "সাবানের ফেনা"}
+{ "_id" : { "$oid" : "566ff4e4e4b04472e60c7d6a"} , "Word" : "lavender" , "meaning" : "সগন্ধি বৃক্ষ"}
+{ "_id" : { "$oid" : "566ff4e4e4b04472e60c7d6b"} , "Word" : "last but not the lea" , "meaning" : "শেষে থাকলেও গুণে কমতি নয় এমন;"}
+{ "_id" : { "$oid" : "566ff4e5e4b04472e60c7d6c"} , "Word" : "lathe" , "meaning" : "ধাতু বা কাঠ কুঁদবার যন্ত্রবিশেষ"}
+{ "_id" : { "$oid" : "566ff4e5e4b04472e60c7d6d"} , "Word" : "late night" , "meaning" : "নিশুতি; নিশীথ;"}
+{ "_id" : { "$oid" : "566ff4e5e4b04472e60c7d6e"} , "Word" : "laurel" , "meaning" : "গুল্মবিশেষ;"}
+{ "_id" : { "$oid" : "566ff4e6e4b04472e60c7d6f"} , "Word" : "laughed" , "meaning" : "অপহসিত;"}
+{ "_id" : { "$oid" : "566ff4e6e4b04472e60c7d70"} , "Word" : "late" , "meaning" : "বিলম্বিতি"}
+{ "_id" : { "$oid" : "566ff4e6e4b04472e60c7d71"} , "Word" : "lassitude" , "meaning" : "ক্লান্তি দুর্বলতা"}
+{ "_id" : { "$oid" : "566ff4e7e4b04472e60c7d72"} , "Word" : "lath" , "meaning" : "কাঠের বাতা, পাতলা তক্তা"}
+{ "_id" : { "$oid" : "566ff4e7e4b04472e60c7d73"} , "Word" : "lavatories" , "meaning" : "পায়খানা; প্রক্ষালনের পাত্র; প্রক্ষালনের কক্ষ; স্নানপাত্র; স্নানকক্ষ; প্রস্রাবের জায়গা; টয়লেট; ধোলাইখানা; শৌচাগার;"}
+{ "_id" : { "$oid" : "566ff4e7e4b04472e60c7d74"} , "Word" : "launching" , "meaning" : "চালু করা;"}
+{ "_id" : { "$oid" : "566ff4e8e4b04472e60c7d75"} , "Word" : "lasso" , "meaning" : "ফাঁস দুড়ি"}
+{ "_id" : { "$oid" : "566ff4e8e4b04472e60c7d76"} , "Word" : "latitude" , "meaning" : "অক্ষাংশ, অক্ষরেখা"}
+{ "_id" : { "$oid" : "566ff4e8e4b04472e60c7d77"} , "Word" : "lashed" , "meaning" : "কশাঘাত করা; কশান; পেটান; দড়ি দিয়া আঁটিয়া বাঁধা; বাক্যবাণ বর্ষণ করা; প্রচণ্ডভাবে আছড়ান; প্রচণ্ডভাবে আছড়াইয়া পড়া;"}
+{ "_id" : { "$oid" : "566ff4e9e4b04472e60c7d78"} , "Word" : "lastly" , "meaning" : "সর্বশেষে; উপসংহারে;"}
+{ "_id" : { "$oid" : "566ff4e9e4b04472e60c7d79"} , "Word" : "later on" , "meaning" : "পরে; পরবর্তী কালে; পাছু;"}
+{ "_id" : { "$oid" : "566ff4e9e4b04472e60c7d7a"} , "Word" : "laugh at" , "meaning" : "কাউকে নিয়ে বিদ্রুপ করা; উপহাস করা;"}
+{ "_id" : { "$oid" : "566ff4eae4b04472e60c7d7b"} , "Word" : "lattice" , "meaning" : "জাফরি; জালি; ঝাঁঝরি;"}
+{ "_id" : { "$oid" : "566ff4eae4b04472e60c7d7c"} , "Word" : "laudable" , "meaning" : "প্রশংসনীয়"}
+{ "_id" : { "$oid" : "566ff4eae4b04472e60c7d7d"} , "Word" : "last name" , "meaning" : "পদবি; নামের শেষাংশ;"}
+{ "_id" : { "$oid" : "566ff4ebe4b04472e60c7d7e"} , "Word" : "launch" , "meaning" : "ফেরি জাহাজ, লঞ্চ"}
+{ "_id" : { "$oid" : "566ff4ebe4b04472e60c7d7f"} , "Word" : "laughable" , "meaning" : "হাস্যকর; হাস্যজনক; অসঙ্গত; উপহাস্য; উপহাসাম্পদ; পরিহসনীয়; মজাদার;"}
+{ "_id" : { "$oid" : "566ff4ebe4b04472e60c7d80"} , "Word" : "laureates" , "meaning" : "বিজয়ী; কবিশ্রেষ্ঠ; রাজকবি;"}
+{ "_id" : { "$oid" : "566ff4ece4b04472e60c7d81"} , "Word" : "laundry" , "meaning" : "ধোপাখানা,"}
+{ "_id" : { "$oid" : "566ff4ece4b04472e60c7d82"} , "Word" : "laundering" , "meaning" : "কাচা; পরিষ্কার করা; সাফ করা; ধোত্তয়া;"}
+{ "_id" : { "$oid" : "566ff4ece4b04472e60c7d83"} , "Word" : "launches" , "meaning" : "আরম্ভ; চালু করা; নিক্ষেপ; ধাবন; প্রবৃত্ত হত্তয়া; জলে ভাসান; ঝম্পপ্রদান; কাজের ঝুঁকিগ্রহণ;"}
+{ "_id" : { "$oid" : "566ff4ede4b04472e60c7d84"} , "Word" : "laughing" , "meaning" : "হাস্যময়, হাস্যকর"}
+{ "_id" : { "$oid" : "566ff4ede4b04472e60c7d85"} , "Word" : "lasts" , "meaning" : "শেষ; বোঝা; জাহাজের বোঝা; ত্তজনবিশেষ;"}
+{ "_id" : { "$oid" : "566ff4ede4b04472e60c7d86"} , "Word" : "laud" , "meaning" : "উচচ প্রশংসা করা"}
+{ "_id" : { "$oid" : "566ff4eee4b04472e60c7d87"} , "Word" : "lashings" , "meaning" : "পর্যাপ্ত পরিমাণ;"}
+{ "_id" : { "$oid" : "566ff4eee4b04472e60c7d88"} , "Word" : "latter" , "meaning" : "পরবতী. দ্বয়ের মধ্যে পরেরটি,"}
+{ "_id" : { "$oid" : "566ff4eee4b04472e60c7d89"} , "Word" : "laudanum" , "meaning" : "আফিমের আরক; অহিফেনের আরক;"}
+{ "_id" : { "$oid" : "566ff4efe4b04472e60c7d8a"} , "Word" : "laureate" , "meaning" : "বিজয়মালা, ভূষিত"}
+{ "_id" : { "$oid" : "566ff4efe4b04472e60c7d8b"} , "Word" : "lately" , "meaning" : "সম্প্রতি, ইদানিং"}
+{ "_id" : { "$oid" : "566ff4efe4b04472e60c7d8c"} , "Word" : "laudation" , "meaning" : "শ্লাঘা; গুণগান; গুণানুবাদ; প্রশংসা; গুণকীর্তন; প্রদত্ত সম্মান; গুণবাদ;"}
+{ "_id" : { "$oid" : "566ff4f0e4b04472e60c7d8d"} , "Word" : "laterally" , "meaning" : "পার্শ্বত;"}
+{ "_id" : { "$oid" : "566ff4f0e4b04472e60c7d8e"} , "Word" : "launched" , "meaning" : "চালু করা; সবেগে নিক্ষেপ করা; দাগা; প্রেরণ করা; প্রবৃত্ত করান; আরম্ভ করান; জলে ভাসান; জলে নামান; বেগে ছুটিয়া যাত্তয়া; ধাবিত করা; নিজেকে নিক্ষিপ্ত করা; ঝাঁপাইয়া পড়া; আরম্ভ হত্তয়া; ছোড়া;"}
+{ "_id" : { "$oid" : "566ff4f0e4b04472e60c7d8f"} , "Word" : "latinism" , "meaning" : "ল্যাটিন ভাষার রীতি বা ভাব"}
+{ "_id" : { "$oid" : "566ff4f1e4b04472e60c7d90"} , "Word" : "lauded" , "meaning" : "উত্কীর্তিত;"}
+{ "_id" : { "$oid" : "566ff4f1e4b04472e60c7d91"} , "Word" : "lavender-water" , "meaning" : "ল্যাভেন্ডারের জল"}
+{ "_id" : { "$oid" : "566ff4f1e4b04472e60c7d92"} , "Word" : "latent heat" , "meaning" : "লীনতাপ;"}
+{ "_id" : { "$oid" : "566ff4f2e4b04472e60c7d93"} , "Word" : "later" , "meaning" : "অপেক্ষাকৃত পরবর্তী"}
+{ "_id" : { "$oid" : "566ff4f2e4b04472e60c7d94"} , "Word" : "lasses" , "meaning" : "মেয়ে; খুকি; বালিকা; ছুঁড়ী; ছুকরি; ছুকরী; প্রণয়িনী;"}
+{ "_id" : { "$oid" : "566ff4f2e4b04472e60c7d95"} , "Word" : "launderer" , "meaning" : "ধোপা, রজক"}
+{ "_id" : { "$oid" : "566ff4f3e4b04472e60c7d96"} , "Word" : "lave" , "meaning" : "স্নান করা; স্নান করান; বহিয়া যাত্তয়া; ধোয়ান; ধোয়া;"}
+{ "_id" : { "$oid" : "566ff4f3e4b04472e60c7d97"} , "Word" : "lava" , "meaning" : "আগ্নেয়গিরি থেকে নির্গত ধাতব পদার্থ"}
+{ "_id" : { "$oid" : "566ff4f3e4b04472e60c7d98"} , "Word" : "latin" , "meaning" : "প্রাচীন রোমক জাতির ভাষা"}
+{ "_id" : { "$oid" : "566ff4f4e4b04472e60c7d99"} , "Word" : "laudatory" , "meaning" : "প্রশংসাযুক্ত, প্রশংসাসূচক"}
+{ "_id" : { "$oid" : "566ff4f4e4b04472e60c7d9a"} , "Word" : "latex" , "meaning" : "গাছের দুগ্ধশুভ্র রস"}
+{ "_id" : { "$oid" : "566ff4f4e4b04472e60c7d9b"} , "Word" : "lashing" , "meaning" : "কশাঘাত; প্রহার; ভুরিভুরি; চাবকানি; ঢালাও;"}
+{ "_id" : { "$oid" : "566ff4f5e4b04472e60c7d9c"} , "Word" : "laundress" , "meaning" : "রজকী; ধোপানী;"}
+{ "_id" : { "$oid" : "566ff4f5e4b04472e60c7d9d"} , "Word" : "latest" , "meaning" : "সর্বাধুনিক"}
+{ "_id" : { "$oid" : "566ff4f5e4b04472e60c7d9e"} , "Word" : "laughter" , "meaning" : "হাসি, উচচহাস্য"}
+{ "_id" : { "$oid" : "566ff4f6e4b04472e60c7d9f"} , "Word" : "lauding" , "meaning" : "গুণগান করা; গুণানুবাদ করা; প্রশংসা করা; গুণকীর্তন করা; গুণবাদ করা; গুণ গাত্তয়া;"}
+{ "_id" : { "$oid" : "566ff4f6e4b04472e60c7da0"} , "Word" : "laxative" , "meaning" : "বকেয়া, বিবেচক ঔষধ"}
+{ "_id" : { "$oid" : "566ff4f7e4b04472e60c7da1"} , "Word" : "lazily" , "meaning" : "অলসভাবে, ধীরভাবে"}
+{ "_id" : { "$oid" : "566ff4f7e4b04472e60c7da2"} , "Word" : "lawn" , "meaning" : "তৃণাচছাদিত জমি, লন"}
+{ "_id" : { "$oid" : "566ff4f7e4b04472e60c7da3"} , "Word" : "leading question" , "meaning" : "উত্তরসূচক প্রশ্ন; যে প্রশ্নের মধ্যেই বাঞ্ছিত উত্তরের আভাস থাকে;"}
+{ "_id" : { "$oid" : "566ff4f8e4b04472e60c7da4"} , "Word" : "layers" , "meaning" : "স্তর; পরত; থর; থাক; তবক; পলি; পাল্লা; প্রলেপ; পরদা; চাপ; ডিম্বপ্রসরকারিণী; স্থাপনকর্তা;"}
+{ "_id" : { "$oid" : "566ff4f8e4b04472e60c7da5"} , "Word" : "laxatives" , "meaning" : "জোলাপ; রেচক ঔষধ;"}
+{ "_id" : { "$oid" : "566ff4f8e4b04472e60c7da6"} , "Word" : "lead" , "meaning" : "সীসা"}
+{ "_id" : { "$oid" : "566ff4f9e4b04472e60c7da7"} , "Word" : "lawmaker" , "meaning" : "বিধানকর্তা;"}
+{ "_id" : { "$oid" : "566ff4f9e4b04472e60c7da8"} , "Word" : "layered" , "meaning" : "স্তরপূর্ণ;"}
+{ "_id" : { "$oid" : "566ff4f9e4b04472e60c7da9"} , "Word" : "lay up" , "meaning" : "তুলে রাখা; শয্যাগত করা; সঁচিত করা; জমা রাখা; হাতে রাখা; জমাইয়া রাখা; শয্যাশায়ী করিয়া রাখা; আবদ্ধ করিয়া রাখা;"}
+{ "_id" : { "$oid" : "566ff4fae4b04472e60c7daa"} , "Word" : "law-maker" , "meaning" : "আইনকর্তা"}
+{ "_id" : { "$oid" : "566ff4fae4b04472e60c7dab"} , "Word" : "lay eggs" , "meaning" : "ডিম পাড়া; ডিম ছাড়া; ডিম দেত্তয়া;"}
+{ "_id" : { "$oid" : "566ff4fae4b04472e60c7dac"} , "Word" : "lay in" , "meaning" : "নিজের জন্য কোনো কিছু মজুত করে রাখা; জমাইয়া রাখা;"}
+{ "_id" : { "$oid" : "566ff4fbe4b04472e60c7dad"} , "Word" : "lead away" , "meaning" : "প্রতিসারণ হত্তয়া;"}
+{ "_id" : { "$oid" : "566ff4fbe4b04472e60c7dae"} , "Word" : "law-suit" , "meaning" : "মামলা, মকদ্দমা"}
+{ "_id" : { "$oid" : "566ff4fbe4b04472e60c7daf"} , "Word" : "law-court" , "meaning" : "আদালত, বিচারালয়"}
+{ "_id" : { "$oid" : "566ff4fce4b04472e60c7db0"} , "Word" : "lay aside" , "meaning" : "একপাশে সরিয়ে রাখা; অভ্যাস ইঃ ছেড়ে দেওয়া; পৃথক্ করিয়া রাখা; শয্যাশায়ী করিয়া রাখা; শয্যাশায়ী করান; বাতিল করা; সরাইয়া রাখা; অগ্রাহ্য করা;"}
+{ "_id" : { "$oid" : "566ff4fce4b04472e60c7db1"} , "Word" : "lawn-mower" , "meaning" : "ঘাস কাটবার যন্ত্র বিশেষ"}
+{ "_id" : { "$oid" : "566ff4fce4b04472e60c7db2"} , "Word" : "lay-out" , "meaning" : "সজ্জা; সন্নিবেশ;"}
+{ "_id" : { "$oid" : "566ff4fde4b04472e60c7db3"} , "Word" : "lead by the nose" , "meaning" : "কাউকে একবারে পকেটে পুরে ফেলা;"}
+{ "_id" : { "$oid" : "566ff4fde4b04472e60c7db4"} , "Word" : "leach" , "meaning" : "কোনো তরলকে কোনো পদার্থের মধ্যে দিয়ে পরিস্রুত করে নেওয়া;"}
+{ "_id" : { "$oid" : "566ff4fee4b04472e60c7db5"} , "Word" : "lawgiver" , "meaning" : "ব্যবস্থাপক, আইনকর্তা"}
+{ "_id" : { "$oid" : "566ff4fee4b04472e60c7db6"} , "Word" : "leaders" , "meaning" : "বিন্দুরেখা;"}
+{ "_id" : { "$oid" : "566ff4fee4b04472e60c7db7"} , "Word" : "laxness" , "meaning" : "দুর্বলতা; শক্তিহীনতা; বলহীনতা; অসাবধানতা; শৈথিল্য;"}
+{ "_id" : { "$oid" : "566ff4ffe4b04472e60c7db8"} , "Word" : "layback" , "meaning" : "পিছনদিকে ফেরানো বা হেলিয়ে দেওয়া;"}
+{ "_id" : { "$oid" : "566ff4ffe4b04472e60c7db9"} , "Word" : "lawlessness" , "meaning" : "অরাজকতা"}
+{ "_id" : { "$oid" : "566ff4ffe4b04472e60c7dba"} , "Word" : "leading" , "meaning" : "প্রধান, মূখ্য"}
+{ "_id" : { "$oid" : "566ff500e4b04472e60c7dbb"} , "Word" : "law-abiding" , "meaning" : "আইনমান্যকারী, শাস্তি পূর্ণ"}
+{ "_id" : { "$oid" : "566ff500e4b04472e60c7dbc"} , "Word" : "lawnmower" , "meaning" : "ঘাস-কাটা যন্ত্র;"}
+{ "_id" : { "$oid" : "566ff500e4b04472e60c7dbd"} , "Word" : "laydown" , "meaning" : "কার্যবিপত্তি;"}
+{ "_id" : { "$oid" : "566ff501e4b04472e60c7dbe"} , "Word" : "lavishing" , "meaning" : "অপব্যয় করা;"}
+{ "_id" : { "$oid" : "566ff501e4b04472e60c7dbf"} , "Word" : "layouts" , "meaning" : "বিন্যাস; নকশা; পরিকল্পনা; গঠনপ্রণালী; স্থাপিত বস্তু; সাজসজ্জা; স্থাপনকৌশল; পোশাকপরিচ্ছদ;"}
+{ "_id" : { "$oid" : "566ff501e4b04472e60c7dc0"} , "Word" : "lawyer" , "meaning" : "আইনজ্ঞ ব্যক্তি, উকিল"}
+{ "_id" : { "$oid" : "566ff502e4b04472e60c7dc1"} , "Word" : "laying down" , "meaning" : "পরিত্যাগ করা; ছাড়িয়া দেত্তয়া; বাজি ধরা; বাজির টাকা জমা দেত্তয়া; ঘাস প্রভৃতি জন্মান; থোত্তয়া; জমান;"}
+{ "_id" : { "$oid" : "566ff502e4b04472e60c7dc2"} , "Word" : "lays" , "meaning" : "রাখা; ডিম পাড়া; নামাইয়া রাখা; শোয়াইয়া ফেলা; আস্তৃত করা; স্থাপন করা; উপস্থাপিত করা; প্রয়োগ করা; প্রশমিত করা; ঢাকা; জমা রাখা; জমা দেত্তয়া; ভার দেত্তয়া; পেশ করা; প্রসব করা; বাজি রাখা; যথাস্থানে স্থাপন করা; আরোপ করা; আদেশ প্রদান করা; পরিকল্পনা করা; উদ্ভাবন করা; ডিম্বপ্রসর করা; ডিম দেত্তয়া; বাজি দেত্তয়া; শোয়ান; আঘাত হানা;"}
+{ "_id" : { "$oid" : "566ff502e4b04472e60c7dc3"} , "Word" : "laziness" , "meaning" : "আলস্য, কুঁড়েমি"}
+{ "_id" : { "$oid" : "566ff503e4b04472e60c7dc4"} , "Word" : "lay back" , "meaning" : "পিছনদিকে ফেরানো বা হেলিয়ে দেওয়া;"}
+{ "_id" : { "$oid" : "566ff503e4b04472e60c7dc5"} , "Word" : "lawsuits" , "meaning" : "মামলা; মকদ্দমা; কেস;"}
+{ "_id" : { "$oid" : "566ff503e4b04472e60c7dc6"} , "Word" : "lawless" , "meaning" : "অরাজক"}
+{ "_id" : { "$oid" : "566ff504e4b04472e60c7dc7"} , "Word" : "law court" , "meaning" : "ন্যায়াধিকরণ; ন্যায়ালয়; আদালত; বিচারালয়;"}
+{ "_id" : { "$oid" : "566ff504e4b04472e60c7dc8"} , "Word" : "law term" , "meaning" : "আইনের পরিভাষা;"}
+{ "_id" : { "$oid" : "566ff504e4b04472e60c7dc9"} , "Word" : "lawmakers" , "meaning" : "বিধানকর্তা;"}
+{ "_id" : { "$oid" : "566ff505e4b04472e60c7dca"} , "Word" : "lavish" , "meaning" : "প্রচুর ব্যয় করা"}
+{ "_id" : { "$oid" : "566ff505e4b04472e60c7dcb"} , "Word" : "lawfully" , "meaning" : "আইনানুসারে; আইনত; আইনানুযায়ী; আইনসম্মতভাবে;"}
+{ "_id" : { "$oid" : "566ff505e4b04472e60c7dcc"} , "Word" : "lawsuit" , "meaning" : "মকদ্দমা"}
+{ "_id" : { "$oid" : "566ff506e4b04472e60c7dcd"} , "Word" : "lawns" , "meaning" : "বনভূমি; বনমধ্যস্থ উন্মুক্ত স্থান; তৃণাবৃত মসৃণ জমি; লন্;"}
+{ "_id" : { "$oid" : "566ff506e4b04472e60c7dce"} , "Word" : "lay off" , "meaning" : "সাময়িক কর্মবন্ধ; খুলিয়া ফেলা; কাজে ক্ষান্ত হত্তয়া;"}
+{ "_id" : { "$oid" : "566ff506e4b04472e60c7dcf"} , "Word" : "lay out" , "meaning" : "সাজিয়ে রাখা; কোনো কিছুর পরিকল্পনা করা; টাকা পয়সা খরচ করা; বিন্যস্ত করা; ব্যয় করা; বিনিয়োগ করা; পরিকল্পনা করা; নকশা আঁকা; পাতা; খাটান; পাড়া;"}
+{ "_id" : { "$oid" : "566ff507e4b04472e60c7dd0"} , "Word" : "lead-poisoning" , "meaning" : "শরীরে সীসাঘটিত বিষক্রিয়া"}
+{ "_id" : { "$oid" : "566ff507e4b04472e60c7dd1"} , "Word" : "leadin" , "meaning" : "রেডিও বা টেলিভিশনকে এরিয়ালের সঙ্গে যুক্তকারী তার;"}
+{ "_id" : { "$oid" : "566ff507e4b04472e60c7dd2"} , "Word" : "leader" , "meaning" : "পথ প্রদর্শক, নেতা"}
+{ "_id" : { "$oid" : "566ff508e4b04472e60c7dd3"} , "Word" : "layout" , "meaning" : "বিন্যাস; স্থাপিত বস্তু; স্থাপনকৌশল; পোশাকপরিচ্ছদ; সাজসজ্জা; পরিকল্পনা; নকশা; গঠনপ্রণালী;"}
+{ "_id" : { "$oid" : "566ff508e4b04472e60c7dd4"} , "Word" : "lazarus" , "meaning" : "ভিক্ষুক, দরিদ্র ব্যক্তি"}
+{ "_id" : { "$oid" : "566ff508e4b04472e60c7dd5"} , "Word" : "leaden" , "meaning" : "গুরুভার; অসাড়; নিরানন্দ; নীরস; ভারী; ত্তজনদার; ধীর; মন্থর; সীসকনির্মিত; সীসকবর্ণ; সীসার তৈরি; সীসে রঙের;"}
+{ "_id" : { "$oid" : "566ff509e4b04472e60c7dd6"} , "Word" : "lavishes" , "meaning" : "অপব্যয় করা;"}
+{ "_id" : { "$oid" : "566ff509e4b04472e60c7dd7"} , "Word" : "law" , "meaning" : "নিয়ম, বিধি, আইন"}
+{ "_id" : { "$oid" : "566ff509e4b04472e60c7dd8"} , "Word" : "lax" , "meaning" : "শিথিল, অমনোযোগী"}
+{ "_id" : { "$oid" : "566ff50ae4b04472e60c7dd9"} , "Word" : "lay-off" , "meaning" : "কাজ না থাকার জন্য কর্মীদের সাময়িক ছাঁটাই করা"}
+{ "_id" : { "$oid" : "566ff50ae4b04472e60c7dda"} , "Word" : "lay siege" , "meaning" : "অবরোধ করা;"}
+{ "_id" : { "$oid" : "566ff50ae4b04472e60c7ddb"} , "Word" : "lead-pencil" , "meaning" : "গ্রাফাইড নামক পদার্থে নির্মিত পেনসিল"}
+{ "_id" : { "$oid" : "566ff50be4b04472e60c7ddc"} , "Word" : "leadership" , "meaning" : "নেতৃত্ব"}
+{ "_id" : { "$oid" : "566ff50be4b04472e60c7ddd"} , "Word" : "lay" , "meaning" : "শায়িত করা, স্থাপন করা"}
+{ "_id" : { "$oid" : "566ff50be4b04472e60c7dde"} , "Word" : "lazar" , "meaning" : "গরিব লোক; কুষ্ঠরোগী; কুঠো;"}
+{ "_id" : { "$oid" : "566ff50ce4b04472e60c7ddf"} , "Word" : "layer" , "meaning" : "স্তর,প্রলেপ"}
+{ "_id" : { "$oid" : "566ff50ce4b04472e60c7de0"} , "Word" : "lavished" , "meaning" : "অপব্যয় করা;"}
+{ "_id" : { "$oid" : "566ff50ce4b04472e60c7de1"} , "Word" : "lawyers" , "meaning" : "আইনজ্ঞ ব্যক্তি; অক্ষবিদ্; অক্ষবেত্তা; ব্যবহারজীবী; অপরের প্রতিনিধি;"}
+{ "_id" : { "$oid" : "566ff50de4b04472e60c7de2"} , "Word" : "lay down" , "meaning" : "মাটিতে নামিয়ে রাখা, শুইয়ে দেওয়া; আত্মসমর্পণ করা; পরিত্যাগ করা; ছাড়িয়া দেত্তয়া; বাজি ধরা; বাজির টাকা জমা দেত্তয়া; ঘাস প্রভৃতি জন্মান; থোত্তয়া; জমান;"}
+{ "_id" : { "$oid" : "566ff50de4b04472e60c7de3"} , "Word" : "layaways" , "meaning" : "বাতিল করা; অগ্রাহ্য করা; পৃথক্ করিয়া রাখা; সরাইয়া রাখা;"}
+{ "_id" : { "$oid" : "566ff50de4b04472e60c7de4"} , "Word" : "lavishly" , "meaning" : "প্রচুর পরিমাণে;"}
+{ "_id" : { "$oid" : "566ff50ee4b04472e60c7de5"} , "Word" : "laze" , "meaning" : "বসিয়া থাকা; অলস হত্তয়া; আলসেমি করা; কুঁড়েমি করে সময় কাটানো;"}
+{ "_id" : { "$oid" : "566ff50ee4b04472e60c7de6"} , "Word" : "lay low" , "meaning" : "ভূপাতিত করা;"}
+{ "_id" : { "$oid" : "566ff50ee4b04472e60c7de7"} , "Word" : "lea" , "meaning" : "ময়দান"}
+{ "_id" : { "$oid" : "566ff50fe4b04472e60c7de8"} , "Word" : "laxity" , "meaning" : "শৈথিল"}
+{ "_id" : { "$oid" : "566ff50fe4b04472e60c7de9"} , "Word" : "lawful" , "meaning" : "বিধিসংগত, আইনসংগত"}
+{ "_id" : { "$oid" : "566ff50fe4b04472e60c7dea"} , "Word" : "laying" , "meaning" : "ডিম্বপ্রসর; প্রলেপের প্রথম স্তর; প্রসূত ডিম্বসকল;"}
+{ "_id" : { "$oid" : "566ff510e4b04472e60c7deb"} , "Word" : "lead on" , "meaning" : "ভুলিয়েভালিয়ে বা প্রলুব্ধ করে বড্ড বেশি দূর পর্যন্ত টেনে নিয়ে যাওয়া; টানিয়া লইয়া যাত্তয়া;"}
+{ "_id" : { "$oid" : "566ff510e4b04472e60c7dec"} , "Word" : "lazy" , "meaning" : "অলস"}
+{ "_id" : { "$oid" : "566ff510e4b04472e60c7ded"} , "Word" : "layman" , "meaning" : "অদক্ষ,"}
+{ "_id" : { "$oid" : "566ff511e4b04472e60c7dee"} , "Word" : "lay by" , "meaning" : "বাতিল করা; অগ্রাহ্য করা; পৃথক্ করিয়া রাখা; সরাইয়া রাখা; জমান;"}
+{ "_id" : { "$oid" : "566ff511e4b04472e60c7def"} , "Word" : "leasing" , "meaning" : "মিথ্যা কথা; মিথ্যা; অসত্য; জুয়াচুরি; মিথ্যাভাষণ; প্রতারণা; প্রবঁচনা; বঁচনা;"}
+{ "_id" : { "$oid" : "566ff512e4b04472e60c7df0"} , "Word" : "leavings" , "meaning" : "ফেলে-যাওয়া বাজে জিনিস"}
+{ "_id" : { "$oid" : "566ff512e4b04472e60c7df1"} , "Word" : "lecture" , "meaning" : "বক্তৃতা, তিরস্কার"}
+{ "_id" : { "$oid" : "566ff512e4b04472e60c7df2"} , "Word" : "learners" , "meaning" : "শিক্ষার্থী; ছাত্র;"}
+{ "_id" : { "$oid" : "566ff512e4b04472e60c7df3"} , "Word" : "leek" , "meaning" : "পেঁয়াজ; পলাণ্ডু; পেঁয়াজের মতো একজাতীয় সব্জি;"}
+{ "_id" : { "$oid" : "566ff513e4b04472e60c7df4"} , "Word" : "leakage" , "meaning" : "ফুটা হত্তয়া; ফুটো হওয়া; ছিদ্রপথে প্রবিষ্ট বা ছিদ্রনির্গত পদার্থ;"}
+{ "_id" : { "$oid" : "566ff513e4b04472e60c7df5"} , "Word" : "leafless" , "meaning" : "পত্রহীন"}
+{ "_id" : { "$oid" : "566ff513e4b04472e60c7df6"} , "Word" : "least" , "meaning" : "ক্ষুদ্রতম, সামান্যতম"}
+{ "_id" : { "$oid" : "566ff514e4b04472e60c7df7"} , "Word" : "leaven" , "meaning" : "গাঁজলা; খামির; কিণ্ব; খমির; গাঁজলা উত্পাদক মিশ্রণ; তাড়ির বীজ;"}
+{ "_id" : { "$oid" : "566ff514e4b04472e60c7df8"} , "Word" : "leafage" , "meaning" : "পর্ণরাজি; বৃক্ষপত্রাবলী;"}
+{ "_id" : { "$oid" : "566ff514e4b04472e60c7df9"} , "Word" : "lectern" , "meaning" : "গান গাইবার, ভাষণ দেবার সময় ব্যবহারের জন্য এক ধরনের হেলানো ডেস্ক;"}
+{ "_id" : { "$oid" : "566ff515e4b04472e60c7dfa"} , "Word" : "leave out" , "meaning" : "বাদ দেত্তয়া;"}
+{ "_id" : { "$oid" : "566ff515e4b04472e60c7dfb"} , "Word" : "leaf" , "meaning" : "গাছের পাতা"}
+{ "_id" : { "$oid" : "566ff515e4b04472e60c7dfc"} , "Word" : "leaves" , "meaning" : "অনুমতি; বিদায়; অবকাশ; সাময়িক ছুটি;"}
+{ "_id" : { "$oid" : "566ff516e4b04472e60c7dfd"} , "Word" : "leaked" , "meaning" : "ফুটা করা; ফুটা হত্তয়া; ফাঁস হইয়া যাত্তয়া; ফুটার মধ্য দিয়া ঢোকা;"}
+{ "_id" : { "$oid" : "566ff516e4b04472e60c7dfe"} , "Word" : "lecturer" , "meaning" : "অধ্যাপক"}
+{ "_id" : { "$oid" : "566ff516e4b04472e60c7dff"} , "Word" : "ledge" , "meaning" : "দ্রব্যাদি রাখিবার তাক,"}
+{ "_id" : { "$oid" : "566ff517e4b04472e60c7e00"} , "Word" : "lectures" , "meaning" : "বক্তৃতা; ভাষণ; শিক্ষা; শিক্ষাদানকাল; বিজ্ঞ বক্তৃতা; তিরস্কার;"}
+{ "_id" : { "$oid" : "566ff517e4b04472e60c7e01"} , "Word" : "leave of absence" , "meaning" : "কাজে না যাওয়ার অনুমতি;"}
+{ "_id" : { "$oid" : "566ff517e4b04472e60c7e02"} , "Word" : "lectureship" , "meaning" : "অধ্যাপকের পদ"}
+{ "_id" : { "$oid" : "566ff518e4b04472e60c7e03"} , "Word" : "leafs" , "meaning" : "পত্র বাহির হত্তয়া; পত্রোদ্গত করা;"}
+{ "_id" : { "$oid" : "566ff518e4b04472e60c7e04"} , "Word" : "leave alone" , "meaning" : "সম্পর্ক না রাখা; শান্তিতে থাকিতে দেত্তয়া; স্বেচ্ছামত থাকিতে দেত্তয়া; হস্তক্ষেপ না করা; বিরক্ত না করা; না ঘাঁটান;"}
+{ "_id" : { "$oid" : "566ff518e4b04472e60c7e05"} , "Word" : "leafy" , "meaning" : "পত্রবহুল, পাতার মত"}
+{ "_id" : { "$oid" : "566ff519e4b04472e60c7e06"} , "Word" : "leaved" , "meaning" : "পত্রী; পত্রযুক্ত; সপত্র;"}
+{ "_id" : { "$oid" : "566ff519e4b04472e60c7e07"} , "Word" : "leather" , "meaning" : "পাকা চামড়া"}
+{ "_id" : { "$oid" : "566ff519e4b04472e60c7e08"} , "Word" : "leaning" , "meaning" : "ঠেস; প্রবণতা; ঝোঁক;"}
+{ "_id" : { "$oid" : "566ff51ae4b04472e60c7e09"} , "Word" : "leeway" , "meaning" : "অতি সামান্য বিচ্যুতি;"}
+{ "_id" : { "$oid" : "566ff51ae4b04472e60c7e0a"} , "Word" : "leery" , "meaning" : "ধূর্ত; চতুর; অতিশয় সজাগ; সতর্ক;"}
+{ "_id" : { "$oid" : "566ff51ae4b04472e60c7e0b"} , "Word" : "leaks" , "meaning" : "ফুটা করা; ফুটা হত্তয়া; ফুটার মধ্য দিয়া ঢোকা; ফাঁস হইয়া যাত্তয়া;"}
+{ "_id" : { "$oid" : "566ff51be4b04472e60c7e0c"} , "Word" : "learn" , "meaning" : "শিক্ষা করা ; জ্ঞান অর্জন করা"}
+{ "_id" : { "$oid" : "566ff51be4b04472e60c7e0d"} , "Word" : "lebanon" , "meaning" : "লেবানন;"}
+{ "_id" : { "$oid" : "566ff51be4b04472e60c7e0e"} , "Word" : "league" , "meaning" : "সংঘবদ্ধ"}
+{ "_id" : { "$oid" : "566ff51ce4b04472e60c7e0f"} , "Word" : "leaky" , "meaning" : "ছিদ্রময়; তরল পদার্থ প্রবিষ্ট; তরল পদার্থ নির্গতকরণক্ষম; সচ্ছিদ্র; ছিদ্রযুক্ত; ফুটোফাটা; ছিদ্রময়;"}
+{ "_id" : { "$oid" : "566ff51ce4b04472e60c7e10"} , "Word" : "lean" , "meaning" : "চর্বিহীন; নিষ্ফলা; কৃশ; কৃশকায়; কৃশতনু; শীর্ণ; বিশীর্ণ; চিমড়া; চিমড়ে; কাহিল; অস্থিসার; অস্থিচর্মসার; অপুষ্ট; বন্ধ্য; লাভহীন; রোগা;"}
+{ "_id" : { "$oid" : "566ff51ce4b04472e60c7e11"} , "Word" : "leash" , "meaning" : "কুকুর বা পাখি ধরিয়া রাখার চর্মরজ্জু"}
+{ "_id" : { "$oid" : "566ff51de4b04472e60c7e12"} , "Word" : "leaping over" , "meaning" : "উত্ক্রান্ত; উত্ক্রান্তি;"}
+{ "_id" : { "$oid" : "566ff51de4b04472e60c7e13"} , "Word" : "leak" , "meaning" : "ফুটা করা; ফুটা হত্তয়া; ফুটার মধ্য দিয়া ঢোকা; ফাঁস হইয়া যাত্তয়া; ফুটো; ছিদ্র; ফাঁস হওয়া বা করা;"}
+{ "_id" : { "$oid" : "566ff51de4b04472e60c7e14"} , "Word" : "lease" , "meaning" : "পাট্টা; ইজারার মেয়াদ; ইজারা; ভাড়া; অতিরিক্ত মেয়াদ; লীজ; ঠিকা; খাজনাবিলি; পাট্টা মেয়াদ; পাট্টার মেয়াদ; লিজ;"}
+{ "_id" : { "$oid" : "566ff51ee4b04472e60c7e15"} , "Word" : "lees" , "meaning" : "তলানি, শিটা"}
+{ "_id" : { "$oid" : "566ff51ee4b04472e60c7e16"} , "Word" : "leaping" , "meaning" : "লম্ফ; লাফ; প্লব;"}
+{ "_id" : { "$oid" : "566ff51ee4b04472e60c7e17"} , "Word" : "leer" , "meaning" : "আড় চোখে দেখা"}
+{ "_id" : { "$oid" : "566ff51fe4b04472e60c7e18"} , "Word" : "leap" , "meaning" : "লাফাইয়া লাফাইয়া চলা; লাফাইয়া অতিক্রম করা; ডিঙ্গান; লাফ দেত্তয়ান; লাফান; লাফাইয়া ত্তঠা; লম্ফ দেত্তয়া; উল্লম্ফন দেত্তয়া; লাফাইয়া পার হত্তয়া; দৌড়াইয়া অতিক্রম করা; হাঁটিয়া অতিক্রম করা; সাগ্রহে গ্রহণ করা;"}
+{ "_id" : { "$oid" : "566ff51fe4b04472e60c7e19"} , "Word" : "left hand" , "meaning" : "বাঁ হাত; বাঁ দিক;"}
+{ "_id" : { "$oid" : "566ff520e4b04472e60c7e1a"} , "Word" : "leave off" , "meaning" : "কোনো কিছু আর পরিধান না করা; থামানো; নিবৃত্ত হত্তয়া; বিরত হত্তয়া; শেষ করা; ব্যবহার বর্জন করা;"}
+{ "_id" : { "$oid" : "566ff520e4b04472e60c7e1b"} , "Word" : "leave salary" , "meaning" : "ছুটির বেতন;"}
+{ "_id" : { "$oid" : "566ff520e4b04472e60c7e1c"} , "Word" : "leaped" , "meaning" : "লাফাইয়া লাফাইয়া চলা; লাফাইয়া অতিক্রম করা; ডিঙ্গান; লাফ দেত্তয়ান; লাফান; লাফাইয়া ত্তঠা; লম্ফ দেত্তয়া; উল্লম্ফন দেত্তয়া; লাফাইয়া পার হত্তয়া; দৌড়াইয়া অতিক্রম করা; হাঁটিয়া অতিক্রম করা; সাগ্রহে গ্রহণ করা;"}
+{ "_id" : { "$oid" : "566ff520e4b04472e60c7e1d"} , "Word" : "lecherous" , "meaning" : "লম্পট; ভ্রষ্ট; ব্যভিচারী; কামার্থী; দুশ্চরিত্র;"}
+{ "_id" : { "$oid" : "566ff521e4b04472e60c7e1e"} , "Word" : "lechery" , "meaning" : "লাম্পট্য; কামুকতা;"}
+{ "_id" : { "$oid" : "566ff521e4b04472e60c7e1f"} , "Word" : "leapfrogging" , "meaning" : "লাফান; লাফ দেত্তয়া; লম্ফ দেত্তয়া;"}
+{ "_id" : { "$oid" : "566ff522e4b04472e60c7e20"} , "Word" : "leaving" , "meaning" : "ছোড়;"}
+{ "_id" : { "$oid" : "566ff522e4b04472e60c7e21"} , "Word" : "leathery" , "meaning" : "চর্মের মত কঠিন"}
+{ "_id" : { "$oid" : "566ff522e4b04472e60c7e22"} , "Word" : "leads" , "meaning" : "সীসা; নেতৃত্ব; পরিচালনা; পথপ্রদর্শন; নজির; ত্রপু; সীসক; লেড্; কৃষ্ণসীস; প্রথম স্থান; পূর্বগামিতা; প্রধান ভূমিকা; উদাহরণ;"}
+{ "_id" : { "$oid" : "566ff523e4b04472e60c7e23"} , "Word" : "leave" , "meaning" : "ছুটি,"}
+{ "_id" : { "$oid" : "566ff523e4b04472e60c7e24"} , "Word" : "leeches" , "meaning" : "চিকিত্সক; বৈদ্য; জোঁক; জলৌকা;"}
+{ "_id" : { "$oid" : "566ff523e4b04472e60c7e25"} , "Word" : "leasehold" , "meaning" : "পাট্টা; ইজারা; ঠিকা; পাট্টার মেয়াদ; ইজারার মেয়াদ; ভাড়া; পত্তনি; পাট্টা মেয়াদ;"}
+{ "_id" : { "$oid" : "566ff524e4b04472e60c7e26"} , "Word" : "left" , "meaning" : "বাঁ, বাঁ দিক"}
+{ "_id" : { "$oid" : "566ff524e4b04472e60c7e27"} , "Word" : "leaking" , "meaning" : "ফুটা করা; ফুটা হত্তয়া; ফাঁস হইয়া যাত্তয়া; ফুটার মধ্য দিয়া ঢোকা;"}
+{ "_id" : { "$oid" : "566ff524e4b04472e60c7e28"} , "Word" : "leanings" , "meaning" : "ঠেস; প্রবণতা; ঝোঁক;"}
+{ "_id" : { "$oid" : "566ff525e4b04472e60c7e29"} , "Word" : "leaflet" , "meaning" : "প্রচার প্রশ্ন,ছাপান কাগজ"}
+{ "_id" : { "$oid" : "566ff525e4b04472e60c7e2a"} , "Word" : "leaps" , "meaning" : "লাফাইয়া লাফাইয়া চলা; লাফাইয়া অতিক্রম করা; ডিঙ্গান; লাফ দেত্তয়ান; লাফান; লাফাইয়া ত্তঠা; লম্ফ দেত্তয়া; উল্লম্ফন দেত্তয়া; লাফাইয়া পার হত্তয়া; দৌড়াইয়া অতিক্রম করা; হাঁটিয়া অতিক্রম করা; সাগ্রহে গ্রহণ করা;"}
+{ "_id" : { "$oid" : "566ff525e4b04472e60c7e2b"} , "Word" : "leased" , "meaning" : "পত্তনী;"}
+{ "_id" : { "$oid" : "566ff526e4b04472e60c7e2c"} , "Word" : "leech" , "meaning" : "জোঁক ; জলৌকা"}
+{ "_id" : { "$oid" : "566ff526e4b04472e60c7e2d"} , "Word" : "leapt" , "meaning" : "উত্ক্রান্ত;"}
+{ "_id" : { "$oid" : "566ff526e4b04472e60c7e2e"} , "Word" : "learner" , "meaning" : "শিক্ষার্থী; ছাত্র;"}
+{ "_id" : { "$oid" : "566ff527e4b04472e60c7e2f"} , "Word" : "leaner" , "meaning" : "চর্বিহীন; নিষ্ফলা; কৃশ; কৃশকায়; কৃশতনু; শীর্ণ; বিশীর্ণ; চিমড়া; চিমড়ে; কাহিল; অস্থিসার; অস্থিচর্মসার; অপুষ্ট; বন্ধ্য; লাভহীন; রোগা;"}
+{ "_id" : { "$oid" : "566ff527e4b04472e60c7e30"} , "Word" : "learnt" , "meaning" : "জ্ঞানী; পণ্ডিত; বিদ্বান্; বিজ্ঞ; বিশেষজ্ঞ; জ্ঞানবান্; প্রাজ্ঞ; অধিবিদ্য; বু্যত্পন্ন; অধিগত; ক্ষেত্রজ্ঞ; বিশারদ; সাহিত্যবিশারদ; কোবিদ; দক্ষ; অধিকৃত; উপগত; উপলব্ধ; পাণ্ডিত্যপূর্ণ শিক্ষিত; কৃত; শিক্ষিত;"}
+{ "_id" : { "$oid" : "566ff527e4b04472e60c7e31"} , "Word" : "learning" , "meaning" : "শিক্ষা; পাণ্ডিত্য; শিক্ষণীয় বিষয়; বিদ্যা; বু্যত্পত্তি; ভাষা পাণ্ডিত্য; বিজ্ঞানে পাণ্ডিত্য; জ্ঞান; বৈদগ্ধ্য; বাক্;"}
+{ "_id" : { "$oid" : "566ff528e4b04472e60c7e32"} , "Word" : "lecher" , "meaning" : "লম্পট; দুশ্চরিত্র লোক;"}
+{ "_id" : { "$oid" : "566ff528e4b04472e60c7e33"} , "Word" : "led away" , "meaning" : "প্রতিসারিত;"}
+{ "_id" : { "$oid" : "566ff528e4b04472e60c7e34"} , "Word" : "leap over" , "meaning" : "উল্লঙ্ঘন করা; ডিঙ্গান;"}
+{ "_id" : { "$oid" : "566ff529e4b04472e60c7e35"} , "Word" : "lee" , "meaning" : "যেদিক বাতাস হইবে রক্ষিত"}
+{ "_id" : { "$oid" : "566ff529e4b04472e60c7e36"} , "Word" : "led" , "meaning" : "অগ্রবর্তীতা নেতৃত্ব"}
+{ "_id" : { "$oid" : "566ff529e4b04472e60c7e37"} , "Word" : "learned" , "meaning" : "জ্ঞানী; পণ্ডিত; বিদ্বান্; বিজ্ঞ; বিশেষজ্ঞ; জ্ঞানবান্; প্রাজ্ঞ; অধিবিদ্য; বু্যত্পন্ন; অধিগত; ক্ষেত্রজ্ঞ; বিশারদ; সাহিত্যবিশারদ; কোবিদ; দক্ষ; অধিকৃত; উপগত; উপলব্ধ; পাণ্ডিত্যপূর্ণ শিক্ষিত; কৃত; শিক্ষিত;"}
+{ "_id" : { "$oid" : "566ff52ae4b04472e60c7e38"} , "Word" : "leeward" , "meaning" : "যে অভিমুখে বাতাস বহিতেছে"}
+{ "_id" : { "$oid" : "566ff52ae4b04472e60c7e39"} , "Word" : "learns" , "meaning" : "শেখা; শিখা; শিক্ষা করা; পড়া করা; জ্ঞান অর্জন করা; দক্ষতা অর্জন করা; জানা; অবগত হত্তয়া; অনুভব করা;"}
+{ "_id" : { "$oid" : "566ff52ae4b04472e60c7e3a"} , "Word" : "leap year" , "meaning" : "যে বছরে মোট দিনের সংখ্যা অন্যান্য বছরের চেয়ে একদিন বেশি হয়; লীপ ইয়ার;"}
+{ "_id" : { "$oid" : "566ff52be4b04472e60c7e3b"} , "Word" : "leave behind" , "meaning" : "ভুল করে কোনো কিছু ফেলে যাওয়া; ভুলে করে ফেলে যাত্তয়া; ফেলে যাত্তয়া; এগিয়ে যাত্তয়া; ছাড়িযা় যাত্তয়া;"}
+{ "_id" : { "$oid" : "566ff52be4b04472e60c7e3c"} , "Word" : "leapfrog" , "meaning" : "লাফান; লাফ দেত্তয়া; লম্ফ দেত্তয়া;"}
+{ "_id" : { "$oid" : "566ff52be4b04472e60c7e3d"} , "Word" : "ledges" , "meaning" : "স্তর; দ্রব্য রাখিবার তাক; উন্নত শৈলস্তবক; সঙ্কীর্ণ শৈলশিরা; ছোট ছাঁচ;"}
+{ "_id" : { "$oid" : "566ff52ce4b04472e60c7e3e"} , "Word" : "ledger" , "meaning" : "খতিয়ান, হিসাবের খাতা"}
+{ "_id" : { "$oid" : "566ff52ce4b04472e60c7e3f"} , "Word" : "legalise" , "meaning" : "বিধিসিদ্ধ করা; বৈধ করা; আইনসম্মত করা; ব্যবস্থানুয়ায়ী করা; অনুমোদন করা; আইনসিদ্ধ বা বৈধ করা;"}
+{ "_id" : { "$oid" : "566ff52ce4b04472e60c7e40"} , "Word" : "legacies" , "meaning" : "পৈতৃক সম্পত্তি; মৃতু্যকালে দত্ত সম্পত্তি;"}
+{ "_id" : { "$oid" : "566ff52de4b04472e60c7e41"} , "Word" : "leguminous" , "meaning" : "শিম্বাকার; শিম্ব-সংক্রান্ত; শিম্বোত্পাদী; শিমি্বগোত্র; বীজকোষধারী; শিম্বিগোত্রীয় উদ্ভিদ;"}
+{ "_id" : { "$oid" : "566ff52de4b04472e60c7e42"} , "Word" : "left overs" , "meaning" : "উচ্ছিষ্ট; প্রসাদ; ভুক্তাবশেষ; এঁেটা;"}
+{ "_id" : { "$oid" : "566ff52de4b04472e60c7e43"} , "Word" : "legalism" , "meaning" : "আইনসর্বস্বতা;"}
+{ "_id" : { "$oid" : "566ff52ee4b04472e60c7e44"} , "Word" : "legislature" , "meaning" : "আইন প্রণয়নকারী পরিষদ"}
+{ "_id" : { "$oid" : "566ff52ee4b04472e60c7e45"} , "Word" : "leggings" , "meaning" : "টাইটস;"}
+{ "_id" : { "$oid" : "566ff52ee4b04472e60c7e46"} , "Word" : "legibility" , "meaning" : "স্পষ্টতা; সহজপাঠ্যতা;"}
+{ "_id" : { "$oid" : "566ff52fe4b04472e60c7e47"} , "Word" : "lefty" , "meaning" : "ন্যাটা লোক; বামপন্থী রাজনীতির সমর্থক বা অনুগামী;"}
+{ "_id" : { "$oid" : "566ff52fe4b04472e60c7e48"} , "Word" : "legitimated" , "meaning" : "বৈধ করা; বিধিসম্মত করা; আইনি করা; আইনসম্মত করা; বৈধ জাত্যধিকারী করা;"}
+{ "_id" : { "$oid" : "566ff52fe4b04472e60c7e49"} , "Word" : "legendary" , "meaning" : "কাল্পনিক; অদ্ভুত; উপকথাসুলভ; পৌরাণিক; পৌরাণিক; পুরাণখ্যাত;"}
+{ "_id" : { "$oid" : "566ff530e4b04472e60c7e4a"} , "Word" : "lemonade" , "meaning" : "সরবৎ; লেমনেড; পানীয়বিশেষ; সোডা লিমনেড; চিনির জল ও লেবুর রসের শরবত;"}
+{ "_id" : { "$oid" : "566ff530e4b04472e60c7e4b"} , "Word" : "legerdemain" , "meaning" : "ভোজবাজি, ভেলকি"}
+{ "_id" : { "$oid" : "566ff530e4b04472e60c7e4c"} , "Word" : "legumes," , "meaning" : "শুঁটি; কলাই; শিম্ব; রোয়া; কোষ;"}
+{ "_id" : { "$oid" : "566ff531e4b04472e60c7e4d"} , "Word" : "legion" , "meaning" : "সৈন্যবাহিনী; বিরাট সংখ্যা; বিপুল সংখ্যা;"}
+{ "_id" : { "$oid" : "566ff531e4b04472e60c7e4e"} , "Word" : "leitmotiv" , "meaning" : "কোনো ব্যক্তি, কোনো পরিস্থিতি বা কোনো ভাবের সঙ্গে যুক্ত বা জড়িত যে মূল সুরটি কোনো গান বা ইত্যাদির প্রথম থেকে শেষ পর্যন্ত ধ্বনিত হয়; ধুয়ো;"}
+{ "_id" : { "$oid" : "566ff531e4b04472e60c7e4f"} , "Word" : "legislator" , "meaning" : "বিধানমন্ডলের সভ্য"}
+{ "_id" : { "$oid" : "566ff532e4b04472e60c7e50"} , "Word" : "legitimizing" , "meaning" : "বৈধ করা; বিধিসম্মত করা; আইনি করা; আইনসম্মত করা; বৈধ জাত্যধিকারী করা;"}
+{ "_id" : { "$oid" : "566ff532e4b04472e60c7e51"} , "Word" : "legally" , "meaning" : "আইনত; আইনানুযায়ী; আইনানুসারে;"}
+{ "_id" : { "$oid" : "566ff532e4b04472e60c7e52"} , "Word" : "legislatures" , "meaning" : "আইন-সভা; বিধানমণ্ডল; ব্যবস্থাপক সভা; আইন-প্রণয়নকর পরিষদ্; আইন-পরিষদ্;"}
+{ "_id" : { "$oid" : "566ff533e4b04472e60c7e53"} , "Word" : "legitimations" , "meaning" : "বৈধতা; বিধিসম্মত করা; আইনি করা;"}
+{ "_id" : { "$oid" : "566ff533e4b04472e60c7e54"} , "Word" : "legatee" , "meaning" : "উত্তরাধিকারী; যে ব্যক্তি উত্ত্রাধিকার সূত্রে বা উইলের জোরে সম্পত্তি ইঃ পায়;"}
+{ "_id" : { "$oid" : "566ff533e4b04472e60c7e55"} , "Word" : "legal adviser" , "meaning" : "আইন উপদেষ্টা;"}
+{ "_id" : { "$oid" : "566ff534e4b04472e60c7e56"} , "Word" : "legendry" , "meaning" : "পৌরণিক গল্পে কথিত ও অতি বিখ্যাত"}
+{ "_id" : { "$oid" : "566ff534e4b04472e60c7e57"} , "Word" : "leisure" , "meaning" : "অবকাশ, অবসরকারলী"}
+{ "_id" : { "$oid" : "566ff535e4b04472e60c7e58"} , "Word" : "leftovers" , "meaning" : "উচ্ছিষ্ট; প্রসাদ; ভুক্তাবশেষ; এঁেটা;"}
+{ "_id" : { "$oid" : "566ff535e4b04472e60c7e59"} , "Word" : "legislative council" , "meaning" : "ব্যবস্থাপরিষৎ; বিধান-পরিষদ;"}
+{ "_id" : { "$oid" : "566ff535e4b04472e60c7e5a"} , "Word" : "leman" , "meaning" : "প্রণয়ী"}
+{ "_id" : { "$oid" : "566ff536e4b04472e60c7e5b"} , "Word" : "legitimised" , "meaning" : "বৈধ করা; বিধিসম্মত করা; আইনি করা; আইনসম্মত করা; বৈধ জাত্যধিকারী করা;"}
+{ "_id" : { "$oid" : "566ff536e4b04472e60c7e5c"} , "Word" : "legitimately" , "meaning" : "বৈধভাবে; ন্যায়সম্মত উপায়ে;"}
+{ "_id" : { "$oid" : "566ff536e4b04472e60c7e5d"} , "Word" : "legislate" , "meaning" : "আইন প্রণয়ন করা"}
+{ "_id" : { "$oid" : "566ff537e4b04472e60c7e5e"} , "Word" : "leisurely" , "meaning" : "ব্যস্ততাহীন; ধীরেসুস্থে;"}
+{ "_id" : { "$oid" : "566ff537e4b04472e60c7e5f"} , "Word" : "lend" , "meaning" : "ধার দাওয়া"}
+{ "_id" : { "$oid" : "566ff537e4b04472e60c7e60"} , "Word" : "leghorn" , "meaning" : "এক ধরনের গৃহপালিত মোরগ"}
+{ "_id" : { "$oid" : "566ff538e4b04472e60c7e61"} , "Word" : "lender" , "meaning" : "ঋণদাতা; যে ধার দেয়; মহাজন; সুদখোর;"}
+{ "_id" : { "$oid" : "566ff538e4b04472e60c7e62"} , "Word" : "legging" , "meaning" : "পদাবরণ; গোড়ালি থেকে হাঁটু পর্যন্ত চামড়ার বা শক্ত কাপড়ের আচ্ছাদন বা আবরণ;"}
+{ "_id" : { "$oid" : "566ff538e4b04472e60c7e63"} , "Word" : "lemon" , "meaning" : "লেবু"}
+{ "_id" : { "$oid" : "566ff539e4b04472e60c7e64"} , "Word" : "legitimating" , "meaning" : "বৈধ করা; বিধিসম্মত করা; আইনি করা; আইনসম্মত করা; বৈধ জাত্যধিকারী করা;"}
+{ "_id" : { "$oid" : "566ff539e4b04472e60c7e65"} , "Word" : "legacy" , "meaning" : "উইল বা দানপত্র বলে প্রাপ্ত ধন"}
+{ "_id" : { "$oid" : "566ff539e4b04472e60c7e66"} , "Word" : "lengthwise" , "meaning" : "লম্বালম্বি; সটান; অনুদৈঘ্র্যভাবে; দৈঘ্র্যবরাবর; লম্বালম্বিভাবে;"}
+{ "_id" : { "$oid" : "566ff53ae4b04472e60c7e67"} , "Word" : "legal" , "meaning" : "আইন সম্বন্ধীয়"}
+{ "_id" : { "$oid" : "566ff53ae4b04472e60c7e68"} , "Word" : "legends" , "meaning" : "কিংবদন্তি; কিংবদন্তী; উপকথা; সাধু-জীবনী; লোককাহিনী; রুপকথা; কাহিনী; আখ্যান; উত্কীর্ণ বাণী; নীতিবাক্য বাণী; শ্রুতি; গল্প;"}
+{ "_id" : { "$oid" : "566ff53ae4b04472e60c7e69"} , "Word" : "lengthways" , "meaning" : "দৈর্ঘ্য বরাবর, লম্বালম্বি"}
+{ "_id" : { "$oid" : "566ff53be4b04472e60c7e6a"} , "Word" : "legitimate" , "meaning" : "বৈধ, আইন সম্মত"}
+{ "_id" : { "$oid" : "566ff53be4b04472e60c7e6b"} , "Word" : "legitimise" , "meaning" : "বৈধ করা; বিধিসম্মত করা; আইনি করা; আইনসম্মত করা; বৈধ জাত্যধিকারী করা; আইনসংগত করা;"}
+{ "_id" : { "$oid" : "566ff53be4b04472e60c7e6c"} , "Word" : "lengths" , "meaning" : "লম্বা; লম্বাই; দৈঘ্র্য; আয়াম; পূর্ণদেঘ্র্য; স্থায়িত্বের পরিমাণ; ব্যাপ্তি;"}
+{ "_id" : { "$oid" : "566ff53ce4b04472e60c7e6d"} , "Word" : "legation" , "meaning" : "রাষ্ট্র দূতের"}
+{ "_id" : { "$oid" : "566ff53ce4b04472e60c7e6e"} , "Word" : "legerity" , "meaning" : "নিপুণতা; নৈপুণ্য; কৌশল; দক্ষতা;"}
+{ "_id" : { "$oid" : "566ff53ce4b04472e60c7e6f"} , "Word" : "legume" , "meaning" : "শুঁটি"}
+{ "_id" : { "$oid" : "566ff53de4b04472e60c7e70"} , "Word" : "legit" , "meaning" : "প্রাণপণে হাঁটা বা দৌড়ানো;"}
+{ "_id" : { "$oid" : "566ff53de4b04472e60c7e71"} , "Word" : "legislative" , "meaning" : "আইন প্রণয়নের ক্ষমতা বিশিষ্ট"}
+{ "_id" : { "$oid" : "566ff53de4b04472e60c7e72"} , "Word" : "legal guardian" , "meaning" : "বৈধ অভিভাবক;"}
+{ "_id" : { "$oid" : "566ff53ee4b04472e60c7e73"} , "Word" : "legalize" , "meaning" : "বৈধ বা আইনসম্মত করা"}
+{ "_id" : { "$oid" : "566ff53ee4b04472e60c7e74"} , "Word" : "length" , "meaning" : "দৈর্ঘ্য মাপ"}
+{ "_id" : { "$oid" : "566ff53ee4b04472e60c7e75"} , "Word" : "lengthen" , "meaning" : "লম্বা করা; প্রলম্বিত করা; দীর্ঘ করা; দীর্ঘ হত্তয়া; দেঘ্র্য বাড়া; স্থায়িত্ব বাড়া; দেঘ্র্য বাড়ান; স্থায়িত্ব বাড়ান; প্রসারিত করা; প্রসারিত হত্তয়া; প্রলম্বিত হত্তয়া; লম্বা করা বা হওয়া;"}
+{ "_id" : { "$oid" : "566ff53fe4b04472e60c7e76"} , "Word" : "lends" , "meaning" : "ধার; ঋণ; কর্জ;"}
+{ "_id" : { "$oid" : "566ff53fe4b04472e60c7e77"} , "Word" : "legate" , "meaning" : "রাজদূত; পোপের দূত বা প্রতিনিধি; উইল করিয়া দেত্তয়া; দায়িত্ব প্রদান করা;"}
+{ "_id" : { "$oid" : "566ff53fe4b04472e60c7e78"} , "Word" : "lemma" , "meaning" : "শিরোনামা; ন্যায়ানুমানের আপ্তবাক্য;"}
+{ "_id" : { "$oid" : "566ff540e4b04472e60c7e79"} , "Word" : "lending" , "meaning" : "ঋণদান;"}
+{ "_id" : { "$oid" : "566ff540e4b04472e60c7e7a"} , "Word" : "legalization" , "meaning" : "বৈধকরণ;"}
+{ "_id" : { "$oid" : "566ff540e4b04472e60c7e7b"} , "Word" : "legalized" , "meaning" : "বৈধ করা; ব্যবস্থানুয়ায়ী করা; আইনসম্মত করা; বিধিসিদ্ধ করা; অনুমোদন করা;"}
+{ "_id" : { "$oid" : "566ff541e4b04472e60c7e7c"} , "Word" : "legislators" , "meaning" : "বিধানকর্তা; ব্যবস্থাপক; আইন-প্রণেতা; বিধানমণ্ডলের সভ্য; আইনকর্তা;"}
+{ "_id" : { "$oid" : "566ff541e4b04472e60c7e7d"} , "Word" : "legions" , "meaning" : "সৈন্যবাহিনী; বিরাট সংখ্যা;"}
+{ "_id" : { "$oid" : "566ff541e4b04472e60c7e7e"} , "Word" : "legislation" , "meaning" : "আইন প্রণয়ন, প্রণীত আইন-সমূহ"}
+{ "_id" : { "$oid" : "566ff542e4b04472e60c7e7f"} , "Word" : "legible" , "meaning" : "লেখা বা ছাপা সম্পর্কে"}
+{ "_id" : { "$oid" : "566ff542e4b04472e60c7e80"} , "Word" : "legos" , "meaning" : "লেগো;"}
+{ "_id" : { "$oid" : "566ff542e4b04472e60c7e81"} , "Word" : "lemur" , "meaning" : "লেমুর; ভাম-বিড়াল; মাদাগাস্কার দ্বীপের একজাতীয় ছুঁচালো মুখযুক্ত নিশাচর বানর;"}
+{ "_id" : { "$oid" : "566ff543e4b04472e60c7e82"} , "Word" : "legitimacy" , "meaning" : "বৈধ্যতা,"}
+{ "_id" : { "$oid" : "566ff543e4b04472e60c7e83"} , "Word" : "leftist" , "meaning" : "বামপন্থী রাজনৈতিক দল"}
+{ "_id" : { "$oid" : "566ff543e4b04472e60c7e84"} , "Word" : "leftover" , "meaning" : "অবশেষ; বাকি; শেষভাগ;"}
+{ "_id" : { "$oid" : "566ff544e4b04472e60c7e85"} , "Word" : "legitimize" , "meaning" : "বৈধ করা; বিধিসম্মত করা; আইনি করা; আইনসম্মত করা; বৈধ জাত্যধিকারী করা; আইনসংগত করা;"}
+{ "_id" : { "$oid" : "566ff544e4b04472e60c7e86"} , "Word" : "leg" , "meaning" : "পা,"}
+{ "_id" : { "$oid" : "566ff544e4b04472e60c7e87"} , "Word" : "legionnaire" , "meaning" : "বিদেশী স্বেচ্ছাসেবক সেনাদল;"}
+{ "_id" : { "$oid" : "566ff545e4b04472e60c7e88"} , "Word" : "legality" , "meaning" : "বৈধতা; আইনের চোখে বৈধতা;"}
+{ "_id" : { "$oid" : "566ff545e4b04472e60c7e89"} , "Word" : "legend" , "meaning" : "পৌরণিক কাহিনী, উপকথা"}
+{ "_id" : { "$oid" : "566ff545e4b04472e60c7e8a"} , "Word" : "left out" , "meaning" : "বাদ দেত্তয়া;"}
+{ "_id" : { "$oid" : "566ff546e4b04472e60c7e8b"} , "Word" : "legislations" , "meaning" : "অধিনিয়মন; আইন-প্রণয়ন; ব্যবস্থাপন; প্রণীত আইনসমূহ;"}
+{ "_id" : { "$oid" : "566ff546e4b04472e60c7e8c"} , "Word" : "legs" , "meaning" : "পা; ক্ষুর; পায়া; খুর; কদম; ঠেং; পদ; কৃত্রিম পা; চরণ; পাদ; নকল পা; অঙ্ঘ্রির; অধমাঙ্গ; অবলম্বন;"}
+{ "_id" : { "$oid" : "566ff546e4b04472e60c7e8d"} , "Word" : "lego" , "meaning" : "লেগো;"}
+{ "_id" : { "$oid" : "566ff547e4b04472e60c7e8e"} , "Word" : "lessee" , "meaning" : "ইজারাদার,"}
+{ "_id" : { "$oid" : "566ff547e4b04472e60c7e8f"} , "Word" : "lethargic" , "meaning" : "অলস; নিশ্চেষ্ট; অক্রিয়; জড়িমাসংক্রান্ত; জড়িমাগ্রস্ত; নিরূদ্যম; অনুষ্ণ; অবসন্ন;"}
+{ "_id" : { "$oid" : "566ff548e4b04472e60c7e90"} , "Word" : "letter of credit" , "meaning" : "আকলপত্র;"}
+{ "_id" : { "$oid" : "566ff548e4b04472e60c7e91"} , "Word" : "lethal" , "meaning" : "প্রাণঘাতী, সাংঘাতিক"}
+{ "_id" : { "$oid" : "566ff548e4b04472e60c7e92"} , "Word" : "leniently" , "meaning" : "নরমভাবে;"}
+{ "_id" : { "$oid" : "566ff549e4b04472e60c7e93"} , "Word" : "lessees" , "meaning" : "ইজারাদার; পাট্টাদার; পত্তনিদার;"}
+{ "_id" : { "$oid" : "566ff549e4b04472e60c7e94"} , "Word" : "let on" , "meaning" : "গোপন কথা প্রকাশ করে দেওয়া;"}
+{ "_id" : { "$oid" : "566ff549e4b04472e60c7e95"} , "Word" : "leveler" , "meaning" : "যে সমতল করে"}
+{ "_id" : { "$oid" : "566ff54ae4b04472e60c7e96"} , "Word" : "leprous" , "meaning" : "কুষ্ঠব্যাধিগ্রস্ত; কুষ্ঠরোগ-সংক্রান্ত; কুষ্ঠরোগ সংক্রান্ত;"}
+{ "_id" : { "$oid" : "566ff54ae4b04472e60c7e97"} , "Word" : "lessen" , "meaning" : "কমানো, কম করা বা হ্রাস করা"}
+{ "_id" : { "$oid" : "566ff54ae4b04472e60c7e98"} , "Word" : "let loose" , "meaning" : "ছেড়ে দেওয়া;"}
+{ "_id" : { "$oid" : "566ff54be4b04472e60c7e99"} , "Word" : "lese-majesty" , "meaning" : "রাজদ্রোহ;"}
+{ "_id" : { "$oid" : "566ff54be4b04472e60c7e9a"} , "Word" : "lenient" , "meaning" : "সদয়"}
+{ "_id" : { "$oid" : "566ff54be4b04472e60c7e9b"} , "Word" : "lesser" , "meaning" : "নূ্যনতর, অপেক্ষকৃত কম"}
+{ "_id" : { "$oid" : "566ff54ce4b04472e60c7e9c"} , "Word" : "lesbian" , "meaning" : "স্বকামী; প্রেমাত্মক;"}
+{ "_id" : { "$oid" : "566ff54ce4b04472e60c7e9d"} , "Word" : "level" , "meaning" : "সমতল"}
+{ "_id" : { "$oid" : "566ff54ce4b04472e60c7e9e"} , "Word" : "lethargy" , "meaning" : "জড়তা"}
+{ "_id" : { "$oid" : "566ff54de4b04472e60c7e9f"} , "Word" : "levels" , "meaning" : "সমতা; উচ্চতা; অনুভূমিকত্ব; সমতলতা; লক্ষ্যসন্ধান; তাগ;"}
+{ "_id" : { "$oid" : "566ff54de4b04472e60c7ea0"} , "Word" : "leveller" , "meaning" : "সাম্যবাদী; সমতলকারী; সমতাসাধক; যে ব্যক্তি সামাজিক পার্থক্য বা বৈষম্য ঘুচিয়ে ফেলতে চায়;"}
+{ "_id" : { "$oid" : "566ff54de4b04472e60c7ea1"} , "Word" : "let the cat out of the bag" , "meaning" : "গোপন কথা বলে ফেলা; হাটে হাঁড়ি ভাঙা; কোন গুপ্ত বিষয় প্রকাশ করা;"}
+{ "_id" : { "$oid" : "566ff54ee4b04472e60c7ea2"} , "Word" : "leopards" , "meaning" : "চিতাবাঘ; গুলবাঘ; দ্বীপী;"}
+{ "_id" : { "$oid" : "566ff54ee4b04472e60c7ea3"} , "Word" : "level best" , "meaning" : "যথাসাধ্য;"}
+{ "_id" : { "$oid" : "566ff54ee4b04472e60c7ea4"} , "Word" : "lever" , "meaning" : "ভার উত্তোলক দন্ড"}
+{ "_id" : { "$oid" : "566ff54fe4b04472e60c7ea5"} , "Word" : "lesson" , "meaning" : "পাঠ,"}
+{ "_id" : { "$oid" : "566ff54fe4b04472e60c7ea6"} , "Word" : "letdown" , "meaning" : "হতাশা; পতন; অধ:পতন;"}
+{ "_id" : { "$oid" : "566ff54fe4b04472e60c7ea7"} , "Word" : "letter" , "meaning" : "চিঠি"}
+{ "_id" : { "$oid" : "566ff550e4b04472e60c7ea8"} , "Word" : "lessor" , "meaning" : "যে ব্যক্তি লিজ বা ইজারা দেয়;"}
+{ "_id" : { "$oid" : "566ff550e4b04472e60c7ea9"} , "Word" : "leucoderma" , "meaning" : "শ্বেতী রোগ"}
+{ "_id" : { "$oid" : "566ff550e4b04472e60c7eaa"} , "Word" : "leucaemia" , "meaning" : "শ্বেতকণিকাধিক্যঘটিত রক্তাল্পতা;"}
+{ "_id" : { "$oid" : "566ff551e4b04472e60c7eab"} , "Word" : "lenience" , "meaning" : "অকঠোরতা"}
+{ "_id" : { "$oid" : "566ff551e4b04472e60c7eac"} , "Word" : "lent" , "meaning" : "খ্রিস্টানদের চল্লিশদিনব্যাপী পর্ববিশেষ;"}
+{ "_id" : { "$oid" : "566ff551e4b04472e60c7ead"} , "Word" : "lethe" , "meaning" : "নদী বিশেষের নাম"}
+{ "_id" : { "$oid" : "566ff552e4b04472e60c7eae"} , "Word" : "lens" , "meaning" : "কাচ (চশমা ক্যামেরা দূরবীনের)"}
+{ "_id" : { "$oid" : "566ff552e4b04472e60c7eaf"} , "Word" : "lentils" , "meaning" : "মসূর; মসূর গাছ;"}
+{ "_id" : { "$oid" : "566ff552e4b04472e60c7eb0"} , "Word" : "levelling" , "meaning" : "সমতলকরণ;"}
+{ "_id" : { "$oid" : "566ff553e4b04472e60c7eb1"} , "Word" : "lepton" , "meaning" : "গ্রীক মুদ্রা; শক্তিশালী আন্তঃক্রিয়াহীন কয়েকটি মৌলকণা;"}
+{ "_id" : { "$oid" : "566ff553e4b04472e60c7eb2"} , "Word" : "let go" , "meaning" : "ছেড়ে দেওয়া; মুক্ত করে দেওয়া; যাইতে দেত্তয়া;"}
+{ "_id" : { "$oid" : "566ff553e4b04472e60c7eb3"} , "Word" : "leukocyte" , "meaning" : "শ্বেত রক্তকণিকা;"}
+{ "_id" : { "$oid" : "566ff554e4b04472e60c7eb4"} , "Word" : "lesson plan" , "meaning" : "পাঠ পরিকল্পনা;"}
+{ "_id" : { "$oid" : "566ff554e4b04472e60c7eb5"} , "Word" : "let alone" , "meaning" : "না ঘাঁটান; হস্তক্ষেপ না করা; বিবেচনার বিষয়ীভূত মনে না করা; উল্লেখ না করা; স্বেচ্ছানুযায়ী চলিতে দেত্তয়া; স্বেচ্ছানুযায়ী করিতে দেত্তয়া; দূরের কথা;"}
+{ "_id" : { "$oid" : "566ff554e4b04472e60c7eb6"} , "Word" : "let up" , "meaning" : "কমে আসা; তীব্রতা ইঃ হ্রাস পাওয়া; তেজ খোয়ান;"}
+{ "_id" : { "$oid" : "566ff555e4b04472e60c7eb7"} , "Word" : "leniency" , "meaning" : "ইচ্ছাপূরণ; ধৈর্য; স্থৈর্য; মর্ষ; প্রশ্রয়; নাই; উপশমকারিতা; আরামপ্রদতা;"}
+{ "_id" : { "$oid" : "566ff555e4b04472e60c7eb8"} , "Word" : "let down" , "meaning" : "নামিয়ে দেওয়া; নিচে ফেলিয়া দেত্তয়া; নিচে নামাইয়া দেত্তয়া; পথে বসান; হতাশ করা;"}
+{ "_id" : { "$oid" : "566ff555e4b04472e60c7eb9"} , "Word" : "lettered" , "meaning" : "শিক্ষিত"}
+{ "_id" : { "$oid" : "566ff556e4b04472e60c7eba"} , "Word" : "lettering" , "meaning" : "অক্ষর; লেখন; শব্দ; অক্ষর চিত্রণ; অক্ষর গঠন;"}
+{ "_id" : { "$oid" : "566ff556e4b04472e60c7ebb"} , "Word" : "leprosy" , "meaning" : "কুষ্ঠরোগ"}
+{ "_id" : { "$oid" : "566ff556e4b04472e60c7ebc"} , "Word" : "leper" , "meaning" : "কুষ্ঠরোগী"}
+{ "_id" : { "$oid" : "566ff557e4b04472e60c7ebd"} , "Word" : "let be" , "meaning" : "স্বস্তিতে থাকিতে দেত্তয়া; শান্তিতে থাকিতে দেত্তয়া; না ঘাঁটান; হস্তক্ষেপ না করা; বাধা না দেত্তয়া; ঘটিতে দেত্তয়া;"}
+{ "_id" : { "$oid" : "566ff557e4b04472e60c7ebe"} , "Word" : "lesion" , "meaning" : "আঘাত; ক্ষত; ক্ষতি; ক্ষয়ক্ষতি;"}
+{ "_id" : { "$oid" : "566ff557e4b04472e60c7ebf"} , "Word" : "levant" , "meaning" : "আত্মগোপন করা; বিভিন্ন দ্বীপ ও পারিপার্শ্বিক দেশসমূহ সহ ভূমধ্যসাগরের পূর্ব অংশ; পূর্বদিক্;"}
+{ "_id" : { "$oid" : "566ff558e4b04472e60c7ec0"} , "Word" : "letting" , "meaning" : "যাইতে দেত্তয়া; করিতে দেত্তয়া; বাধা দেত্তয়া; পলাইতে হত্তয়া; আসিতে দেত্তয়া; অনুমতি দেত্তয়া; হইতে দেত্তয়া; সহ্য করা; ভাড়া দেত্তয়া;"}
+{ "_id" : { "$oid" : "566ff558e4b04472e60c7ec1"} , "Word" : "leotard" , "meaning" : "ব্যালেনর্তকদের একধরনের আঁটসাঁট পোশাক;"}
+{ "_id" : { "$oid" : "566ff558e4b04472e60c7ec2"} , "Word" : "lettuce" , "meaning" : "লেটুস; লেটুস গাছ;"}
+{ "_id" : { "$oid" : "566ff559e4b04472e60c7ec3"} , "Word" : "lengthy" , "meaning" : "লম্বা, সুদীর্ঘ, প্রসারিত"}
+{ "_id" : { "$oid" : "566ff559e4b04472e60c7ec4"} , "Word" : "leukemia" , "meaning" : "শ্বেতকণিকাধিক্যঘটিত রক্তাল্পতা;"}
+{ "_id" : { "$oid" : "566ff559e4b04472e60c7ec5"} , "Word" : "letter box" , "meaning" : "চিঠির বাক্স; ডাকবাক্স;"}
+{ "_id" : { "$oid" : "566ff55ae4b04472e60c7ec6"} , "Word" : "lese majeste" , "meaning" : "রাষ্ট্রদ্রোহিতা;"}
+{ "_id" : { "$oid" : "566ff55ae4b04472e60c7ec7"} , "Word" : "lest" , "meaning" : "এই আশঙ্কায়"}
+{ "_id" : { "$oid" : "566ff55ae4b04472e60c7ec8"} , "Word" : "less" , "meaning" : "কম, অল্পতর,"}
+{ "_id" : { "$oid" : "566ff55be4b04472e60c7ec9"} , "Word" : "lessens" , "meaning" : "অবনমিত করা; হ্রাস করা; কম করা; কম হত্তয়া; ক্ষুদ্রতর হত্তয়া; অল্পতর হত্তয়া;"}
+{ "_id" : { "$oid" : "566ff55be4b04472e60c7eca"} , "Word" : "let out" , "meaning" : "ভাড়া দেওয়া; মুক্ত করিয়া দেত্তয়া; প্রচার হইতে দেত্তয়া; জানাজানি হইতে দেত্তয়া; ফাঁস করিয়া দেত্তয়া; প্রসারিত করা; ঢিলা করা; বাহির হইতে দেত্তয়া; ভাড়া খাটান; নিকাশ করা;"}
+{ "_id" : { "$oid" : "566ff55be4b04472e60c7ecb"} , "Word" : "levee" , "meaning" : "আগন্তুকগণের প্রাতঃকালীন মজলিস"}
+{ "_id" : { "$oid" : "566ff55ce4b04472e60c7ecc"} , "Word" : "leonine" , "meaning" : "সিংহ সম্বন্ধীয়,"}
+{ "_id" : { "$oid" : "566ff55ce4b04472e60c7ecd"} , "Word" : "let" , "meaning" : "অনুমতি দেওয়া"}
+{ "_id" : { "$oid" : "566ff55ce4b04472e60c7ece"} , "Word" : "let off" , "meaning" : "বন্দুক, বাজি ইঃ ছোঁড়া, ফাটানো; সামান্য শাস্তি দিয়ে ছেড়ে দেওয়া; যাইতে দেত্তয়া; ছাড়িয়া দেত্তয়া; মুক্তি দেত্তয়া;"}
+{ "_id" : { "$oid" : "566ff55de4b04472e60c7ecf"} , "Word" : "leo" , "meaning" : "(জ্যোতি) সিংহরাশি"}
+{ "_id" : { "$oid" : "566ff55de4b04472e60c7ed0"} , "Word" : "leveling" , "meaning" : "সমতা-সাধন"}
+{ "_id" : { "$oid" : "566ff55de4b04472e60c7ed1"} , "Word" : "letterhead" , "meaning" : "নাম ঠিকানাযুক্ত চিঠির কাগজ"}
+{ "_id" : { "$oid" : "566ff55ee4b04472e60c7ed2"} , "Word" : "letters-patent" , "meaning" : "কোন কিছু করিবার অীধকার দিয়া সরকারের সিলমোহর করা ক্ষমতা পত্র"}
+{ "_id" : { "$oid" : "566ff55ee4b04472e60c7ed3"} , "Word" : "letter-box" , "meaning" : "চিঠির বাক্স"}
+{ "_id" : { "$oid" : "566ff55ee4b04472e60c7ed4"} , "Word" : "levees" , "meaning" : "নদীতীরের বাঁধ;"}
+{ "_id" : { "$oid" : "566ff55fe4b04472e60c7ed5"} , "Word" : "lentil" , "meaning" : "মসূর, মসূর গাছ"}
+{ "_id" : { "$oid" : "566ff55fe4b04472e60c7ed6"} , "Word" : "lesions" , "meaning" : "আঘাত; ক্ষত; ক্ষতি;"}
+{ "_id" : { "$oid" : "566ff55fe4b04472e60c7ed7"} , "Word" : "lenticel" , "meaning" : "গাছের ডাঁটায় বা শিকড়ে বায়ু চলাচলের ছিদ্র;"}
+{ "_id" : { "$oid" : "566ff560e4b04472e60c7ed8"} , "Word" : "let in" , "meaning" : "ঢুকতে বা প্রবেশ করতে দেওয়া; ঢুকিতে দেত্তয়া; ঠকান; ঢোকান; ঢুকা;"}
+{ "_id" : { "$oid" : "566ff560e4b04472e60c7ed9"} , "Word" : "level-headed" , "meaning" : "স্থিরমস্তিষ্ক, জ্ঞান সম্পন্ন"}
+{ "_id" : { "$oid" : "566ff560e4b04472e60c7eda"} , "Word" : "lessening" , "meaning" : "হ্রাস করা; অবনমিত করা; কম করা; কম হত্তয়া; ক্ষুদ্রতর হত্তয়া; অল্পতর হত্তয়া;"}
+{ "_id" : { "$oid" : "566ff561e4b04472e60c7edb"} , "Word" : "letter-carrier" , "meaning" : "ডাকপিয়ন"}
+{ "_id" : { "$oid" : "566ff561e4b04472e60c7edc"} , "Word" : "letterpress" , "meaning" : "মুদ্রিত অক্ষর"}
+{ "_id" : { "$oid" : "566ff561e4b04472e60c7edd"} , "Word" : "leopard" , "meaning" : "চিতাবাঘ"}
+{ "_id" : { "$oid" : "566ff562e4b04472e60c7ede"} , "Word" : "libraries" , "meaning" : "লাইব্রেরি; গ্রন্থাগার; পাঠকক্ষ; পুস্তকসংগ্রহ; পাঠগৃহ; পাঠভবণ; পুঁথিশালা; পড়ার জায়গা ইত্যাদি;"}
+{ "_id" : { "$oid" : "566ff562e4b04472e60c7edf"} , "Word" : "libel" , "meaning" : "লিখে কুৎসা প্রচার"}
+{ "_id" : { "$oid" : "566ff563e4b04472e60c7ee0"} , "Word" : "levitation" , "meaning" : "হালকাকরণ; লঘিমা; বায়ুমণ্ডলে উত্থান বা উত্তোলন;"}
+{ "_id" : { "$oid" : "566ff563e4b04472e60c7ee1"} , "Word" : "librarian" , "meaning" : "গ্রন্থাগারিক; লাইব্রেরিঅ্যান; লাইব্রেরিয়ান;"}
+{ "_id" : { "$oid" : "566ff563e4b04472e60c7ee2"} , "Word" : "liability" , "meaning" : "ঋণ ; দায় ; দায়িত্ব"}
+{ "_id" : { "$oid" : "566ff564e4b04472e60c7ee3"} , "Word" : "lick" , "meaning" : "চাটা, লেহন করা"}
+{ "_id" : { "$oid" : "566ff564e4b04472e60c7ee4"} , "Word" : "lichen" , "meaning" : "শৈবাল; ভুঁইফোঁড়; ছত্রাক বা শ্যাওলা জাতীয় উদ্ভিদ; আমবাত জাতীয় চর্মরোগ;"}
+{ "_id" : { "$oid" : "566ff564e4b04472e60c7ee5"} , "Word" : "licking" , "meaning" : "পরাজয়; মার; অবলেহ; প্রহার;"}
+{ "_id" : { "$oid" : "566ff565e4b04472e60c7ee6"} , "Word" : "lewis" , "meaning" : "বড়ো বড়ো পাথরের চাঁই তোলবার জন্য ব্যবহৃত যন্ত্র;"}
+{ "_id" : { "$oid" : "566ff565e4b04472e60c7ee7"} , "Word" : "libertinism" , "meaning" : "লাম্পট্য, কামকতা"}
+{ "_id" : { "$oid" : "566ff565e4b04472e60c7ee8"} , "Word" : "licentious" , "meaning" : "লম্পট কামুক"}
+{ "_id" : { "$oid" : "566ff566e4b04472e60c7ee9"} , "Word" : "liberal" , "meaning" : "বদান্য, মুক্তহস্ত"}
+{ "_id" : { "$oid" : "566ff566e4b04472e60c7eea"} , "Word" : "liaise" , "meaning" : "যোগাযোগ করা;"}
+{ "_id" : { "$oid" : "566ff566e4b04472e60c7eeb"} , "Word" : "licence" , "meaning" : "অনুজ্ঞা পত্র"}
+{ "_id" : { "$oid" : "566ff567e4b04472e60c7eec"} , "Word" : "libidinous" , "meaning" : "কামুক; কামী; কামীন; কামলালসাপূর্ণ; লালসাপূর্ণ; লম্পট;"}
+{ "_id" : { "$oid" : "566ff567e4b04472e60c7eed"} , "Word" : "liberating" , "meaning" : "মুক্তিদান;"}
+{ "_id" : { "$oid" : "566ff567e4b04472e60c7eee"} , "Word" : "libido" , "meaning" : "কামশক্তি; কর্মপ্রেরণা;"}
+{ "_id" : { "$oid" : "566ff568e4b04472e60c7eef"} , "Word" : "lewis gun" , "meaning" : "এক প্রকার হালকা কলের কামান"}
+{ "_id" : { "$oid" : "566ff568e4b04472e60c7ef0"} , "Word" : "liaising" , "meaning" : "যোগাযোগ করা;"}
+{ "_id" : { "$oid" : "566ff568e4b04472e60c7ef1"} , "Word" : "liberates" , "meaning" : "মুক্ত করা; স্বাধীন করা; মুক্তি করা; মুক্তি দেত্তয়া; আজাদ করা; ছাড়িয়া দেত্তয়া; মুক্ত করিয়া দেত্তয়া;"}
+{ "_id" : { "$oid" : "566ff569e4b04472e60c7ef2"} , "Word" : "licit" , "meaning" : "বৈধ; বিহিত;"}
+{ "_id" : { "$oid" : "566ff569e4b04472e60c7ef3"} , "Word" : "li" , "meaning" : "চীনদেশে প্রচলিত দূরত্বের একক;"}
+{ "_id" : { "$oid" : "566ff569e4b04472e60c7ef4"} , "Word" : "libra" , "meaning" : "তুলা রাশি"}
+{ "_id" : { "$oid" : "566ff56ae4b04472e60c7ef5"} , "Word" : "liars" , "meaning" : "মিথ্যাবাদী; অনৃতভাষী; অনৃতভাষিনী; অনৃতবাদী; অনৃতবাদিনী; দ্বিজিহ্ব;"}
+{ "_id" : { "$oid" : "566ff56ae4b04472e60c7ef6"} , "Word" : "liberalizing" , "meaning" : "মন প্রশস্ত করা; উদার মত করা; মার্জিত মত করা; বিশাল করা;"}
+{ "_id" : { "$oid" : "566ff56ae4b04472e60c7ef7"} , "Word" : "lice" , "meaning" : "উকুন"}
+{ "_id" : { "$oid" : "566ff56be4b04472e60c7ef8"} , "Word" : "leviathan" , "meaning" : "মহাকায়; দৈত্য; অতিকায়; সমুদ্র-দানব;"}
+{ "_id" : { "$oid" : "566ff56be4b04472e60c7ef9"} , "Word" : "liberated" , "meaning" : "বিমুক্ত;"}
+{ "_id" : { "$oid" : "566ff56be4b04472e60c7efa"} , "Word" : "lexicographer" , "meaning" : "অভিধান লেখক"}
+{ "_id" : { "$oid" : "566ff56ce4b04472e60c7efb"} , "Word" : "leverages" , "meaning" : "উদ্দেশ্যসাধনের উপায়; উদ্দেশ্যসাধনের শক্তি; উদ্দেশ্যসাধনের সুবিধা; লিভারের ক্রিয়া; লিভারব্যবহারের প্রণালী;"}
+{ "_id" : { "$oid" : "566ff56ce4b04472e60c7efc"} , "Word" : "liberalize" , "meaning" : "মন প্রশস্ত করা; উদার মত করা; মার্জিত মত করা; বিশাল করা;"}
+{ "_id" : { "$oid" : "566ff56ce4b04472e60c7efd"} , "Word" : "lexical" , "meaning" : "আভিধানিক; শব্দকোষ সম্পর্কিত; কোনো ভাষার শব্দ বা শব্দভাণ্ডার সম্পর্কিত;"}
+{ "_id" : { "$oid" : "566ff56de4b04472e60c7efe"} , "Word" : "levy" , "meaning" : "কর ধার্য করা,"}
+{ "_id" : { "$oid" : "566ff56de4b04472e60c7eff"} , "Word" : "lexicography" , "meaning" : "অভিধান রচনা,"}
+{ "_id" : { "$oid" : "566ff56de4b04472e60c7f00"} , "Word" : "liberally" , "meaning" : "অকুণ্ঠচিত্তে; অসঙ্কোচে; উদারভাবে; অকাতরে; সহৃদয়ভাবে;"}
+{ "_id" : { "$oid" : "566ff56ee4b04472e60c7f01"} , "Word" : "licensees" , "meaning" : "অনুমতিপ্রাপ্ত ব্যক্তি; অনুজ্ঞাপ্রাপ্ত ব্যক্তি;"}
+{ "_id" : { "$oid" : "566ff56ee4b04472e60c7f02"} , "Word" : "libelous" , "meaning" : "মানহানিকর; কুত্সামূলক রচনাদিপূর্ণ; নিন্দাপূর্ণ; কুত্সাবিশিষ্ট; কুত্সাপূর্ণ; কুত্সারটনাকারী;"}
+{ "_id" : { "$oid" : "566ff56ee4b04472e60c7f03"} , "Word" : "leviable" , "meaning" : "কর বসাইবারযোগ্য"}
+{ "_id" : { "$oid" : "566ff56fe4b04472e60c7f04"} , "Word" : "liaised" , "meaning" : "যোগাযোগ করা;"}
+{ "_id" : { "$oid" : "566ff56fe4b04472e60c7f05"} , "Word" : "lichens" , "meaning" : "শৈবাল; ভুঁইফোঁড়;"}
+{ "_id" : { "$oid" : "566ff56fe4b04472e60c7f06"} , "Word" : "liberator" , "meaning" : "মুক্তিদাতা"}
+{ "_id" : { "$oid" : "566ff570e4b04472e60c7f07"} , "Word" : "licenser" , "meaning" : "অনুজ্ঞাদাতা; অনুমতিদাতা; লাইসেন্স অফিসার;"}
+{ "_id" : { "$oid" : "566ff570e4b04472e60c7f08"} , "Word" : "liar" , "meaning" : "মিথ্যাবাদী"}
+{ "_id" : { "$oid" : "566ff570e4b04472e60c7f09"} , "Word" : "licenses" , "meaning" : "লাইসেন্স; অনুমতিপত্র; অনুমতি; অনুজ্ঞাপত্র; উত্পাদনের অনুমতি; বিক্রয়ের অনুমতি; অতিরিক্ত স্বাধীনতা; উচ্ছৃঙ্খলতা; লাম্পট্য; নিয়মলজ্ঘন;"}
+{ "_id" : { "$oid" : "566ff571e4b04472e60c7f0a"} , "Word" : "libretto" , "meaning" : "যাত্রাগানের বই; যাত্রাগানের বাচনাংশ; গীতিনাট্য ইত্যাদির বই;"}
+{ "_id" : { "$oid" : "566ff571e4b04472e60c7f0b"} , "Word" : "liberty" , "meaning" : "স্বাধীনতা"}
+{ "_id" : { "$oid" : "566ff571e4b04472e60c7f0c"} , "Word" : "lewdness" , "meaning" : "ব্যভিচার; ভ্রষ্টাচরণ; লাম্পট্য; নাগরালি;"}
+{ "_id" : { "$oid" : "566ff572e4b04472e60c7f0d"} , "Word" : "liaises" , "meaning" : "যোগাযোগ করা;"}
+{ "_id" : { "$oid" : "566ff572e4b04472e60c7f0e"} , "Word" : "liberate" , "meaning" : "মুক্ত করিয়া দেওয়া"}
+{ "_id" : { "$oid" : "566ff572e4b04472e60c7f0f"} , "Word" : "libellous" , "meaning" : "মানহানিকর; কুত্সামূলক রচনাদিপূর্ণ; নিন্দাপূর্ণ; কুত্সাবিশিষ্ট; কুত্সাপূর্ণ; কুত্সারটনাকারী;"}
+{ "_id" : { "$oid" : "566ff573e4b04472e60c7f10"} , "Word" : "licensed" , "meaning" : "অনুমতিপ্রাপ্ত; অনুজ্ঞাপ্রাপ্ত; দত্তাধিকার; প্রাপ্তানুমতি;"}
+{ "_id" : { "$oid" : "566ff573e4b04472e60c7f11"} , "Word" : "licensee" , "meaning" : "অনুমতিপ্রাপ্ত ব্যক্তি"}
+{ "_id" : { "$oid" : "566ff573e4b04472e60c7f12"} , "Word" : "license" , "meaning" : "লাইসেন্স; অনুজ্ঞাপত্র; অনুমতি; উত্পাদনের অনুমতি; বিক্রয়ের অনুমতি; অনুমতিপত্র; অতিরিক্ত স্বাধীনতা; উচ্ছৃঙ্খলতা; লাম্পট্য; নিয়মলজ্ঘন; অনুজ্ঞা; স্বাধীনতার অপব্যবহার; অনুমতি বা লাইসেন্স দেওয়া;"}
+{ "_id" : { "$oid" : "566ff574e4b04472e60c7f13"} , "Word" : "leveret" , "meaning" : "বাচ্চা খরগোস; শশক-শাবক;"}
+{ "_id" : { "$oid" : "566ff574e4b04472e60c7f14"} , "Word" : "libation" , "meaning" : "তর্পণ"}
+{ "_id" : { "$oid" : "566ff574e4b04472e60c7f15"} , "Word" : "ley" , "meaning" : "যে জমিতে সাময়িকভাবে ঘাস গজিয়ে তোলা হয়েছে;"}
+{ "_id" : { "$oid" : "566ff575e4b04472e60c7f16"} , "Word" : "liberals" , "meaning" : "উদারনীতিক দলের সভ্য; দরাজ;"}
+{ "_id" : { "$oid" : "566ff575e4b04472e60c7f17"} , "Word" : "liberalism" , "meaning" : "উদারনীতি; স্বাধীনতাপ্রি়তা; উদারনৈতিক নীতি, মতবাদ, দৃষ্টি ইঃ;"}
+{ "_id" : { "$oid" : "566ff575e4b04472e60c7f18"} , "Word" : "levers" , "meaning" : "লিভার; লেভার; ভারোত্তোলন-দণ্ড;"}
+{ "_id" : { "$oid" : "566ff576e4b04472e60c7f19"} , "Word" : "levies" , "meaning" : "চাঁদা; কর; খাজনা; শুল্ক; সংগৃহীত সৈন্যগণ; সংগ্রহ; আরোপ; জোরপূর্বক আদায়;"}
+{ "_id" : { "$oid" : "566ff576e4b04472e60c7f1a"} , "Word" : "lexicon" , "meaning" : "শব্দকোষ"}
+{ "_id" : { "$oid" : "566ff576e4b04472e60c7f1b"} , "Word" : "liable" , "meaning" : "বাধ্য, দায়ী"}
+{ "_id" : { "$oid" : "566ff577e4b04472e60c7f1c"} , "Word" : "levity" , "meaning" : "চপলতা; ছেবলামি; ত্তজনের লঘুত্ব; মেজাজের লঘুত্ব; স্বভাবের লঘুত্ব; ছ্যাবলামি; অসভ্য রসিকতা; মর্যাদাজ্ঞানহীন আচরণ;"}
+{ "_id" : { "$oid" : "566ff577e4b04472e60c7f1d"} , "Word" : "leverage" , "meaning" : "লিভারের কাজ বা এর ব্যবহারের সুবিধা ; উদ্দেশ্যসাধনের শক্তি ; কোন লোক, ঘটনা, সিদ্ধান্তকে প্রভাবিত বা কাজ করানোর শক্তি"}
+{ "_id" : { "$oid" : "566ff577e4b04472e60c7f1e"} , "Word" : "liberality" , "meaning" : "উদারতা; অসাম্প্রদায়িকতা; নিরপেক্ষতা; সরলতা; বদান্যতা; দান; অসঙ্কোচ; সংস্কারহীনতা; উদারচিত্ততা;"}
+{ "_id" : { "$oid" : "566ff578e4b04472e60c7f1f"} , "Word" : "libya" , "meaning" : "লিবিয়া;"}
+{ "_id" : { "$oid" : "566ff578e4b04472e60c7f20"} , "Word" : "liberation" , "meaning" : "মুক্তি. মুক্তিপ্রদান"}
+{ "_id" : { "$oid" : "566ff578e4b04472e60c7f21"} , "Word" : "licensing" , "meaning" : "অনুজ্ঞাপত্র দেত্তয়া; অনুমতি দেত্তয়া; পরত্তয়ানা দেত্তয়া; ক্ষমতা দেত্তয়া;"}
+{ "_id" : { "$oid" : "566ff579e4b04472e60c7f22"} , "Word" : "liabilities" , "meaning" : "দায়; বাধ্যবাধকতা; দায়িত্ব; দেনা; ঋণ; সম্ভাব্যতা; ঋণদায়;"}
+{ "_id" : { "$oid" : "566ff579e4b04472e60c7f23"} , "Word" : "levied" , "meaning" : "ধার্য করা; সংগ্রহ করা; আরোপ করা; জোরপূর্বক আদায় করা;"}
+{ "_id" : { "$oid" : "566ff579e4b04472e60c7f24"} , "Word" : "lib" , "meaning" : "liberal এর সংক্ষিপ্ত রূপ; liberation এর সংক্ষিপ্ত রূপ;"}
+{ "_id" : { "$oid" : "566ff57ae4b04472e60c7f25"} , "Word" : "liaison" , "meaning" : "সংযোগ, যোগাযোগ"}
+{ "_id" : { "$oid" : "566ff57ae4b04472e60c7f26"} , "Word" : "licked" , "meaning" : "চাটা; লীঢ়;"}
+{ "_id" : { "$oid" : "566ff57ae4b04472e60c7f27"} , "Word" : "library" , "meaning" : "গ্রন্থাগার, পাঠাগার"}
+{ "_id" : { "$oid" : "566ff57be4b04472e60c7f28"} , "Word" : "libertine" , "meaning" : "লম্পট কামুক লোক"}
+{ "_id" : { "$oid" : "566ff57be4b04472e60c7f29"} , "Word" : "levitate" , "meaning" : "ভাসান; ভাসাইয়া তোলা; বাতাসে বা শূন্যে ভাসমান থাকা বা রাখা;"}
+{ "_id" : { "$oid" : "566ff57be4b04472e60c7f2a"} , "Word" : "lickerish" , "meaning" : "লোভী, কামুক"}
+{ "_id" : { "$oid" : "566ff57ce4b04472e60c7f2b"} , "Word" : "licentiate" , "meaning" : "পেশাগত অনুজ্ঞাপত্রধারী"}
+{ "_id" : { "$oid" : "566ff57ce4b04472e60c7f2c"} , "Word" : "lewd" , "meaning" : "দুশ্চরিত্র, লম্পট"}
+{ "_id" : { "$oid" : "566ff57de4b04472e60c7f2d"} , "Word" : "lightening" , "meaning" : "লঘুকরণ;"}
+{ "_id" : { "$oid" : "566ff57de4b04472e60c7f2e"} , "Word" : "liftoff" , "meaning" : "আলগা ঢাকনি ইঃ; রকট বা মহাকাশযানের খাড়া উত্‍‍ক্ষেপণ;"}
+{ "_id" : { "$oid" : "566ff57de4b04472e60c7f2f"} , "Word" : "lie down" , "meaning" : "শুয়ে পড়া; শোয়া; শায়িত করা; শুয়া;"}
+{ "_id" : { "$oid" : "566ff57ee4b04472e60c7f30"} , "Word" : "light o love" , "meaning" : "চপলমতি স্ত্রীলোক; চপলপ্রকৃতি স্ত্রীলোক; বেশ্যা;"}
+{ "_id" : { "$oid" : "566ff57ee4b04472e60c7f31"} , "Word" : "lifeline" , "meaning" : "প্রাণ বাঁচানোর জন্য ব্যবহৃত দড়ি; ডুবুরি যে দড়ির সাহায্যে প্রয়োজনীয় সংকেত জানায়; যোগাযোগের একমাত্র উপায়;"}
+{ "_id" : { "$oid" : "566ff57ee4b04472e60c7f32"} , "Word" : "life like" , "meaning" : "জীবন্ত বলিয়া প্রতীয়মান;"}
+{ "_id" : { "$oid" : "566ff57fe4b04472e60c7f33"} , "Word" : "life science" , "meaning" : "জীবতত্ত্ব;"}
+{ "_id" : { "$oid" : "566ff57fe4b04472e60c7f34"} , "Word" : "life policy" , "meaning" : "জীবনবিমাপত্র;"}
+{ "_id" : { "$oid" : "566ff57fe4b04472e60c7f35"} , "Word" : "lifestyle" , "meaning" : "জীবনচর্যা;"}
+{ "_id" : { "$oid" : "566ff580e4b04472e60c7f36"} , "Word" : "lifted" , "meaning" : "উত্ক্ষিপ্ত; উদ্ধৃত; উত্তোলিত;"}
+{ "_id" : { "$oid" : "566ff580e4b04472e60c7f37"} , "Word" : "light up" , "meaning" : "উজ্জ্বল করা; প্রজ্বালিত করা; উজ্জ্বল হত্তয়া; আলো করা; সিগারেট, পাইপ ধরানো; আলোকময় করে তোলা;"}
+{ "_id" : { "$oid" : "566ff580e4b04472e60c7f38"} , "Word" : "life-size" , "meaning" : "প্রমাণ;"}
+{ "_id" : { "$oid" : "566ff581e4b04472e60c7f39"} , "Word" : "lifespan" , "meaning" : "জীবনের দীর্ঘতম মেয়াদ;"}
+{ "_id" : { "$oid" : "566ff581e4b04472e60c7f3a"} , "Word" : "light" , "meaning" : "আলো"}
+{ "_id" : { "$oid" : "566ff581e4b04472e60c7f3b"} , "Word" : "life time" , "meaning" : "জীবনকাল; জীবন; জীবদ্দশা; আয়ু; আয়ূ; আয়ুষ্কাল; বয়; জীবত্কাল; জিন্দগি; জিন্দিগি; জিন্দিগী; ব্যক্তির জীবনকাল;"}
+{ "_id" : { "$oid" : "566ff582e4b04472e60c7f3c"} , "Word" : "ligate" , "meaning" : "কেটে যাওয়া ধমনী ইঃ বেঁধে দেওয়া;"}
+{ "_id" : { "$oid" : "566ff582e4b04472e60c7f3d"} , "Word" : "lightheaded" , "meaning" : "লঘুমস্তিষ্ক; লঘুচিত্ত; অব্যবস্থিতচিত্ত; হঠকারী;"}
+{ "_id" : { "$oid" : "566ff582e4b04472e60c7f3e"} , "Word" : "liger" , "meaning" : "সিংঘ্র; সিংহ ও ব্যাঘ্রীর মিলনজাত শাবক;"}
+{ "_id" : { "$oid" : "566ff583e4b04472e60c7f3f"} , "Word" : "lieutenant-colonel" , "meaning" : "সহকারী কর্ণেল"}
+{ "_id" : { "$oid" : "566ff583e4b04472e60c7f40"} , "Word" : "life-interest" , "meaning" : "জীবনস্বত্ব"}
+{ "_id" : { "$oid" : "566ff583e4b04472e60c7f41"} , "Word" : "life-office" , "meaning" : "জীবন বীমার কার্যালয়"}
+{ "_id" : { "$oid" : "566ff584e4b04472e60c7f42"} , "Word" : "lifer" , "meaning" : "যাবজ্জীবন কারাদণ্ডের আদেশ;"}
+{ "_id" : { "$oid" : "566ff584e4b04472e60c7f43"} , "Word" : "licorice" , "meaning" : "যষ্টি মধু"}
+{ "_id" : { "$oid" : "566ff584e4b04472e60c7f44"} , "Word" : "life-guard" , "meaning" : "প্রহরী, দেহরক্ষী"}
+{ "_id" : { "$oid" : "566ff585e4b04472e60c7f45"} , "Word" : "life-assurance" , "meaning" : "জীবন-বীমা"}
+{ "_id" : { "$oid" : "566ff585e4b04472e60c7f46"} , "Word" : "lightning" , "meaning" : "বিদ্যুৎ বিজলী"}
+{ "_id" : { "$oid" : "566ff585e4b04472e60c7f47"} , "Word" : "lighten" , "meaning" : "আলোকিত"}
+{ "_id" : { "$oid" : "566ff586e4b04472e60c7f48"} , "Word" : "lift off" , "meaning" : "আলগা ঢাকনি ইঃ; রকট বা মহাকাশযানের খাড়া উত্‍‍ক্ষেপণ;"}
+{ "_id" : { "$oid" : "566ff586e4b04472e60c7f49"} , "Word" : "lightly" , "meaning" : "আস্তে; দ্রুত; ক্ষিপ্রভাবে; আলতোভাবে;"}
+{ "_id" : { "$oid" : "566ff586e4b04472e60c7f4a"} , "Word" : "lift" , "meaning" : "উন্নত করা, ওঠানো,"}
+{ "_id" : { "$oid" : "566ff587e4b04472e60c7f4b"} , "Word" : "lifeless" , "meaning" : "মৃতঃ নিস্তেজ"}
+{ "_id" : { "$oid" : "566ff587e4b04472e60c7f4c"} , "Word" : "lightsome" , "meaning" : "প্রফুল্লচিত্ত,"}
+{ "_id" : { "$oid" : "566ff587e4b04472e60c7f4d"} , "Word" : "lighted" , "meaning" : "প্রতিভাত; প্রজ্বালিত;"}
+{ "_id" : { "$oid" : "566ff588e4b04472e60c7f4e"} , "Word" : "lifting" , "meaning" : "উদ্ধরণ; উদ্ধৃতি;"}
+{ "_id" : { "$oid" : "566ff588e4b04472e60c7f4f"} , "Word" : "light weight" , "meaning" : "গড়পড়তা; স্বাভাবিক ওজনের চেয়ে কম ওজনযুক্ত;"}
+{ "_id" : { "$oid" : "566ff588e4b04472e60c7f50"} , "Word" : "life expectancy" , "meaning" : "সম্ভাব্য আয়ুষ্কাল;"}
+{ "_id" : { "$oid" : "566ff589e4b04472e60c7f51"} , "Word" : "life-boat" , "meaning" : "জীবনতরী"}
+{ "_id" : { "$oid" : "566ff589e4b04472e60c7f52"} , "Word" : "lieutenant-governor" , "meaning" : "ছোটলাট"}
+{ "_id" : { "$oid" : "566ff589e4b04472e60c7f53"} , "Word" : "lieu" , "meaning" : "স্থান"}
+{ "_id" : { "$oid" : "566ff58ae4b04472e60c7f54"} , "Word" : "lies" , "meaning" : "থাকা; শয়ন করা; হেলান দেত্তয়া; ঠেস দেত্তয়া; অবস্থান করা; নির্ভর করা; অন্তর্ভুক্ত থাকা; বাসা লত্তয়া; ভর দেত্তয়া; শয়ান থাকা; অবস্থিত হত্তয়া; বাস করা; অধিকারে থাকা; সমর্থনীয় হত্তয়া; শোয়া;"}
+{ "_id" : { "$oid" : "566ff58ae4b04472e60c7f55"} , "Word" : "liegelord" , "meaning" : "সম্রাট; শাসক; জমিদার; রাজা;"}
+{ "_id" : { "$oid" : "566ff58ae4b04472e60c7f56"} , "Word" : "lien" , "meaning" : "পূর্বস্বত্বঃ"}
+{ "_id" : { "$oid" : "566ff58be4b04472e60c7f57"} , "Word" : "lighter" , "meaning" : "প্রজ্বালক বস্তু"}
+{ "_id" : { "$oid" : "566ff58be4b04472e60c7f58"} , "Word" : "light-fingered" , "meaning" : "চুরিবিদ্যায় ওস্তাদ; হাতটানওয়ালা লোক;"}
+{ "_id" : { "$oid" : "566ff58be4b04472e60c7f59"} , "Word" : "life-insurance" , "meaning" : "জীবন বীমা"}
+{ "_id" : { "$oid" : "566ff58ce4b04472e60c7f5a"} , "Word" : "lifelong" , "meaning" : "আজীবন, জীবনভর"}
+{ "_id" : { "$oid" : "566ff58ce4b04472e60c7f5b"} , "Word" : "lights" , "meaning" : "হালকা; কুকুর ও বেড়ালের খাদ্য হিসাবে ব্যবহৃত ভেড়া, শুয়োর, বলদ প্রভৃতির ফুসফুস;"}
+{ "_id" : { "$oid" : "566ff58ce4b04472e60c7f5c"} , "Word" : "life-time" , "meaning" : "জীবতকাল"}
+{ "_id" : { "$oid" : "566ff58de4b04472e60c7f5d"} , "Word" : "lifeguard" , "meaning" : "দেহরক্ষী; জীবনরক্ষক; দেহরক্ষক প্রহরী;"}
+{ "_id" : { "$oid" : "566ff58de4b04472e60c7f5e"} , "Word" : "lightness" , "meaning" : "লঘিমা; হালকা ভাব; লঘুতা, মৃদুতা ইঃ;"}
+{ "_id" : { "$oid" : "566ff58de4b04472e60c7f5f"} , "Word" : "life" , "meaning" : "জীবন"}
+{ "_id" : { "$oid" : "566ff58ee4b04472e60c7f60"} , "Word" : "life-annuity" , "meaning" : "সারাজীবনের জন্য বার্ষিক বৃত্তি"}
+{ "_id" : { "$oid" : "566ff58ee4b04472e60c7f61"} , "Word" : "ligation" , "meaning" : "বন্ধ্যাকরণ;"}
+{ "_id" : { "$oid" : "566ff58ee4b04472e60c7f62"} , "Word" : "life vest" , "meaning" : "লাইফ জ্যাকেট;"}
+{ "_id" : { "$oid" : "566ff58fe4b04472e60c7f63"} , "Word" : "liege" , "meaning" : "প্রভু বা জায়গীর দাতার অধীন"}
+{ "_id" : { "$oid" : "566ff58fe4b04472e60c7f64"} , "Word" : "lie in" , "meaning" : "সন্তান প্রসবের কালে শয্যায় শায়িত থাকা; বিছানা ছেড়ে ওঠার সময় পার হয়ে যাওয়ার পরেও বিছানায় গড়ানো; প্রসব করা; ভিতরে থাকা; অন্তর্গত হত্তয়া;"}
+{ "_id" : { "$oid" : "566ff58fe4b04472e60c7f65"} , "Word" : "lightning bug" , "meaning" : "জোনাকি;"}
+{ "_id" : { "$oid" : "566ff590e4b04472e60c7f66"} , "Word" : "lids" , "meaning" : "ঢাকনা; আবরক; পল্লব; কপাট; প্রচ্ছদপট; পিধান; ডালা; অক্ষিপল্লব; চোখের পাতা; পাত্রের ঢাকনা;"}
+{ "_id" : { "$oid" : "566ff590e4b04472e60c7f67"} , "Word" : "lifetime" , "meaning" : "জীবনকাল; জীবদ্দশা; জীবন; আয়ু; আয়ুষ্কাল; বয়; আয়ূ; জীবত্কাল; জিন্দগি; জিন্দিগি; জিন্দিগী; ব্যক্তির জীবনকাল;"}
+{ "_id" : { "$oid" : "566ff590e4b04472e60c7f68"} , "Word" : "life-blood" , "meaning" : "জীবনীশক্তি উৎস"}
+{ "_id" : { "$oid" : "566ff591e4b04472e60c7f69"} , "Word" : "ligament" , "meaning" : "বন্ধনী, অস্থিবন্ধনী"}
+{ "_id" : { "$oid" : "566ff591e4b04472e60c7f6a"} , "Word" : "lighthouse" , "meaning" : "বাতিঘর"}
+{ "_id" : { "$oid" : "566ff591e4b04472e60c7f6b"} , "Word" : "lighterage" , "meaning" : "মাল খালাসের ভাড়া; মাল খালাসের মাশুল;"}
+{ "_id" : { "$oid" : "566ff592e4b04472e60c7f6c"} , "Word" : "lieutenant" , "meaning" : "সামরিক কর্মী"}
+{ "_id" : { "$oid" : "566ff592e4b04472e60c7f6d"} , "Word" : "life-belt" , "meaning" : "জলমধ্যেমানুষকে ভাসমান রাখার জন্য ব্যবহৃত কাঠ বন্ধ"}
+{ "_id" : { "$oid" : "566ff592e4b04472e60c7f6e"} , "Word" : "life-work" , "meaning" : "সারাজীবনের কাজ;"}
+{ "_id" : { "$oid" : "566ff593e4b04472e60c7f6f"} , "Word" : "ligatures" , "meaning" : "বন্ধনী; পটীবন্ধনী;"}
+{ "_id" : { "$oid" : "566ff593e4b04472e60c7f70"} , "Word" : "lid" , "meaning" : "ঢাকনা ; ঢাকনি"}
+{ "_id" : { "$oid" : "566ff593e4b04472e60c7f71"} , "Word" : "lied" , "meaning" : "রোমান্টিক যুগের জার্মান গান;"}
+{ "_id" : { "$oid" : "566ff594e4b04472e60c7f72"} , "Word" : "ligature" , "meaning" : "বন্ধনী,"}
+{ "_id" : { "$oid" : "566ff594e4b04472e60c7f73"} , "Word" : "lifters" , "meaning" : "উত্তোলক ব্যক্তি; উত্তোলক বস্তু; চোর;"}
+{ "_id" : { "$oid" : "566ff594e4b04472e60c7f74"} , "Word" : "lief" , "meaning" : "ইচছাপূর্বক, সানন্দে"}
+{ "_id" : { "$oid" : "566ff595e4b04472e60c7f75"} , "Word" : "lighting" , "meaning" : "প্রজ্বলন; আলোজ্বালা;"}
+{ "_id" : { "$oid" : "566ff595e4b04472e60c7f76"} , "Word" : "lightens" , "meaning" : "হালকা করা; লঘু করা; হালকা হত্তয়া; অধিকতর হালকা করা; অধিকতর হালকা হত্তয়া; দণ্ড লঘু করা; আলো করা;"}
+{ "_id" : { "$oid" : "566ff595e4b04472e60c7f77"} , "Word" : "life-giving" , "meaning" : "জীবনপ্রদ, বলকারক"}
+{ "_id" : { "$oid" : "566ff596e4b04472e60c7f78"} , "Word" : "lifelike" , "meaning" : "জীবন্ত"}
+{ "_id" : { "$oid" : "566ff596e4b04472e60c7f79"} , "Word" : "licks" , "meaning" : "লেহন;"}
+{ "_id" : { "$oid" : "566ff596e4b04472e60c7f7a"} , "Word" : "lighters" , "meaning" : "লাইটার;"}
+{ "_id" : { "$oid" : "566ff597e4b04472e60c7f7b"} , "Word" : "liege lord" , "meaning" : "সম্রাট; শাসক; জমিদার; রাজা;"}
+{ "_id" : { "$oid" : "566ff597e4b04472e60c7f7c"} , "Word" : "lie" , "meaning" : "মিথ্যাবাদী"}
+{ "_id" : { "$oid" : "566ff597e4b04472e60c7f7d"} , "Word" : "limestone," , "meaning" : "চুনাপাথর;"}
+{ "_id" : { "$oid" : "566ff598e4b04472e60c7f7e"} , "Word" : "limited" , "meaning" : "পরিমাণে অল্প, সংকীর্ণ"}
+{ "_id" : { "$oid" : "566ff598e4b04472e60c7f7f"} , "Word" : "likeable" , "meaning" : "মধুর; পচ্ছন্দসই; পছন্দের যোগ্য; স্নেহের যোগ্য; মনোরম;"}
+{ "_id" : { "$oid" : "566ff598e4b04472e60c7f80"} , "Word" : "linesman" , "meaning" : "রেফারির সাহায্যকারী ব্যক্তি"}
+{ "_id" : { "$oid" : "566ff599e4b04472e60c7f81"} , "Word" : "likewise" , "meaning" : "অনুরূপভাবে"}
+{ "_id" : { "$oid" : "566ff599e4b04472e60c7f82"} , "Word" : "linearity" , "meaning" : "রৈখিকতা;"}
+{ "_id" : { "$oid" : "566ff599e4b04472e60c7f83"} , "Word" : "likeminded" , "meaning" : "সমমনস্ক; সদৃশমনা;"}
+{ "_id" : { "$oid" : "566ff59ae4b04472e60c7f84"} , "Word" : "like this" , "meaning" : "এতদ্রূপ; এমন; এবংবিধ;"}
+{ "_id" : { "$oid" : "566ff59ae4b04472e60c7f85"} , "Word" : "likened" , "meaning" : "তুলিত; উপমিত;"}
+{ "_id" : { "$oid" : "566ff59ae4b04472e60c7f86"} , "Word" : "lineament" , "meaning" : "অঙ্গরেখা; চেহারা; মুখশ্রী;"}
+{ "_id" : { "$oid" : "566ff59be4b04472e60c7f87"} , "Word" : "like that" , "meaning" : "সেমত; তেমন; অমনি; তদনুযায়ী;"}
+{ "_id" : { "$oid" : "566ff59be4b04472e60c7f88"} , "Word" : "limabeans" , "meaning" : "সীম;"}
+{ "_id" : { "$oid" : "566ff59be4b04472e60c7f89"} , "Word" : "limpid" , "meaning" : "স্বচছ, নির্মল"}
+{ "_id" : { "$oid" : "566ff59ce4b04472e60c7f8a"} , "Word" : "lineup" , "meaning" : "পরিদর্শনের জন্য সারিবদ্ধভাবে দাঁড়ানো লোকজন; কোনো দলের ভেতর খেলোয়াড়দের বিন্যাস; পঙ্ক্তিবিন্যাস;"}
+{ "_id" : { "$oid" : "566ff59ce4b04472e60c7f8b"} , "Word" : "limit" , "meaning" : "সীমা,"}
+{ "_id" : { "$oid" : "566ff59ce4b04472e60c7f8c"} , "Word" : "limits" , "meaning" : "সীমা; সীমানা; সীমারেখা; সহ্যশক্তির চরম সীমা; পর্যন্ত; পরিসর; অন্ত; নিষেধ; অবধি; নিয়ন্ত্রণ; পরিসীমা; সর্বাধিক সীমা; শেষ সিমা; ত্তর; পরিচ্ছেদ; কান্ধা; অঁচল; শেষ; বাধা; কূল; বিভাগ; ঠিকানা; চৌহদ্দি;"}
+{ "_id" : { "$oid" : "566ff59de4b04472e60c7f8d"} , "Word" : "lilac" , "meaning" : "বেগুনি; একজাতীয় ফুলগাছ এবং তার লালচে বেগুলি বা সাদা রঙের ফুল;"}
+{ "_id" : { "$oid" : "566ff59de4b04472e60c7f8e"} , "Word" : "lineage" , "meaning" : "বংশ, পূর্বপুরুষ"}
+{ "_id" : { "$oid" : "566ff59de4b04472e60c7f8f"} , "Word" : "likely" , "meaning" : "সম্ভব"}
+{ "_id" : { "$oid" : "566ff59ee4b04472e60c7f90"} , "Word" : "likable" , "meaning" : "পছন্দযোগ্য"}
+{ "_id" : { "$oid" : "566ff59ee4b04472e60c7f91"} , "Word" : "lined up" , "meaning" : "বূ্যঢ়; বূ্যহিত;"}
+{ "_id" : { "$oid" : "566ff59fe4b04472e60c7f92"} , "Word" : "line by line" , "meaning" : "পাতিপাতি;"}
+{ "_id" : { "$oid" : "566ff59fe4b04472e60c7f93"} , "Word" : "limen" , "meaning" : "লঘিষ্ট;"}
+{ "_id" : { "$oid" : "566ff59fe4b04472e60c7f94"} , "Word" : "limitation" , "meaning" : "সীমানা, মেয়াদ"}
+{ "_id" : { "$oid" : "566ff5a0e4b04472e60c7f95"} , "Word" : "liking" , "meaning" : "অভিরুচি, পছন্দ"}
+{ "_id" : { "$oid" : "566ff5a0e4b04472e60c7f96"} , "Word" : "like" , "meaning" : "তুল্য,সদৃশ, অনুরূপ"}
+{ "_id" : { "$oid" : "566ff5a0e4b04472e60c7f97"} , "Word" : "limes" , "meaning" : "লেবু; চুন; কলিচুন; জামির লেবুর গাছ; বাতাপিলেবুর গাছ; জামির; বাতাবি লেবু; জম্বির; জম্বীর; চূর্ণ; আঠা; আঠাল পদার্থ; পাখি ধরার আঠা;"}
+{ "_id" : { "$oid" : "566ff5a1e4b04472e60c7f98"} , "Word" : "limping" , "meaning" : "ল্যাংড়া; পঙ্গু; খঁজ; ল্যাংচা; খোঁড়া;"}
+{ "_id" : { "$oid" : "566ff5a1e4b04472e60c7f99"} , "Word" : "limelight" , "meaning" : "থিয়েটারের অতি প্রখর আলো"}
+{ "_id" : { "$oid" : "566ff5a1e4b04472e60c7f9a"} , "Word" : "lineages" , "meaning" : "বংশ; জাতি; কুল; ঘর; বংশাবলী; জাত্যংশ;"}
+{ "_id" : { "$oid" : "566ff5a2e4b04472e60c7f9b"} , "Word" : "limerick" , "meaning" : "মজাদার আজগুবি ছড়া;"}
+{ "_id" : { "$oid" : "566ff5a2e4b04472e60c7f9c"} , "Word" : "limekiln" , "meaning" : "চুনের ভাটি"}
+{ "_id" : { "$oid" : "566ff5a2e4b04472e60c7f9d"} , "Word" : "lined" , "meaning" : "রেখাযুক্ত; রেখা দ্বারা চিহ্নিত; সরেখ; ডোরা-কাটা;"}
+{ "_id" : { "$oid" : "566ff5a3e4b04472e60c7f9e"} , "Word" : "likes" , "meaning" : "পছন্দ; একই জাতীয় বস্তু; একই জাতীয় প্রাণী; সদৃশ জাতীয় বস্তু; সদৃশ জাতীয় প্রাণী; একই বস্তু;"}
+{ "_id" : { "$oid" : "566ff5a3e4b04472e60c7f9f"} , "Word" : "lines" , "meaning" : "রেখা; সারি; সীমা; বংশ; পদ্ধতি; পঙ্ক্তি; পালি; ভাগ্য; কুল; আঁক; বিবাহের প্রমাণপত্র; পাঁতি; পাদ; বীথি; পাতি; পাটি; নর; ছত্র; পরিলেখ; কবিতার পঙি্ক্ত; কবিতার চরণ; অঙ্গরেখা; পদের শ্রেণী; পদের বিভাগ; সৈন্যবূ্যহ; নকশা; প্রণালী; আবলী; নিরক্ষ; বংশের পরস্পরা; নিরক্ষরেখা; গতিপথ; বৃত্তি; নিয়ম; জাহাজের সারি; সৈন্যশ্রেণী; সৈন্যবাহিনী; বিবাহের সাটিফিকেট; পেশা; পথ; শ্রেণী; অঙ্ক; চেহারা; ছোট চিঠি; গোত্র; মোটামুটি রেখাচিত্র;"}
+{ "_id" : { "$oid" : "566ff5a3e4b04472e60c7fa0"} , "Word" : "liner" , "meaning" : "যাত্রিবাহী জাহাজ"}
+{ "_id" : { "$oid" : "566ff5a4e4b04472e60c7fa1"} , "Word" : "lightweight" , "meaning" : "মুষ্টিযোদ্ধার ওজনবিশেষ"}
+{ "_id" : { "$oid" : "566ff5a4e4b04472e60c7fa2"} , "Word" : "liken" , "meaning" : "তুলনা করা"}
+{ "_id" : { "$oid" : "566ff5a4e4b04472e60c7fa3"} , "Word" : "limber" , "meaning" : "সহজে বাঁকানো যায় এমন"}
+{ "_id" : { "$oid" : "566ff5a5e4b04472e60c7fa4"} , "Word" : "lime concrete" , "meaning" : "চুন মসলার কংক্রিট;"}
+{ "_id" : { "$oid" : "566ff5a5e4b04472e60c7fa5"} , "Word" : "linen" , "meaning" : "এক ধরনের কাপড়"}
+{ "_id" : { "$oid" : "566ff5a5e4b04472e60c7fa6"} , "Word" : "lilliputian" , "meaning" : "ক্ষুদ্রকায় বা খর্বাকৃতি লোক"}
+{ "_id" : { "$oid" : "566ff5a6e4b04472e60c7fa7"} , "Word" : "linear equation" , "meaning" : "একঘাত সমীকরণ;"}
+{ "_id" : { "$oid" : "566ff5a6e4b04472e60c7fa8"} , "Word" : "lilies" , "meaning" : "কমল; পদ্মফুল; নলিন; পদ্মফুলের গাছ;"}
+{ "_id" : { "$oid" : "566ff5a6e4b04472e60c7fa9"} , "Word" : "line" , "meaning" : "রেখা, সূতা তার"}
+{ "_id" : { "$oid" : "566ff5a7e4b04472e60c7faa"} , "Word" : "likehood" , "meaning" : "সম্ভাব্যতা;"}
+{ "_id" : { "$oid" : "566ff5a7e4b04472e60c7fab"} , "Word" : "linen-draper" , "meaning" : "সুতীবস্ত ব্যবসায়ী"}
+{ "_id" : { "$oid" : "566ff5a7e4b04472e60c7fac"} , "Word" : "likelihood" , "meaning" : "সম্ভাব্যতা"}
+{ "_id" : { "$oid" : "566ff5a8e4b04472e60c7fad"} , "Word" : "lingam" , "meaning" : "লিঙ্গ;"}
+{ "_id" : { "$oid" : "566ff5a8e4b04472e60c7fae"} , "Word" : "likens" , "meaning" : "তুলনা করা; উপমা দেত্তয়া; অনুরূপ করা; সমান করা;"}
+{ "_id" : { "$oid" : "566ff5a8e4b04472e60c7faf"} , "Word" : "line-up" , "meaning" : "এক লাইনে দাঁড়ানো"}
+{ "_id" : { "$oid" : "566ff5a9e4b04472e60c7fb0"} , "Word" : "limbo" , "meaning" : "নরক; কারাগার; নরকের প্রান্ত; নরকোপান্তবর্তী প্রদেশ; অবরোধস্থান; মাঝপথে থাকার অবস্থা; আবদ্ধ হওয়ার অবস্থা; ওয়েস্ট ইন্ডিজের একধরনের নাচ;"}
+{ "_id" : { "$oid" : "566ff5a9e4b04472e60c7fb1"} , "Word" : "limy" , "meaning" : "আঠাযক্ত, আঠালো"}
+{ "_id" : { "$oid" : "566ff5a9e4b04472e60c7fb2"} , "Word" : "lily-livered" , "meaning" : "ভীরু"}
+{ "_id" : { "$oid" : "566ff5aae4b04472e60c7fb3"} , "Word" : "lime-juice" , "meaning" : "লেবুর আরক"}
+{ "_id" : { "$oid" : "566ff5aae4b04472e60c7fb4"} , "Word" : "limitless" , "meaning" : "অসীম, অনন্ত"}
+{ "_id" : { "$oid" : "566ff5aae4b04472e60c7fb5"} , "Word" : "lignite" , "meaning" : "কয়লা"}
+{ "_id" : { "$oid" : "566ff5abe4b04472e60c7fb6"} , "Word" : "lineal" , "meaning" : "বংশানুক্রমিক; রেখাসংক্রান্ত; রেখাভুক্ত; রৈখিক; রেখাভিমূখ; বংশগত; শ্রেণীমূলক; কৌলিক; সরাসরিভাবে একই বংশোদ্ভুত;"}
+{ "_id" : { "$oid" : "566ff5abe4b04472e60c7fb7"} , "Word" : "limp" , "meaning" : "খুঁড়িয়ে চলা"}
+{ "_id" : { "$oid" : "566ff5abe4b04472e60c7fb8"} , "Word" : "linden" , "meaning" : "লেবুজাতীয় এক প্রকার ফলের গাছ"}
+{ "_id" : { "$oid" : "566ff5ace4b04472e60c7fb9"} , "Word" : "lineation" , "meaning" : "রেখা দ্বারা চিহ্নিতকরণ; রেখাঙ্কন; লেখার পঙ্ক্তিবিন্যাস;"}
+{ "_id" : { "$oid" : "566ff5ace4b04472e60c7fba"} , "Word" : "limn" , "meaning" : "অঙ্কন করা, চিত্রিত করা"}
+{ "_id" : { "$oid" : "566ff5ace4b04472e60c7fbb"} , "Word" : "linear" , "meaning" : "রৈখিক, রেখাগত"}
+{ "_id" : { "$oid" : "566ff5ade4b04472e60c7fbc"} , "Word" : "limousine" , "meaning" : "মোটর গাড়ী বিশেষ"}
+{ "_id" : { "$oid" : "566ff5ade4b04472e60c7fbd"} , "Word" : "lin seed" , "meaning" : "তিসি; ক্ষুমা; মসিনা; অতসী; তিসিবীজ;"}
+{ "_id" : { "$oid" : "566ff5ade4b04472e60c7fbe"} , "Word" : "likeness" , "meaning" : "সাদৃশ্য, মিল, প্রতিরূপ"}
+{ "_id" : { "$oid" : "566ff5aee4b04472e60c7fbf"} , "Word" : "limpet" , "meaning" : "একধরনের শামুক-জাতীয় প্রাণী যারা পাথরের গায়ে এঁটে বসে থাকে; নাছোড়বান্দা লোক;"}
+{ "_id" : { "$oid" : "566ff5aee4b04472e60c7fc0"} , "Word" : "lime" , "meaning" : "লেবু ; চুন ; লেবুগাছ"}
+{ "_id" : { "$oid" : "566ff5aee4b04472e60c7fc1"} , "Word" : "limned" , "meaning" : "চিত্রাঙ্কন করা; বর্ণনা করা; চিত্রিত করা; চিত্র করা;"}
+{ "_id" : { "$oid" : "566ff5afe4b04472e60c7fc2"} , "Word" : "limb" , "meaning" : "অঙ্গ, প্রত্যঙ্গ"}
+{ "_id" : { "$oid" : "566ff5afe4b04472e60c7fc3"} , "Word" : "limbs" , "meaning" : "অবয়ব; ডানা; অঙ্গ; দেহের অঙ্গ; পা; হাত; দেহের প্রত্যঙ্গ; পদ; অভিক্ষিপ্ত অঙ্গ; অভিক্ষিপ্ত অংশ; প্রধান শাখা;"}
+{ "_id" : { "$oid" : "566ff5afe4b04472e60c7fc4"} , "Word" : "limited liability" , "meaning" : "কোম্পানির সদস্য হিসাবে কোম্পানির ধার দেনার ব্যাপারে সীমিত দায়িত্ব;"}
+{ "_id" : { "$oid" : "566ff5b0e4b04472e60c7fc5"} , "Word" : "ligneous" , "meaning" : "কাষ্ঠযুক্ত গাছ;"}
+{ "_id" : { "$oid" : "566ff5b0e4b04472e60c7fc6"} , "Word" : "limps" , "meaning" : "থামিয়া পড়া;"}
+{ "_id" : { "$oid" : "566ff5b0e4b04472e60c7fc7"} , "Word" : "lily" , "meaning" : "পদ্মফুল"}
+{ "_id" : { "$oid" : "566ff5b1e4b04472e60c7fc8"} , "Word" : "line up" , "meaning" : "সমপন্থী হত্তয়া; জোট বাঁধা; শ্রেণীবদ্ধ হওয়া;"}
+{ "_id" : { "$oid" : "566ff5b1e4b04472e60c7fc9"} , "Word" : "lima beans" , "meaning" : "সীম;"}
+{ "_id" : { "$oid" : "566ff5b1e4b04472e60c7fca"} , "Word" : "lilt" , "meaning" : "গুঁজন; আনন্দপূর্ণ গান; আনন্দপূর্ণ সুর;"}
+{ "_id" : { "$oid" : "566ff5b2e4b04472e60c7fcb"} , "Word" : "limewater" , "meaning" : "চুনের জল;"}
+{ "_id" : { "$oid" : "566ff5b2e4b04472e60c7fcc"} , "Word" : "literally" , "meaning" : "অক্ষরে অক্ষরে; সোজাসুজি;"}
+{ "_id" : { "$oid" : "566ff5b3e4b04472e60c7fcd"} , "Word" : "lionise" , "meaning" : "খ্যাতনামা বা গণ্যমান্য ব্যক্তিরূপে প্রতিষ্ঠিত করা;"}
+{ "_id" : { "$oid" : "566ff5b3e4b04472e60c7fce"} , "Word" : "liquefied" , "meaning" : "তরলিত; দ্রবীভূত; দ্রাবিত; দ্রব; ক্ষারিত; জল;"}
+{ "_id" : { "$oid" : "566ff5b3e4b04472e60c7fcf"} , "Word" : "lithograph" , "meaning" : "প্রস্তরে অঙ্কিত নকশা হইতে মুদ্রণ"}
+{ "_id" : { "$oid" : "566ff5b4e4b04472e60c7fd0"} , "Word" : "linings" , "meaning" : "আস্তরণের উপাদান; বস্ত্রাদি দ্বারা আন্তরণ; আস্তরণের কাপড়;"}
+{ "_id" : { "$oid" : "566ff5b4e4b04472e60c7fd1"} , "Word" : "lisping" , "meaning" : "আধ আধ কথা উচচারণকারী"}
+{ "_id" : { "$oid" : "566ff5b4e4b04472e60c7fd2"} , "Word" : "liquidation" , "meaning" : "ব্যবসা গুটিয়ে ফেলা; ধার পরিশোধ;"}
+{ "_id" : { "$oid" : "566ff5b5e4b04472e60c7fd3"} , "Word" : "lingering" , "meaning" : "দীর্ঘকালস্থায়ী"}
+{ "_id" : { "$oid" : "566ff5b5e4b04472e60c7fd4"} , "Word" : "linoleum" , "meaning" : "মেঝে ঢাকিবার তেলা আস্তর বিশেষ"}
+{ "_id" : { "$oid" : "566ff5b5e4b04472e60c7fd5"} , "Word" : "lingerie" , "meaning" : "মহিলাদের অন্তর্বাস"}
+{ "_id" : { "$oid" : "566ff5b6e4b04472e60c7fd6"} , "Word" : "liquidate" , "meaning" : "দেনা শোধ করা"}
+{ "_id" : { "$oid" : "566ff5b6e4b04472e60c7fd7"} , "Word" : "lira" , "meaning" : "ইতালীয় মুদ্রা বিশেষ"}
+{ "_id" : { "$oid" : "566ff5b6e4b04472e60c7fd8"} , "Word" : "lip-deep" , "meaning" : "আন্তরিকতাহীন"}
+{ "_id" : { "$oid" : "566ff5b7e4b04472e60c7fd9"} , "Word" : "linseed oil" , "meaning" : "তিসির তেল; মসিনার তেল;"}
+{ "_id" : { "$oid" : "566ff5b7e4b04472e60c7fda"} , "Word" : "linked" , "meaning" : "সংযুক্ত; মিলিত; সম্মিলিত;"}
+{ "_id" : { "$oid" : "566ff5b7e4b04472e60c7fdb"} , "Word" : "litanies" , "meaning" : "প্রার্থনা-সঙ্গীত;"}
+{ "_id" : { "$oid" : "566ff5b8e4b04472e60c7fdc"} , "Word" : "literary" , "meaning" : "সাহিত্য বিষয়ক"}
+{ "_id" : { "$oid" : "566ff5b8e4b04472e60c7fdd"} , "Word" : "lissom,lissome" , "meaning" : "কমনীয়, কোমল, নমনীয়"}
+{ "_id" : { "$oid" : "566ff5b8e4b04472e60c7fde"} , "Word" : "lithic" , "meaning" : "প্রস্তর বা পাথর সংক্রান্ত;"}
+{ "_id" : { "$oid" : "566ff5b9e4b04472e60c7fdf"} , "Word" : "liquidity" , "meaning" : "তারল্য; তরলতা; তরল অবস্থা; তরলীভবন;"}
+{ "_id" : { "$oid" : "566ff5b9e4b04472e60c7fe0"} , "Word" : "liter" , "meaning" : "লিটার;"}
+{ "_id" : { "$oid" : "566ff5b9e4b04472e60c7fe1"} , "Word" : "lithosphere" , "meaning" : "ভূত্বক; অশ্মমঙ্গল;"}
+{ "_id" : { "$oid" : "566ff5bae4b04472e60c7fe2"} , "Word" : "liquorice" , "meaning" : "যষ্টিমধু; একজাতীয় গুল্ম;"}
+{ "_id" : { "$oid" : "566ff5bae4b04472e60c7fe3"} , "Word" : "literature" , "meaning" : "সাহিত্য"}
+{ "_id" : { "$oid" : "566ff5bae4b04472e60c7fe4"} , "Word" : "linguistic" , "meaning" : "ভাষাবিদ্যাগত ; ভাষা সংক্রান্ত ; ভাষাতত্ত্ব সম্বন্ধীয়"}
+{ "_id" : { "$oid" : "566ff5bbe4b04472e60c7fe5"} , "Word" : "listening" , "meaning" : "শ্রবণ; কর্ণপাত;"}
+{ "_id" : { "$oid" : "566ff5bbe4b04472e60c7fe6"} , "Word" : "linguist" , "meaning" : "ভাষাবিৎ। বিভিন্ন ভাষার অভিজ্ঞ ব্যক্তি"}
+{ "_id" : { "$oid" : "566ff5bbe4b04472e60c7fe7"} , "Word" : "linnet" , "meaning" : "ছোট, পিঙ্গল বর্ণ গায়ক, পক্ষিবিশেষ"}
+{ "_id" : { "$oid" : "566ff5bce4b04472e60c7fe8"} , "Word" : "liquid" , "meaning" : "তরল পদার্থ"}
+{ "_id" : { "$oid" : "566ff5bce4b04472e60c7fe9"} , "Word" : "lintel" , "meaning" : "দরজা বা জানালার উপরের কাছে বা পাথর সর্দল"}
+{ "_id" : { "$oid" : "566ff5bce4b04472e60c7fea"} , "Word" : "lit erally" , "meaning" : "অক্ষরে অক্ষরে; সোজাসুজি;"}
+{ "_id" : { "$oid" : "566ff5bde4b04472e60c7feb"} , "Word" : "linguists" , "meaning" : "ভাষাবিৎ; ভাষাতত্ত্ববিৎ; ভাষাবিজ্ঞানবিৎ;"}
+{ "_id" : { "$oid" : "566ff5bde4b04472e60c7fec"} , "Word" : "lions share" , "meaning" : "আসল ভাগ;"}
+{ "_id" : { "$oid" : "566ff5bde4b04472e60c7fed"} , "Word" : "lips" , "meaning" : "অধর; অধরোষ্ঠ;"}
+{ "_id" : { "$oid" : "566ff5bee4b04472e60c7fee"} , "Word" : "liqueur" , "meaning" : "মিষ্ঠ, সুগন্ধ,"}
+{ "_id" : { "$oid" : "566ff5bee4b04472e60c7fef"} , "Word" : "listlessness" , "meaning" : "ঔদাস্য; ঔদাসীন্য; নীরসতা;"}
+{ "_id" : { "$oid" : "566ff5bee4b04472e60c7ff0"} , "Word" : "listless" , "meaning" : "অমনোযোগী"}
+{ "_id" : { "$oid" : "566ff5bfe4b04472e60c7ff1"} , "Word" : "liquor" , "meaning" : "সুরা,"}
+{ "_id" : { "$oid" : "566ff5bfe4b04472e60c7ff2"} , "Word" : "lithotomy" , "meaning" : "মুত্রাশয় থেকে অস্ত্রোপচার করে পাথর অপসারণ;"}
+{ "_id" : { "$oid" : "566ff5bfe4b04472e60c7ff3"} , "Word" : "liniment" , "meaning" : "মালিশ, মলম"}
+{ "_id" : { "$oid" : "566ff5c0e4b04472e60c7ff4"} , "Word" : "lithesome" , "meaning" : "ক্ষিপ্র; চটপটে; নমনীয়; সহজে নমনীয়; কোমল;"}
+{ "_id" : { "$oid" : "566ff5c0e4b04472e60c7ff5"} , "Word" : "literacy" , "meaning" : "সাক্ষরতা"}
+{ "_id" : { "$oid" : "566ff5c0e4b04472e60c7ff6"} , "Word" : "linguistically" , "meaning" : "ভাষার বা ভাষাতত্ত্বের দিক দিয়ে;"}
+{ "_id" : { "$oid" : "566ff5c1e4b04472e60c7ff7"} , "Word" : "lissom" , "meaning" : "ক্ষিপ্র; চটপটে; নমনীয়; সহজে নমনীয়; কোমল; কোমল; নমনীয়;"}
+{ "_id" : { "$oid" : "566ff5c1e4b04472e60c7ff8"} , "Word" : "lioness" , "meaning" : "সিংহী"}
+{ "_id" : { "$oid" : "566ff5c1e4b04472e60c7ff9"} , "Word" : "lingua franca" , "meaning" : "আন্তর্জাতিক মিশ্রিত ভাষা; আন্তর্জাতিক যোগাযোগের, বার্তা বিনিময়ের বা সংলাপের মিশ্র ভাষা;"}
+{ "_id" : { "$oid" : "566ff5c2e4b04472e60c7ffa"} , "Word" : "liquorish" , "meaning" : "সুস্বাদু; স্বাদগ্রহণ জন্য লালায়িত; লম্পট; কামুক; লোভনীয়; উপভোগের জন্য লালায়িত; পানাসক্ত; মদ্যপ্রিয়;"}
+{ "_id" : { "$oid" : "566ff5c2e4b04472e60c7ffb"} , "Word" : "link" , "meaning" : "শিকরের আংটা"}
+{ "_id" : { "$oid" : "566ff5c2e4b04472e60c7ffc"} , "Word" : "lingers" , "meaning" : "গড়িমসি করা; দীর্ঘকাল থাকা; যাইতে দেরি করা; দেরিতে যাত্তয়া; বিলম্ব করা; ঘোরাফেরা করা;"}
+{ "_id" : { "$oid" : "566ff5c3e4b04472e60c7ffd"} , "Word" : "liquefaction" , "meaning" : "গলানো, গলাইবার প্রক্রিয়া"}
+{ "_id" : { "$oid" : "566ff5c3e4b04472e60c7ffe"} , "Word" : "liquefy" , "meaning" : "তরল করা বা হওয়া"}
+{ "_id" : { "$oid" : "566ff5c3e4b04472e60c7fff"} , "Word" : "listen to" , "meaning" : "চুপিচুপি অন্যদের কথা শুনে নেওয়া; রেডিও শোনা;"}
+{ "_id" : { "$oid" : "566ff5c4e4b04472e60c8000"} , "Word" : "linger" , "meaning" : "দীর্ঘকাল থাকা, বিলম্ব করা"}
+{ "_id" : { "$oid" : "566ff5c4e4b04472e60c8001"} , "Word" : "listener" , "meaning" : "শ্রোতা"}
+{ "_id" : { "$oid" : "566ff5c4e4b04472e60c8002"} , "Word" : "lion-hearted" , "meaning" : "সিংহের ন্যায় সাহসী"}
+{ "_id" : { "$oid" : "566ff5c5e4b04472e60c8003"} , "Word" : "litchi" , "meaning" : "লিচু; লিচুগাছ;"}
+{ "_id" : { "$oid" : "566ff5c5e4b04472e60c8004"} , "Word" : "lissome" , "meaning" : "ক্ষিপ্র; চটপটে; নমনীয়; সহজে নমনীয়; কোমল;"}
+{ "_id" : { "$oid" : "566ff5c5e4b04472e60c8005"} , "Word" : "listen" , "meaning" : "শোনা, কান দেওয়া"}
+{ "_id" : { "$oid" : "566ff5c6e4b04472e60c8006"} , "Word" : "lists" , "meaning" : "রঙ্গভূমি; মল্লভূমির চৌহদ্দি; মল্লভূমির চতু:সীমা; মল্লভূমি;"}
+{ "_id" : { "$oid" : "566ff5c6e4b04472e60c8007"} , "Word" : "lining" , "meaning" : "আস্তর আস্তরণ"}
+{ "_id" : { "$oid" : "566ff5c6e4b04472e60c8008"} , "Word" : "lit" , "meaning" : "মাতাল;"}
+{ "_id" : { "$oid" : "566ff5c7e4b04472e60c8009"} , "Word" : "lion" , "meaning" : "সিংহ"}
+{ "_id" : { "$oid" : "566ff5c7e4b04472e60c800a"} , "Word" : "litany" , "meaning" : "খ্রীস্টানদের একজাতীয় প্রার্থনা; যে কোনো দীর্ঘ, বিরক্তিকর বক্তৃতা ইত্যাদি; প্রার্থনা-সঙ্গীত;"}
+{ "_id" : { "$oid" : "566ff5c7e4b04472e60c800b"} , "Word" : "lingo" , "meaning" : "ভাষা,বাক্য,"}
+{ "_id" : { "$oid" : "566ff5c8e4b04472e60c800c"} , "Word" : "lip" , "meaning" : "অধর ; ওষ্ঠ ; ঠোঁট ; কোন বস্তুর প্রান্ত"}
+{ "_id" : { "$oid" : "566ff5c8e4b04472e60c800d"} , "Word" : "literati" , "meaning" : "পণ্ডিতবর্গ; শিক্ষিতসমাজ; পণ্ডিত বা বিদগ্ধ ব্যক্তিগণ; শিক্ষিত শ্রেণী;"}
+{ "_id" : { "$oid" : "566ff5c8e4b04472e60c800e"} , "Word" : "linotype" , "meaning" : "ছত্র রচনা করিবার যন্ত্র"}
+{ "_id" : { "$oid" : "566ff5c9e4b04472e60c800f"} , "Word" : "lingual" , "meaning" : "জিহ্বা সংক্রান্ত ভাষা সংক্রান্ত"}
+{ "_id" : { "$oid" : "566ff5c9e4b04472e60c8010"} , "Word" : "list" , "meaning" : "তালিকা, ফর্দ"}
+{ "_id" : { "$oid" : "566ff5c9e4b04472e60c8011"} , "Word" : "links" , "meaning" : "গফল খেলিবার উপযোগী মাঠ"}
+{ "_id" : { "$oid" : "566ff5cae4b04472e60c8012"} , "Word" : "lipstick" , "meaning" : "ঠোঁটের রং লাগাইবার কাঠি, অধরঞ্জনী"}
+{ "_id" : { "$oid" : "566ff5cae4b04472e60c8013"} , "Word" : "lisp" , "meaning" : "অস্ফুট উচচারণ করা"}
+{ "_id" : { "$oid" : "566ff5cae4b04472e60c8014"} , "Word" : "listlessly" , "meaning" : "আনমনাভাবে;"}
+{ "_id" : { "$oid" : "566ff5cbe4b04472e60c8015"} , "Word" : "lithography" , "meaning" : "প্রস্তর হইতে মুদ্রণ; প্রস্তর হইতে মুদ্রণশিল্প; পাথর বা ধাতুর পাত থেকে নকশা, ছবি ইঃ ছাপার একরকম পদ্ধতি;"}
+{ "_id" : { "$oid" : "566ff5cbe4b04472e60c8016"} , "Word" : "linseed" , "meaning" : "তিসি বীজ ; মসিনাবীজ"}
+{ "_id" : { "$oid" : "566ff5cbe4b04472e60c8017"} , "Word" : "lithe" , "meaning" : "নমনীয়"}
+{ "_id" : { "$oid" : "566ff5cce4b04472e60c8018"} , "Word" : "literate" , "meaning" : "অক্ষর জ্ঞানসম্পন্ন বা বিদ্বান"}
+{ "_id" : { "$oid" : "566ff5cce4b04472e60c8019"} , "Word" : "linguistics" , "meaning" : "ভাষাবিদ্যা; ভাষাতত্ত্ব; ভাষাবিজ্ঞান;"}
+{ "_id" : { "$oid" : "566ff5cce4b04472e60c801a"} , "Word" : "literal" , "meaning" : "আক্ষরিক"}
+{ "_id" : { "$oid" : "566ff5cde4b04472e60c801b"} , "Word" : "lint" , "meaning" : "ক্ষতস্থান বাঁধার নরম কাপড় বিশেষ"}
+{ "_id" : { "$oid" : "566ff5cde4b04472e60c801c"} , "Word" : "litigated" , "meaning" : "মকদ্দমা করা; মামলা করা;"}
+{ "_id" : { "$oid" : "566ff5cee4b04472e60c801d"} , "Word" : "litre" , "meaning" : "তরল পদার্থেও পরিমাপ বিশেষ"}
+{ "_id" : { "$oid" : "566ff5cee4b04472e60c801e"} , "Word" : "livelong" , "meaning" : "সারাক্ষণ স্থায়ী"}
+{ "_id" : { "$oid" : "566ff5cee4b04472e60c801f"} , "Word" : "lobby" , "meaning" : "প্রবেশকক্ষ, উপশালা"}
+{ "_id" : { "$oid" : "566ff5cfe4b04472e60c8020"} , "Word" : "loadstone" , "meaning" : "চুম্বক-প্রস্তুর"}
+{ "_id" : { "$oid" : "566ff5cfe4b04472e60c8021"} , "Word" : "little" , "meaning" : "ছোট, অল্প"}
+{ "_id" : { "$oid" : "566ff5cfe4b04472e60c8022"} , "Word" : "litigant" , "meaning" : "মকদ্দমা রত,"}
+{ "_id" : { "$oid" : "566ff5d0e4b04472e60c8023"} , "Word" : "live stock" , "meaning" : "পশুসম্পত্তি;"}
+{ "_id" : { "$oid" : "566ff5d0e4b04472e60c8024"} , "Word" : "livelihood" , "meaning" : "জীবিকা"}
+{ "_id" : { "$oid" : "566ff5d0e4b04472e60c8025"} , "Word" : "litotes" , "meaning" : "একজাতীয় অর্থালংকার যাতে নঞর্থক শব্দের সাহায্যে তার বিপরীত সদর্থক ভাবটিকেই জোরালোভাবে প্রকাশ করা হয়;"}
+{ "_id" : { "$oid" : "566ff5d1e4b04472e60c8026"} , "Word" : "loamy" , "meaning" : "দোআঁশ মাটিপূর্ণ; দোআঁশ; দোআঁশলা;"}
+{ "_id" : { "$oid" : "566ff5d1e4b04472e60c8027"} , "Word" : "litigation," , "meaning" : "মামলা; মকদ্দমা; মামলা-মকদ্দমা;"}
+{ "_id" : { "$oid" : "566ff5d1e4b04472e60c8028"} , "Word" : "live in" , "meaning" : "কর্মস্থলে বাস করা;"}
+{ "_id" : { "$oid" : "566ff5d2e4b04472e60c8029"} , "Word" : "liveried" , "meaning" : "বিশেষ ধরনের পোশাক পরিহিত; উর্দি-পরা; চাপরাস-আঁটা; তকমা-আঁটা;"}
+{ "_id" : { "$oid" : "566ff5d2e4b04472e60c802a"} , "Word" : "live" , "meaning" : "বেঁচে থাকা, জীবিত থাকা"}
+{ "_id" : { "$oid" : "566ff5d2e4b04472e60c802b"} , "Word" : "live out" , "meaning" : "কর্মস্থলে বাস না করা; সহিয়া থাকা;"}
+{ "_id" : { "$oid" : "566ff5d3e4b04472e60c802c"} , "Word" : "loading" , "meaning" : "বোঝাই; বোঝা;"}
+{ "_id" : { "$oid" : "566ff5d3e4b04472e60c802d"} , "Word" : "loader" , "meaning" : "যে মালপত্র তোলে; যে মালপত্র বোঝাই করে; মাল তোলা যন্ত্র; শিকারির যে সহচর বন্দুকে গুলি ভরে দেয়;"}
+{ "_id" : { "$oid" : "566ff5d3e4b04472e60c802e"} , "Word" : "loaves" , "meaning" : "ডেলা; পিণ্ড; কুড়েমি; গোটা পাউরুটি;"}
+{ "_id" : { "$oid" : "566ff5d4e4b04472e60c802f"} , "Word" : "lobbies" , "meaning" : "লবি; দালান; উপশালা; প্রবেশকক্ষ;"}
+{ "_id" : { "$oid" : "566ff5d4e4b04472e60c8030"} , "Word" : "loan" , "meaning" : "সুদে ধার দেওয়া টাকা ; ধার দেওয়া জিনিস ; ব্যবহার করার অনুমতি"}
+{ "_id" : { "$oid" : "566ff5d4e4b04472e60c8031"} , "Word" : "lizards" , "meaning" : "টিকটিকি; পন্নগ; গৃহগোধা; গৃহগোধিকা;"}
+{ "_id" : { "$oid" : "566ff5d5e4b04472e60c8032"} , "Word" : "loaded" , "meaning" : "ভরা; জাঁতান; মাতাল; মদ খেয়ে আউট; অনেক টাকাপয়সার মালিক; মালদার;"}
+{ "_id" : { "$oid" : "566ff5d5e4b04472e60c8033"} , "Word" : "loam" , "meaning" : "দো-আঁশ মাটি, সার মাটি"}
+{ "_id" : { "$oid" : "566ff5d5e4b04472e60c8034"} , "Word" : "lobbying" , "meaning" : "তদবির;"}
+{ "_id" : { "$oid" : "566ff5d6e4b04472e60c8035"} , "Word" : "loaf" , "meaning" : "পাউরুটি,"}
+{ "_id" : { "$oid" : "566ff5d6e4b04472e60c8036"} , "Word" : "liturgy" , "meaning" : "গির্জায় প্রচলিত বিধিবদ্ধ উপাসনা; স্তোত্রপদ্ধতি; স্তোত্রমালা;"}
+{ "_id" : { "$oid" : "566ff5d6e4b04472e60c8037"} , "Word" : "loathsome" , "meaning" : "ঘৃণিত; কষাটে; জঘন্য; ঘৃণ্য; ঘৃণাজনক; ঘৃণাপূর্ণ; ঘৃণাব্যঁজক; বিরক্তি উত্পাদক; বিতৃষ্ণাজনক; জঘন্যবিরাগ উত্পাদক; ন্যক্কারজনক; বিতৃষ্ণার ভাব জাগায় এমন;"}
+{ "_id" : { "$oid" : "566ff5d7e4b04472e60c8038"} , "Word" : "lives" , "meaning" : "গৃহপালিত পশুদল"}
+{ "_id" : { "$oid" : "566ff5d7e4b04472e60c8039"} , "Word" : "liver" , "meaning" : "লিভার; যকৃৎ; কলিজা; যকৃতের পীড়া;"}
+{ "_id" : { "$oid" : "566ff5d7e4b04472e60c803a"} , "Word" : "load" , "meaning" : "বোঝা, বোঝাই মাল"}
+{ "_id" : { "$oid" : "566ff5d8e4b04472e60c803b"} , "Word" : "loathe" , "meaning" : "অত্যন্ত অপছন্দ করা, অতিশয় ঘৃণ্য করা"}
+{ "_id" : { "$oid" : "566ff5d8e4b04472e60c803c"} , "Word" : "liven" , "meaning" : "প্রফুল্ল করা; উজ্জ্বল করা; প্রফুল্ল হত্তয়া; প্রাণবন্ত হইয়া ত্তঠা; তাজা হইয়া ত্তঠা; উজ্জ্বল হত্তয়া; প্রাণবন্ত করিয়া তোলা; তাজা করিয়া তোলা; আলোকিত করা; আলোকিত হত্তয়া; প্রাণবন্ত করে তোলা বা হয়ে ওঠা;"}
+{ "_id" : { "$oid" : "566ff5d8e4b04472e60c803d"} , "Word" : "lo" , "meaning" : "দেখ! দেখ দেখ!"}
+{ "_id" : { "$oid" : "566ff5d9e4b04472e60c803e"} , "Word" : "littered" , "meaning" : "প্রসব করা; ছড়ান; বিক্ষিপ্ত করা; তৃণশয্যা সজ্জিত করা;"}
+{ "_id" : { "$oid" : "566ff5d9e4b04472e60c803f"} , "Word" : "lively" , "meaning" : "প্রাণবন্তু, চটপট"}
+{ "_id" : { "$oid" : "566ff5d9e4b04472e60c8040"} , "Word" : "lobe" , "meaning" : "কানের লতি"}
+{ "_id" : { "$oid" : "566ff5dae4b04472e60c8041"} , "Word" : "lizzie" , "meaning" : "সস্তা গাড়ী;"}
+{ "_id" : { "$oid" : "566ff5dae4b04472e60c8042"} , "Word" : "loathful" , "meaning" : "ঘৃণিত; ঘৃণ্য; ঘৃণাজনক; ঘৃণাপূর্ণ; ঘৃণাব্যঁজক; বিরক্তি উত্পাদক; বিতৃষ্ণাজনক; জঘন্য; জঘন্যবিরাগ উত্পাদক; কষাটে;"}
+{ "_id" : { "$oid" : "566ff5dae4b04472e60c8043"} , "Word" : "loathes" , "meaning" : "ঘৃণা করা; অতিশয় অপছন্দ করা;"}
+{ "_id" : { "$oid" : "566ff5dbe4b04472e60c8044"} , "Word" : "livid" , "meaning" : "নীল-কৃষ্ণ"}
+{ "_id" : { "$oid" : "566ff5dbe4b04472e60c8045"} , "Word" : "litigations" , "meaning" : "মামলা; মকদ্দমা;"}
+{ "_id" : { "$oid" : "566ff5dbe4b04472e60c8046"} , "Word" : "livetogether" , "meaning" : "একই গৃহে বাস করা অবিবাহিত পুরুষ ও মহিলা সম্পর্কে;"}
+{ "_id" : { "$oid" : "566ff5dce4b04472e60c8047"} , "Word" : "lob" , "meaning" : "ডেলা; দলা; জবুথবু লোক; মারা দেওয়া; তুলে দেওয়া; ছূঁড়ে দেওয়া;"}
+{ "_id" : { "$oid" : "566ff5dce4b04472e60c8048"} , "Word" : "live long" , "meaning" : "দিনভর; সারাটা দিন; সারা দিনমান; সুদীর্ঘ; সমগ্র; সারা;"}
+{ "_id" : { "$oid" : "566ff5dce4b04472e60c8049"} , "Word" : "litigate" , "meaning" : "মামলা-মকদ্দমা করা"}
+{ "_id" : { "$oid" : "566ff5dde4b04472e60c804a"} , "Word" : "loafer" , "meaning" : "নিষ্কর্মা, ভবঘুরে"}
+{ "_id" : { "$oid" : "566ff5dde4b04472e60c804b"} , "Word" : "litter" , "meaning" : "টুকরা, আবর্জনা, পশুর খড়"}
+{ "_id" : { "$oid" : "566ff5dde4b04472e60c804c"} , "Word" : "lived" , "meaning" : "বাস করা; যাপন করা; বাঁচা; জীবনযাপন করা; টিকে থাকা; কাটান; অধিবাসী হইয়া থাকা; জীবনধারণ করা; অতিবাহন করা; জীবিত থাকা; বিস্মৃত হাত এড়ান; মৃতু্য হাত এড়ান; ধ্বংস হাত এড়ান; জীবনধারণের অবলম্বন পাত্তয়া; অধিষ্ঠিত হত্তয়া; অধিষ্ঠান করা; বাসায় বাস করা; অবস্থান করা; বাঁচিয়া থাকা; স্থায়ী হত্তয়া; টিকিয়া থাকা; জীবন উপভোগ করা;"}
+{ "_id" : { "$oid" : "566ff5dee4b04472e60c804d"} , "Word" : "live together" , "meaning" : "একই গৃহে বাস করা অবিবাহিত পুরুষ ও মহিলা সম্পর্কে;"}
+{ "_id" : { "$oid" : "566ff5dee4b04472e60c804e"} , "Word" : "littlefinger" , "meaning" : "কড়ে আঙুল;"}
+{ "_id" : { "$oid" : "566ff5dee4b04472e60c804f"} , "Word" : "loafers" , "meaning" : "সু;"}
+{ "_id" : { "$oid" : "566ff5dfe4b04472e60c8050"} , "Word" : "lizard" , "meaning" : "টিকটিকি ; গিরগিটি"}
+{ "_id" : { "$oid" : "566ff5dfe4b04472e60c8051"} , "Word" : "live it up" , "meaning" : "বিনা লক্ষে কালাতিপাত করা; উদ্দেশ্যহীনভাবে জীবন নষ্ট করা;"}
+{ "_id" : { "$oid" : "566ff5e0e4b04472e60c8052"} , "Word" : "livelier" , "meaning" : "জীবন্ত; তেজী; চপল; হাসিখুশি; তেজস্বী; কর্মতত্পর; জীবনসদৃশ; সক্রিয়; অপরিম্লান; চট্পটে; স্পষ্ট;"}
+{ "_id" : { "$oid" : "566ff5e0e4b04472e60c8053"} , "Word" : "livable" , "meaning" : "প্রাণধারণে সমর্থ; বাসযোগ্য; বাসোপযোগী;"}
+{ "_id" : { "$oid" : "566ff5e0e4b04472e60c8054"} , "Word" : "livelihoods" , "meaning" : "জীবিকা; জীবনযাত্রা; জীবন; উপজীবিকা; উপজীব্য; রূজি; জীবিকানির্বাহের উপায়;"}
+{ "_id" : { "$oid" : "566ff5e1e4b04472e60c8055"} , "Word" : "lobster" , "meaning" : "গলদা চিংড়ি"}
+{ "_id" : { "$oid" : "566ff5e1e4b04472e60c8056"} , "Word" : "loafs" , "meaning" : "আলস্যে ক্ষেপণ করা; কালক্ষয় করা;"}
+{ "_id" : { "$oid" : "566ff5e1e4b04472e60c8057"} , "Word" : "litigious" , "meaning" : "মামলাবাজ"}
+{ "_id" : { "$oid" : "566ff5e1e4b04472e60c8058"} , "Word" : "livers" , "meaning" : "যকৃৎ; কলিজা; যকৃতের পীড়া;"}
+{ "_id" : { "$oid" : "566ff5e2e4b04472e60c8059"} , "Word" : "little finger" , "meaning" : "কড়ে আঙুল;"}
+{ "_id" : { "$oid" : "566ff5e2e4b04472e60c805a"} , "Word" : "liveliness" , "meaning" : "সজীবতা"}
+{ "_id" : { "$oid" : "566ff5e2e4b04472e60c805b"} , "Word" : "livery-servant" , "meaning" : "চাকর, চাপরাসী"}
+{ "_id" : { "$oid" : "566ff5e3e4b04472e60c805c"} , "Word" : "living" , "meaning" : "জীবিকা"}
+{ "_id" : { "$oid" : "566ff5e3e4b04472e60c805d"} , "Word" : "loath soe" , "meaning" : "জঘন্য, ঘৃণাজনক"}
+{ "_id" : { "$oid" : "566ff5e4e4b04472e60c805e"} , "Word" : "loadshedding" , "meaning" : "বিদ্যুৎ-ছাঁটাই;"}
+{ "_id" : { "$oid" : "566ff5e4e4b04472e60c805f"} , "Word" : "livestock" , "meaning" : "পশুসম্পত্তি;"}
+{ "_id" : { "$oid" : "566ff5e4e4b04472e60c8060"} , "Word" : "littoral" , "meaning" : "উপকুলবর্তী"}
+{ "_id" : { "$oid" : "566ff5e5e4b04472e60c8061"} , "Word" : "livery" , "meaning" : "উর্দি, চাপরাস"}
+{ "_id" : { "$oid" : "566ff5e5e4b04472e60c8062"} , "Word" : "loathing" , "meaning" : "অতিশয় ঘৃণ্য"}
+{ "_id" : { "$oid" : "566ff5e5e4b04472e60c8063"} , "Word" : "littlest" , "meaning" : "সামান্য; অল্প; কম; ক্ষুদ্র; কড়ে; নগণ্য; অণু; যতসামান্য; অল্পস্বল্প; ক্ষুদ্রকায়; ক্ষুদ্রাকার; হীনচেতা; হ্রস্ব; হ্রস্বকায়; অল্পপরিমাণ; অণুমাত্র; অপ্রশস্ত; অনতিবিস্তার; ইতর; নীচ; স্তোক; থোড়া; ছোট;"}
+{ "_id" : { "$oid" : "566ff5e6e4b04472e60c8064"} , "Word" : "livingstandard" , "meaning" : "জীবনযাত্রার মান;"}
+{ "_id" : { "$oid" : "566ff5e6e4b04472e60c8065"} , "Word" : "litterateur" , "meaning" : "সাহিত্যসেবী ব্যক্তি, সাহিত্যিক"}
+{ "_id" : { "$oid" : "566ff5e6e4b04472e60c8066"} , "Word" : "loath" , "meaning" : "অনিচছুক, বিতৃষ্ণ"}
+{ "_id" : { "$oid" : "566ff5e7e4b04472e60c8067"} , "Word" : "loathed" , "meaning" : "ঘৃণা করা; অতিশয় অপছন্দ করা;"}
+{ "_id" : { "$oid" : "566ff5e7e4b04472e60c8068"} , "Word" : "litup" , "meaning" : "মাতাল;"}
+{ "_id" : { "$oid" : "566ff5e7e4b04472e60c8069"} , "Word" : "liveable" , "meaning" : "বসবাসযোগ্য; প্রাণধারণে সমর্থ; বাসযোগ্য; বাসোপযোগী;"}
+{ "_id" : { "$oid" : "566ff5e8e4b04472e60c806a"} , "Word" : "lode" , "meaning" : "মাটি ইত্যাদি মিশ্রিত ধাতুর সূর"}
+{ "_id" : { "$oid" : "566ff5e8e4b04472e60c806b"} , "Word" : "location" , "meaning" : "স্থাপন, অবস্থান বা স্থান"}
+{ "_id" : { "$oid" : "566ff5e8e4b04472e60c806c"} , "Word" : "loincloth" , "meaning" : "ধুতি; কটিবস্ত্র; ধটি; ধটিকা; ধড়া; কচ্ছটি; লেঙটি; কটিবাস; কৌপিন; কোপনি;"}
+{ "_id" : { "$oid" : "566ff5e9e4b04472e60c806d"} , "Word" : "lock-house" , "meaning" : "খালের কপাটের কলরক্ষকের বাসস্থান"}
+{ "_id" : { "$oid" : "566ff5e9e4b04472e60c806e"} , "Word" : "lock-out" , "meaning" : "শ্রমিকগণকে ঢুকতে না দেবার জন্য মালিক কর্তৃক কারখানার দরজা বন্ধ করা"}
+{ "_id" : { "$oid" : "566ff5e9e4b04472e60c806f"} , "Word" : "locksmith" , "meaning" : "তালা নির্মাণ ও মেরামতকারী"}
+{ "_id" : { "$oid" : "566ff5eae4b04472e60c8070"} , "Word" : "lock out" , "meaning" : "কারবার স্থগিত;"}
+{ "_id" : { "$oid" : "566ff5eae4b04472e60c8071"} , "Word" : "located" , "meaning" : "অবস্থিত; স্থিত; নিষণ্ণ;"}
+{ "_id" : { "$oid" : "566ff5eae4b04472e60c8072"} , "Word" : "locution" , "meaning" : "বাচন; বাচনভঙ্গি; বাগ্বৈশিষ্ট্য; বাগধারা;"}
+{ "_id" : { "$oid" : "566ff5ebe4b04472e60c8073"} , "Word" : "locusts" , "meaning" : "পঙ্গপাল; ধ্বংসকারী; গ্রাসকারী;"}
+{ "_id" : { "$oid" : "566ff5ebe4b04472e60c8074"} , "Word" : "login" , "meaning" : "লগইন;"}
+{ "_id" : { "$oid" : "566ff5ebe4b04472e60c8075"} , "Word" : "lodging-house" , "meaning" : "যাত্রানিবাস]"}
+{ "_id" : { "$oid" : "566ff5ece4b04472e60c8076"} , "Word" : "locomotion" , "meaning" : "স্থানন্তারে যাওয়ার শক্তি বা ক্ষমতা"}
+{ "_id" : { "$oid" : "566ff5ece4b04472e60c8077"} , "Word" : "localisation" , "meaning" : "স্থানীয়করণ; স্থানীয় রূপদান;"}
+{ "_id" : { "$oid" : "566ff5ece4b04472e60c8078"} , "Word" : "loggerheads" , "meaning" : "স্থূলবুদ্ধি ব্যক্তি; হাবাগবা ব্যক্তি;"}
+{ "_id" : { "$oid" : "566ff5ede4b04472e60c8079"} , "Word" : "locus standi" , "meaning" : "হস্তক্ষেপের অধিকার;"}
+{ "_id" : { "$oid" : "566ff5ede4b04472e60c807a"} , "Word" : "localize" , "meaning" : "সীমাবদ্ধ করে দেওয়া, ছড়িয়ে পড়তে না দেওয়া"}
+{ "_id" : { "$oid" : "566ff5ede4b04472e60c807b"} , "Word" : "loggerhead" , "meaning" : "নির্বোধ ব্যক্তি, স্থলবুদ্ধি লোক"}
+{ "_id" : { "$oid" : "566ff5eee4b04472e60c807c"} , "Word" : "loin" , "meaning" : "কোমর"}
+{ "_id" : { "$oid" : "566ff5eee4b04472e60c807d"} , "Word" : "logbook" , "meaning" : "দৈনন্দিন ঘঁনা লেখার খাতা"}
+{ "_id" : { "$oid" : "566ff5eee4b04472e60c807e"} , "Word" : "locust" , "meaning" : "পঙ্গপাল ; শস্য ধ্বংসকারী পতঙ্গ বিশেষ ; (রূপকার্থে) লোভী, নাশক ব্যক্তি"}
+{ "_id" : { "$oid" : "566ff5efe4b04472e60c807f"} , "Word" : "loin cloth" , "meaning" : "খাটো কাপড়;"}
+{ "_id" : { "$oid" : "566ff5efe4b04472e60c8080"} , "Word" : "localism" , "meaning" : "স্থানিকতা; প্রাদেশিকতা; আঁচলিকতা; স্থানবিশেষের প্রতি আসক্তি; কূপমণ্ডুকতা; স্থানীয় বিষয়ে আগ্রহ; স্থানীয় বাগরীতি;"}
+{ "_id" : { "$oid" : "566ff5efe4b04472e60c8081"} , "Word" : "locker" , "meaning" : "দেরাজ, সিন্দুক, আলমারি"}
+{ "_id" : { "$oid" : "566ff5f0e4b04472e60c8082"} , "Word" : "lodger" , "meaning" : "বাসিন্দা; ভাড়াটে; বাসাড়ে; অর্থের বিনিময়ে অন্যের বাড়িতে বাসকারী ব্যক্তি;"}
+{ "_id" : { "$oid" : "566ff5f0e4b04472e60c8083"} , "Word" : "logging" , "meaning" : "বাধা দেত্তয়া; মোটা মোটা খণ্ডে কাটা;"}
+{ "_id" : { "$oid" : "566ff5f0e4b04472e60c8084"} , "Word" : "locket" , "meaning" : "গলার অলঙ্কার"}
+{ "_id" : { "$oid" : "566ff5f1e4b04472e60c8085"} , "Word" : "log" , "meaning" : "কাটা গাছের গুঁড়ি; চ্যালাকাঠ; কাঠের চ্যালা; পোড়ানোর জন্যে কাটা কাঠ; গাছ কাটা; কাঠ চ্যালা করা; মোটা মোটা খণ্ডে কাটা; বাধা দেত্তয়া;"}
+{ "_id" : { "$oid" : "566ff5f1e4b04472e60c8086"} , "Word" : "lock-up" , "meaning" : "হাজত"}
+{ "_id" : { "$oid" : "566ff5f1e4b04472e60c8087"} , "Word" : "logic" , "meaning" : "তর্কশাস্ত্র, যুক্তিবিদ্যা"}
+{ "_id" : { "$oid" : "566ff5f2e4b04472e60c8088"} , "Word" : "lodges" , "meaning" : "বীবর; কুলির ঘর; দরত্তয়ানের কুটীর; কলেজের অধ্যক্ষের বাসা; আশ্রয়স্থান; বাসা; ভোঁদড় প্রভৃতির গুহা; ভোঁদড় প্রভৃতির বাসস্থান;"}
+{ "_id" : { "$oid" : "566ff5f2e4b04472e60c8089"} , "Word" : "loll" , "meaning" : "হেলান দেওয়া, অলসভাবে শুইয়া থাকা"}
+{ "_id" : { "$oid" : "566ff5f2e4b04472e60c808a"} , "Word" : "loco motor" , "meaning" : "চালক;"}
+{ "_id" : { "$oid" : "566ff5f3e4b04472e60c808b"} , "Word" : "logical" , "meaning" : "যুক্তিসম্মত, যৌক্তিক"}
+{ "_id" : { "$oid" : "566ff5f3e4b04472e60c808c"} , "Word" : "logarithm" , "meaning" : "লগারিদম; ঘাতাঙ্কগণন; সংবর্গমান; লগ্যারিদম;"}
+{ "_id" : { "$oid" : "566ff5f3e4b04472e60c808d"} , "Word" : "lodgement" , "meaning" : "বাসা দান; বাসা গ্রহণ; বাস; অবস্থান; জমে ওঠা কোনোকিছু; অস্থায়ী বাসস্থান; আশ্রয়; আটকে পড়া কোনোকিছু; দখল করা শত্রু এলাকায় অবস্থান;"}
+{ "_id" : { "$oid" : "566ff5f4e4b04472e60c808e"} , "Word" : "locales" , "meaning" : "অকুস্থল; স্থান; ঘটনাস্থল;"}
+{ "_id" : { "$oid" : "566ff5f4e4b04472e60c808f"} , "Word" : "lobsters" , "meaning" : "গল্র্দাচিংড়ি; গলদা চিংড়ি;"}
+{ "_id" : { "$oid" : "566ff5f4e4b04472e60c8090"} , "Word" : "loess" , "meaning" : "ধুসর-হরিদ্রাভ রঙের মিহি মাটির স্তর যা রাইন;"}
+{ "_id" : { "$oid" : "566ff5f5e4b04472e60c8091"} , "Word" : "locative" , "meaning" : "অবস্থান সূচক"}
+{ "_id" : { "$oid" : "566ff5f5e4b04472e60c8092"} , "Word" : "locked" , "meaning" : "তালাবদ্ধ করা; গাঢ় আলিঙ্গন করা; তালাবদ্ধ হত্তয়া; তালা দেত্তয়া; তালা লাগা; তালা লাগান; চাবি দেত্তয়া; আবদ্ধ করা; আবদ্ধ হত্তয়া; নিশ্চল অবস্থায় আনা; নিশ্চল অবস্থায় আসা; দৃঢ়ভাবে আটকাইয়া দেত্তয়া; দৃঢ়ভাবে আটকাইয়া যাত্তয়া; দৃঢ়ভাবে আঁটিয়া ধরা; দৃঢ়ভাবে আঁটিয়া ধরান;"}
+{ "_id" : { "$oid" : "566ff5f5e4b04472e60c8093"} , "Word" : "logician" , "meaning" : "নৈয়ায়িক; ন্যায়বাগীশ; ন্যায়কর্তা; তার্কিক; তর্কশাস্ত্রবিদ; নৈয়ায়িক;"}
+{ "_id" : { "$oid" : "566ff5f6e4b04472e60c8094"} , "Word" : "lodging" , "meaning" : "বাসস্থান; বাসা; বাসাবাড়ি; হোটেল ছাড়া অন্য কোথাও ভাড়া নেওয়া ঘর; অস্থায়ী বাস; ভাড়াটে বাসা;"}
+{ "_id" : { "$oid" : "566ff5f6e4b04472e60c8095"} , "Word" : "lock-jaw" , "meaning" : "দাঁতকপাটি, ধনুষ্টংকার"}
+{ "_id" : { "$oid" : "566ff5f6e4b04472e60c8096"} , "Word" : "lodged" , "meaning" : "নিবেশিত করা; বাসা দেত্তয়া; স্থাপন করা; জমা দেত্তয়া; বদ্ধমূল করান; বিভূষিত করান; নিশ্চল করা; বসবাস করান; বসতি স্থাপন করিয়া দেত্তয়া; বাস করা; বাসা লত্তয়া; রাত্রি যাপন করা; নিশ্চল হত্তয়া; রোপণ করা;"}
+{ "_id" : { "$oid" : "566ff5f7e4b04472e60c8097"} , "Word" : "lodestar" , "meaning" : "ধ্রুব তারা"}
+{ "_id" : { "$oid" : "566ff5f7e4b04472e60c8098"} , "Word" : "lodgers" , "meaning" : "ভাড়াটে; বাসিন্দা; বাসাড়ে;"}
+{ "_id" : { "$oid" : "566ff5f8e4b04472e60c8099"} , "Word" : "locale" , "meaning" : "অকুস্থল; স্থান; ঘটনাস্থল; ঘ্টনাস্থল; কোনো ঘ্টনা বা কার্যকলাপের স্থান;"}
+{ "_id" : { "$oid" : "566ff5f8e4b04472e60c809a"} , "Word" : "logged" , "meaning" : "বাধা দেত্তয়া; মোটা মোটা খণ্ডে কাটা;"}
+{ "_id" : { "$oid" : "566ff5f8e4b04472e60c809b"} , "Word" : "log book" , "meaning" : "লগ বই; দিন-পুস্ত;"}
+{ "_id" : { "$oid" : "566ff5f9e4b04472e60c809c"} , "Word" : "loitered" , "meaning" : "বিলম্ব করা; দীর্ঘসূত্র হত্তয়া; ঘোরাফেরা করা;"}
+{ "_id" : { "$oid" : "566ff5f9e4b04472e60c809d"} , "Word" : "loft" , "meaning" : "চিলে কোঠা, সিলিং কোঠা"}
+{ "_id" : { "$oid" : "566ff5f9e4b04472e60c809e"} , "Word" : "lofty" , "meaning" : "উচচ, মহৎ অহঙ্কারী"}
+{ "_id" : { "$oid" : "566ff5fae4b04472e60c809f"} , "Word" : "locus" , "meaning" : "কোন স্থান"}
+{ "_id" : { "$oid" : "566ff5fae4b04472e60c80a0"} , "Word" : "logistics" , "meaning" : "সৈন্য, রসদ, যুদ্ধের বিভিন্ন বিদ্যা;"}
+{ "_id" : { "$oid" : "566ff5fae4b04472e60c80a1"} , "Word" : "locate" , "meaning" : "অবস্থান নির্দেশ করা"}
+{ "_id" : { "$oid" : "566ff5fbe4b04472e60c80a2"} , "Word" : "lockjaw" , "meaning" : "দান্তকপাটি; কপাটী; ধনুষ্টংকার রোগ; দাঁতকপাটি; দাঁতে দাঁতে লেগে যাওয়া;"}
+{ "_id" : { "$oid" : "566ff5fbe4b04472e60c80a3"} , "Word" : "logs" , "meaning" : "গুঁড়ি; বাধা; কুঁদা; প্রতিবন্ধক; জড়ভরত; অসাড় ব্যক্তি; অনুভূতিহীন ব্যক্তি;"}
+{ "_id" : { "$oid" : "566ff5fbe4b04472e60c80a4"} , "Word" : "locally" , "meaning" : "স্থানীয়ভাবে;"}
+{ "_id" : { "$oid" : "566ff5fce4b04472e60c80a5"} , "Word" : "local government" , "meaning" : "স্থানীয় শাসন;"}
+{ "_id" : { "$oid" : "566ff5fce4b04472e60c80a6"} , "Word" : "lock" , "meaning" : "তালা"}
+{ "_id" : { "$oid" : "566ff5fce4b04472e60c80a7"} , "Word" : "loftiness" , "meaning" : "টিলা; উচ্চ ভূমি; উদারতা; ঔদার্য; মহত্ত্ব; মহিমা; গরিমা; ঔদ্ধত্য; গর্ব;"}
+{ "_id" : { "$oid" : "566ff5fce4b04472e60c80a8"} , "Word" : "loch" , "meaning" : "হ্রদ; সমুদ্রের শাখা; উপসাগর; সমুদ্রের সরু একফালি অংশ; সরোবর; সমুদ্রবাহু;"}
+{ "_id" : { "$oid" : "566ff5fde4b04472e60c80a9"} , "Word" : "loco" , "meaning" : "বিকৃতমস্তিষ্ক;"}
+{ "_id" : { "$oid" : "566ff5fde4b04472e60c80aa"} , "Word" : "loitering" , "meaning" : "বিলম্ব করা; দীর্ঘসূত্র হত্তয়া; ঘোরাফেরা করা;"}
+{ "_id" : { "$oid" : "566ff5fde4b04472e60c80ab"} , "Word" : "lockout" , "meaning" : "বহিষ্কার; তালাবদ্ধ করা; তালাবন্দী;"}
+{ "_id" : { "$oid" : "566ff5fee4b04472e60c80ac"} , "Word" : "loiter" , "meaning" : "ইতস্ততঃ ঘোরাফেরা করা"}
+{ "_id" : { "$oid" : "566ff5fee4b04472e60c80ad"} , "Word" : "lock-gate" , "meaning" : "জলকপাট, খালের জলপ্র্রবাহ রদ্ধ"}
+{ "_id" : { "$oid" : "566ff5fee4b04472e60c80ae"} , "Word" : "locals" , "meaning" : "অঁচলবাসী;"}
+{ "_id" : { "$oid" : "566ff5ffe4b04472e60c80af"} , "Word" : "locomotive" , "meaning" : "রেলগাড়ির ইঞ্জিন"}
+{ "_id" : { "$oid" : "566ff5ffe4b04472e60c80b0"} , "Word" : "locality" , "meaning" : "অবস্থান, স্থান, অঞ্চল বা পাড়া"}
+{ "_id" : { "$oid" : "566ff5ffe4b04472e60c80b1"} , "Word" : "lodgment" , "meaning" : "বাসা গ্রহণ; বাস; অবস্থান; বাসা দান; জমে ওঠা কোনোকিছু; অস্থায়ী বাসস্থান; আশ্রয়; আটকে পড়া কোনোকিছু; দখল করা শত্রু এলাকায় অবস্থান;"}
+{ "_id" : { "$oid" : "566ff600e4b04472e60c80b2"} , "Word" : "lock-keeper" , "meaning" : "খালের কপাটের কলরক্ষক"}
+{ "_id" : { "$oid" : "566ff600e4b04472e60c80b3"} , "Word" : "local" , "meaning" : "স্থানীয় কোন স্থানে সীমাবদ্ধ"}
+{ "_id" : { "$oid" : "566ff600e4b04472e60c80b4"} , "Word" : "loftiest" , "meaning" : "উত্তুঙ্গ; মহৎ; অহংকারী; সমুচ্চ; উচ্চ; অত্যুচ্চ; গর্বিত; প্রাংশু; অত্যুন্নত; আড়ম্বরশালী; লম্বা; অতি মহিমাম্বিত; দাম্ভিক; উন্নত;"}
+{ "_id" : { "$oid" : "566ff601e4b04472e60c80b5"} , "Word" : "locomotor" , "meaning" : "চালক;"}
+{ "_id" : { "$oid" : "566ff601e4b04472e60c80b6"} , "Word" : "local authority" , "meaning" : "স্থানীয় কর্তৃপক্ষ;"}
+{ "_id" : { "$oid" : "566ff601e4b04472e60c80b7"} , "Word" : "lodge" , "meaning" : "ক্ষুদ্রগৃহ বাসা"}
+{ "_id" : { "$oid" : "566ff602e4b04472e60c80b8"} , "Word" : "lodgings" , "meaning" : "ভাড়াটে বাসা;"}
+{ "_id" : { "$oid" : "566ff602e4b04472e60c80b9"} , "Word" : "lookfor" , "meaning" : "খোঁজা; প্রত্যাশা করা; সন্ধান করা; অনুসন্ধান করা; আশা করা; প্রতীক্ষা করা; অন্বেষণ করা;"}
+{ "_id" : { "$oid" : "566ff603e4b04472e60c80ba"} , "Word" : "look back" , "meaning" : "অতীতের কোনো-কিছু সম্পর্কে ভাবা; পিছনে তাকান; পিছনে দেখা; পিছনে ফেরা;"}
+{ "_id" : { "$oid" : "566ff603e4b04472e60c80bb"} , "Word" : "look down on" , "meaning" : "ঘৃণা করা; উপেক্ষা করা;"}
+{ "_id" : { "$oid" : "566ff603e4b04472e60c80bc"} , "Word" : "lone" , "meaning" : "একাকী"}
+{ "_id" : { "$oid" : "566ff604e4b04472e60c80bd"} , "Word" : "look down upon" , "meaning" : "ঘৃণা করা; উপেক্ষা করা; নিন্দা করা;"}
+{ "_id" : { "$oid" : "566ff604e4b04472e60c80be"} , "Word" : "loony" , "meaning" : "উন্মাদ; খ্যাপা; খ্যাপাটে; উন্মাদগ্রস্ত;"}
+{ "_id" : { "$oid" : "566ff604e4b04472e60c80bf"} , "Word" : "looking for" , "meaning" : "তল্লাশ; অনুসন্ধান; অন্বেষণ; খোঁজ; প্রত্যাশা; আশা; ভরসা;"}
+{ "_id" : { "$oid" : "566ff605e4b04472e60c80c0"} , "Word" : "look through" , "meaning" : "পাঠপরীক্ষা করা; দৃষ্টিগোচর হত্তয়া; প্রতীয়মান হত্তয়া; দেখেত্ত না দেখা; ঝালাইয়া লত্তয়া;"}
+{ "_id" : { "$oid" : "566ff605e4b04472e60c80c1"} , "Word" : "long" , "meaning" : "দীর্ঘ, লম্বা, দুর"}
+{ "_id" : { "$oid" : "566ff605e4b04472e60c80c2"} , "Word" : "long-range" , "meaning" : "বহুদুর হইতে নাগাল পাইতে বা আঘাত করিতে সমর্থ"}
+{ "_id" : { "$oid" : "566ff606e4b04472e60c80c3"} , "Word" : "long drawn" , "meaning" : "দীর্ঘায়িত;"}
+{ "_id" : { "$oid" : "566ff606e4b04472e60c80c4"} , "Word" : "lonesome" , "meaning" : "একাকী, লোকালয় থেকে বহু দুরে"}
+{ "_id" : { "$oid" : "566ff606e4b04472e60c80c5"} , "Word" : "longing for" , "meaning" : "প্রত্যাশী;"}
+{ "_id" : { "$oid" : "566ff607e4b04472e60c80c6"} , "Word" : "looks" , "meaning" : "সৌন্দর্য;"}
+{ "_id" : { "$oid" : "566ff607e4b04472e60c80c7"} , "Word" : "looby" , "meaning" : "হাবাগবা লোক;"}
+{ "_id" : { "$oid" : "566ff607e4b04472e60c80c8"} , "Word" : "loop-line" , "meaning" : "লুপ লাইন, ফাঁসের মত আকারের রেল লাইন"}
+{ "_id" : { "$oid" : "566ff608e4b04472e60c80c9"} , "Word" : "looking forward" , "meaning" : "উন্মুখ;"}
+{ "_id" : { "$oid" : "566ff608e4b04472e60c80ca"} , "Word" : "look at" , "meaning" : "তাকান; দেখান; পরীক্ষা করা; নিহারা; নিরখা; চাত্তয়া; প্রতিভাত হত্তয়া;"}
+{ "_id" : { "$oid" : "566ff608e4b04472e60c80cb"} , "Word" : "longer" , "meaning" : "দীর্ঘতম;"}
+{ "_id" : { "$oid" : "566ff609e4b04472e60c80cc"} , "Word" : "long for" , "meaning" : "আকাঙ্ক্ষা করা; লিপ্সু হত্তয়া;"}
+{ "_id" : { "$oid" : "566ff609e4b04472e60c80cd"} , "Word" : "longitude" , "meaning" : "দ্রাঘিমা"}
+{ "_id" : { "$oid" : "566ff609e4b04472e60c80ce"} , "Word" : "long live" , "meaning" : "জিন্দাবাদ!;"}
+{ "_id" : { "$oid" : "566ff60ae4b04472e60c80cf"} , "Word" : "lookback" , "meaning" : "অতীতের কোনো-কিছু সম্পর্কে ভাবা; পিছনে তাকান; পিছনে দেখা; পিছনে ফেরা;"}
+{ "_id" : { "$oid" : "566ff60ae4b04472e60c80d0"} , "Word" : "lollop" , "meaning" : "অলসপায়ে চলাফেরা করা; নিড়বিড় করে চলাফেরা করা;"}
+{ "_id" : { "$oid" : "566ff60ae4b04472e60c80d1"} , "Word" : "loo" , "meaning" : "পায়খানা; স্নানকক্ষ; শৌচাগার; একধরনের বাজি-ধরা তাসখেল; পায়খানা;"}
+{ "_id" : { "$oid" : "566ff60be4b04472e60c80d2"} , "Word" : "longbow" , "meaning" : "সাধারণ ধনুক; দীর্ঘ ধনু;"}
+{ "_id" : { "$oid" : "566ff60be4b04472e60c80d3"} , "Word" : "long-winded" , "meaning" : "না থামিয়া অনেকদুর পর্যন্ত দৌড়াইতে পারে"}
+{ "_id" : { "$oid" : "566ff60be4b04472e60c80d4"} , "Word" : "look after" , "meaning" : "দেখাশোনা করা; যত্নআত্তি করা; লক্ষ্য রাখা; চোখেচোখে রাখা; তত্ত্বাবধান করা; সন্ধান করা; মনোযোগ দেত্তয়া; যত্ন লত্তয়া; অভিভাবকত্ব করা; তদারক করা;"}
+{ "_id" : { "$oid" : "566ff60ce4b04472e60c80d5"} , "Word" : "longed" , "meaning" : "প্রত্যাশিত; অভীষ্ট;"}
+{ "_id" : { "$oid" : "566ff60ce4b04472e60c80d6"} , "Word" : "long pepper" , "meaning" : "লঙ্কা;"}
+{ "_id" : { "$oid" : "566ff60ce4b04472e60c80d7"} , "Word" : "look sharp" , "meaning" : "জলদি করা;"}
+{ "_id" : { "$oid" : "566ff60de4b04472e60c80d8"} , "Word" : "look in" , "meaning" : "অল্পক্ষণের জন্য আসা;"}
+{ "_id" : { "$oid" : "566ff60de4b04472e60c80d9"} , "Word" : "lonewolf" , "meaning" : "একা একা থাকতে পছন্দ করে এমন প্রাণী;"}
+{ "_id" : { "$oid" : "566ff60de4b04472e60c80da"} , "Word" : "looked up" , "meaning" : "চক্ষু তুলিয়া তাকান; গণ্য করা; সন্ধান করা; খোঁজা; সাহস সংগ্রহ করা; উন্নতিলাভ করা; ভালর দিকে যাত্তয়া; দর্শনার্থ আসা; মাথা তোলা;"}
+{ "_id" : { "$oid" : "566ff60ee4b04472e60c80db"} , "Word" : "look over" , "meaning" : "দেখা; দেখে নেওয়া; পরিদর্শন করা; দেখিয়াত্ত না দেখা; উপেক্ষা করা;"}
+{ "_id" : { "$oid" : "566ff60ee4b04472e60c80dc"} , "Word" : "lookforward" , "meaning" : "প্রত্যাশা করা;"}
+{ "_id" : { "$oid" : "566ff60ee4b04472e60c80dd"} , "Word" : "longitudinal" , "meaning" : "অনুদৈঘ্র্য;"}
+{ "_id" : { "$oid" : "566ff60fe4b04472e60c80de"} , "Word" : "longshore" , "meaning" : "সমুদ্রতীরাভিমুখী; সমুদ্রতীরস্থ;"}
+{ "_id" : { "$oid" : "566ff60fe4b04472e60c80df"} , "Word" : "long after" , "meaning" : "বহুদিন পরে;"}
+{ "_id" : { "$oid" : "566ff60fe4b04472e60c80e0"} , "Word" : "long term" , "meaning" : "দীর্ঘমেয়াদ;"}
+{ "_id" : { "$oid" : "566ff610e4b04472e60c80e1"} , "Word" : "lolling" , "meaning" : "লক্লক্;"}
+{ "_id" : { "$oid" : "566ff610e4b04472e60c80e2"} , "Word" : "longboat" , "meaning" : "ল্যাংবোট;"}
+{ "_id" : { "$oid" : "566ff610e4b04472e60c80e3"} , "Word" : "longest" , "meaning" : "দীর্ঘতম;"}
+{ "_id" : { "$oid" : "566ff611e4b04472e60c80e4"} , "Word" : "longstanding" , "meaning" : "দীর্ঘকালস্থায়ী;"}
+{ "_id" : { "$oid" : "566ff611e4b04472e60c80e5"} , "Word" : "looms" , "meaning" : "তাঁত; ঠক্ঠকি;"}
+{ "_id" : { "$oid" : "566ff611e4b04472e60c80e6"} , "Word" : "looking" , "meaning" : "নেত্রপাত; নিহারন; প্রেক্ষণ;"}
+{ "_id" : { "$oid" : "566ff612e4b04472e60c80e7"} , "Word" : "long-primer" , "meaning" : "ছাপার হরফবিশেষ"}
+{ "_id" : { "$oid" : "566ff612e4b04472e60c80e8"} , "Word" : "looking-glass" , "meaning" : "আয়না, দর্পণ"}
+{ "_id" : { "$oid" : "566ff612e4b04472e60c80e9"} , "Word" : "look up" , "meaning" : "সন্ধান করা; চক্ষু তুলিয়া তাকান; গণ্য করা; খোঁজা; সাহস সংগ্রহ করা; উন্নতিলাভ করা; ভালর দিকে যাত্তয়া; দর্শনার্থ আসা; মাথা তোলা;"}
+{ "_id" : { "$oid" : "566ff613e4b04472e60c80ea"} , "Word" : "look out" , "meaning" : "দৃষি্টগোচর করান; প্রস্তুত থাকা; চক্ষু মেলিয়া রাখা; সতর্ক হত্তয়া; খুঁজিয়া বাছিয়া লত্তয়া;"}
+{ "_id" : { "$oid" : "566ff613e4b04472e60c80eb"} , "Word" : "loop" , "meaning" : "দড়ি ইত্যাদিও ফাঁস, গোরা গিট"}
+{ "_id" : { "$oid" : "566ff613e4b04472e60c80ec"} , "Word" : "longing" , "meaning" : "আকাঙ্ক্ষা; স্পৃহা; সাধ; ক্ষুধা; দোহদ;"}
+{ "_id" : { "$oid" : "566ff614e4b04472e60c80ed"} , "Word" : "lolly" , "meaning" : "লালিপাপ; মালকড়ি;"}
+{ "_id" : { "$oid" : "566ff614e4b04472e60c80ee"} , "Word" : "longevity" , "meaning" : "দীর্ঘায়ু; আয়ু; পরমায়ু; আয়ূ; বৃদ্ধ বয়স; দীর্ঘ জীবন; দীর্ঘ আয়ু; আয়ুষ্কাল;"}
+{ "_id" : { "$oid" : "566ff614e4b04472e60c80ef"} , "Word" : "loom" , "meaning" : "তাঁত"}
+{ "_id" : { "$oid" : "566ff615e4b04472e60c80f0"} , "Word" : "lonely" , "meaning" : "একাকী; নিরিবিলি; নির্জন; নিরালা; নি:সঙ্গ; নির্জনবাসী; স্বতন্ত্র; একান্ত; নির্মক্ষিক; নিঃসঙ্গ; একলা; একলাটি; সঙ্গীহীন;"}
+{ "_id" : { "$oid" : "566ff615e4b04472e60c80f1"} , "Word" : "loon" , "meaning" : "বোকারাম; ভবঘুরে; তফাৎ যাও; কুঁড়ে লোক; হাত ছাড়ো; নিষ্কর্মা বুড়ো কোথাকার; অসভ্য মানুষ; অসভ্য লোক; অসভ্য জাতির লোক; অকর্মণ্য লোক; ইতর নীচবংশীয় লোক;"}
+{ "_id" : { "$oid" : "566ff615e4b04472e60c80f2"} , "Word" : "look into" , "meaning" : "অনুসন্ধান করা; পরীক্ষা করা; মোটামুটি দেখা; উল্টেপাল্টে দেখা; গভীরভাবে অনুসন্ধান করা; গভীরভাবে বিচার করা; তদন্ত করা;"}
+{ "_id" : { "$oid" : "566ff616e4b04472e60c80f3"} , "Word" : "look for" , "meaning" : "খোঁজা; প্রত্যাশা করা; সন্ধান করা; অনুসন্ধান করা; আশা করা; প্রতীক্ষা করা; অন্বেষণ করা;"}
+{ "_id" : { "$oid" : "566ff616e4b04472e60c80f4"} , "Word" : "longterm" , "meaning" : "দীর্ঘমেয়াদী;"}
+{ "_id" : { "$oid" : "566ff616e4b04472e60c80f5"} , "Word" : "look" , "meaning" : "তাকান, দেখা,"}
+{ "_id" : { "$oid" : "566ff617e4b04472e60c80f6"} , "Word" : "look on" , "meaning" : "তাকিয়ে থাকা; তাকিয়ে তাকিয়ে দেখা; গণ্য করা; বিবেচনা করা; মনে করা; ভাবা; দর্শক হত্তয়া; নিরীক্ষণ করা; দৃষি্টগোচর করান;"}
+{ "_id" : { "$oid" : "566ff617e4b04472e60c80f7"} , "Word" : "look forward to" , "meaning" : "সানন্দে প্রত্যাশা করা; সানন্দে প্রতীক্ষা করা;"}
+{ "_id" : { "$oid" : "566ff617e4b04472e60c80f8"} , "Word" : "loneliness" , "meaning" : "নিংসঙ্গতা, একাকিত্ব, নির্জনতা"}
+{ "_id" : { "$oid" : "566ff618e4b04472e60c80f9"} , "Word" : "long-sighted" , "meaning" : "দূরদৃষ্টি বিশিষ্ট বিচক্ষণ"}
+{ "_id" : { "$oid" : "566ff618e4b04472e60c80fa"} , "Word" : "lollipop" , "meaning" : "কাঠিতে আটকানো মিঠাই"}
+{ "_id" : { "$oid" : "566ff618e4b04472e60c80fb"} , "Word" : "long time" , "meaning" : "দীর্ঘকাল; বহুকাল;"}
+{ "_id" : { "$oid" : "566ff618e4b04472e60c80fc"} , "Word" : "loop hole" , "meaning" : "পলায়নের পথ; পলায়নের উপায়; ঘুলঘুলি; ছিদ্রপথ; রন্ধ্র; উদ্ধার পাওয়ার পথ; উপায়; রাস্তা;"}
+{ "_id" : { "$oid" : "566ff619e4b04472e60c80fd"} , "Word" : "lookafter" , "meaning" : "দেখাশোনা করা; যত্নআত্তি করা; লক্ষ্য রাখা; চোখেচোখে রাখা; তত্ত্বাবধান করা; সন্ধান করা; মনোযোগ দেত্তয়া; যত্ন লত্তয়া; অভিভাবকত্ব করা; তদারক করা;"}
+{ "_id" : { "$oid" : "566ff619e4b04472e60c80fe"} , "Word" : "look forward" , "meaning" : "প্রত্যাশা করা;"}
+{ "_id" : { "$oid" : "566ff61ae4b04472e60c80ff"} , "Word" : "lolled" , "meaning" : "অলসভাবে শুইয়া থাকা; অলসভাবে শুইয়া রাখা; লক্লক্ করা; লক্লক্ করান; বাহির করিয়া ঝোলা; বাহির করিয়া ঝোলান;"}
+{ "_id" : { "$oid" : "566ff61ae4b04472e60c8100"} , "Word" : "longitudes" , "meaning" : "দ্রাঘিমা; দেশান্তর;"}
+{ "_id" : { "$oid" : "566ff61ae4b04472e60c8101"} , "Word" : "looked" , "meaning" : "তাকান; প্রত্যাশা করা; চেহারা দেখান; মনে হত্তয়া; তত্ত্বাবধান করা; প্রতীয়মান হত্তয়া; নিশ্চিত করা; নজর দেত্তয়া; দৃষি্টপাত করা; নেত্রপাত করা; ক্ষণিকের জন্য দেখিতে পাত্তয়া; অভিমুখ হত্তয়া; পালন করা; পরিচর্যা করা; সম্ভব বলিয়া মনে হত্তয়া; চাহনি দ্বারা প্রকাশ করা; উল্লেখ করা; মুখোমুখি হত্তয়া; মনোযোগী হত্তয়া;"}
+{ "_id" : { "$oid" : "566ff61be4b04472e60c8102"} , "Word" : "long-ago" , "meaning" : "প্রাচীন; পুরাকালীন; পূর্বকালীন; পুরাতন;"}
+{ "_id" : { "$oid" : "566ff61be4b04472e60c8103"} , "Word" : "long-standing" , "meaning" : "দীর্ঘকালস্থায়ী"}
+{ "_id" : { "$oid" : "566ff61be4b04472e60c8104"} , "Word" : "longish" , "meaning" : "লম্বাটে; লম্বা ধরনের;"}
+{ "_id" : { "$oid" : "566ff61ce4b04472e60c8105"} , "Word" : "look-out" , "meaning" : "সযত্ব পরিদর্শন, সতর্ক পাহারা"}
+{ "_id" : { "$oid" : "566ff61ce4b04472e60c8106"} , "Word" : "long jump" , "meaning" : "জমির উপর দীর্ঘ লম্ফ"}
+{ "_id" : { "$oid" : "566ff61ce4b04472e60c8107"} , "Word" : "long-lived" , "meaning" : "দীর্ঘজীবী, দীর্ঘস্থায়ী"}
+{ "_id" : { "$oid" : "566ff61de4b04472e60c8108"} , "Word" : "lout" , "meaning" : "অভদ্র লোক"}
+{ "_id" : { "$oid" : "566ff61de4b04472e60c8109"} , "Word" : "lour" , "meaning" : "ভ্রুকুটি করা, কালো হইয়া আসা"}
+{ "_id" : { "$oid" : "566ff61de4b04472e60c810a"} , "Word" : "loss of appetite" , "meaning" : "অগ্নিমান্দ্য; ক্ষুধামান্দ্য; ক্ষুধানাশ;"}
+{ "_id" : { "$oid" : "566ff61ee4b04472e60c810b"} , "Word" : "lorn" , "meaning" : "পরিত্যক্ত, নিঃসঙ্গ"}
+{ "_id" : { "$oid" : "566ff61ee4b04472e60c810c"} , "Word" : "losing" , "meaning" : "ক্ষতিকারক; ক্ষতিকর;"}
+{ "_id" : { "$oid" : "566ff61fe4b04472e60c810d"} , "Word" : "loopholes" , "meaning" : "পলায়নের পথ; পলায়নের উপায়;"}
+{ "_id" : { "$oid" : "566ff61fe4b04472e60c810e"} , "Word" : "loose" , "meaning" : "ঢিলা, আলগা, অসংযত"}
+{ "_id" : { "$oid" : "566ff61fe4b04472e60c810f"} , "Word" : "lord" , "meaning" : "প্রভু, শাসনকর্তা, মনিব"}
+{ "_id" : { "$oid" : "566ff620e4b04472e60c8110"} , "Word" : "loose motion" , "meaning" : "পাতলা পায়্খানা;"}
+{ "_id" : { "$oid" : "566ff620e4b04472e60c8111"} , "Word" : "lore" , "meaning" : "পুরাকাহিনী লোককাহিনী"}
+{ "_id" : { "$oid" : "566ff620e4b04472e60c8112"} , "Word" : "love" , "meaning" : "আনন্দের কাজ। ভালবাসা"}
+{ "_id" : { "$oid" : "566ff621e4b04472e60c8113"} , "Word" : "love letter" , "meaning" : "প্রেমপত্র; প্রণয়লিপি;"}
+{ "_id" : { "$oid" : "566ff621e4b04472e60c8114"} , "Word" : "loses" , "meaning" : "হারান; নষ্ট করা; খুয়ান; অক্ষম হত্তয়া; ব্যর্থ হত্তয়া; হানি ঘটান; ক্ষতিগ্রস্ত হত্তয়া; ক্ষতি ঘটান; পরাজিত হত্তয়া; ধরিতে না পারা; লক্ষ্যভ্রষ্ট হত্তয়া; অপচয় করা; অধিকার হারান; বঁচিত হত্তয়া; ঠকা; ক্ষতি ভোগ করা; অপচয় ভোগ হত্তয়া; খোয়ান;"}
+{ "_id" : { "$oid" : "566ff621e4b04472e60c8115"} , "Word" : "lotus" , "meaning" : "পদ্মফুল"}
+{ "_id" : { "$oid" : "566ff622e4b04472e60c8116"} , "Word" : "loser" , "meaning" : "দুর্ভাগ্য; অভাগা; হতভাগ্য লোক; যে হারিয়ে ফেলে; যে পরাজিত হয়;"}
+{ "_id" : { "$oid" : "566ff622e4b04472e60c8117"} , "Word" : "looting" , "meaning" : "অপহরণ করা; লুণ্ঠন করা;"}
+{ "_id" : { "$oid" : "566ff622e4b04472e60c8118"} , "Word" : "lotions" , "meaning" : "লোশন;"}
+{ "_id" : { "$oid" : "566ff622e4b04472e60c8119"} , "Word" : "lounges" , "meaning" : "আরামকক্ষ; আলস্যভরে স্থাপন; আলস্যভরে শয়ন; আলস্যভরে যাপন; উদ্দেশ্যহীন ঘোরাঘুরি;"}
+{ "_id" : { "$oid" : "566ff623e4b04472e60c811a"} , "Word" : "loose bowels" , "meaning" : "পাতলা পায়খানা;"}
+{ "_id" : { "$oid" : "566ff623e4b04472e60c811b"} , "Word" : "love-match" , "meaning" : "ভালবাসার বিয়ে"}
+{ "_id" : { "$oid" : "566ff623e4b04472e60c811c"} , "Word" : "loquacity" , "meaning" : "মুখরতা; বাচালতা; ফড়ফড়ানি;"}
+{ "_id" : { "$oid" : "566ff624e4b04472e60c811d"} , "Word" : "lopsided" , "meaning" : "ভারসাম্যহীন; সমতাহীন; সামঞ্জস্যহীন; একপেশে; একপাশে হেলে-থাকা; কাত হয়ে-থাকা;"}
+{ "_id" : { "$oid" : "566ff624e4b04472e60c811e"} , "Word" : "lordship" , "meaning" : "অভিজাত্য. অধিপত্য"}
+{ "_id" : { "$oid" : "566ff624e4b04472e60c811f"} , "Word" : "loveless" , "meaning" : "স্নেহহীন; স্নেহশূন্য; অপ্রেমিক; প্রেমবঁচিত; স্নেহবঁচিত; অনাদৃত; প্রেমশূন্য; প্রেমহীন; ;"}
+{ "_id" : { "$oid" : "566ff625e4b04472e60c8120"} , "Word" : "lorry" , "meaning" : "মালবাহী মোটর গাড়ী লরি"}
+{ "_id" : { "$oid" : "566ff625e4b04472e60c8121"} , "Word" : "loud-speaker" , "meaning" : "সস্বরবর্ধক যন্ত্র,"}
+{ "_id" : { "$oid" : "566ff625e4b04472e60c8122"} , "Word" : "loosest" , "meaning" : "আলগা; শিথিল; ঢিলা; মুক্ত; স্বাধীন; ফসকা; বেফাঁস; শ্লথ; অনিয়নি্ত্রত; এলো; অবাধ; বন্ধনহীন; শিথিল-বন্ধ; ধসকা; অসংসক্ত; অযথাযথ; অনির্দিষ্ট; অস্পষ্ট; সংযমহীন; উচ্ছৃঙ্খল; অসচ্চরিত্র; অসতর্ক; অনবহিত; অমনোযোগী; অবহেলাকারী; মন্থর; ঢলকো;"}
+{ "_id" : { "$oid" : "566ff626e4b04472e60c8123"} , "Word" : "looped" , "meaning" : "কর্তিত;"}
+{ "_id" : { "$oid" : "566ff626e4b04472e60c8124"} , "Word" : "lose balance" , "meaning" : "ঘাবড়ান;"}
+{ "_id" : { "$oid" : "566ff626e4b04472e60c8125"} , "Word" : "loudly" , "meaning" : "জোরে; সরবে; উচ্চেঃস্বরে; চেঁচিয়ে; উচ্চরবে; উচ্চৈ:স্বরে;"}
+{ "_id" : { "$oid" : "566ff627e4b04472e60c8126"} , "Word" : "lots" , "meaning" : "অংশ; ভাগ্য; গুচ্ছ; প্রচুর পরিমাণ; লটারি; সুরতি; নিয়তি; অদৃষ্ট; বন্দ; কিতা; সমস্তটা; প্রচুর সংখ্যা; ভাগ; গোছা;"}
+{ "_id" : { "$oid" : "566ff627e4b04472e60c8127"} , "Word" : "lop" , "meaning" : "ছাঁটা; মাথা কাটিয়া ফেলা; মাথা ছাঁটিয়া ফেলা; প্রান্ত কাটিয়া ফেলা; প্রান্ত ছাঁটিয়া ফেলা; ছাঁটিয়া বাদ দেত্তয়া; আলগাভাবে ঝোলা; গাছের ডালপালা কেটে ফেলা; কেটে ফেলা;"}
+{ "_id" : { "$oid" : "566ff627e4b04472e60c8128"} , "Word" : "loupe" , "meaning" : "আতস কাঁচ; বর্ধক কাঁচ; স্বর্ণকারের ক্ষুদ্র আতসকাচ;"}
+{ "_id" : { "$oid" : "566ff628e4b04472e60c8129"} , "Word" : "loophole" , "meaning" : "পলায়নের পথ; পলায়নের উপায়; ঘুলঘুলি; ছিদ্রপথ; রন্ধ্র; উদ্ধার পাওয়ার পথ; উপায়; রাস্তা;"}
+{ "_id" : { "$oid" : "566ff628e4b04472e60c812a"} , "Word" : "love-letter" , "meaning" : "প্রেমপত্র"}
+{ "_id" : { "$oid" : "566ff628e4b04472e60c812b"} , "Word" : "loveliness" , "meaning" : "কমনীয়তা; ঢলঢল; লাবণ্য; মাধুর্য; লালিত্য; সৌন্দর্য; রমণীয়তা;"}
+{ "_id" : { "$oid" : "566ff629e4b04472e60c812c"} , "Word" : "loveable" , "meaning" : "স্নেহের যোগ্য;"}
+{ "_id" : { "$oid" : "566ff629e4b04472e60c812d"} , "Word" : "lotus-eater" , "meaning" : "কল্পনাপ্রবণ অলস ব্যক্তি"}
+{ "_id" : { "$oid" : "566ff62ae4b04472e60c812e"} , "Word" : "lough" , "meaning" : "হ্রদ; সমুদ্রের শাখা; উপসাগর;"}
+{ "_id" : { "$oid" : "566ff62ae4b04472e60c812f"} , "Word" : "lose face" , "meaning" : "মাথা হেঁট হত্তয়া; বেইজ্জত হওয়া;"}
+{ "_id" : { "$oid" : "566ff62ae4b04472e60c8130"} , "Word" : "loud" , "meaning" : "কোলাহলকারী"}
+{ "_id" : { "$oid" : "566ff62be4b04472e60c8131"} , "Word" : "loutish" , "meaning" : "গ্রাম্য, কদাকার"}
+{ "_id" : { "$oid" : "566ff62be4b04472e60c8132"} , "Word" : "looseness" , "meaning" : "শিথিলতা"}
+{ "_id" : { "$oid" : "566ff62be4b04472e60c8133"} , "Word" : "lot" , "meaning" : "প্রচুর পরিমাণ"}
+{ "_id" : { "$oid" : "566ff62ce4b04472e60c8134"} , "Word" : "loquacious" , "meaning" : "বাঁচাল"}
+{ "_id" : { "$oid" : "566ff62ce4b04472e60c8135"} , "Word" : "lost" , "meaning" : "নিখোঁজ,"}
+{ "_id" : { "$oid" : "566ff62ce4b04472e60c8136"} , "Word" : "loss" , "meaning" : "ক্ষতি; হ্রাস; অপায়; বঁচিত অবস্থা; লোকসান; মান্দ্য; অলাভ; হানি; বিসর্জন; অপচয়; মৃতু্যজনিত ক্ষয়; মৃতু্যজনিত বিচ্ছেদ; বিনাশ; নাশ; ধ্বংস; পরাজয়; ঘা; ভঙ্গ; ক্ষয়; ; লোকচান; ক্ষয়ক্ষতি;"}
+{ "_id" : { "$oid" : "566ff62de4b04472e60c8137"} , "Word" : "lousy" , "meaning" : "পরিপূর্ণ; ইতর; মন্দ; অপকৃষ্ট; উকুনপূর্ণ; বিশ্রি; যাচ্ছেতাই; উকুনে ভরা; বাজে; উকুনে থিক থিক করছে এমন; যা-তা;"}
+{ "_id" : { "$oid" : "566ff62de4b04472e60c8138"} , "Word" : "lope" , "meaning" : "লাফান; লাফিয়ে লাফিয়ে স্বচ্ছন্দগতিতে চলা;"}
+{ "_id" : { "$oid" : "566ff62de4b04472e60c8139"} , "Word" : "losers" , "meaning" : "দুর্ভাগ্য; অভাগা; হতভাগ্য লোক;"}
+{ "_id" : { "$oid" : "566ff62ee4b04472e60c813a"} , "Word" : "loudest" , "meaning" : "অট্ট; প্রবল; জাঁকাল; উচ্চরব; উচ্চ আত্তয়াজত্তয়ালা; অমার্জিত; কোলাহলপূর্ণ;"}
+{ "_id" : { "$oid" : "566ff62ee4b04472e60c813b"} , "Word" : "lovable" , "meaning" : "ভালবাসারযোগ্য, কমনীয় নম্র"}
+{ "_id" : { "$oid" : "566ff62ee4b04472e60c813c"} , "Word" : "loops" , "meaning" : "প্রাচীরগাত্রের ছিদ্র; পলায়নের পথ; পলায়নের উপায়; পরিহারের পথ; পরিহারের উপায়;"}
+{ "_id" : { "$oid" : "566ff62fe4b04472e60c813d"} , "Word" : "loth" , "meaning" : "অরাজি; অনিচ্ছুক; অপ্রবৃত্ত; বিতৃষ্ণ; নারাজ;"}
+{ "_id" : { "$oid" : "566ff62fe4b04472e60c813e"} , "Word" : "louver" , "meaning" : "ঝিলিমিলি; ঝিল্লি; খড়খড়ি; ছাদের ওপর ধোঁয়া বেরোনোর ব্যবস্থা;"}
+{ "_id" : { "$oid" : "566ff62fe4b04472e60c813f"} , "Word" : "loot" , "meaning" : "লুঠ, লুষ্ঠন, লুট করা"}
+{ "_id" : { "$oid" : "566ff630e4b04472e60c8140"} , "Word" : "lota" , "meaning" : "ঘটি; লোটা;"}
+{ "_id" : { "$oid" : "566ff630e4b04472e60c8141"} , "Word" : "louse" , "meaning" : "উকুন"}
+{ "_id" : { "$oid" : "566ff630e4b04472e60c8142"} , "Word" : "lounge" , "meaning" : "আরাম কক্ষ, হেলান দিয়ে আরামে বসা"}
+{ "_id" : { "$oid" : "566ff631e4b04472e60c8143"} , "Word" : "lopped" , "meaning" : "ছাঁটা;"}
+{ "_id" : { "$oid" : "566ff631e4b04472e60c8144"} , "Word" : "loots" , "meaning" : "অপহরণ করা; লুণ্ঠন করা;"}
+{ "_id" : { "$oid" : "566ff631e4b04472e60c8145"} , "Word" : "lotos" , "meaning" : "পদ্ম; জলপদ্ম; জলপদ্ম জাড়; কমল; উত্পল; অম্বুজ; জলজ; নীরজ; পঙ্কজ; পুষ্কর; নলিন; অরবিন্দ; সুঁদি; অম্ভোজ;"}
+{ "_id" : { "$oid" : "566ff632e4b04472e60c8146"} , "Word" : "lordly" , "meaning" : "অভিজাত মর্যাদাসম্পন্ন"}
+{ "_id" : { "$oid" : "566ff632e4b04472e60c8147"} , "Word" : "loosening" , "meaning" : "স্খলন;"}
+{ "_id" : { "$oid" : "566ff632e4b04472e60c8148"} , "Word" : "lorded" , "meaning" : "লর্ডের পদ দেত্তয়া; কর্তৃত্ব করা; শাসন করা;"}
+{ "_id" : { "$oid" : "566ff632e4b04472e60c8149"} , "Word" : "loosely" , "meaning" : "ঢিলেঢালাভাবে; এলোমেলোভাবে; আলগাভাবে; শিথিলভাবে; স্বাধীনভাবে;"}
+{ "_id" : { "$oid" : "566ff633e4b04472e60c814a"} , "Word" : "loved" , "meaning" : "ভালবাসা; স্নেহ করা; প্রীতিপূর্ণ হত্তয়া; পেয়ার করা; আসক্ত হত্তয়া; প্রবলভাবে পছন্দ করা; প্রণয়াকাঙ্ক্ষী হত্তয়া; লুব্ধ হত্তয়া; লিপ্সু হত্তয়া; করুণা করা; সোহাগ করা;"}
+{ "_id" : { "$oid" : "566ff633e4b04472e60c814b"} , "Word" : "lousier" , "meaning" : "পরিপূর্ণ; ইতর; অপকৃষ্ট; মন্দ; উকুনপূর্ণ;"}
+{ "_id" : { "$oid" : "566ff633e4b04472e60c814c"} , "Word" : "loudmouthed" , "meaning" : "চেঁচানে; বক্বকে;"}
+{ "_id" : { "$oid" : "566ff634e4b04472e60c814d"} , "Word" : "lottery" , "meaning" : "লটারি, ভাগ্য পরীক্ষার খেলা"}
+{ "_id" : { "$oid" : "566ff634e4b04472e60c814e"} , "Word" : "loosemotion" , "meaning" : "পাতলা পায়্খানা;"}
+{ "_id" : { "$oid" : "566ff634e4b04472e60c814f"} , "Word" : "lose" , "meaning" : "খোয়ানো, হারানো"}
+{ "_id" : { "$oid" : "566ff635e4b04472e60c8150"} , "Word" : "looser" , "meaning" : "আলগা; শিথিল; মুক্ত; ঢিলা; বেফাঁস; স্বাধীন; অস্পষ্ট; ফসকা; শ্লথ; অনিয়নি্ত্রত; অবাধ; বন্ধনহীন; ধসকা; অসংসক্ত; অযথাযথ; অনির্দিষ্ট; সংযমহীন; উচ্ছৃঙ্খল; অসচ্চরিত্র; অসতর্ক; অনবহিত; অবহেলাকারী; মন্থর; ঢলকো; শিথিল-বন্ধ; এলো; অমনোযোগী;"}
+{ "_id" : { "$oid" : "566ff635e4b04472e60c8151"} , "Word" : "looted" , "meaning" : "অপহৃত; হৃৎ;"}
+{ "_id" : { "$oid" : "566ff635e4b04472e60c8152"} , "Word" : "lovelorn" , "meaning" : "প্রণয়পীড়িত; বিরহপীড়িত; প্রেমকাতর; বিরহাতুর; প্রণয়পীড়িত; হতাশপ্রণয়;"}
+{ "_id" : { "$oid" : "566ff636e4b04472e60c8153"} , "Word" : "loosen" , "meaning" : "ঢিলা করা বা হওয়া"}
+{ "_id" : { "$oid" : "566ff636e4b04472e60c8154"} , "Word" : "lotion" , "meaning" : "লোশন, প্রক্ষালনের জন্য তরল ঔষধ"}
+{ "_id" : { "$oid" : "566ff636e4b04472e60c8155"} , "Word" : "lovelock" , "meaning" : "ঝুলপি; জুলপি;"}
+{ "_id" : { "$oid" : "566ff637e4b04472e60c8156"} , "Word" : "loosened" , "meaning" : "আলুলায়িত; স্খলিত; বিমুক্ত;"}
+{ "_id" : { "$oid" : "566ff637e4b04472e60c8157"} , "Word" : "lower" , "meaning" : "নামানো, কমানো, কম হওয়া"}
+{ "_id" : { "$oid" : "566ff638e4b04472e60c8158"} , "Word" : "lowliness" , "meaning" : "নিরহঙ্কারতা; অকিঁচনতা;"}
+{ "_id" : { "$oid" : "566ff638e4b04472e60c8159"} , "Word" : "luggage" , "meaning" : "ট্রাঙ্ক ইত্যাদি মালপত্র, গাঁটারি"}
+{ "_id" : { "$oid" : "566ff638e4b04472e60c815a"} , "Word" : "lucid" , "meaning" : "স্পষ্ট, সহজ বোধ"}
+{ "_id" : { "$oid" : "566ff639e4b04472e60c815b"} , "Word" : "lullabies" , "meaning" : "ঘুমপাড়ানি গান;"}
+{ "_id" : { "$oid" : "566ff639e4b04472e60c815c"} , "Word" : "lukewarm" , "meaning" : "আগ্রহহীন, ঐকান্তিকতা হীন"}
+{ "_id" : { "$oid" : "566ff639e4b04472e60c815d"} , "Word" : "luckless" , "meaning" : "দুর্ভাগ্য, ভাগ্যহীন"}
+{ "_id" : { "$oid" : "566ff63ae4b04472e60c815e"} , "Word" : "low-spirited" , "meaning" : "নিস্তেজ, ভগ্নোৎসাহ"}
+{ "_id" : { "$oid" : "566ff63ae4b04472e60c815f"} , "Word" : "lovemaking" , "meaning" : "প্রণয়জ্ঞাপন; প্রেমনিবেদন;"}
+{ "_id" : { "$oid" : "566ff63ae4b04472e60c8160"} , "Word" : "lucent" , "meaning" : "উজ্জ্বল; দীপ্তিমিান্; ঝকঝকে; অর্ধস্বচ্ছ; দীপ্তিমান; ভাস্কর;"}
+{ "_id" : { "$oid" : "566ff63be4b04472e60c8161"} , "Word" : "lowlying" , "meaning" : "নিচু; নিম্ন; নাবাল;"}
+{ "_id" : { "$oid" : "566ff63be4b04472e60c8162"} , "Word" : "lovely" , "meaning" : "প্রীতিকর, মনোরম"}
+{ "_id" : { "$oid" : "566ff63be4b04472e60c8163"} , "Word" : "low tide" , "meaning" : "ভাটা;"}
+{ "_id" : { "$oid" : "566ff63ce4b04472e60c8164"} , "Word" : "lube" , "meaning" : "পিচ্ছিলকারক পদার্থ; মসৃণ করে এমন;"}
+{ "_id" : { "$oid" : "566ff63ce4b04472e60c8165"} , "Word" : "loyalty" , "meaning" : "আনুগত্য, বিশ্বস্ততা,"}
+{ "_id" : { "$oid" : "566ff63ce4b04472e60c8166"} , "Word" : "lug" , "meaning" : "হোঁটড়াইয়া টানিয়া লইয়া যাওয়া"}
+{ "_id" : { "$oid" : "566ff63de4b04472e60c8167"} , "Word" : "lover" , "meaning" : "যে ভাল বাসে"}
+{ "_id" : { "$oid" : "566ff63de4b04472e60c8168"} , "Word" : "lucre" , "meaning" : "নীচ লাভ; ধনদৌলত; লাভ; অর্থলাভ; দাঁও; টাকাপয়সা বাগানো;"}
+{ "_id" : { "$oid" : "566ff63de4b04472e60c8169"} , "Word" : "loyal" , "meaning" : "অনুগত, বিশ্বস্ত,"}
+{ "_id" : { "$oid" : "566ff63ee4b04472e60c816a"} , "Word" : "luminary" , "meaning" : "জ্যোতিস্ক"}
+{ "_id" : { "$oid" : "566ff63ee4b04472e60c816b"} , "Word" : "lull" , "meaning" : "শান্ত করা, ঘুম পড়ানো"}
+{ "_id" : { "$oid" : "566ff63ee4b04472e60c816c"} , "Word" : "luck" , "meaning" : "অদৃষ্ট, ভাগ্য সৌজন্য"}
+{ "_id" : { "$oid" : "566ff63fe4b04472e60c816d"} , "Word" : "lower division assistant" , "meaning" : "নিম্নমান সহকারী;"}
+{ "_id" : { "$oid" : "566ff63fe4b04472e60c816e"} , "Word" : "lumbago" , "meaning" : "কোমরের বাত, কটিবাত"}
+{ "_id" : { "$oid" : "566ff63fe4b04472e60c816f"} , "Word" : "lubricates" , "meaning" : "মসৃণ করা; পিচ্ছিল করা;"}
+{ "_id" : { "$oid" : "566ff640e4b04472e60c8170"} , "Word" : "loving" , "meaning" : "স্নেহময়, প্রেমময়"}
+{ "_id" : { "$oid" : "566ff640e4b04472e60c8171"} , "Word" : "luminaries" , "meaning" : "আলোর উত্স;"}
+{ "_id" : { "$oid" : "566ff640e4b04472e60c8172"} , "Word" : "luckier" , "meaning" : "শুভ; ভাগ্যবান্; পয়মন্ত়; জোরকপালে; সৌভাগ্যপূর্ণ; সৌভাগ্যদায়ক; সৌভাগ্যসূচক;"}
+{ "_id" : { "$oid" : "566ff641e4b04472e60c8173"} , "Word" : "lowering" , "meaning" : "ভ্রূকুটি করা; খাট করা; খর্ব করা; নত করা; কাল হইয়া আসা; চোখ পাকান;"}
+{ "_id" : { "$oid" : "566ff641e4b04472e60c8174"} , "Word" : "lubberly" , "meaning" : "নির্র্বোধ ব্যক্তির মত"}
+{ "_id" : { "$oid" : "566ff641e4b04472e60c8175"} , "Word" : "lulled" , "meaning" : "ঘুমান; স্থির করা; ঘুম পাড়ান; শান্ত করা; প্রশমিত হত্তয়া; স্থির হত্তয়া;"}
+{ "_id" : { "$oid" : "566ff642e4b04472e60c8176"} , "Word" : "low" , "meaning" : "নীচু অসভীর"}
+{ "_id" : { "$oid" : "566ff642e4b04472e60c8177"} , "Word" : "lower case" , "meaning" : "ছোটো হাতের অক্ষর;"}
+{ "_id" : { "$oid" : "566ff642e4b04472e60c8178"} , "Word" : "loyalists" , "meaning" : "রাজভক্ত ব্যক্তি;"}
+{ "_id" : { "$oid" : "566ff642e4b04472e60c8179"} , "Word" : "lubricious" , "meaning" : "লম্পট; তৈলাক্ত; পিচ্ছিল; মসৃণ; কামী; কামার্থী; কামীন; কামুক; তেলতেলে; ;"}
+{ "_id" : { "$oid" : "566ff643e4b04472e60c817a"} , "Word" : "lumbar" , "meaning" : "কটিদেশীয়; কটিদেশের; কটিদেশসম্পর্কিত; কটিদেশস্থ; কশেরুকা সংক্রান্ত;"}
+{ "_id" : { "$oid" : "566ff643e4b04472e60c817b"} , "Word" : "ludo" , "meaning" : "লুডো-খেলা"}
+{ "_id" : { "$oid" : "566ff643e4b04472e60c817c"} , "Word" : "lucidity" , "meaning" : "প্রাঞ্জলতা; স্পষ্টতা; স্বচ্ছতা; সুস্থ; সজ্ঞান অবস্থা;"}
+{ "_id" : { "$oid" : "566ff644e4b04472e60c817d"} , "Word" : "lugubrious" , "meaning" : "বিষণ্ণ; নিরানন্দ; শোকার্ত; কান্দ-কান্দ; দুঃখজনক; হতাশাব্যঞ্জক; বিষাদগ্রস্ত; শোচনীয়;"}
+{ "_id" : { "$oid" : "566ff644e4b04472e60c817e"} , "Word" : "luftwaffe" , "meaning" : "জার্মান বিমান বল"}
+{ "_id" : { "$oid" : "566ff644e4b04472e60c817f"} , "Word" : "lullaby" , "meaning" : "শিশুদিগকে ঘুম পড়াইবার গান"}
+{ "_id" : { "$oid" : "566ff645e4b04472e60c8180"} , "Word" : "lozenge" , "meaning" : "লজনচুস, লজেন্স"}
+{ "_id" : { "$oid" : "566ff645e4b04472e60c8181"} , "Word" : "luminescent" , "meaning" : "আলোক-উৎসাহী কিন্তু উত্তপ্ত নয় এমন;"}
+{ "_id" : { "$oid" : "566ff645e4b04472e60c8182"} , "Word" : "lugs" , "meaning" : "কাণ; কর্ণ; কান; হাতল; ফাঁস; বোকা লোক;"}
+{ "_id" : { "$oid" : "566ff646e4b04472e60c8183"} , "Word" : "lovesick" , "meaning" : "প্রণয়কাতর, প্রেমাতুর"}
+{ "_id" : { "$oid" : "566ff646e4b04472e60c8184"} , "Word" : "lumbering" , "meaning" : "গাছ কাটার ও চেরাইয়ের কাজ;"}
+{ "_id" : { "$oid" : "566ff646e4b04472e60c8185"} , "Word" : "lowbred" , "meaning" : "অনার্য; অভদ্র;"}
+{ "_id" : { "$oid" : "566ff647e4b04472e60c8186"} , "Word" : "low-brow" , "meaning" : "যে বুদ্ধিমান নয়"}
+{ "_id" : { "$oid" : "566ff647e4b04472e60c8187"} , "Word" : "lucrative" , "meaning" : "লাভ জনক, মুনাফাদায়ক"}
+{ "_id" : { "$oid" : "566ff647e4b04472e60c8188"} , "Word" : "lubricants" , "meaning" : "পিচ্ছিলকারক পদার্থ; তৈল; তেল;"}
+{ "_id" : { "$oid" : "566ff648e4b04472e60c8189"} , "Word" : "lowland" , "meaning" : "নিম্নভূমি"}
+{ "_id" : { "$oid" : "566ff648e4b04472e60c818a"} , "Word" : "lovesome" , "meaning" : "মনোহর; স্নেহময়; প্রেমময়; চমৎকার;"}
+{ "_id" : { "$oid" : "566ff648e4b04472e60c818b"} , "Word" : "lubricate" , "meaning" : "ভেজানো; তৈলাক্ত করা; ঘর্ষণজনিত বাধা হ্রাস করা; মসৃণ করা; পিচ্ছিল করা;"}
+{ "_id" : { "$oid" : "566ff649e4b04472e60c818c"} , "Word" : "lulling" , "meaning" : "ঘুমপাড়ানি;"}
+{ "_id" : { "$oid" : "566ff649e4b04472e60c818d"} , "Word" : "lower limb" , "meaning" : "অধঃশাখা;"}
+{ "_id" : { "$oid" : "566ff649e4b04472e60c818e"} , "Word" : "lubrication" , "meaning" : "তৈলাক্তকরণ;"}
+{ "_id" : { "$oid" : "566ff64ae4b04472e60c818f"} , "Word" : "luminance" , "meaning" : "ঔজ্জ্বল্য-হার;"}
+{ "_id" : { "$oid" : "566ff64ae4b04472e60c8190"} , "Word" : "lubber" , "meaning" : "বিপুলকায়, কদাকার, নির্র্বোধ লোক"}
+{ "_id" : { "$oid" : "566ff64ae4b04472e60c8191"} , "Word" : "luckily" , "meaning" : "সৌভাগ্য ক্রমে"}
+{ "_id" : { "$oid" : "566ff64be4b04472e60c8192"} , "Word" : "lowly" , "meaning" : "বিনীয়, নম্র, বিনীত নীচু"}
+{ "_id" : { "$oid" : "566ff64be4b04472e60c8193"} , "Word" : "lubricant" , "meaning" : "পিচিছলকারক, পিচিছলকারক পদার্থ"}
+{ "_id" : { "$oid" : "566ff64be4b04472e60c8194"} , "Word" : "low-bred" , "meaning" : "নীচজন্মা, নিম্নশ্রেণী"}
+{ "_id" : { "$oid" : "566ff64ce4b04472e60c8195"} , "Word" : "luminescence" , "meaning" : "আলোক বিকিরণ;"}
+{ "_id" : { "$oid" : "566ff64ce4b04472e60c8196"} , "Word" : "ludicrous" , "meaning" : "হাস্যকর"}
+{ "_id" : { "$oid" : "566ff64ce4b04472e60c8197"} , "Word" : "lows" , "meaning" : "নিম্ন স্তর; নামাল; হাম্বা; নর্দন;"}
+{ "_id" : { "$oid" : "566ff64de4b04472e60c8198"} , "Word" : "lucky" , "meaning" : "ভাগ্যবান; সৌভাগ্যশালী; কপালী; কপালে; সৌভাগ্যজনক; লক্ষ্মীমন্ত; শুভ; ভাগ্যবান্; জোরকপালে; সৌভাগ্যপূর্ণ; সৌভাগ্যদায়ক; সৌভাগ্যসূচক; পয়মন্ত়;"}
+{ "_id" : { "$oid" : "566ff64de4b04472e60c8199"} , "Word" : "lozenges" , "meaning" : "লজেঁচুস;"}
+{ "_id" : { "$oid" : "566ff64de4b04472e60c819a"} , "Word" : "lumber" , "meaning" : "ভার, বাজে জিনিস"}
+{ "_id" : { "$oid" : "566ff64ee4b04472e60c819b"} , "Word" : "lucifer" , "meaning" : "শয়তান, দীপশলাকা"}
+{ "_id" : { "$oid" : "566ff64ee4b04472e60c819c"} , "Word" : "lubricous" , "meaning" : "তৈলাক্ত; পিচ্ছিল; মসৃণ; লম্পট; কামুক; তেলতেলে; ;"}
+{ "_id" : { "$oid" : "566ff64ee4b04472e60c819d"} , "Word" : "lowered" , "meaning" : "নত; খর্ব; অধ:কৃত;"}
+{ "_id" : { "$oid" : "566ff64fe4b04472e60c819e"} , "Word" : "lumberjack" , "meaning" : "করাতী;"}
+{ "_id" : { "$oid" : "566ff64fe4b04472e60c819f"} , "Word" : "luminosity" , "meaning" : "ঔজ্জ্বল্য; উজ্জ্বলতা; দীপ্তি; প্রভা; আপেক্ষিক উজ্জ্বলতা;"}
+{ "_id" : { "$oid" : "566ff64fe4b04472e60c81a0"} , "Word" : "lulls" , "meaning" : "ঘুমান; স্থির করা; ঘুম পাড়ান; শান্ত করা; প্রশমিত হত্তয়া; স্থির হত্তয়া;"}
+{ "_id" : { "$oid" : "566ff650e4b04472e60c81a1"} , "Word" : "lowest" , "meaning" : "অধম;"}
+{ "_id" : { "$oid" : "566ff650e4b04472e60c81a2"} , "Word" : "lower class" , "meaning" : "নিম্নবর্গ; নিম্নশ্রেণী;"}
+{ "_id" : { "$oid" : "566ff650e4b04472e60c81a3"} , "Word" : "lovestruck" , "meaning" : "কামার্ত;"}
+{ "_id" : { "$oid" : "566ff651e4b04472e60c81a4"} , "Word" : "loyalist" , "meaning" : "রাজভক্ত ব্যক্তি; রাজার প্রতি অনুগত ব্যক্তি;"}
+{ "_id" : { "$oid" : "566ff651e4b04472e60c81a5"} , "Word" : "lovematch" , "meaning" : "প্রণয়পরিণয়;"}
+{ "_id" : { "$oid" : "566ff652e4b04472e60c81a6"} , "Word" : "lycra" , "meaning" : "লিক্রা;"}
+{ "_id" : { "$oid" : "566ff652e4b04472e60c81a7"} , "Word" : "lump" , "meaning" : "পিন্ড,তালা"}
+{ "_id" : { "$oid" : "566ff652e4b04472e60c81a8"} , "Word" : "lunched" , "meaning" : "মধ্যাহ্নভোজন করা;"}
+{ "_id" : { "$oid" : "566ff653e4b04472e60c81a9"} , "Word" : "lymphatic" , "meaning" : "রসসংক্রান্ত; লসিকাসংক্রান্ত; রসবাহী;"}
+{ "_id" : { "$oid" : "566ff653e4b04472e60c81aa"} , "Word" : "lyre" , "meaning" : "বাদ্যযন্ত্র, বিশেষ, বীণা"}
+{ "_id" : { "$oid" : "566ff653e4b04472e60c81ab"} , "Word" : "lungs" , "meaning" : "শ্বাসযন্ত্র; কলিজ

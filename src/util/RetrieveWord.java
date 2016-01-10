@@ -35,11 +35,11 @@ public class RetrieveWord {
 		return list;
 	}
 
-	public static void main(String[] args) throws Exception {
+	/*public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 		String url = "http://www.english-bangla.com/dictionary/z";
 		getMeaning(url);
 
-	}
+	}*/
 
 }

@@ -14,8 +14,7 @@ import com.mongodb.MongoClient;
 
 public class MongoRetrieve {
 
-
-	public static void main( String args[] ) {
+	public static void mainFunc(){
 
 		try{   
 
@@ -32,18 +31,18 @@ public class MongoRetrieve {
 				File file = new File((char)('a'+ii)+".txt");	
 				System.out.println(file.getAbsolutePath());
 				System.out.println(file.getPath());
-				
+
 				if (!file.exists()) {
 					file.createNewFile();
 				}
-			//	FileWriter fw = new FileWriter(file.getAbsoluteFile());
+				//	FileWriter fw = new FileWriter(file.getAbsoluteFile());
 				Writer out = new BufferedWriter(new OutputStreamWriter(
-					    new FileOutputStream(file.getAbsoluteFile()), "UTF-8"));
-				
-			//	BufferedWriter bw = new BufferedWriter(fw);
-				
+						new FileOutputStream(file.getAbsoluteFile()), "UTF-8"));
+
+				//	BufferedWriter bw = new BufferedWriter(fw);
+
 				DBCollection coll = db.getCollection("words_started_with_"+(char)('a'+ii));
-			//	System.out.println("Collection mycol selected successfully");
+				//	System.out.println("Collection mycol selected successfully");
 
 				DBCursor cursor = coll.find();
 				int i = 1;
@@ -62,4 +61,7 @@ public class MongoRetrieve {
 		}
 	}
 
+/*
+	public static void main( String args[] ) {
+	}*/
 }

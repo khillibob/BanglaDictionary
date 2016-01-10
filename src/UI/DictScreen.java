@@ -12,6 +12,7 @@ import java.awt.event.ActionListener;
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
+import java.net.URISyntaxException;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -29,7 +30,7 @@ public class DictScreen {
 	/**
 	 * Launch the application.
 	 */
-	public static void main(String[] args) {
+	public static void dictUI(){
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
@@ -90,40 +91,65 @@ public class DictScreen {
 		frame.getContentPane().add(input, gbc_input);
 		input.setColumns(10);
 
+		File font_file = new File(System.getProperty("user.dir")+File.separator+"src"+File.separator+"Bangla.ttf");
+		 Font font;
+		 try {
+			font = Font.createFont(Font.TRUETYPE_FONT, font_file);
+
+			 Font sizedFont = font.deriveFont(20f);
+			 output.setFont(sizedFont);
+		} catch (FontFormatException e2) {
+			// TODO Auto-generated catch block
+			output.setText("There are some errors!! Send email to khillibob@gmail.com");
+			e2.printStackTrace();
+		} catch (IOException e2) {
+			// TODO Auto-generated catch block
+			output.setText("There are some errors!! Send email to khillibob@gmail.com");
+			e2.printStackTrace();
+		}
 		JButton btnFindMeaning = new JButton("Find Meaning");
 		btnFindMeaning.addActionListener(new ActionListener() {
 
-			
+
 			public void actionPerformed(ActionEvent arg0) {
-				/*	InputStream is = DictScreen.class.getResourceAsStream("D:\\B2B_Conflux_Workspace_new\\MongoTest\\src\\Bangla.ttf");
-
-				InputStream is = MyClass.class.getResourceAsStream("TestFont.ttf");
-				Font font = Font.createFont(Font.TRUETYPE_FONT, is);
-				 */	File font_file = new File(System.getProperty("user.dir")+File.separator+"src"+File.separator+"Bangla.ttf");
-				 Font font;
-				 try {
-					 font = Font.createFont(Font.TRUETYPE_FONT, font_file);
-					 Font sizedFont = font.deriveFont(20f);
-					 //					Font font = Font.createFont(Font.TRUETYPE_FONT, is);
-					 //	Font font = new Font("Bangla",Font.PLAIN,15);
-				//	 System.out.println("asdasdas");
-					 String ip = input.getText();
-					 output.setFont(sizedFont);
-					 String meaning = ReadWord.getWord(ip);
-					 output.setText(meaning);
-				 } catch (FontFormatException e) {
-					 // TODO Auto-generated catch block
-					 e.printStackTrace();
-				 } catch (IOException e) {
-					 // TODO Auto-generated catch block
-					 e.printStackTrace();
-				 }
 
 
+			//	InputStream is = MyClass.class.getResourceAsStream("TestFont.ttf");
+			//	Font font = Font.createFont(Font.TRUETYPE_FONT, is);
+				String ip = input.getText();
+				 
+				 String meaning = ReadWord.getWord(ip);
+				 output.setText(meaning);
+				
 
 
 			}
 		});
+
+
+		/*btnFindMeaning.addActionListener(new ActionListener() {
+
+
+			public void actionPerformed(ActionEvent arg0) {
+				try {
+					output.setText(System.getProperty("user.dir")+"\n\n"+System.getProperty("user.home")+"\n\n"+
+							DictScreen.class.getResource("Files")+"\n\n"+
+
+DictScreen.class.getProtectionDomain().getCodeSource().getLocation().toURI().getPath()
+
++"\n\n"+
+DictScreen.class.getClassLoader().getResource("Files/a.txt")+"\n\n"+
+DictScreen.class.getClassLoader().getResource("Files/").getPath()
+							);
+				} catch (URISyntaxException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+
+			}
+		});
+*/
+
 		GridBagConstraints gbc_btnFindMeaning = new GridBagConstraints();
 		gbc_btnFindMeaning.insets = new Insets(0, 0, 5, 5);
 		gbc_btnFindMeaning.gridx = 10;
@@ -136,31 +162,15 @@ public class DictScreen {
 		gbc_lblNewLabel_1.gridx = 13;
 		gbc_lblNewLabel_1.gridy = 8;
 		frame.getContentPane().add(lblNewLabel_1, gbc_lblNewLabel_1);
-		
-		
+
+
 		input.addActionListener(new ActionListener() {
-		    @Override
-		    public void actionPerformed(ActionEvent e) {
-		    	File font_file = new File(System.getProperty("user.dir")+File.separator+"src"+File.separator+"Bangla.ttf");
-				 Font font;
-				 try {
-					 font = Font.createFont(Font.TRUETYPE_FONT, font_file);
-					 Font sizedFont = font.deriveFont(20f);
-					 //					Font font = Font.createFont(Font.TRUETYPE_FONT, is);
-					 //	Font font = new Font("Bangla",Font.PLAIN,15);
-				//	 System.out.println("asdasdas");
-					 String ip = input.getText();
-					 output.setFont(sizedFont);
-					 String meaning = ReadWord.getWord(ip);
-					 output.setText(meaning);
-				 } catch (FontFormatException e1) {
-					 // TODO Auto-generated catch block
-					 e1.printStackTrace();
-				 } catch (IOException e1) {
-					 // TODO Auto-generated catch block
-					 e1.printStackTrace();
-				 }
-		    }
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				String ip = input.getText();
+				String meaning = ReadWord.getWord(ip);
+				output.setText(meaning);
+			}
 		});
 	}
 

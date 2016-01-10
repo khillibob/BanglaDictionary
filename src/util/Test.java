@@ -8,8 +8,9 @@ import java.util.regex.*;
 
 public class Test {
 
-    public static void main(String[] args) throws Exception {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+    /*public static void main(String[] args) throws Exception {
+        
+        Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. 
         
         BufferedReader br  = new BufferedReader(new InputStreamReader(System.in));
         String s = br.readLine();
@@ -18,5 +19,5 @@ public class Test {
         System.out.println(new BigInteger(s).multiply(new BigInteger(s1)));
         
         
-    }
+    }*/
 }

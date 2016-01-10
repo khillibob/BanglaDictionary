@@ -68,11 +68,11 @@ public static ArrayList<String> parsePage(String url){
         return list;
 	}
 	
-	public static void main(String[] args) throws Exception {
+	/*public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 		String url = "http://www.english-bangla.com/dictionary/";
 		getMeaning(url);
 		  
-	}
+	}*/
 
 }

@@ -1,0 +1,194 @@
+{ "_id" : { "$oid" : "566fed6de4b0b81730885d99"} , "Word" : "jean" , "meaning" : "জিন কাপড়"}
+{ "_id" : { "$oid" : "566fed6de4b0b81730885d9a"} , "Word" : "jabber" , "meaning" : "কিচির মিচির বা বক বক করা"}
+{ "_id" : { "$oid" : "566fed6de4b0b81730885d9b"} , "Word" : "jape" , "meaning" : "ঠাট্টা;"}
+{ "_id" : { "$oid" : "566fed6ee4b0b81730885d9c"} , "Word" : "jab" , "meaning" : "খোঁচা দেওয়া, খোঁচা"}
+{ "_id" : { "$oid" : "566fed6ee4b0b81730885d9d"} , "Word" : "jack-knife" , "meaning" : "বড় ছুরি"}
+{ "_id" : { "$oid" : "566fed6ee4b0b81730885d9e"} , "Word" : "jaw-bone" , "meaning" : "চোয়ালের যে হাড়ে দাঁত থাকে; হনু"}
+{ "_id" : { "$oid" : "566fed6fe4b0b81730885d9f"} , "Word" : "jaws" , "meaning" : "মুখ;"}
+{ "_id" : { "$oid" : "566fed6fe4b0b81730885da0"} , "Word" : "jacobin" , "meaning" : "ফরাসী সন্ন্যাসী বিশেষ"}
+{ "_id" : { "$oid" : "566fed6fe4b0b81730885da1"} , "Word" : "jack of all trades" , "meaning" : "সবজান্তা; সব কাজে পটু;"}
+{ "_id" : { "$oid" : "566fed70e4b0b81730885da2"} , "Word" : "jeered" , "meaning" : "বিদ্রূপ করা; ব্যঙ্গ করা; ক্রূর বিদ্রূপ করা;"}
+{ "_id" : { "$oid" : "566fed70e4b0b81730885da3"} , "Word" : "jap" , "meaning" : "জাপানী, জাপানী ভাষা বা জাপানের লোক"}
+{ "_id" : { "$oid" : "566fed70e4b0b81730885da4"} , "Word" : "jeep" , "meaning" : "দ্রুতগামী হালকা ছোট মোটর গাড়ি"}
+{ "_id" : { "$oid" : "566fed71e4b0b81730885da5"} , "Word" : "january" , "meaning" : "ইংরেজী বৎসরের প্রথম মাস"}
+{ "_id" : { "$oid" : "566fed71e4b0b81730885da6"} , "Word" : "jar" , "meaning" : "বিরোধী হওয়া কর্কশ শব্দ করা"}
+{ "_id" : { "$oid" : "566fed72e4b0b81730885da7"} , "Word" : "jaggery" , "meaning" : "গুড় বিশেষ, তালের গুড়"}
+{ "_id" : { "$oid" : "566fed72e4b0b81730885da8"} , "Word" : "jeer" , "meaning" : "ব্যঙ্গ বা বিদ্রুপ করা"}
+{ "_id" : { "$oid" : "566fed72e4b0b81730885da9"} , "Word" : "jam" , "meaning" : "ফলের আচার, ভিড়ে পথ অবরেধ"}
+{ "_id" : { "$oid" : "566fed73e4b0b81730885daa"} , "Word" : "jack-o-lantern" , "meaning" : "আলেয়া"}
+{ "_id" : { "$oid" : "566fed73e4b0b81730885dab"} , "Word" : "jag" , "meaning" : "খাঁজ কাটার দাগ"}
+{ "_id" : { "$oid" : "566fed73e4b0b81730885dac"} , "Word" : "jawbone" , "meaning" : "হন্বস্থি; চোয়ালের হাড়;"}
+{ "_id" : { "$oid" : "566fed74e4b0b81730885dad"} , "Word" : "jargons" , "meaning" : "অপভাষা; অর্থহীন বাক্য; কিচ্মিচ্ শব্দ; অর্থহীন ভাষা;"}
+{ "_id" : { "$oid" : "566fed74e4b0b81730885dae"} , "Word" : "jaded" , "meaning" : "শ্রান্ত"}
+{ "_id" : { "$oid" : "566fed74e4b0b81730885daf"} , "Word" : "jaeger" , "meaning" : "একধরনের বিশুদ্ধ পশমের কাপড়;"}
+{ "_id" : { "$oid" : "566fed75e4b0b81730885db0"} , "Word" : "jack-of-all-trades" , "meaning" : "সবজান্তা,যে লোক সকল কাজই কিছ কিছু জানেও করিতে পারে"}
+{ "_id" : { "$oid" : "566fed75e4b0b81730885db1"} , "Word" : "jealous" , "meaning" : "ঈর্ষা, পরায়ণ"}
+{ "_id" : { "$oid" : "566fed75e4b0b81730885db2"} , "Word" : "jackass" , "meaning" : "পুরুযষ গর্ধভ, নিরেট মুর্খ লোক"}
+{ "_id" : { "$oid" : "566fed76e4b0b81730885db3"} , "Word" : "jackfruits" , "meaning" : "পনস; কণ্টকিফ্ল;"}
+{ "_id" : { "$oid" : "566fed76e4b0b81730885db4"} , "Word" : "jacob" , "meaning" : "ইহুদী জাতির পূর্বপুরুষ"}
+{ "_id" : { "$oid" : "566fed76e4b0b81730885db5"} , "Word" : "japanese" , "meaning" : "জাপানী জাতি বা ভাষা, জাপানী"}
+{ "_id" : { "$oid" : "566fed77e4b0b81730885db6"} , "Word" : "jay" , "meaning" : "পক্ষিবিশেষ"}
+{ "_id" : { "$oid" : "566fed77e4b0b81730885db7"} , "Word" : "jail-bird" , "meaning" : "দাগী আসামী জেলঘুঘু"}
+{ "_id" : { "$oid" : "566fed77e4b0b81730885db8"} , "Word" : "jazzy" , "meaning" : "জমকাল; লোকদেখান; জ্যাজ সংগীত সংক্রান্ত;"}
+{ "_id" : { "$oid" : "566fed78e4b0b81730885db9"} , "Word" : "jaw" , "meaning" : "চোয়াল ; চোয়ালের হাড় ; গালি"}
+{ "_id" : { "$oid" : "566fed78e4b0b81730885dba"} , "Word" : "jehu" , "meaning" : "গাড়োয়ান, সারথি"}
+{ "_id" : { "$oid" : "566fed78e4b0b81730885dbb"} , "Word" : "jay walker" , "meaning" : "যথেষ্ট যত্ন না লইয়া এবং রাস্তার নিয়মকানুন না মানিয়া যে পথচারী রাস্তা পার হয় বা রাস্তায় চলে;"}
+{ "_id" : { "$oid" : "566fed79e4b0b81730885dbc"} , "Word" : "jaundice" , "meaning" : "পান্ডু রোগ, ন্যাবা"}
+{ "_id" : { "$oid" : "566fed79e4b0b81730885dbd"} , "Word" : "jabbed" , "meaning" : "ঠেলা; ধাক্কা দেত্তয়া; ঠেলা দেত্তয়া; ধাক্কান; খোঁচা দেত্তয়া; খোঁচান;"}
+{ "_id" : { "$oid" : "566fed79e4b0b81730885dbe"} , "Word" : "jackdaw" , "meaning" : "পাতিকাক"}
+{ "_id" : { "$oid" : "566fed7ae4b0b81730885dbf"} , "Word" : "jarring" , "meaning" : "শ্রুতিকটু; ঝাঁকুনি; অনৈক্য; ঝাঁকুনিবিশিষ্ট;"}
+{ "_id" : { "$oid" : "566fed7ae4b0b81730885dc0"} , "Word" : "jackals" , "meaning" : "শৃগাল; শিয়াল; জম্বুক; গিধড়;"}
+{ "_id" : { "$oid" : "566fed7ae4b0b81730885dc1"} , "Word" : "jangle" , "meaning" : "কর্কশ শব্দ; শ্রুতিকটু শব্দ; শ্রুতিকটু খর্খর্ শব্দ; বিবাদ; গণ্ডগোল;"}
+{ "_id" : { "$oid" : "566fed7be4b0b81730885dc2"} , "Word" : "jaguar" , "meaning" : "আমেরিকাদেশীয় ব্যাঘ্র-বিশেষ"}
+{ "_id" : { "$oid" : "566fed7be4b0b81730885dc3"} , "Word" : "jays" , "meaning" : "স্থূলবুদ্ধি বাচাল ব্যক্তি;"}
+{ "_id" : { "$oid" : "566fed7be4b0b81730885dc4"} , "Word" : "jack" , "meaning" : "ভারী বস্তু উত্তোলনের যন্ত্র,তাসের গোলাম"}
+{ "_id" : { "$oid" : "566fed7ce4b0b81730885dc5"} , "Word" : "janitor" , "meaning" : "দ্বারপাল"}
+{ "_id" : { "$oid" : "566fed7ce4b0b81730885dc6"} , "Word" : "jehovah" , "meaning" : "ইহুদীরা ঈশ্বরকে যে নামে ডাকে"}
+{ "_id" : { "$oid" : "566fed7ce4b0b81730885dc7"} , "Word" : "jejune" , "meaning" : "শুষ্ক, নীরস"}
+{ "_id" : { "$oid" : "566fed7de4b0b81730885dc8"} , "Word" : "jaunt" , "meaning" : "লঘুপ্রমোদ ভ্রমণ"}
+{ "_id" : { "$oid" : "566fed7de4b0b81730885dc9"} , "Word" : "jargon" , "meaning" : "অর্থহীন বাক্য, অপভাষা"}
+{ "_id" : { "$oid" : "566fed7de4b0b81730885dca"} , "Word" : "jay-walker" , "meaning" : "অসতর্ক বা সর্তকহীন পথচারী"}
+{ "_id" : { "$oid" : "566fed7ee4b0b81730885dcb"} , "Word" : "jalopy" , "meaning" : "উড়োজাহাজ;"}
+{ "_id" : { "$oid" : "566fed7ee4b0b81730885dcc"} , "Word" : "jagged" , "meaning" : "খাঁজকাটা; অসমতল; অমসৃণ; বন্ধুর কিনারাযুক্ত; খাঁজ কাটা; ধারযুক্ত; এবড়োখেবড়ো;"}
+{ "_id" : { "$oid" : "566fed7ee4b0b81730885dcd"} , "Word" : "japan" , "meaning" : "বার্ণিশ করা, কালো ও চকচকে করা"}
+{ "_id" : { "$oid" : "566fed7fe4b0b81730885dce"} , "Word" : "jasmine" , "meaning" : "জুঁই ; জুঁই ফুলের গাছ বিশেষ"}
+{ "_id" : { "$oid" : "566fed7fe4b0b81730885dcf"} , "Word" : "jackboot" , "meaning" : "প্রায় জানু পর্যন্ত ঢাকা পাদুকা"}
+{ "_id" : { "$oid" : "566fed7fe4b0b81730885dd0"} , "Word" : "jaw-breaker" , "meaning" : "দাঁত ভাঙ্গা শব্দ"}
+{ "_id" : { "$oid" : "566fed80e4b0b81730885dd1"} , "Word" : "jackpot" , "meaning" : "জুয়াখেলার বাজির জমানো টাকা;"}
+{ "_id" : { "$oid" : "566fed80e4b0b81730885dd2"} , "Word" : "jacket" , "meaning" : "খাটো জামা বিশেষ"}
+{ "_id" : { "$oid" : "566fed80e4b0b81730885dd3"} , "Word" : "jamb" , "meaning" : "দরজা বা জানলার বাজু; চৌকাঠের বাজু;"}
+{ "_id" : { "$oid" : "566fed81e4b0b81730885dd4"} , "Word" : "jaundiced" , "meaning" : "পাণ্ডু; পাণ্ডুর; পাণ্ডুরোগাক্রান্ত;"}
+{ "_id" : { "$oid" : "566fed81e4b0b81730885dd5"} , "Word" : "jackfruit" , "meaning" : "পনস; কণ্টকিফ্ল;"}
+{ "_id" : { "$oid" : "566fed81e4b0b81730885dd6"} , "Word" : "jamboree" , "meaning" : "বয়স্কউটদের বিরাট সম্মেলন"}
+{ "_id" : { "$oid" : "566fed82e4b0b81730885dd7"} , "Word" : "jealousy" , "meaning" : "ঈর্ষা, দ্বেষ"}
+{ "_id" : { "$oid" : "566fed82e4b0b81730885dd8"} , "Word" : "jealousies" , "meaning" : "সন্দেহ; র্ষা;"}
+{ "_id" : { "$oid" : "566fed82e4b0b81730885dd9"} , "Word" : "jack fruit" , "meaning" : "কণ্টকিফল;"}
+{ "_id" : { "$oid" : "566fed83e4b0b81730885dda"} , "Word" : "jade" , "meaning" : "জরাজীর্র্ণ বৃদ্ধ অশ্ব,ভ্রান্ত অশ্ব,দুষ্টা স্ত্রীলোক"}
+{ "_id" : { "$oid" : "566fed83e4b0b81730885ddb"} , "Word" : "jazz" , "meaning" : "একরূপ মার্কিন সংগীত ও নৃত্য"}
+{ "_id" : { "$oid" : "566fed83e4b0b81730885ddc"} , "Word" : "jeans" , "meaning" : "জিন্স;"}
+{ "_id" : { "$oid" : "566fed84e4b0b81730885ddd"} , "Word" : "jack-fruit" , "meaning" : "কাঁঠাল"}
+{ "_id" : { "$oid" : "566fed84e4b0b81730885dde"} , "Word" : "jaunty" , "meaning" : "লঘুচেতা,স্ফুতিবাজ"}
+{ "_id" : { "$oid" : "566fed84e4b0b81730885ddf"} , "Word" : "j" , "meaning" : "ইংরেজি বর্ণমালার দশম অক্ষর"}
+{ "_id" : { "$oid" : "566fed85e4b0b81730885de0"} , "Word" : "jail" , "meaning" : "কারাগার"}
+{ "_id" : { "$oid" : "566fed85e4b0b81730885de1"} , "Word" : "jackal" , "meaning" : "শেয়াল ; ফেউ"}
+{ "_id" : { "$oid" : "566fed85e4b0b81730885de2"} , "Word" : "jacobite" , "meaning" : "ইংলন্ডের রাজা দ্বিতীয় জেমস বা তাহার পুত্রের অনুগত লোক"}
+{ "_id" : { "$oid" : "566fed86e4b0b81730885de3"} , "Word" : "javelin" , "meaning" : "বল্লম,বর্শা"}
+{ "_id" : { "$oid" : "566fed86e4b0b81730885de4"} , "Word" : "jeering" , "meaning" : "বিদ্রুপকারী"}
+{ "_id" : { "$oid" : "566fed86e4b0b81730885de5"} , "Word" : "java" , "meaning" : "জাভা; যবদ্বীপ;"}
+{ "_id" : { "$oid" : "566fed87e4b0b81730885de6"} , "Word" : "jackanapes" , "meaning" : "মর্কট; বানর; ধৃষ্ট ব্যক্তি; ফাজিল ছেলে; পাকা ছেলে; পোশাকপরিচ্ছদে ফুলবাবু; বেয়াদব;"}
+{ "_id" : { "$oid" : "566fed87e4b0b81730885de7"} , "Word" : "jasper" , "meaning" : "জ্যাসপার; মূল্যবান্ মণিবিশেষ; জাফ্রং;"}
+{ "_id" : { "$oid" : "566fed87e4b0b81730885de8"} , "Word" : "ja" , "meaning" : "হাঁ;"}
+{ "_id" : { "$oid" : "566fed88e4b0b81730885de9"} , "Word" : "journalism" , "meaning" : "সাংবাদিকতা"}
+{ "_id" : { "$oid" : "566fed88e4b0b81730885dea"} , "Word" : "judgementdebtor" , "meaning" : "সংনির্ণীত ঋণী;"}
+{ "_id" : { "$oid" : "566fed89e4b0b81730885deb"} , "Word" : "joy-ride" , "meaning" : "মোটরগাড়ি ইত্যাদিতে চড়িয়া লুকা্‌ইয়া ভ্রমন"}
+{ "_id" : { "$oid" : "566fed89e4b0b81730885dec"} , "Word" : "jostled" , "meaning" : "ধাক্কা দেত্তয়া; ধাক্কা মারা; কনুই দিয়া গুন্তান;"}
+{ "_id" : { "$oid" : "566fed89e4b0b81730885ded"} , "Word" : "jovial" , "meaning" : "হাসিখুশি; আমুদে"}
+{ "_id" : { "$oid" : "566fed8ae4b0b81730885dee"} , "Word" : "joints" , "meaning" : "সন্ধি; গ্রন্থি; পাব; গাঁট; খামি; জোড়; জোড়া; সংযোগ; সংযোগস্থল; সংযোগপ্রণালী;"}
+{ "_id" : { "$oid" : "566fed8ae4b0b81730885def"} , "Word" : "joiner" , "meaning" : "আসবাবপত্র ও হালকা কাঠের কাজ করে এরূপ ছুতার"}
+{ "_id" : { "$oid" : "566fed8ae4b0b81730885df0"} , "Word" : "john bull" , "meaning" : "আদর্শ ইংরেজ; ইংরেজ জাতি"}
+{ "_id" : { "$oid" : "566fed8be4b0b81730885df1"} , "Word" : "joust" , "meaning" : "দ্বন্দ্বযুদ্ধ;"}
+{ "_id" : { "$oid" : "566fed8be4b0b81730885df2"} , "Word" : "jot down" , "meaning" : "টোকা; লেখা;"}
+{ "_id" : { "$oid" : "566fed8be4b0b81730885df3"} , "Word" : "joinder" , "meaning" : "সংযোগ; যোগ;"}
+{ "_id" : { "$oid" : "566fed8ce4b0b81730885df4"} , "Word" : "joined" , "meaning" : "জোড়; অনুবিদ্ধ; সম্মিলিত; এক;"}
+{ "_id" : { "$oid" : "566fed8ce4b0b81730885df5"} , "Word" : "joint family" , "meaning" : "একান্নবর্তী পরিবার;"}
+{ "_id" : { "$oid" : "566fed8ce4b0b81730885df6"} , "Word" : "joss" , "meaning" : "সিদ্ধি; কবচ; ভাগ্য; প্রস্তরে গঠিত দেবমূর্তি; পাষাণপ্রতিমা; মাদুলি; সৌভাগ্য; চীনা দেবমূর্তি;"}
+{ "_id" : { "$oid" : "566fed8de4b0b81730885df7"} , "Word" : "joist" , "meaning" : "কড়ি, কড়িকাঠ"}
+{ "_id" : { "$oid" : "566fed8de4b0b81730885df8"} , "Word" : "jubilee" , "meaning" : "কোনও কাল পূর্ন হওয়া উপলক্ষে অনুষ্ঠান, জয়ন্তী-উৎসব"}
+{ "_id" : { "$oid" : "566fed8de4b0b81730885df9"} , "Word" : "jocular" , "meaning" : "রহস্যপ্রিয়; ফুর্তিবাজ"}
+{ "_id" : { "$oid" : "566fed8ee4b0b81730885dfa"} , "Word" : "jokingly" , "meaning" : "পরিহাসচ্ছলে"}
+{ "_id" : { "$oid" : "566fed8ee4b0b81730885dfb"} , "Word" : "joke" , "meaning" : "রসিকতা, তামাশা ঠাট্টা, মজা"}
+{ "_id" : { "$oid" : "566fed8ee4b0b81730885dfc"} , "Word" : "judgement" , "meaning" : "বিচার,সিদ্ধান্ত,রায়"}
+{ "_id" : { "$oid" : "566fed8fe4b0b81730885dfd"} , "Word" : "jolly boat" , "meaning" : "জাহাজসংলগ্ন নৌকা"}
+{ "_id" : { "$oid" : "566fed8fe4b0b81730885dfe"} , "Word" : "journalist" , "meaning" : "সাংবাদিক"}
+{ "_id" : { "$oid" : "566fed8fe4b0b81730885dff"} , "Word" : "joint" , "meaning" : "জোড় ; গাঁট ; সন্ধিস্থল ; সংযোগ ; মিলিত"}
+{ "_id" : { "$oid" : "566fed90e4b0b81730885e00"} , "Word" : "joystick" , "meaning" : "বিমানপোতের গতিবিধিনিয়ন্ত্রক যান্ত্রিক দণ্ড;"}
+{ "_id" : { "$oid" : "566fed90e4b0b81730885e01"} , "Word" : "jowl" , "meaning" : "চোয়াল"}
+{ "_id" : { "$oid" : "566fed90e4b0b81730885e02"} , "Word" : "joked" , "meaning" : "তামাশা করা; ঠাট্টা করা; উপহাস করা; রসিকতা করা;"}
+{ "_id" : { "$oid" : "566fed91e4b0b81730885e03"} , "Word" : "jollity" , "meaning" : "উত্সব; সদানন্দত্ব; আমোদ; আমোদ-প্রমোদ;"}
+{ "_id" : { "$oid" : "566fed91e4b0b81730885e04"} , "Word" : "jocund" , "meaning" : "স্ফূতিবাজ; মনোরম"}
+{ "_id" : { "$oid" : "566fed91e4b0b81730885e05"} , "Word" : "journey" , "meaning" : "ভ্রমণ। ভ্রমণ করা"}
+{ "_id" : { "$oid" : "566fed92e4b0b81730885e06"} , "Word" : "josh" , "meaning" : "তামাশা; ফাঁকি দেত্তয়া;"}
+{ "_id" : { "$oid" : "566fed92e4b0b81730885e07"} , "Word" : "jubilation" , "meaning" : "আনন্দধ্বনি; জয়ধ্বনি;"}
+{ "_id" : { "$oid" : "566fed93e4b0b81730885e08"} , "Word" : "joyfully" , "meaning" : "সহর্ষে; আনন্দভাবে; আনন্দদায়কভাবে;"}
+{ "_id" : { "$oid" : "566fed93e4b0b81730885e09"} , "Word" : "joker" , "meaning" : "ভাঁড়, সঙ; তাসের জোকার"}
+{ "_id" : { "$oid" : "566fed93e4b0b81730885e0a"} , "Word" : "joseph" , "meaning" : "বিশুদ্ধ চরিত্রের লোক;"}
+{ "_id" : { "$oid" : "566fed94e4b0b81730885e0b"} , "Word" : "jokes" , "meaning" : "ঢামালি;"}
+{ "_id" : { "$oid" : "566fed94e4b0b81730885e0c"} , "Word" : "jubilance" , "meaning" : "উল্লাস"}
+{ "_id" : { "$oid" : "566fed94e4b0b81730885e0d"} , "Word" : "joint secretary" , "meaning" : "সংযুক্ত সচিব;"}
+{ "_id" : { "$oid" : "566fed95e4b0b81730885e0e"} , "Word" : "journeyman" , "meaning" : "ঠিকা মজুর"}
+{ "_id" : { "$oid" : "566fed95e4b0b81730885e0f"} , "Word" : "jogged" , "meaning" : "নাড়ান;"}
+{ "_id" : { "$oid" : "566fed95e4b0b81730885e10"} , "Word" : "jolly" , "meaning" : "প্রফুল্ল; হাসিখুশি"}
+{ "_id" : { "$oid" : "566fed96e4b0b81730885e11"} , "Word" : "judas" , "meaning" : "বিশ্বাসঘাতক ব্যক্তি;"}
+{ "_id" : { "$oid" : "566fed96e4b0b81730885e12"} , "Word" : "judgment" , "meaning" : "রায়; বিচার; ফয়সালা; শাস্তি; দণ্ড; মীমাংসা; সিদ্ধান্ত; বিবেচনা; সংনির্ণয়; নির্ধারণ; দণ্ডাজ্ঞা; দণ্ডাদেশ; বিবেক; অভিমত; ধারণা; জ্ঞান; সত্য নির্ধারণের জন্য বিভিন্ন মতের তুলনা; ; রায়;"}
+{ "_id" : { "$oid" : "566fed96e4b0b81730885e13"} , "Word" : "jogging" , "meaning" : "নাড়ান;"}
+{ "_id" : { "$oid" : "566fed97e4b0b81730885e14"} , "Word" : "joy" , "meaning" : "উল্লাস; আনন্দ। আনন্দ করা বা দেওয়া"}
+{ "_id" : { "$oid" : "566fed97e4b0b81730885e15"} , "Word" : "johnny" , "meaning" : "লোক"}
+{ "_id" : { "$oid" : "566fed97e4b0b81730885e16"} , "Word" : "jolt" , "meaning" : "হঠাৎ ঝাঁকুনি (দেওয়া) হোঁচট (খেতে খেতে চলা)"}
+{ "_id" : { "$oid" : "566fed98e4b0b81730885e17"} , "Word" : "jokers" , "meaning" : "ভাঁড়; ঠাট্টাবাজ; সঙ; তাসের জোকার;"}
+{ "_id" : { "$oid" : "566fed98e4b0b81730885e18"} , "Word" : "jubilant" , "meaning" : "উল্লসিত, উৎফুল্ল"}
+{ "_id" : { "$oid" : "566fed98e4b0b81730885e19"} , "Word" : "judgeship" , "meaning" : "বিচারপতির পদ বা কার্য, ন্যায়াধীশতা"}
+{ "_id" : { "$oid" : "566fed99e4b0b81730885e1a"} , "Word" : "joking" , "meaning" : "তামাশা করা; রসিকতা করা; ঠাট্টা করা; উপহাস করা;"}
+{ "_id" : { "$oid" : "566fed99e4b0b81730885e1b"} , "Word" : "juddering" , "meaning" : "সশব্দে কম্পিত হত্তয়া; স্পন্দিত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fed99e4b0b81730885e1c"} , "Word" : "jotting" , "meaning" : "তাড়াতাড়ি করিয়া লেখা সংক্ষিপ্ত মন্তব্য"}
+{ "_id" : { "$oid" : "566fed9ae4b0b81730885e1d"} , "Word" : "journal" , "meaning" : "দিন-পুঞ্জী; সংবাদপত্র বা সাময়িক পত্র"}
+{ "_id" : { "$oid" : "566fed9ae4b0b81730885e1e"} , "Word" : "judgements" , "meaning" : "রায়; বিচার; ফয়সালা; শাস্তি; দণ্ড; মীমাংসা; সিদ্ধান্ত; বিবেচনা; সংনির্ণয়; নির্ধারণ; দণ্ডাজ্ঞা; দণ্ডাদেশ; বিবেক; অভিমত; ধারণা; জ্ঞান;"}
+{ "_id" : { "$oid" : "566fed9ae4b0b81730885e1f"} , "Word" : "jog" , "meaning" : "ধাক্কা ; ঈষৎ ঝঁকুনি; কনুই বা হাত দিয়া ধাক্কা দেওয়া বা ঠেলা"}
+{ "_id" : { "$oid" : "566fed9be4b0b81730885e20"} , "Word" : "joyfull" , "meaning" : "আনন্দময়;"}
+{ "_id" : { "$oid" : "566fed9be4b0b81730885e21"} , "Word" : "judge" , "meaning" : "বিচারপতি"}
+{ "_id" : { "$oid" : "566fed9be4b0b81730885e22"} , "Word" : "joyous" , "meaning" : "আনন্দিত; উৎফূল্ল"}
+{ "_id" : { "$oid" : "566fed9ce4b0b81730885e23"} , "Word" : "joining" , "meaning" : "জোড়; জোড়া; যুক্তি; যোজন; সম্পৃক্তি;"}
+{ "_id" : { "$oid" : "566fed9ce4b0b81730885e24"} , "Word" : "jostle" , "meaning" : "ধাক্কা দেওয়া; ধাক্কা"}
+{ "_id" : { "$oid" : "566fed9ce4b0b81730885e25"} , "Word" : "jot" , "meaning" : "বিন্দুঃ অত্যন্ত পরিমাণ সংক্ষেপ বা তাড়াতাড়ি টুকিয়া লওয়া"}
+{ "_id" : { "$oid" : "566fed9de4b0b81730885e26"} , "Word" : "judaism" , "meaning" : "ইহুদিদের ধর্মমত ও সভ্যতা; ইহুদীধর্মমত; ইহুদীদিগের ধর্ম;"}
+{ "_id" : { "$oid" : "566fed9de4b0b81730885e27"} , "Word" : "jolty" , "meaning" : "আকস্মিক ঝাঁকনিযুক্ত; ঝাঁকুনিদার; ঝাঁকুনিপূর্ণ; উঁচুনিচু;"}
+{ "_id" : { "$oid" : "566fed9de4b0b81730885e28"} , "Word" : "journeys" , "meaning" : "যাত্রা; সফর; ভ্রমণ; পর্যটন;"}
+{ "_id" : { "$oid" : "566fed9ee4b0b81730885e29"} , "Word" : "joint director" , "meaning" : "যুগ্ম-অধিকর্তা;"}
+{ "_id" : { "$oid" : "566fed9ee4b0b81730885e2a"} , "Word" : "jocosity" , "meaning" : "রসিকতা; রহস্যপ্রিয়তা"}
+{ "_id" : { "$oid" : "566fed9ee4b0b81730885e2b"} , "Word" : "ju-jitsu" , "meaning" : "জাপানী কুস্তি; জুজুৎসু"}
+{ "_id" : { "$oid" : "566fed9fe4b0b81730885e2c"} , "Word" : "jointstock" , "meaning" : "যৌথসঙ্গ;"}
+{ "_id" : { "$oid" : "566fed9fe4b0b81730885e2d"} , "Word" : "join" , "meaning" : "সংযুক্ত করা বা হওয়া; মিলিত বা এক করা"}
+{ "_id" : { "$oid" : "566fed9fe4b0b81730885e2e"} , "Word" : "joviality" , "meaning" : "আনন্দিতা; প্রফুল্লতা;"}
+{ "_id" : { "$oid" : "566feda0e4b0b81730885e2f"} , "Word" : "jolliness" , "meaning" : "প্রফূল্লতা, হাসিখুশি ভাব"}
+{ "_id" : { "$oid" : "566feda0e4b0b81730885e30"} , "Word" : "journalists" , "meaning" : "সাংবাদিক; সম্পাদক; সংবাদপত্রসেবী; সংবাদপত্রলেখক; সংবাদপত্রপরিচালক; বার্তাজীবী;"}
+{ "_id" : { "$oid" : "566feda1e4b0b81730885e31"} , "Word" : "joyful" , "meaning" : "আনন্দপূর্ণ, আনন্দদায়ক"}
+{ "_id" : { "$oid" : "566feda1e4b0b81730885e32"} , "Word" : "joineries" , "meaning" : "কাঠের মিস্ত্রির কাজ;"}
+{ "_id" : { "$oid" : "566feda1e4b0b81730885e33"} , "Word" : "judging" , "meaning" : "বিচারপূর্বক মীমাংসা করা; রায়দান করা; রায় দেত্তয়া; বিবেচনা করা; গণ্য করা; সাব্যস্ত করা; নির্ধারণ করা; দণ্ড দেত্তয়া; ধারণা করা;"}
+{ "_id" : { "$oid" : "566feda2e4b0b81730885e34"} , "Word" : "joggle" , "meaning" : "মৃদুভাবে ঝাঁকান; কনুই দিয়া গুন্তান; ধাক্কা দেত্তয়া; হালকা ঝঁকুনি দেওয়া;"}
+{ "_id" : { "$oid" : "566feda2e4b0b81730885e35"} , "Word" : "jolted" , "meaning" : "নাড়া; নাড়াচাড়া দেত্তয়া; কমি্পত করা; ঝাড়া; ধূলি দূর করা;"}
+{ "_id" : { "$oid" : "566feda2e4b0b81730885e36"} , "Word" : "jollification" , "meaning" : "উত্সব; ক্রীড়নক; আমোদপ্রমোদ;"}
+{ "_id" : { "$oid" : "566feda3e4b0b81730885e37"} , "Word" : "joy ride" , "meaning" : "মোটরগাড়িইত্যাদিতে চড়িয়া লুকাইয়া ভ্রমণ বা অন্যভাবে প্রমোদভ্রমণ;"}
+{ "_id" : { "$oid" : "566feda3e4b0b81730885e38"} , "Word" : "jointly" , "meaning" : "একত্রে; সম্মিলিতভাবে; একযোগে; একযোগে; ;"}
+{ "_id" : { "$oid" : "566feda3e4b0b81730885e39"} , "Word" : "juicy" , "meaning" : "সরস; রসাল; নধর; রসপূর্ণ; রসা; রসসংক্রান্ত; টস্টসে; রসযুক্ত;"}
+{ "_id" : { "$oid" : "566feda4e4b0b81730885e3a"} , "Word" : "justlike" , "meaning" : "নির্বিশেষে;"}
+{ "_id" : { "$oid" : "566feda4e4b0b81730885e3b"} , "Word" : "justified" , "meaning" : "ন্যায্যতা প্রতিপাদন করা; সমর্থন করা; সততা প্রতিপাদন করা; সমর্থনীয় হত্তয়া;"}
+{ "_id" : { "$oid" : "566feda4e4b0b81730885e3c"} , "Word" : "junket" , "meaning" : "চড়ুইভাতি; মিঠাই খাবার; সুস্বাদু খাবার; ভোজ; আনন্দোত্সব; বনভোজন;"}
+{ "_id" : { "$oid" : "566feda5e4b0b81730885e3d"} , "Word" : "jumbo" , "meaning" : "হস্তী; হাতি; বিশাল জন্তু বা বস্তু;"}
+{ "_id" : { "$oid" : "566feda5e4b0b81730885e3e"} , "Word" : "justly" , "meaning" : "যথাযথরূপে; ন্যায্যভাবে; ন্যায়সঙ্গতরূপে; সাধুতার সহিত; ন্যায়সংগতরূপে;"}
+{ "_id" : { "$oid" : "566feda5e4b0b81730885e3f"} , "Word" : "jurisdiction" , "meaning" : "আইনগত অধিকারের এলাকা, অধিকারক্ষেত্র"}
+{ "_id" : { "$oid" : "566feda6e4b0b81730885e40"} , "Word" : "justification" , "meaning" : "ন্যায্যতা বা সত্যতা প্রতিপাদন, সমর্থন"}
+{ "_id" : { "$oid" : "566feda6e4b0b81730885e41"} , "Word" : "junkie" , "meaning" : "নেশাখোর; মাদকাসক্ত ব্যক্তি; নেশাখোর;"}
+{ "_id" : { "$oid" : "566feda6e4b0b81730885e42"} , "Word" : "juncture" , "meaning" : "সন্ধিক্ষণ,সঙ্কটকাল"}
+{ "_id" : { "$oid" : "566feda7e4b0b81730885e43"} , "Word" : "junto" , "meaning" : "গুপ্তসভা,চক্রান্তকারী সমিতি"}
+{ "_id" : { "$oid" : "566feda7e4b0b81730885e44"} , "Word" : "jump at" , "meaning" : "সাগ্রহে গ্রহণ করা;"}
+{ "_id" : { "$oid" : "566feda7e4b0b81730885e45"} , "Word" : "jugular" , "meaning" : "ঘাড়ের; গলার; ঘাড়সংক্রান্ত;"}
+{ "_id" : { "$oid" : "566feda8e4b0b81730885e46"} , "Word" : "junctures" , "meaning" : "সন্ধিক্ষণ; সঙ্কটমুহুর্ত; সংযোগ;"}
+{ "_id" : { "$oid" : "566feda8e4b0b81730885e47"} , "Word" : "juice" , "meaning" : "রসাল,রসযুক্ত"}
+{ "_id" : { "$oid" : "566feda9e4b0b81730885e48"} , "Word" : "july" , "meaning" : "ইংরেজি বৎসরের সপ্তম মাস"}
+{ "_id" : { "$oid" : "566feda9e4b0b81730885e49"} , "Word" : "juts" , "meaning" : "অভিক্ষেপ;"}
+{ "_id" : { "$oid" : "566feda9e4b0b81730885e4a"} , "Word" : "jug" , "meaning" : "কুঁজা ; হাতলওয়াল জলপাত্র ; জগ"}
+{ "_id" : { "$oid" : "566fedaae4b0b81730885e4b"} , "Word" : "junta" , "meaning" : "স্পেইনের রাষ্ট্র্রপরিষৎ; রাজনৈতিক উদ্দেশ্যে গুপ্তসভা; স্পেনদেশীয় রাষ্ট্রীয় মহাসভা;"}
+{ "_id" : { "$oid" : "566fedaae4b0b81730885e4c"} , "Word" : "juvenility" , "meaning" : "তারূণ্য; কৈশোর;"}
+{ "_id" : { "$oid" : "566fedaae4b0b81730885e4d"} , "Word" : "juiciest" , "meaning" : "সরস; রসাল; নধর; রসপূর্ণ; রসা; রসসংক্রান্ত; টস্টসে;"}
+{ "_id" : { "$oid" : "566fedabe4b0b81730885e4e"} , "Word" : "jurist" , "meaning" : "আইনজ্ঞ ব্যক্তি,আইনের ছাত্র"}
+{ "_id" : { "$oid" : "566fedabe4b0b81730885e4f"} , "Word" : "juvenescent" , "meaning" : "নব যৌবন লাভ করিতেছে এমন"}
+{ "_id" : { "$oid" : "566fedace4b0b81730885e51"} , "Word" : "juniper" , "meaning" : "একধরণের গাছ;"}
+{ "_id" : { "$oid" : "566fedabe4b0b81730885e50"} , "Word" : "just round the corner" , "meaning" : "খুব শীগগির ঘটতে যাচ্ছে এমন; সামনেই; আসন্ন;"}
+{ "_id" : { "$oid" : "566fedace4b0b81730885e52"} , "Word" : "justiciar" , "meaning" : "প্রধান বিচার পতি"}
+{ "_id" : { "$oid" : "566fedace4b0b81730885e53"} , "Word" : "juices" , "meaning" : "রস; জুস; স্বাদ; ক্ষীর; সুরুয়া; দুগ্ধ; ক্বাথ; আকর্ষক গুণ; ঝোল;"}
+{ "_id" : { "$oid" : "566fedade4b0b81730885e54"} , "Word" : "jupiter" , "meaning" : "বৃহস্পতি গ্রহ, রোমানদের দেবরাজ"}
+{ "_id" : { "$oid" : "566fedade4b0b81730885e55"} , "Word" : "just as" , "meaning" : "যেইমাত্র;"}
+{ "_id" : { "$oid" : "566fedade4b0b81730885e56"} , "Word" : "juvenile delinquency," , "meaning" : "কৈশোরসুলভ অপরাধ;"}
+{ "_id" : { "$oid" : "566fedaee4b0b81730885e57"} , "Word" : "jump" , "meaning" : "লাফানো লাফ দিয়া পার হওয়া, ঝাঁপ দেওয়া"}
+{ "_id" : { "$oid" : "566fedaee4b0b81730885e58"} , "Word" : "juxtaposes" , "meaning" : "পাশাপাশি স্থাপন করা;"}
+{ "_id" : { "$oid" : "566fedaee4b0b81730885e59"} , "Word" : "justices" , "meaning" : "ন্যায়বিচার; বিচারপতি; ন্যায়; বিচারক; সুবিচার; ন্যায্যতা; ন্যায়পরতা; সদ্বিচার; অপক্ষপাতিত্া; অপক্ষপাত; সাধুতা; নীতি; ধর্ম; অন্যায়ের প্রতিশোধ; ন্যায়াধীশ; শাসক; অপক্ষপাতিত্ব;"}
+{ "_id" : { "$oid" : "566fedafe4b0b81730885e5a"} , "W

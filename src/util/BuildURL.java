@@ -23,10 +23,10 @@ public class BuildURL {
 		return "http://www.english-bangla.com/dictionary/"+urlWord(word);
 	}
 	
-	public static void main(String[] args) {
+/*	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String s= "a bit much";
 		System.out.println(buildWordURL(s));
 	}
-
+*/
 }

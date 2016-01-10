@@ -1,13 +1,15 @@
 import java.util.ArrayList;
 
+import UI.DictScreen;
+
 import com.mongodb.BasicDBObject;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import com.mongodb.MongoClient;
 
 
-public class MongoJavaTest {
-
+public class StartingPoint {
+/*
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		try{
@@ -34,6 +36,16 @@ public class MongoJavaTest {
 	      }catch(Exception e){
 	         System.err.println( e.getClass().getName() + ": " + e.getMessage() );
 	      }
+	}
+*/
+	public static void main(String[] args) {
+		//System.out.println(System.getProperty("StartingPoint.java"));
+		System.out.println(DictScreen.class.getClassLoader().getResource("src"));
+		System.out.println(DictScreen.class.getClassLoader().getResource("Bangla.ttf").getPath());
+		System.out.println(DictScreen.class.getClassLoader().getResource("src/"));
+		
+		DictScreen.dictUI();
+		
 	}
 	
 	public static BasicDBObject createDocObject(ArrayList<String> list){

@@ -9,6 +9,8 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
+import UI.DictScreen;
+
 public class ReadWord {
 
 	/**
@@ -18,9 +20,10 @@ public class ReadWord {
 	public static String getWord(String str){
 		String path = System.getProperty("user.dir");
 		
-		String filePath = path+File.separator+"Files";
+		String filePath = DictScreen.class.getClassLoader().getResource("Files/").getPath();
 		String res = "কিছু পাচ্ছিনা ";
 		str  = str.toLowerCase();
+		if(str.length()<1)return "ঠিক করে টাইপ করুন ";
 		String fileName = filePath +File.separator+ str.substring(0,1)+".txt";
 	//	System.out.println(fileName);
 		File file = new File(fileName);
@@ -54,9 +57,9 @@ public class ReadWord {
 		
 	}
 	
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println(getWord("awe"));
-	}
+	}*/
 
 }
