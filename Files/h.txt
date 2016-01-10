@@ -1,0 +1,1423 @@
+{ "_id" : { "$oid" : "566fe2bee4b023e8f909b429"} , "Word" : "haggard" , "meaning" : "ক্লান্ত, রুক্ষদর্শন, উদভ্রান্ত"}
+{ "_id" : { "$oid" : "566fe2bee4b023e8f909b42a"} , "Word" : "habitant" , "meaning" : "বাসিন্দা, অধিবাসী"}
+{ "_id" : { "$oid" : "566fe2bfe4b023e8f909b42b"} , "Word" : "had better" , "meaning" : "করিকে ভাল হইত; করিকে সর্বোত্তম হইত;"}
+{ "_id" : { "$oid" : "566fe2bfe4b023e8f909b42c"} , "Word" : "hale" , "meaning" : "সুস্থ ও সবল"}
+{ "_id" : { "$oid" : "566fe2bfe4b023e8f909b42d"} , "Word" : "haha" , "meaning" : "হাস্যধ্বনি; হা-হা;"}
+{ "_id" : { "$oid" : "566fe2c0e4b023e8f909b42e"} , "Word" : "half" , "meaning" : "অর্ধাংশ, অর্ধেক"}
+{ "_id" : { "$oid" : "566fe2c0e4b023e8f909b42f"} , "Word" : "had rather" , "meaning" : "শ্রেয় জ্ঞান করা; কোনো কিছুর চাইতে বরং; বরং পছন্দ করা; বরং ভাল হত্তয়া;"}
+{ "_id" : { "$oid" : "566fe2c1e4b023e8f909b430"} , "Word" : "habitable" , "meaning" : "বাসযোগ্য, বসবাসের উপযোগী"}
+{ "_id" : { "$oid" : "566fe2c1e4b023e8f909b431"} , "Word" : "hadith" , "meaning" : "হাদিস;"}
+{ "_id" : { "$oid" : "566fe2c1e4b023e8f909b432"} , "Word" : "hairy" , "meaning" : "কেশসংক্রান্ত; লোমবৎ; লোমতুল্য; কেশে আবৃত; লোমে আবৃত; কেশবহুল; কেশিক; লোমশ; রোমশ; অপ্রীতিকর; অমার্জিত; জেরা-জোবরা; কেশসংক্রান্ত বা লোমসংক্রান্ত;"}
+{ "_id" : { "$oid" : "566fe2c2e4b023e8f909b433"} , "Word" : "hair pin" , "meaning" : "মাথার কাঁটা; মাথার চুল আঁটিযা রাখার জন্য পিন-বিশেষ;"}
+{ "_id" : { "$oid" : "566fe2c2e4b023e8f909b434"} , "Word" : "hailed" , "meaning" : "দূর হইতে ডাক করা; থামিতে আসিতে বলা; কাছে আসিতে বলা; শিলাবৃষ্টি হত্তয়া; শিলাবৃষ্টি করান; সম্বোধন করা;"}
+{ "_id" : { "$oid" : "566fe2c2e4b023e8f909b435"} , "Word" : "hack" , "meaning" : "কাঁটা বা কোপানো ; খাঁজকাটা ; পোঁচাইয়া পোঁচাইয়া কাঁটা ; কুড়াল ইত্যাদি দিয়ে কুপিয়ে বা টুকরা করে কাঁটা ; ভাড়াটে ঘোড়া ; বিনা অনুমতিতে কোন সুরক্ষিত কম্পিউটার এবং নেটওয়ার্কে প্রবেশ বা ব্যবহার করা"}
+{ "_id" : { "$oid" : "566fe2c3e4b023e8f909b436"} , "Word" : "haemorrhoid" , "meaning" : "অর্শ;"}
+{ "_id" : { "$oid" : "566fe2c3e4b023e8f909b437"} , "Word" : "habitation" , "meaning" : "বসবাস, বাসগৃহ, বাসস্থান"}
+{ "_id" : { "$oid" : "566fe2c3e4b023e8f909b438"} , "Word" : "hairdresser" , "meaning" : "নরসুন্দর; কেশবিন্যাসকারী;"}
+{ "_id" : { "$oid" : "566fe2c4e4b023e8f909b439"} , "Word" : "hairdressing" , "meaning" : "কবরী; কোশবিন্যাস;"}
+{ "_id" : { "$oid" : "566fe2c4e4b023e8f909b43a"} , "Word" : "hair less" , "meaning" : "অকচ; কেশহীন; কেশশূণ্য; লোমশূণ্য;"}
+{ "_id" : { "$oid" : "566fe2c4e4b023e8f909b43b"} , "Word" : "hag" , "meaning" : "কুরূপা বৃদ্ধ স্ত্রীলোক, ডাইনী"}
+{ "_id" : { "$oid" : "566fe2c5e4b023e8f909b43c"} , "Word" : "habituate" , "meaning" : "অভ্যন্ত করানো"}
+{ "_id" : { "$oid" : "566fe2c5e4b023e8f909b43d"} , "Word" : "hacks" , "meaning" : "গভীর ক্ষত; ভাড়াটে লেখক; ভাড়াটে সাহিতি্যক; ভাড়াটে ঘোড়া; টাট্টু ঘোড়া;"}
+{ "_id" : { "$oid" : "566fe2c5e4b023e8f909b43e"} , "Word" : "had" , "meaning" : "অভন্ত্যরে ধারণ করা; পাওয়া; অভিজ্ঞতা লাভ করা;"}
+{ "_id" : { "$oid" : "566fe2c6e4b023e8f909b43f"} , "Word" : "habitats" , "meaning" : "আবাস; আড্ডা; ডিপো;"}
+{ "_id" : { "$oid" : "566fe2c6e4b023e8f909b440"} , "Word" : "haematology" , "meaning" : "রক্ত বিজ্ঞান;"}
+{ "_id" : { "$oid" : "566fe2c6e4b023e8f909b441"} , "Word" : "haemorrhoids" , "meaning" : "অর্শ;"}
+{ "_id" : { "$oid" : "566fe2c7e4b023e8f909b442"} , "Word" : "halcyon" , "meaning" : "মাছ-রাঙ্গা পাখি"}
+{ "_id" : { "$oid" : "566fe2c7e4b023e8f909b443"} , "Word" : "hachure" , "meaning" : "ভ্রুলেখা; মানচিত্রে ব্যবহৃত পর্বত-প্রদর্শনার্থে রেখা;"}
+{ "_id" : { "$oid" : "566fe2c7e4b023e8f909b444"} , "Word" : "habituated" , "meaning" : "অভ্যস্ত;"}
+{ "_id" : { "$oid" : "566fe2c8e4b023e8f909b445"} , "Word" : "haitian" , "meaning" : "হাইতের;"}
+{ "_id" : { "$oid" : "566fe2c8e4b023e8f909b446"} , "Word" : "hairpin" , "meaning" : "মাথার কাঁটা; মাথার চুল আঁটিযা রাখার জন্য পিন-বিশেষ;"}
+{ "_id" : { "$oid" : "566fe2c8e4b023e8f909b447"} , "Word" : "hackney-carriage" , "meaning" : "ছেকড়া গাড়ি"}
+{ "_id" : { "$oid" : "566fe2c9e4b023e8f909b448"} , "Word" : "hake" , "meaning" : "মাছবিশেষ; কড জাতীয় সামুদ্রিক মাছ;"}
+{ "_id" : { "$oid" : "566fe2cae4b023e8f909b44c"} , "Word" : "habeas corpus" , "meaning" : "বন্দিপ্রদর্শন;"}
+{ "_id" : { "$oid" : "566fe2c9e4b023e8f909b449"} , "Word" : "ha" , "meaning" : "আঃ ! বিস্ময়, আনন্দ, বা দুঃখসূচকশব্দ"}
+{ "_id" : { "$oid" : "566fe2c9e4b023e8f909b44a"} , "Word" : "habitat" , "meaning" : "আবাস; ডিপো; আড্ডা; জন্তুর বা গাছ পালার স্বাভাবিক আবাস অথবা জন্মস্থান;"}
+{ "_id" : { "$oid" : "566fe2cae4b023e8f909b44b"} , "Word" : "hairbreadth" , "meaning" : "অতি নিকটবতী; অতি সঙ্কীর্ণ; একচুল;"}
+{ "_id" : { "$oid" : "566fe2cae4b023e8f909b44d"} , "Word" : "habilitate" , "meaning" : "যোগ্যতাদান করা; যোগ্যতা সম্পন্ন হওয়া; যোগ্যতাদান করা; টাকাকড়ি যোগান;"}
+{ "_id" : { "$oid" : "566fe2cbe4b023e8f909b44e"} , "Word" : "halberd" , "meaning" : "পরশু; যুদ্ধ-কুঠার;"}
+{ "_id" : { "$oid" : "566fe2cbe4b023e8f909b44f"} , "Word" : "haft" , "meaning" : "ছুরি ইত্যাদির বাঁট বা হাতল"}
+{ "_id" : { "$oid" : "566fe2cbe4b023e8f909b450"} , "Word" : "hailstone" , "meaning" : "করকা; শিল; শিলাপিনু; বর্ষোপল;"}
+{ "_id" : { "$oid" : "566fe2cce4b023e8f909b451"} , "Word" : "hacked" , "meaning" : "গভীর ক্ষত;"}
+{ "_id" : { "$oid" : "566fe2cce4b023e8f909b452"} , "Word" : "hackled" , "meaning" : "আঁচড়ান;"}
+{ "_id" : { "$oid" : "566fe2cce4b023e8f909b453"} , "Word" : "haggling" , "meaning" : "দরাদরি;"}
+{ "_id" : { "$oid" : "566fe2cde4b023e8f909b454"} , "Word" : "habitude" , "meaning" : "মানসিক বা দৈহিক গঠন, প্রথা"}
+{ "_id" : { "$oid" : "566fe2cde4b023e8f909b455"} , "Word" : "haematuria" , "meaning" : "মূত্রের সহিত শোণিতস্রাব;"}
+{ "_id" : { "$oid" : "566fe2cde4b023e8f909b456"} , "Word" : "hailing" , "meaning" : "দূর হইতে ডাক করা; থামিতে আসিতে বলা; কাছে আসিতে বলা; শিলাবৃষ্টি হত্তয়া; শিলাবৃষ্টি করান; সম্বোধন করা;"}
+{ "_id" : { "$oid" : "566fe2cee4b023e8f909b457"} , "Word" : "hair dresser" , "meaning" : "কেশবিন্যাস যাহার পেশা;"}
+{ "_id" : { "$oid" : "566fe2cee4b023e8f909b458"} , "Word" : "haircut" , "meaning" : "কেশকর্তন; চুলছাঁটাই;"}
+{ "_id" : { "$oid" : "566fe2cee4b023e8f909b459"} , "Word" : "haddock" , "meaning" : "মত্স্যবিশেষ;"}
+{ "_id" : { "$oid" : "566fe2cfe4b023e8f909b45a"} , "Word" : "haberdasher" , "meaning" : "প্রয়োজনীয় ছোট খাট পণ্যের বিক্রেতা"}
+{ "_id" : { "$oid" : "566fe2cfe4b023e8f909b45b"} , "Word" : "haired" , "meaning" : "কেশিক; কেশে আবৃত;"}
+{ "_id" : { "$oid" : "566fe2cfe4b023e8f909b45c"} , "Word" : "hailstorm" , "meaning" : "শিলাবৃষ্টি; করকাবৃষ্টি; করকাপাত;"}
+{ "_id" : { "$oid" : "566fe2d0e4b023e8f909b45d"} , "Word" : "h-bomb" , "meaning" : "হাইড্রো-জেন বোমা"}
+{ "_id" : { "$oid" : "566fe2d0e4b023e8f909b45e"} , "Word" : "habit" , "meaning" : "অভ্যাস, প্রকৃতি, স্বভাব"}
+{ "_id" : { "$oid" : "566fe2d0e4b023e8f909b45f"} , "Word" : "hafnium" , "meaning" : "গাফ্নি;"}
+{ "_id" : { "$oid" : "566fe2d1e4b023e8f909b460"} , "Word" : "haiti" , "meaning" : "হাইতি;"}
+{ "_id" : { "$oid" : "566fe2d1e4b023e8f909b461"} , "Word" : "hades" , "meaning" : "যমালয়"}
+{ "_id" : { "$oid" : "566fe2d1e4b023e8f909b462"} , "Word" : "hair" , "meaning" : "চুল ; কেশ ; লোম"}
+{ "_id" : { "$oid" : "566fe2d2e4b023e8f909b463"} , "Word" : "hails" , "meaning" : "দূর হইতে ডাক করা; থামিতে আসিতে বলা; কাছে আসিতে বলা; শিলাবৃষ্টি হত্তয়া; শিলাবৃষ্টি করান; সম্বোধন করা;"}
+{ "_id" : { "$oid" : "566fe2d2e4b023e8f909b464"} , "Word" : "halal" , "meaning" : "হালাল করা; পশু পক্ষীকে শাস্ত্রীয় বিধানুসারে বধ করা;"}
+{ "_id" : { "$oid" : "566fe2d3e4b023e8f909b465"} , "Word" : "hail" , "meaning" : "অভিবাদন, প্রীতিসম্ভাষণ, শিলাবৃষ্টি"}
+{ "_id" : { "$oid" : "566fe2d3e4b023e8f909b466"} , "Word" : "hackery" , "meaning" : "গাড়ী; গোরুর গাড়ি; গোযান;"}
+{ "_id" : { "$oid" : "566fe2d3e4b023e8f909b467"} , "Word" : "habitual" , "meaning" : "অভ্যাসগত, সাধারণত : ঘটে এমন"}
+{ "_id" : { "$oid" : "566fe2d4e4b023e8f909b468"} , "Word" : "hackney" , "meaning" : "ভাড়াটিয়া ঘোড়া, বেতনভোগী লোক"}
+{ "_id" : { "$oid" : "566fe2d4e4b023e8f909b469"} , "Word" : "hairbrush" , "meaning" : "বুরূশ; কুল আঁচড়ানর বুরুশ;"}
+{ "_id" : { "$oid" : "566fe2d4e4b023e8f909b46a"} , "Word" : "hackney-man" , "meaning" : "যে লোক ঘোড়া ও গাড়ি ভাড়া দেয়"}
+{ "_id" : { "$oid" : "566fe2d5e4b023e8f909b46b"} , "Word" : "half an hour" , "meaning" : "অর্ধঘণ্টা;"}
+{ "_id" : { "$oid" : "566fe2d5e4b023e8f909b46c"} , "Word" : "h" , "meaning" : "ইংরেজি বর্ণমালার অষ্টম অক্ষর"}
+{ "_id" : { "$oid" : "566fe2d5e4b023e8f909b46d"} , "Word" : "habiting" , "meaning" : "পোশাক করা; বাস করা; আবাস করা; আবাস করান;"}
+{ "_id" : { "$oid" : "566fe2d6e4b023e8f909b46e"} , "Word" : "haggle" , "meaning" : "বিশেষতঃ দর কষাকষি করা"}
+{ "_id" : { "$oid" : "566fe2d6e4b023e8f909b46f"} , "Word" : "haemorrhage" , "meaning" : "রক্তস্রাব"}
+{ "_id" : { "$oid" : "566fe2d6e4b023e8f909b470"} , "Word" : "hacking" , "meaning" : "ভাড়ায় খাটান; গতানুগতিক করিয়া ফেলা; একঘেয়ে করিয়া ফেলা;"}
+{ "_id" : { "$oid" : "566fe2d7e4b023e8f909b471"} , "Word" : "haemoglobin" , "meaning" : "রক্তের লাল কণিকার রং"}
+{ "_id" : { "$oid" : "566fe2d7e4b023e8f909b472"} , "Word" : "hakim" , "meaning" : "চিকিত্সক; হেকিম; বিচারপতি; শাসক;"}
+{ "_id" : { "$oid" : "566fe2d7e4b023e8f909b473"} , "Word" : "habitants" , "meaning" : "বাসিন্দা; অধিবাসী;"}
+{ "_id" : { "$oid" : "566fe2d8e4b023e8f909b474"} , "Word" : "hackneyed" , "meaning" : "বস্তাপচা; গতানুগতিক; বহুলব্যবহৃত; পচা;"}
+{ "_id" : { "$oid" : "566fe2d8e4b023e8f909b475"} , "Word" : "habeas-corpus" , "meaning" : "অবরুদ্ধ ব্যক্তিকে বিচারালয়ে উপস্থিত করবার পরোয়ানা"}
+{ "_id" : { "$oid" : "566fe2d8e4b023e8f909b476"} , "Word" : "habit at" , "meaning" : "আবাস; ডিপো; আড্ডা; জন্তুর বা গাছ পালার স্বাভাবিক আবাস অথবা জন্মস্থান;"}
+{ "_id" : { "$oid" : "566fe2d9e4b023e8f909b477"} , "Word" : "hackle" , "meaning" : "পাট বা শণ আঁচড়াবার চিরুনি"}
+{ "_id" : { "$oid" : "566fe2d9e4b023e8f909b478"} , "Word" : "hacksaw" , "meaning" : "ধাতু কাটার করাত"}
+{ "_id" : { "$oid" : "566fe2d9e4b023e8f909b479"} , "Word" : "harass" , "meaning" : "হয়রান করা, বারংবার বিরক্ত করা"}
+{ "_id" : { "$oid" : "566fe2dae4b023e8f909b47a"} , "Word" : "hankers" , "meaning" : "অতিশয় লালয়িত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fe2dae4b023e8f909b47b"} , "Word" : "harbor" , "meaning" : "আশ্রয়; পোতাশ্রয়;"}
+{ "_id" : { "$oid" : "566fe2dae4b023e8f909b47c"} , "Word" : "harbingers" , "meaning" : "অগ্রদূত;"}
+{ "_id" : { "$oid" : "566fe2dbe4b023e8f909b47d"} , "Word" : "hap" , "meaning" : "দৈব ভাগ্য, আকস্মিক ঘটনা,ঘটা"}
+{ "_id" : { "$oid" : "566fe2dbe4b023e8f909b47e"} , "Word" : "handsaw" , "meaning" : "হাতকরাত; করপত্র;"}
+{ "_id" : { "$oid" : "566fe2dbe4b023e8f909b47f"} , "Word" : "hands off" , "meaning" : "দূরে থাক; আঘাত করিও না;"}
+{ "_id" : { "$oid" : "566fe2dce4b023e8f909b480"} , "Word" : "happily" , "meaning" : "সানন্দে, সৌভাগ্যক্রমে"}
+{ "_id" : { "$oid" : "566fe2dce4b023e8f909b481"} , "Word" : "handled" , "meaning" : "ঘাঁটা;"}
+{ "_id" : { "$oid" : "566fe2dce4b023e8f909b482"} , "Word" : "hansom-cab" , "meaning" : "দুই চাকার গাড়িবিশেষ"}
+{ "_id" : { "$oid" : "566fe2dde4b023e8f909b483"} , "Word" : "handlers" , "meaning" : "ক্রীড়াশিক্ষক;"}
+{ "_id" : { "$oid" : "566fe2dde4b023e8f909b484"} , "Word" : "hankered" , "meaning" : "অতিশয় লালয়িত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fe2dde4b023e8f909b485"} , "Word" : "happy go lucky" , "meaning" : "যেমন খুশি তেমনভাবে;"}
+{ "_id" : { "$oid" : "566fe2dee4b023e8f909b486"} , "Word" : "hankypanky" , "meaning" : "ভোজবাজি; গুপ্ত-কলা কৌশল; ভোজবাজি; গুপ্ত কলা-কৌশল;"}
+{ "_id" : { "$oid" : "566fe2dee4b023e8f909b487"} , "Word" : "handmaiden" , "meaning" : "দাসী, চাকরানী"}
+{ "_id" : { "$oid" : "566fe2dee4b023e8f909b488"} , "Word" : "hara-kiri" , "meaning" : "পেট চিরে আত্নহত্যা"}
+{ "_id" : { "$oid" : "566fe2dfe4b023e8f909b489"} , "Word" : "handyman" , "meaning" : "টুকিটকি কাজের জন্য বা ফাইফরমাশ খাটার জন্য নিযুক্তি লোক;"}
+{ "_id" : { "$oid" : "566fe2dfe4b023e8f909b48a"} , "Word" : "hangout" , "meaning" : "কোন জায়গা বা স্থান যেখানে অনেক বেশি সময় কাটানো হয়; বেড়ানোর প্রিয় জায়গা"}
+{ "_id" : { "$oid" : "566fe2dfe4b023e8f909b48b"} , "Word" : "handwork" , "meaning" : "হস্ত দ্বারা কৃত শিল্পকর্ম; হস্তদ্বারা কৃত;"}
+{ "_id" : { "$oid" : "566fe2e0e4b023e8f909b48c"} , "Word" : "hang on" , "meaning" : "গ্রাহ্য না করা; উদাসীন থাকা;"}
+{ "_id" : { "$oid" : "566fe2e0e4b023e8f909b48d"} , "Word" : "hangover" , "meaning" : "অত্যধিক নেশার কারণে অপ্রীতিকর পরিণাম যেমন মাথা ঘোরানো; কোনকিছু যেটা আগে থেকেই চলে আসতেছে (অভ্যাস, প্রথা ইত্যাদি);"}
+{ "_id" : { "$oid" : "566fe2e0e4b023e8f909b48e"} , "Word" : "happen" , "meaning" : "ঘটা, সংঘটিত হওয়া"}
+{ "_id" : { "$oid" : "566fe2e1e4b023e8f909b48f"} , "Word" : "handout" , "meaning" : "বিলিপত্র"}
+{ "_id" : { "$oid" : "566fe2e1e4b023e8f909b490"} , "Word" : "hangnail" , "meaning" : "আঙ্গুল হাড়"}
+{ "_id" : { "$oid" : "566fe2e1e4b023e8f909b491"} , "Word" : "hang about" , "meaning" : "ঘোরাঘুরি করা;"}
+{ "_id" : { "$oid" : "566fe2e2e4b023e8f909b492"} , "Word" : "hanger-on" , "meaning" : "গলগ্রহ, অনুচর"}
+{ "_id" : { "$oid" : "566fe2e2e4b023e8f909b493"} , "Word" : "hang back" , "meaning" : "ইতস্তঃত করা অনিচ্ছাপ্রদর্শন করা; করা; অনিচ্ছাপ্রদর্শন করা;"}
+{ "_id" : { "$oid" : "566fe2e2e4b023e8f909b494"} , "Word" : "harasses" , "meaning" : "ঘুরান; হয়রান করা; নাকাল করা; ব্যতিব্যস্ত করা; ব্যতিব্যস্ত করান; জালাতন করা; জব্দ করা; ঘোল খাত্তয়ান;"}
+{ "_id" : { "$oid" : "566fe2e3e4b023e8f909b495"} , "Word" : "happiness" , "meaning" : "সুখ, আনন্দ"}
+{ "_id" : { "$oid" : "566fe2e3e4b023e8f909b496"} , "Word" : "hangman" , "meaning" : "ঘাতক, জল্লাদ, ফাঁসুড়ে"}
+{ "_id" : { "$oid" : "566fe2e3e4b023e8f909b497"} , "Word" : "hangon" , "meaning" : "গ্রাহ্য না করা; উদাসীন থাকা;"}
+{ "_id" : { "$oid" : "566fe2e4e4b023e8f909b498"} , "Word" : "handon" , "meaning" : "সমর্পণ করা;"}
+{ "_id" : { "$oid" : "566fe2e4e4b023e8f909b499"} , "Word" : "handshake" , "meaning" : "করদর্মন,করদমর্ন করা"}
+{ "_id" : { "$oid" : "566fe2e4e4b023e8f909b49a"} , "Word" : "happened" , "meaning" : "ঘটা;"}
+{ "_id" : { "$oid" : "566fe2e5e4b023e8f909b49b"} , "Word" : "handrail" , "meaning" : "সিঁড়ি প্রভৃতির দু-পাশের হাতল;"}
+{ "_id" : { "$oid" : "566fe2e5e4b023e8f909b49c"} , "Word" : "harassed" , "meaning" : "নিগৃহীত; উত্ত্যক্ত; নাকাল; জালাতন; জেরবার; ক্লেশিত; উত্পীড়িত; জব্দ;"}
+{ "_id" : { "$oid" : "566fe2e5e4b023e8f909b49d"} , "Word" : "hang out" , "meaning" : "থাকা; বাস করা;"}
+{ "_id" : { "$oid" : "566fe2e6e4b023e8f909b49e"} , "Word" : "handwriting" , "meaning" : "হাতের লেখা, হস্তলিপি"}
+{ "_id" : { "$oid" : "566fe2e6e4b023e8f909b49f"} , "Word" : "handsome man" , "meaning" : "সুদর্শন লোক;"}
+{ "_id" : { "$oid" : "566fe2e6e4b023e8f909b4a0"} , "Word" : "harbored" , "meaning" : "আশ্রয় দেত্তয়া; আশ্রয় লত্তয়া; মনে মনে পোষণ করা;"}
+{ "_id" : { "$oid" : "566fe2e7e4b023e8f909b4a1"} , "Word" : "harangue" , "meaning" : "জন সাধারনের নিকট উচ্চস্বরে বক্তৃৃতা করা"}
+{ "_id" : { "$oid" : "566fe2e7e4b023e8f909b4a2"} , "Word" : "hang over" , "meaning" : "উপরে ঝোলা; উপরে ঝোকা;"}
+{ "_id" : { "$oid" : "566fe2e7e4b023e8f909b4a3"} , "Word" : "handpicked" , "meaning" : "সযত্নে নির্বাচিত বা বাছাই করা; সযত্মে নির্বাচিত; সযত্মে বাছাই-করা;"}
+{ "_id" : { "$oid" : "566fe2e8e4b023e8f909b4a4"} , "Word" : "hangup" , "meaning" : "লটকান; ঝোলান; টাঙ্গান; দেরি করান; পূর্বস্তানে রাখা; যথাস্থানে রাখা; টাঙান;"}
+{ "_id" : { "$oid" : "566fe2e8e4b023e8f909b4a5"} , "Word" : "hangar" , "meaning" : "বিমান পোত রাখার জায়গা"}
+{ "_id" : { "$oid" : "566fe2e8e4b023e8f909b4a6"} , "Word" : "hanky" , "meaning" : "রূমাল; রুমাল;"}
+{ "_id" : { "$oid" : "566fe2e9e4b023e8f909b4a7"} , "Word" : "hang up" , "meaning" : "লটকান; ঝোলান; টাঙ্গান; দেরি করান; পূর্বস্তানে রাখা; যথাস্থানে রাখা; টাঙান;"}
+{ "_id" : { "$oid" : "566fe2e9e4b023e8f909b4a8"} , "Word" : "hank" , "meaning" : "সুতার ফেটি বা গুলি"}
+{ "_id" : { "$oid" : "566fe2e9e4b023e8f909b4a9"} , "Word" : "hangdog" , "meaning" : "ইতর লোক, লজ্জিত"}
+{ "_id" : { "$oid" : "566fe2eae4b023e8f909b4aa"} , "Word" : "hang" , "meaning" : "ঝোলা বা ঝোলানো,"}
+{ "_id" : { "$oid" : "566fe2eae4b023e8f909b4ab"} , "Word" : "handling" , "meaning" : "ঘাঁটাঘাটি;"}
+{ "_id" : { "$oid" : "566fe2eae4b023e8f909b4ac"} , "Word" : "hanker" , "meaning" : "অতিশয় লালায়িত, লোভী হওয়া"}
+{ "_id" : { "$oid" : "566fe2ebe4b023e8f909b4ad"} , "Word" : "hanuman" , "meaning" : "হনূমান;"}
+{ "_id" : { "$oid" : "566fe2ebe4b023e8f909b4ae"} , "Word" : "hanging" , "meaning" : "ঝুলছে এমন,আনত, ফাঁসি"}
+{ "_id" : { "$oid" : "566fe2ebe4b023e8f909b4af"} , "Word" : "harborage" , "meaning" : "আশ্রয়স্থল;"}
+{ "_id" : { "$oid" : "566fe2ece4b023e8f909b4b0"} , "Word" : "happy" , "meaning" : "সুখী, তৃপ্ত, ভাগ্যবান,খুশী, শোভন"}
+{ "_id" : { "$oid" : "566fe2ece4b023e8f909b4b1"} , "Word" : "hapless" , "meaning" : "দুর্ভাগ্য,হতভাগ্য"}
+{ "_id" : { "$oid" : "566fe2ece4b023e8f909b4b2"} , "Word" : "haphazard" , "meaning" : "এলোমেলো অবস্থা"}
+{ "_id" : { "$oid" : "566fe2ede4b023e8f909b4b3"} , "Word" : "hankering" , "meaning" : "তীব্র লালসা;"}
+{ "_id" : { "$oid" : "566fe2ede4b023e8f909b4b4"} , "Word" : "haply" , "meaning" : "দৈবাৎ, হয়ত"}
+{ "_id" : { "$oid" : "566fe2ede4b023e8f909b4b5"} , "Word" : "handy" , "meaning" : "কৌশলী, সুবিধাজনক"}
+{ "_id" : { "$oid" : "566fe2eee4b023e8f909b4b6"} , "Word" : "happiest" , "meaning" : "খুশি; সুখী; আনন্দিত; আনন্দময়; সুখকর; তৃপ্ত; কল্যাণ; সুখপূর্ণ; সুচেতা; ভাগ্যবান্; অনঘ; শোভন; জীবনোত্ফুল্ল;"}
+{ "_id" : { "$oid" : "566fe2eee4b023e8f909b4b7"} , "Word" : "harbinger" , "meaning" : "অগ্রদূত"}
+{ "_id" : { "$oid" : "566fe2eee4b023e8f909b4b8"} , "Word" : "handloom" , "meaning" : "হস্তচালিত তাঁত"}
+{ "_id" : { "$oid" : "566fe2efe4b023e8f909b4b9"} , "Word" : "hansom" , "meaning" : "দুই চাকার গাড়িবিশেষ"}
+{ "_id" : { "$oid" : "566fe2efe4b023e8f909b4ba"} , "Word" : "happening" , "meaning" : "যাহা কিছু ঘটে, ঘটনা"}
+{ "_id" : { "$oid" : "566fe2efe4b023e8f909b4bb"} , "Word" : "harassing" , "meaning" : "হয়রান; নাকাল; উত্পীড়ক;"}
+{ "_id" : { "$oid" : "566fe2f0e4b023e8f909b4bc"} , "Word" : "hansard" , "meaning" : "ইংল্যানডের পারলামেনটর তর্কবিতর্কের মুদ্রিত বিবরণী;"}
+{ "_id" : { "$oid" : "566fe2f0e4b023e8f909b4bd"} , "Word" : "harborages" , "meaning" : "আশ্রয়স্থল;"}
+{ "_id" : { "$oid" : "566fe2f0e4b023e8f909b4be"} , "Word" : "harassment" , "meaning" : "হয়রানি; নাকাল; বিশৃঙ্খলা; উত্তেজনা; জালাতন; নিগ্রহ; গোলমাল; বিক্ষোভ; বাধা;"}
+{ "_id" : { "$oid" : "566fe2f1e4b023e8f909b4bf"} , "Word" : "happy-go-lucky" , "meaning" : "ভাগ্যের উপর নির্ভরশীল"}
+{ "_id" : { "$oid" : "566fe2f1e4b023e8f909b4c0"} , "Word" : "handmade" , "meaning" : "হস্তনির্মিত"}
+{ "_id" : { "$oid" : "566fe2f1e4b023e8f909b4c1"} , "Word" : "hands up" , "meaning" : "মাথার ওপরে হাত তোল;"}
+{ "_id" : { "$oid" : "566fe2f2e4b023e8f909b4c2"} , "Word" : "hanger" , "meaning" : "ক্ষুদ্র প্রশস্ত তরবারি যাহার উপর কোন বস্তু ঝুলানো হয়"}
+{ "_id" : { "$oid" : "566fe2f2e4b023e8f909b4c3"} , "Word" : "handmaid" , "meaning" : "দাসী, চাকরানী"}
+{ "_id" : { "$oid" : "566fe2f2e4b023e8f909b4c4"} , "Word" : "hang off" , "meaning" : "ছড়িয়া দেওয়া;"}
+{ "_id" : { "$oid" : "566fe2f3e4b023e8f909b4c5"} , "Word" : "handsome" , "meaning" : "সুন্দর, উদার, যথেষ্ট"}
+{ "_id" : { "$oid" : "566fe2f3e4b023e8f909b4c6"} , "Word" : "happens" , "meaning" : "ঘটা;"}
+{ "_id" : { "$oid" : "566fe2f3e4b023e8f909b4c7"} , "Word" : "handles" , "meaning" : "হাতল; মুষ্টি; ডাঁট;"}
+{ "_id" : { "$oid" : "566fe2f4e4b023e8f909b4c8"} , "Word" : "handler" , "meaning" : "ক্রীড়াশিক্ষক;"}
+{ "_id" : { "$oid" : "566fe2f4e4b023e8f909b4c9"} , "Word" : "harp on the same string" , "meaning" : "ক্রমাগত একই বিষয়ের আলোচনাদি করা;"}
+{ "_id" : { "$oid" : "566fe2f5e4b023e8f909b4ca"} , "Word" : "harmful" , "meaning" : "অনিষ্টকর, ক্ষতিকর"}
+{ "_id" : { "$oid" : "566fe2f5e4b023e8f909b4cb"} , "Word" : "harry" , "meaning" : "লুঠ করা; ধ্বংস করা"}
+{ "_id" : { "$oid" : "566fe2f5e4b023e8f909b4cc"} , "Word" : "harmonization" , "meaning" : "সংগতি; সমন্বয়;"}
+{ "_id" : { "$oid" : "566fe2f6e4b023e8f909b4cd"} , "Word" : "hard and fast" , "meaning" : "বাঁধা-ধরা; অপরিবর্তনীয়ভাবে বিধিবদ্ধ; বাঁধাধরা;"}
+{ "_id" : { "$oid" : "566fe2f6e4b023e8f909b4ce"} , "Word" : "hard-cash" , "meaning" : "নগদ টাকা"}
+{ "_id" : { "$oid" : "566fe2f6e4b023e8f909b4cf"} , "Word" : "hardship" , "meaning" : "কষ্ট বা ক্লেশ, ক্লেশজনক অবস্থা"}
+{ "_id" : { "$oid" : "566fe2f7e4b023e8f909b4d0"} , "Word" : "harebrained" , "meaning" : "চপল; হঠকারী; বেপরোয়া; অমনোযোগী;"}
+{ "_id" : { "$oid" : "566fe2f7e4b023e8f909b4d1"} , "Word" : "hardihood" , "meaning" : "দুঃসাহসিকতা, স্পর্ধা"}
+{ "_id" : { "$oid" : "566fe2f7e4b023e8f909b4d2"} , "Word" : "harsh]" , "meaning" : "বাঁকা; প্রখর; কঙ্কর; মন্দ; অত্যুগ্র; পরূষ; ঝাঁজাল; কঠোর; রূঢ়; ককর্শ;"}
+{ "_id" : { "$oid" : "566fe2f8e4b023e8f909b4d3"} , "Word" : "harmonics" , "meaning" : "সুরবিজ্ঞান;"}
+{ "_id" : { "$oid" : "566fe2f8e4b023e8f909b4d4"} , "Word" : "harlotry" , "meaning" : "বেশ্যাবৃত্তি"}
+{ "_id" : { "$oid" : "566fe2f8e4b023e8f909b4d5"} , "Word" : "harmonic" , "meaning" : "সুরেলা; সমন্বয়পূর্ণ; একতান; ঐকতানসম্বন্ধীয়; মিলবিশিষ্ট; সদৃশ;"}
+{ "_id" : { "$oid" : "566fe2f9e4b023e8f909b4d6"} , "Word" : "hard of hearing" , "meaning" : "কালা;"}
+{ "_id" : { "$oid" : "566fe2f9e4b023e8f909b4d7"} , "Word" : "harem" , "meaning" : "হারেম; হারেমবাসিনী স্ত্রীলোকগণ; অন্ত:পুর; হারেম-বাসিনী স্ত্রীলোক;"}
+{ "_id" : { "$oid" : "566fe2f9e4b023e8f909b4d8"} , "Word" : "harmonious" , "meaning" : "সুসমঞ্জস, সামঞ্জস্যপূর্ন"}
+{ "_id" : { "$oid" : "566fe2fae4b023e8f909b4d9"} , "Word" : "harlequin" , "meaning" : "ভাঁড়, ভাঁড়ামি করা"}
+{ "_id" : { "$oid" : "566fe2fae4b023e8f909b4da"} , "Word" : "harpoon" , "meaning" : "টেটা বল্লম। বল্মম দিয়ে গেঁথে ফেলা"}
+{ "_id" : { "$oid" : "566fe2fae4b023e8f909b4db"} , "Word" : "harnesses" , "meaning" : "সাজ; বর্ম; জিন; সাজসরঁজাম; ঘোড়ার সাজ; ঘোড়ার মুখের সাজ;"}
+{ "_id" : { "$oid" : "566fe2fbe4b023e8f909b4dc"} , "Word" : "harness" , "meaning" : "ঘোড়ার সাজ বর্মভূষিত করা"}
+{ "_id" : { "$oid" : "566fe2fbe4b023e8f909b4dd"} , "Word" : "harmed" , "meaning" : "ক্ষতিগ্রস্ত; অপকৃত;"}
+{ "_id" : { "$oid" : "566fe2fbe4b023e8f909b4de"} , "Word" : "harshness" , "meaning" : "রুঢ়তা; প্রখরতা; পরূষতা; পারুষ্য; মেজাজের রুক্ষতা; প্রখরত্ব; প্রখরা; কঠোরতা;"}
+{ "_id" : { "$oid" : "566fe2fce4b023e8f909b4df"} , "Word" : "harmonized" , "meaning" : "মিল করা; একতান করান; মিল খাত্তয়ান; সমন্বয়পূর্ণ করান; খাপ খাত্তয়ান; মিশ খাত্তয়ান; একতান হত্তয়া; সমন্বয়পূর্ণ হত্তয়া; খাপ খাত্তয়া;"}
+{ "_id" : { "$oid" : "566fe2fce4b023e8f909b4e0"} , "Word" : "harmonize, harmonise" , "meaning" : "একতান হওয়া, সুরের মিল থাকে"}
+{ "_id" : { "$oid" : "566fe2fce4b023e8f909b4e1"} , "Word" : "harmonise" , "meaning" : "মিল করা; একতান করান; মিল খাত্তয়ান; সমন্বয়পূর্ণ করান; খাপ খাত্তয়ান; মিশ খাত্তয়ান; একতান হত্তয়া; সমন্বয়পূর্ণ হত্তয়া; খাপ খাত্তয়া; একতান হওয়া বা করান;"}
+{ "_id" : { "$oid" : "566fe2fde4b023e8f909b4e2"} , "Word" : "harden" , "meaning" : "শক্ত করা বা হওয়া"}
+{ "_id" : { "$oid" : "566fe2fde4b023e8f909b4e3"} , "Word" : "harbours" , "meaning" : "আশ্রয়; পোতাশ্রয়;"}
+{ "_id" : { "$oid" : "566fe2fde4b023e8f909b4e4"} , "Word" : "hard-fisted" , "meaning" : "কৃপণ"}
+{ "_id" : { "$oid" : "566fe2fee4b023e8f909b4e5"} , "Word" : "harming" , "meaning" : "ক্ষতি করা; ক্ষতিগ্রস্ত করা; হিংসা করা; অহিত করা; অপকার করা; শয়তানি করা; ঘা দেত্তয়া;"}
+{ "_id" : { "$oid" : "566fe2fee4b023e8f909b4e6"} , "Word" : "harlot" , "meaning" : "বেশ্যা, লম্পট"}
+{ "_id" : { "$oid" : "566fe2fee4b023e8f909b4e7"} , "Word" : "harnessed" , "meaning" : "সাজ পরান; জুড়া; জুতা; পরান; বর্মভূষিত করা; ঘোড়ার সাজ পরান; জোতা;"}
+{ "_id" : { "$oid" : "566fe2ffe4b023e8f909b4e8"} , "Word" : "harbouring" , "meaning" : "আশ্রয় দেত্তয়া; আশ্রয় লত্তয়া; মনে মনে পোষণ করা;"}
+{ "_id" : { "$oid" : "566fe2ffe4b023e8f909b4e9"} , "Word" : "harpsichord" , "meaning" : "বাদ্যযন্ত্রবিশেষ; তারের বাদ্যযন্ত্রবিশেষ;"}
+{ "_id" : { "$oid" : "566fe2ffe4b023e8f909b4ea"} , "Word" : "harboured" , "meaning" : "আশ্রয় দেত্তয়া; আশ্রয় লত্তয়া; মনে মনে পোষণ করা;"}
+{ "_id" : { "$oid" : "566fe300e4b023e8f909b4eb"} , "Word" : "hardtime" , "meaning" : "অসময়;"}
+{ "_id" : { "$oid" : "566fe300e4b023e8f909b4ec"} , "Word" : "harmonica" , "meaning" : "মুখ দিয়া বাজাবার অর্গান বিশেষ"}
+{ "_id" : { "$oid" : "566fe300e4b023e8f909b4ed"} , "Word" : "harp" , "meaning" : "বীণা বাজানো ; বারংবার উল্লেখ করা"}
+{ "_id" : { "$oid" : "566fe301e4b023e8f909b4ee"} , "Word" : "harmonies" , "meaning" : "সাদৃশ্য; সঙ্গতি; ঐকতান; মিল; সমন্বয়; মিশ; একতান; সুরেলা ধ্বনি; অবিরোধ;"}
+{ "_id" : { "$oid" : "566fe301e4b023e8f909b4ef"} , "Word" : "hardwood" , "meaning" : "খুঁটি আসবাব পত্র প্রভৃতি জন্য শক্ত ও টেকসই কাষ্ঠ;"}
+{ "_id" : { "$oid" : "566fe301e4b023e8f909b4f0"} , "Word" : "hardware" , "meaning" : "ধাতুনির্মিত ব্যবহার্য দ্রবাদি"}
+{ "_id" : { "$oid" : "566fe302e4b023e8f909b4f1"} , "Word" : "harm" , "meaning" : "ক্ষতি, অনিষ্ট,অপকার,অপকার করা"}
+{ "_id" : { "$oid" : "566fe302e4b023e8f909b4f2"} , "Word" : "hark" , "meaning" : "শোনা"}
+{ "_id" : { "$oid" : "566fe302e4b023e8f909b4f3"} , "Word" : "harbour" , "meaning" : "পোতাশ্রয়, বন্দর, আশ্রয়"}
+{ "_id" : { "$oid" : "566fe303e4b023e8f909b4f4"} , "Word" : "harken" , "meaning" : "শ্রবণ করা; কর্ণপাত করা; বিচার করা; সংবাদ করা; শোনা;"}
+{ "_id" : { "$oid" : "566fe303e4b023e8f909b4f5"} , "Word" : "hardly" , "meaning" : "কদাচিৎ কষ্টে, কঠোরভাবে"}
+{ "_id" : { "$oid" : "566fe303e4b023e8f909b4f6"} , "Word" : "harmonium" , "meaning" : "বাদ্যযন্ত্র বিশেষ"}
+{ "_id" : { "$oid" : "566fe304e4b023e8f909b4f7"} , "Word" : "harpy" , "meaning" : "ডাইনি; শোষক; অতিলোভী লোক; পৌরাণিক দানবীবিশেষ; অতিলোভী লোক;"}
+{ "_id" : { "$oid" : "566fe304e4b023e8f909b4f8"} , "Word" : "harping" , "meaning" : "বীণা বাজান;"}
+{ "_id" : { "$oid" : "566fe304e4b023e8f909b4f9"} , "Word" : "hardhit" , "meaning" : "আঘাতপ্রাপ্ত; নিদারূাভাবে আঘাতপ্রাপ্ত; নিদারূাভাবে ক্ষতিগ্রস্ত;"}
+{ "_id" : { "$oid" : "566fe305e4b023e8f909b4fa"} , "Word" : "harridan" , "meaning" : "ডাইনি; শয়তানি; কুত্সিত কুড়ি; কুরূপা বৃদ্ধা স্ত্রী; শয়তানি-ভরা ঝগড়াটে স্ত্রীলোক;"}
+{ "_id" : { "$oid" : "566fe305e4b023e8f909b4fb"} , "Word" : "haricot" , "meaning" : "ক্ষুদ্র সীমবিশেষ; সীম; ক্ষুদ্র সীমা বিশেষ;"}
+{ "_id" : { "$oid" : "566fe305e4b023e8f909b4fc"} , "Word" : "harrowing" , "meaning" : "হৃদয়বিদারক"}
+{ "_id" : { "$oid" : "566fe306e4b023e8f909b4fd"} , "Word" : "harmony" , "meaning" : "সঙ্গতি,সুরেলা ধ্বনি"}
+{ "_id" : { "$oid" : "566fe306e4b023e8f909b4fe"} , "Word" : "hare" , "meaning" : "খরগোশ ; শশক"}
+{ "_id" : { "$oid" : "566fe306e4b023e8f909b4ff"} , "Word" : "hardness" , "meaning" : "কাঠিন্য, কঠোরতা"}
+{ "_id" : { "$oid" : "566fe307e4b023e8f909b500"} , "Word" : "hard" , "meaning" : "কঠিন, শক্ত, অটর, ঘনীভূত, কষ্টসাধ্য"}
+{ "_id" : { "$oid" : "566fe307e4b023e8f909b501"} , "Word" : "harshest" , "meaning" : "বাঁকা; প্রখর; কঙ্কর; মন্দ; অত্যুগ্র; কঠোর; পরূষ; ঝাঁজাল;"}
+{ "_id" : { "$oid" : "566fe307e4b023e8f909b502"} , "Word" : "hard-earned" , "meaning" : "কষ্টার্জিত; কষ্টর্জিত;"}
+{ "_id" : { "$oid" : "566fe308e4b023e8f909b503"} , "Word" : "hard-hearted" , "meaning" : "নিষ্ঠুর, নির্দয়,কঠিন হৃদয়"}
+{ "_id" : { "$oid" : "566fe308e4b023e8f909b504"} , "Word" : "harpoons" , "meaning" : "হারপূণ; টেটা; কোচজাতীয় অস্ত্রবিশেষ; কোঁচ;"}
+{ "_id" : { "$oid" : "566fe308e4b023e8f909b505"} , "Word" : "hardiness" , "meaning" : "কাঠিন্য,কঠিনতা, সহ্যশক্তি"}
+{ "_id" : { "$oid" : "566fe309e4b023e8f909b506"} , "Word" : "hardiest" , "meaning" : "কষ্টসহিষ্ণু; বলিষ্ঠ; ধৃষ্ট; দু:সাহসী;"}
+{ "_id" : { "$oid" : "566fe309e4b023e8f909b507"} , "Word" : "harnessing" , "meaning" : "সাজ পরান; জুড়া; জুতা; পরান; বর্মভূষিত করা; ঘোড়ার সাজ পরান; জোতা;"}
+{ "_id" : { "$oid" : "566fe309e4b023e8f909b508"} , "Word" : "harbourage" , "meaning" : "আশ্রয়স্থল; আশ্রয়স্থল;"}
+{ "_id" : { "$oid" : "566fe30ae4b023e8f909b509"} , "Word" : "harmless" , "meaning" : "নির্দোষ, নিরীহ, অক্ষত"}
+{ "_id" : { "$oid" : "566fe30ae4b023e8f909b50a"} , "Word" : "harmonize" , "meaning" : "মিল করা; একতান করান; মিল খাত্তয়ান; সমন্বয়পূর্ণ করান; খাপ খাত্তয়ান; মিশ খাত্তয়ান; একতান হত্তয়া; সমন্বয়পূর্ণ হত্তয়া; খাপ খাত্তয়া; একতান হওয়া বা করান;"}
+{ "_id" : { "$oid" : "566fe30ae4b023e8f909b50b"} , "Word" : "hardy" , "meaning" : "কষ্টসহিষ্ণু, দুঃসাহসী, নির্ভীক"}
+{ "_id" : { "$oid" : "566fe30be4b023e8f909b50c"} , "Word" : "harrier" , "meaning" : "ক্ষুদ্র কুকুরবিশেষ; খরগোশ-শিকারে সহায়্ক তীক্ষ্ণঘ্রাণ শক্তিসম্পন্ন ক্ষুদ্র কুকুর বিশেষ;"}
+{ "_id" : { "$oid" : "566fe30be4b023e8f909b50d"} , "Word" : "harrow" , "meaning" : "বিদে, মই,। জমিতে বিদে বা মই দেওয়া"}
+{ "_id" : { "$oid" : "566fe30be4b023e8f909b50e"} , "Word" : "harps" , "meaning" : "বীণা;"}
+{ "_id" : { "$oid" : "566fe30ce4b023e8f909b50f"} , "Word" : "hard time" , "meaning" : "অসময়;"}
+{ "_id" : { "$oid" : "566fe30ce4b023e8f909b510"} , "Word" : "hardest" , "meaning" : "কঠিন; শক্ত; কষ্টকর; কড়া; কষ্টসাধ্য; দুরূহ; মজবুত; নির্মম; নিরেট; দৃঢ়; নির্দয়; থুম; ডাঁট; কটমটে; ঠক্ঠকিয়া; শ্রমসাধ্য; জবর; অনমনীয়; ঘন; অটল; অতরল; অনড়; গুরুপাক; উচ্চমূল্য; অপরিমিত; দু:সহ; দুস্তোষ্য; অকোমল;"}
+{ "_id" : { "$oid" : "566fe30ce4b023e8f909b511"} , "Word" : "harried" , "meaning" : "নিপীড়িত; উদ্বেজিত; নিগৃহীত;"}
+{ "_id" : { "$oid" : "566fe30de4b023e8f909b512"} , "Word" : "hardened" , "meaning" : "কঠিনীভূত; ঘেঁচড়া;"}
+{ "_id" : { "$oid" : "566fe30de4b023e8f909b513"} , "Word" : "hard copy" , "meaning" : "কম্পিউটারে গণনাফলের স্থায়ী প্রতিলিপি;"}
+{ "_id" : { "$oid" : "566fe30de4b023e8f909b514"} , "Word" : "harper" , "meaning" : "বীণাবাদক;"}
+{ "_id" : { "$oid" : "566fe30ee4b023e8f909b515"} , "Word" : "harmonised" , "meaning" : "মিল করা; একতান করান; মিল খাত্তয়ান; সমন্বয়পূর্ণ করান; খাপ খাত্তয়ান; মিশ খাত্তয়ান; একতান হত্তয়া; সমন্বয়পূর্ণ হত্তয়া; খাপ খাত্তয়া;"}
+{ "_id" : { "$oid" : "566fe30ee4b023e8f909b516"} , "Word" : "harkening" , "meaning" : "শ্রবণ করা; কর্ণপাত করা; বিচার করা; সংবাদ করা; শোনা;"}
+{ "_id" : { "$oid" : "566fe30fe4b023e8f909b517"} , "Word" : "haughtily" , "meaning" : "গর্বের সহিত; গর্ব সহকারে;"}
+{ "_id" : { "$oid" : "566fe30fe4b023e8f909b518"} , "Word" : "haughtiness" , "meaning" : "উদ্ধত ভাব; অহংকার; গরম; অযথা গর্ব; পারুষ্য;"}
+{ "_id" : { "$oid" : "566fe30fe4b023e8f909b519"} , "Word" : "havens" , "meaning" : "আশ্রয়স্থল; আশ্রয়; পোতাশ্রয়;"}
+{ "_id" : { "$oid" : "566fe310e4b023e8f909b51a"} , "Word" : "hate" , "meaning" : "ঘৃণা করা"}
+{ "_id" : { "$oid" : "566fe310e4b023e8f909b51b"} , "Word" : "hated" , "meaning" : "ঘৃণিত; ঘৃণা;"}
+{ "_id" : { "$oid" : "566fe310e4b023e8f909b51c"} , "Word" : "hasty" , "meaning" : "দ্রুতগতি; ত্বরিত; হঠকারী;"}
+{ "_id" : { "$oid" : "566fe311e4b023e8f909b51d"} , "Word" : "hawk-eyed" , "meaning" : "বাজপাখির মত তীক্ষ্ন দৃষ্টিসম্পন্ন"}
+{ "_id" : { "$oid" : "566fe311e4b023e8f909b51e"} , "Word" : "haw" , "meaning" : "বেড়া; ঝোপ; ঝোপ; বেড়া; বৈঁচিজাতীয় ফলবিশেষ;"}
+{ "_id" : { "$oid" : "566fe311e4b023e8f909b51f"} , "Word" : "haunts" , "meaning" : "আধার; বিচরণস্থান; আস্তানা; জায়গা; আড্ডা;"}
+{ "_id" : { "$oid" : "566fe312e4b023e8f909b520"} , "Word" : "haunted" , "meaning" : "ভুতুড়ে; অধ্যুষিত; পরিপূর্ণ; ভূতগ্রস্ত;"}
+{ "_id" : { "$oid" : "566fe312e4b023e8f909b521"} , "Word" : "hassock" , "meaning" : "গির্জায় হাঁটু গাড়িয়া বসিবার জন্য পুরু গদিবিশেষ"}
+{ "_id" : { "$oid" : "566fe312e4b023e8f909b522"} , "Word" : "has" , "meaning" : "সহ্য করা; পাত্তয়া; অধিকারে পাত্তয়া; আয়ত্তে পাত্তয়া; অভ্যন্তরে ধারণ করা; অভিজ্ঞতা লাভ করা; উপভোগ করা; ভোগ করা;"}
+{ "_id" : { "$oid" : "566fe313e4b023e8f909b523"} , "Word" : "hatred " , "meaning" : "ঘৃণা;"}
+{ "_id" : { "$oid" : "566fe313e4b023e8f909b524"} , "Word" : "hat" , "meaning" : "পরপর তিনবার জয়ী হওয়ার কৃতিত্ব;(ক্রিকেটে) পর পর তিন- জনকে আউট করা;(ফুটবলে) পরপর তিনটি গোলা করা"}
+{ "_id" : { "$oid" : "566fe313e4b023e8f909b525"} , "Word" : "haste" , "meaning" : "ত্বরাক্ষিপ্রতা"}
+{ "_id" : { "$oid" : "566fe314e4b023e8f909b526"} , "Word" : "hats" , "meaning" : "টুপি; ক্যাপ;"}
+{ "_id" : { "$oid" : "566fe314e4b023e8f909b527"} , "Word" : "have a nice day" , "meaning" : "হ্যাভ এ নাইস ডে!;"}
+{ "_id" : { "$oid" : "566fe314e4b023e8f909b528"} , "Word" : "haunting" , "meaning" : "যাতায়াত করা; অধিষ্ঠান করা; দর্শন দেত্তয়া; হানা দেত্তয়া;"}
+{ "_id" : { "$oid" : "566fe315e4b023e8f909b529"} , "Word" : "hasten" , "meaning" : "ত্বরাণ্বিত করা বা হওয়া"}
+{ "_id" : { "$oid" : "566fe315e4b023e8f909b52a"} , "Word" : "hauls" , "meaning" : "টান; ধৃত বস্তু; প্রাপ্ত বস্তু; একবারের লাভ;"}
+{ "_id" : { "$oid" : "566fe315e4b023e8f909b52b"} , "Word" : "haversack" , "meaning" : "সৈন্যদের খাদ্যদি বহন করবার জন্য শক্ত ক্যানভাসের থলি"}
+{ "_id" : { "$oid" : "566fe316e4b023e8f909b52c"} , "Word" : "hassled" , "meaning" : "ঝগড়া করা; মারামারি করা;"}
+{ "_id" : { "$oid" : "566fe316e4b023e8f909b52d"} , "Word" : "havana, havannah" , "meaning" : "উত্তম চুরুটবিশেষ"}
+{ "_id" : { "$oid" : "566fe316e4b023e8f909b52e"} , "Word" : "hash" , "meaning" : "খন্ড খন্ড করিয়া কার্য; কুচি কুচি করা"}
+{ "_id" : { "$oid" : "566fe317e4b023e8f909b52f"} , "Word" : "hatchets" , "meaning" : "ক্ষুদ্র কুঠারবিশেষ;"}
+{ "_id" : { "$oid" : "566fe317e4b023e8f909b530"} , "Word" : "harvester" , "meaning" : "ফসল কাটার যন্ত্র; যে ব্যক্তি ফসল কাটে;"}
+{ "_id" : { "$oid" : "566fe317e4b023e8f909b531"} , "Word" : "hassles" , "meaning" : "ঝগড়া; মারামারি;"}
+{ "_id" : { "$oid" : "566fe318e4b023e8f909b532"} , "Word" : "hawk" , "meaning" : "বাজপাখি ; জিনিস ফেরি করা"}
+{ "_id" : { "$oid" : "566fe318e4b023e8f909b533"} , "Word" : "hast" , "meaning" : "গির্জায় হাঁটু গাড়িয়া বসিবার জন্য পুরু গদিবিশেষ"}
+{ "_id" : { "$oid" : "566fe318e4b023e8f909b534"} , "Word" : "haughty" , "meaning" : "গর্বিত; উদ্ধত"}
+{ "_id" : { "$oid" : "566fe319e4b023e8f909b535"} , "Word" : "hassle" , "meaning" : "ঝগড়া; মারামারি;"}
+{ "_id" : { "$oid" : "566fe319e4b023e8f909b536"} , "Word" : "harvested" , "meaning" : "শস্য সংগ্রহ করা; ফসল গোলাজাত করা;"}
+{ "_id" : { "$oid" : "566fe319e4b023e8f909b537"} , "Word" : "harvesting" , "meaning" : "শস্য সংগ্রহ করা; ফসল গোলাজাত করা;"}
+{ "_id" : { "$oid" : "566fe31ae4b023e8f909b538"} , "Word" : "haunches" , "meaning" : "নিতম্ব; পাছা;"}
+{ "_id" : { "$oid" : "566fe31ae4b023e8f909b539"} , "Word" : "haulage" , "meaning" : "মালবহন; মালবহনের ভাড়া"}
+{ "_id" : { "$oid" : "566fe31ae4b023e8f909b53a"} , "Word" : "hatter" , "meaning" : "টুপি বিক্রেতা; টুপি নির্মাতা;"}
+{ "_id" : { "$oid" : "566fe31be4b023e8f909b53b"} , "Word" : "hatch" , "meaning" : "ডিমে তা দেওয়া, ডিম ফুটানো"}
+{ "_id" : { "$oid" : "566fe31be4b023e8f909b53c"} , "Word" : "hasp" , "meaning" : "ছিটকিনি বিশেষ; পতর"}
+{ "_id" : { "$oid" : "566fe31be4b023e8f909b53d"} , "Word" : "have" , "meaning" : "অধিকারে পাওয়া,গ্রহণ করা"}
+{ "_id" : { "$oid" : "566fe31ce4b023e8f909b53e"} , "Word" : "hauntedhouse" , "meaning" : "ভূতুরে বাড়ি"}
+{ "_id" : { "$oid" : "566fe31ce4b023e8f909b53f"} , "Word" : "hartal" , "meaning" : "হরতাল;"}
+{ "_id" : { "$oid" : "566fe31ce4b023e8f909b540"} , "Word" : "hastily" , "meaning" : "তাড়া হুড়া করে"}
+{ "_id" : { "$oid" : "566fe31de4b023e8f909b541"} , "Word" : "have recourse to" , "meaning" : "শরণ নেওয়া; শরণাপন্ন হওয়া; আশ্রয়গ্রহন করা;"}
+{ "_id" : { "$oid" : "566fe31de4b023e8f909b542"} , "Word" : "hauteur" , "meaning" : "ঔদ্ধত্য;"}
+{ "_id" : { "$oid" : "566fe31de4b023e8f909b543"} , "Word" : "hart" , "meaning" : "হরিণ"}
+{ "_id" : { "$oid" : "566fe31ee4b023e8f909b544"} , "Word" : "havoc " , "meaning" : "ক্ষিতি; ব্যাপক ধ্বংস; ক্ষয়;"}
+{ "_id" : { "$oid" : "566fe31ee4b023e8f909b545"} , "Word" : "haunch" , "meaning" : "কটিদেশ; নিতম্ব"}
+{ "_id" : { "$oid" : "566fe31ee4b023e8f909b546"} , "Word" : "hatchet" , "meaning" : "ক্ষুদ্র কুঠারবিশেষ; ক্ষুদ্র কুঠার বিশেষ;"}
+{ "_id" : { "$oid" : "566fe31fe4b023e8f909b547"} , "Word" : "haunt" , "meaning" : "পুনঃপুনঃ যাতায়াত করা; বাস করা বা সর্বদা যাতায়াত করা; পুনঃপুনঃ যে স্থানে যাতায়াত করে"}
+{ "_id" : { "$oid" : "566fe31fe4b023e8f909b548"} , "Word" : "harves-feast" , "meaning" : "শস্য সংগ্রহকালে ভোজ"}
+{ "_id" : { "$oid" : "566fe31fe4b023e8f909b549"} , "Word" : "hauling" , "meaning" : "সদলে টানা; জাহাজের গতিপরিবর্তন করান; বাহিয়া যাত্তয়া;"}
+{ "_id" : { "$oid" : "566fe320e4b023e8f909b54a"} , "Word" : "hawaii" , "meaning" : "হত্তয়ী;"}
+{ "_id" : { "$oid" : "566fe320e4b023e8f909b54b"} , "Word" : "hatters" , "meaning" : "টুপি বিক্রেতা; টুপি নির্মাতা;"}
+{ "_id" : { "$oid" : "566fe320e4b023e8f909b54c"} , "Word" : "hatreds" , "meaning" : "ঘৃণা;"}
+{ "_id" : { "$oid" : "566fe321e4b023e8f909b54d"} , "Word" : "hatchery" , "meaning" : "(কৃত্রিম উপায়ে বিশেষতঃ মাছের) ডিম ফুটিয়ে শাবক উৎপাদনের স্থান"}
+{ "_id" : { "$oid" : "566fe321e4b023e8f909b54e"} , "Word" : "haven" , "meaning" : "পোতাশ্রয়; নদীর মুখ; আশ্রয়স্থল"}
+{ "_id" : { "$oid" : "566fe321e4b023e8f909b54f"} , "Word" : "hatching" , "meaning" : "অঙ্কিত রেখা;"}
+{ "_id" : { "$oid" : "566fe322e4b023e8f909b550"} , "Word" : "hastening" , "meaning" : "দ্রুত চলা; দ্রুত চালান; ত্বরন্বিত করান; ত্বরন্বিত হত্তয়া; দ্রুত অগ্রসর করান; দ্রুত অগ্রসর হত্তয়া;"}
+{ "_id" : { "$oid" : "566fe322e4b023e8f909b551"} , "Word" : "hastens" , "meaning" : "দ্রুত চলা; ত্বরন্বিত করান; দ্রুত চালান; ত্বরন্বিত হত্তয়া; দ্রুত অগ্রসর করান; দ্রুত অগ্রসর হত্তয়া;"}
+{ "_id" : { "$oid" : "566fe322e4b023e8f909b552"} , "Word" : "hauled" , "meaning" : "উত্তোলিত;"}
+{ "_id" : { "$oid" : "566fe323e4b023e8f909b553"} , "Word" : "hasted" , "meaning" : "ত্বরন্বিত করান; ত্বরন্বিত হত্তয়া; দ্রুত অগ্রসর করান; দ্রুত অগ্রসর হত্তয়া; দ্রুত চালান; দ্রুত চলা;"}
+{ "_id" : { "$oid" : "566fe323e4b023e8f909b554"} , "Word" : "hashed" , "meaning" : "কুচি-কুচি করিয়া কাটা বস্তু;"}
+{ "_id" : { "$oid" : "566fe323e4b023e8f909b555"} , "Word" : "have on" , "meaning" : "পরিধান করা;"}
+{ "_id" : { "$oid" : "566fe324e4b023e8f909b556"} , "Word" : "hawker" , "meaning" : "ফেরি-ওয়ালা"}
+{ "_id" : { "$oid" : "566fe324e4b023e8f909b557"} , "Word" : "haunted house" , "meaning" : "হানাবাড়ি;"}
+{ "_id" : { "$oid" : "566fe324e4b023e8f909b558"} , "Word" : "hastiness" , "meaning" : "ত্বরা;"}
+{ "_id" : { "$oid" : "566fe325e4b023e8f909b559"} , "Word" : "have to do" , "meaning" : "করিতে বাধ্য হত্তয়া;"}
+{ "_id" : { "$oid" : "566fe325e4b023e8f909b55a"} , "Word" : "having" , "meaning" : "জমিদারি;"}
+{ "_id" : { "$oid" : "566fe325e4b023e8f909b55b"} , "Word" : "hastened" , "meaning" : "দ্রুত চলা; দ্রুত চালান; ত্বরন্বিত করান; ত্বরন্বিত হত্তয়া; দ্রুত অগ্রসর করান; দ্রুত অগ্রসর হত্তয়া;"}
+{ "_id" : { "$oid" : "566fe326e4b023e8f909b55c"} , "Word" : "harvest" , "meaning" : "শস্য কাটার বা সংগ্রহ করার সময়;ফসল"}
+{ "_id" : { "$oid" : "566fe326e4b023e8f909b55d"} , "Word" : "hautboy" , "meaning" : "সানাই"}
+{ "_id" : { "$oid" : "566fe326e4b023e8f909b55e"} , "Word" : "hatched" , "meaning" : "ডিম পাড়া; বিবর্ধিত করা; সৃষ্টি করা; সূক্ষ্ম রেখা টানা; ডিম দেত্তয়া;"}
+{ "_id" : { "$oid" : "566fe327e4b023e8f909b55f"} , "Word" : "hateful" , "meaning" : "ঘৃণ্য; ঘৃণাপূর্ণ; কুতসিত; ঘৃণাজনক; ঘৃণিত; সঘৃণ; ঘৃণাব্যঁজক; ঘৃণার্হ; ঘৃণা উদ্রেককর; অধম; নোংরা; ঘৃণা-উদ্রেককারী;"}
+{ "_id" : { "$oid" : "566fe327e4b023e8f909b560"} , "Word" : "harts" , "meaning" : "পুংহরিণ;"}
+{ "_id" : { "$oid" : "566fe327e4b023e8f909b561"} , "Word" : "hates" , "meaning" : "ঘৃণা;"}
+{ "_id" : { "$oid" : "566fe328e4b023e8f909b562"} , "Word" : "haul" , "meaning" : "আকর্ষণ করা; জোরে টারা;আকর্ষণ"}
+{ "_id" : { "$oid" : "566fe328e4b023e8f909b563"} , "Word" : "hashish" , "meaning" : "ভাং; সিদ্ধি;"}
+{ "_id" : { "$oid" : "566fe328e4b023e8f909b564"} , "Word" : "harvests" , "meaning" : "ফসল; সংগৃহীত ফসল; খরিফ; শ্রমের ফল; ফসল গোলাজাত করার সময়;"}
+{ "_id" : { "$oid" : "566fe329e4b023e8f909b565"} , "Word" : "headlong" , "meaning" : "অবিবেচিত, হটকারী, সামনে মাথা বাড়িয়ে, হঠ-কারিতার সঙ্গে"}
+{ "_id" : { "$oid" : "566fe329e4b023e8f909b566"} , "Word" : "head clerk" , "meaning" : "প্রধান করণিক;"}
+{ "_id" : { "$oid" : "566fe329e4b023e8f909b567"} , "Word" : "headclerk" , "meaning" : "প্রধান করণিক;"}
+{ "_id" : { "$oid" : "566fe32ae4b023e8f909b568"} , "Word" : "hazels" , "meaning" : "বৃক্ষবিশেষ;"}
+{ "_id" : { "$oid" : "566fe32ae4b023e8f909b569"} , "Word" : "hazarding" , "meaning" : "ঝুঁকিগ্রহণ করা; ঝুঁকি করা; ঝুঁকি নেত্তয়া; ঝুঁকি লত্তয়া; বিপদাপন্ন করা; সম্মুখীন করা;"}
+{ "_id" : { "$oid" : "566fe32ae4b023e8f909b56a"} , "Word" : "head-boy" , "meaning" : "স্কুলের সর্দার, পড়ুয়া"}
+{ "_id" : { "$oid" : "566fe32be4b023e8f909b56b"} , "Word" : "heap" , "meaning" : "স্তুপ, রাশি, গাদা, স্তুপকার করা গাদা করা"}
+{ "_id" : { "$oid" : "566fe32be4b023e8f909b56c"} , "Word" : "hear" , "meaning" : "শোনা সংবাদ পাওয়া"}
+{ "_id" : { "$oid" : "566fe32be4b023e8f909b56d"} , "Word" : "hazards" , "meaning" : "বিপত্তি; ঝুঁকিগ্রহণ; ঝুঁকি; ঠক্ঠকি; বিপদ্; অপায়; অত্যয়; দৈব; অথান্তর; অনিশ্চিত ভাগ্য; আকস্মিক ঘটনা; পাশাখেলাবিশেষ;"}
+{ "_id" : { "$oid" : "566fe32ce4b023e8f909b56e"} , "Word" : "heal" , "meaning" : "আরোগ্য হওয়া"}
+{ "_id" : { "$oid" : "566fe32ce4b023e8f909b56f"} , "Word" : "healers" , "meaning" : "চিকিত্সক; বৈদ্য; আরোগ্যকর্তা;"}
+{ "_id" : { "$oid" : "566fe32ce4b023e8f909b570"} , "Word" : "hawks" , "meaning" : "বাজপাখি; শ্যেন; চিল; লুণ্ঠক; তীক্ষ্নদরষ্টিসম্পন্ন ব্যক্তি; কপোতারি; লোভী ব্যক্তি;"}
+{ "_id" : { "$oid" : "566fe32de4b023e8f909b571"} , "Word" : "headstone" , "meaning" : "কবরের শীর্ষদেশে স্থাপিত প্রস্তরখণ্ড;"}
+{ "_id" : { "$oid" : "566fe32de4b023e8f909b572"} , "Word" : "head" , "meaning" : "মাথা, শীর্ষদেশ, মস্তিষ্ক, কর্তা, হিসাবের খাত, নেতৃত্ব করা, মাথা দিয়ে বল মারা, হেড করা"}
+{ "_id" : { "$oid" : "566fe32de4b023e8f909b573"} , "Word" : "hazardous" , "meaning" : "বিপজ্জনক, ক্ষতিকর; অনিশ্চত"}
+{ "_id" : { "$oid" : "566fe32ee4b023e8f909b574"} , "Word" : "hears" , "meaning" : "শুনা; শ্রবণ করা; কর্ণপাত করা; বিচার করা; সংবাদ করা; শোনা;"}
+{ "_id" : { "$oid" : "566fe32ee4b023e8f909b575"} , "Word" : "head-line" , "meaning" : "(পুস্তকের পাতা বা প্রবন্ধাদির উপরিভাবে) শিরোনাম"}
+{ "_id" : { "$oid" : "566fe32ee4b023e8f909b576"} , "Word" : "healthful" , "meaning" : "স্বাস্থ্যকর; অনাময; নৈতিক উন্নতিসাধক; আধ্যাত্মিক উন্নতিসাধক;"}
+{ "_id" : { "$oid" : "566fe32fe4b023e8f909b577"} , "Word" : "head-on" , "meaning" : "(গাড়ি প্রভৃতির সংঘর্ষ সম্বন্ধে) মুখোমুখি(ভাবে)(ঠোকাঠূটি) মাথায় মাথায়"}
+{ "_id" : { "$oid" : "566fe32fe4b023e8f909b578"} , "Word" : "heads" , "meaning" : "মাথা; মস্তক; নেতা; মস্তিষ্ক; শির; গর্দান; সর্দার; মেধা; মগজ; জনা; কন্ধ; ঘট; বুদ্ধি; সম্মুখভাগ; জন; হিসাবের খাতা; ব্যক্তি; শীর্ষ; বোধশক্তি; লোক;"}
+{ "_id" : { "$oid" : "566fe32fe4b023e8f909b579"} , "Word" : "head strong" , "meaning" : "উদ্ধত; একগুঁয়ে; সমকোণ-চিত্ত; একগুঁয়ে;"}
+{ "_id" : { "$oid" : "566fe330e4b023e8f909b57a"} , "Word" : "headlight" , "meaning" : "গাড়ির সম্মুখে বড় ও উজ্জ্বল আলোক"}
+{ "_id" : { "$oid" : "566fe330e4b023e8f909b57b"} , "Word" : "haystack" , "meaning" : "খড়ের গাদা;"}
+{ "_id" : { "$oid" : "566fe330e4b023e8f909b57c"} , "Word" : "he" , "meaning" : "সে, তিনি"}
+{ "_id" : { "$oid" : "566fe331e4b023e8f909b57d"} , "Word" : "health" , "meaning" : "স্বাস্থ্য শারীরিক সুস্থ অবস্থা"}
+{ "_id" : { "$oid" : "566fe331e4b023e8f909b57e"} , "Word" : "heals" , "meaning" : "ভাল করা; আরোগ্য করা; আরোগ্য হত্তয়া; ক্ষতচিহ্নসহ আরোগ্য হত্তয়া;"}
+{ "_id" : { "$oid" : "566fe331e4b023e8f909b57f"} , "Word" : "head assistant" , "meaning" : "প্রধান সহকারী;"}
+{ "_id" : { "$oid" : "566fe332e4b023e8f909b580"} , "Word" : "heady" , "meaning" : "হঠকারী; প্রচণ্ড; মস্তিষ্কপীড়নকর; প্রজ্বলিত; মস্তিষ্ক পীড়নকর;"}
+{ "_id" : { "$oid" : "566fe332e4b023e8f909b581"} , "Word" : "head office" , "meaning" : "প্রধান অফিস;"}
+{ "_id" : { "$oid" : "566fe332e4b023e8f909b582"} , "Word" : "header" , "meaning" : "মাথা দিয়া মারা বল; হেড্-করা বল;"}
+{ "_id" : { "$oid" : "566fe333e4b023e8f909b583"} , "Word" : "hearing" , "meaning" : "শ্রবণ,শ্রবণশক্তি,শুনানি"}
+{ "_id" : { "$oid" : "566fe333e4b023e8f909b584"} , "Word" : "hazel-nut" , "meaning" : "হেজেল গাছের ফল বা বাদাম"}
+{ "_id" : { "$oid" : "566fe333e4b023e8f909b585"} , "Word" : "headland" , "meaning" : "অন্তরীপ;"}
+{ "_id" : { "$oid" : "566fe334e4b023e8f909b586"} , "Word" : "head off" , "meaning" : "আগাইয়া যাত্তয়া; ছাড়াইয়া যাত্তয়া;"}
+{ "_id" : { "$oid" : "566fe334e4b023e8f909b587"} , "Word" : "headdress" , "meaning" : "কলগী; পাগড়ি; উষ্ণীষ;"}
+{ "_id" : { "$oid" : "566fe334e4b023e8f909b588"} , "Word" : "head ache" , "meaning" : "মাথা ব্যাথা; মাথাব্যথা; মাথা-ধরা; মাথা-ব্যাথা; মাথা ধরা;"}
+{ "_id" : { "$oid" : "566fe335e4b023e8f909b589"} , "Word" : "hay" , "meaning" : "খড়"}
+{ "_id" : { "$oid" : "566fe335e4b023e8f909b58a"} , "Word" : "healthier" , "meaning" : "সুস্থ; স্বাস্থ্যকর; স্বাস্থ্যবান; নিরাময়; অনাময; অক্ষীণ; অগদ; বহাল; স্বাস্থ্যতার পরিচায়ক; পরিষ্কার;"}
+{ "_id" : { "$oid" : "566fe335e4b023e8f909b58b"} , "Word" : "hazel" , "meaning" : "বৃক্ষ বিশেষ; পিঙ্গল বর্ণ"}
+{ "_id" : { "$oid" : "566fe336e4b023e8f909b58c"} , "Word" : "heaped" , "meaning" : "গাদা করা; পুঁজিভূত করা; পাঁজা করা; পাঁজা করিয়া সাজান; টাল করা; টাল দেত্তয়া; স্তূপাকার করা; স্তূপে পরিণত করা; স্তূপাকার হত্তয়া; জড় করা; জমান;"}
+{ "_id" : { "$oid" : "566fe336e4b023e8f909b58d"} , "Word" : "headoff" , "meaning" : "আগাইয়া যাত্তয়া; ছাড়াইয়া যাত্তয়া;"}
+{ "_id" : { "$oid" : "566fe336e4b023e8f909b58e"} , "Word" : "heading" , "meaning" : "শিরোনাম, শিরোলিপি"}
+{ "_id" : { "$oid" : "566fe337e4b023e8f909b58f"} , "Word" : "haze" , "meaning" : "কঞ্চটিকা; চিন্তা-ধারায় সামান্য গোলমেলে ভাব"}
+{ "_id" : { "$oid" : "566fe337e4b023e8f909b590"} , "Word" : "headline" , "meaning" : "শিরনাম; সংবাদপত্রের পৃষ্ঠার শীর্ষদেশস্থ;"}
+{ "_id" : { "$oid" : "566fe337e4b023e8f909b591"} , "Word" : "headgear" , "meaning" : "উষ্ণীশ; পাগড়ি;"}
+{ "_id" : { "$oid" : "566fe337e4b023e8f909b592"} , "Word" : "hawking" , "meaning" : "ফেরি;"}
+{ "_id" : { "$oid" : "566fe338e4b023e8f909b593"} , "Word" : "head way" , "meaning" : "অগ্রগতি; অগ্রগমন; উন্নতি;"}
+{ "_id" : { "$oid" : "566fe338e4b023e8f909b594"} , "Word" : "hawthorn" , "meaning" : "বেড়া দিবার এক প্রকার কাঁটাগাছ"}
+{ "_id" : { "$oid" : "566fe338e4b023e8f909b595"} , "Word" : "hazelnut" , "meaning" : "হ্যাজেল নাট; বৃক্ষবিশেষের বাদাম;"}
+{ "_id" : { "$oid" : "566fe339e4b023e8f909b596"} , "Word" : "healer" , "meaning" : "চিকিত্সক; বৈদ্য; আরোগ্যকর্তা;"}
+{ "_id" : { "$oid" : "566fe339e4b023e8f909b597"} , "Word" : "headphone" , "meaning" : "মাথায় বাঁধিয়া ব্যবহার্য বেতারযন্ত্র বিশেষ;"}
+{ "_id" : { "$oid" : "566fe33ae4b023e8f909b598"} , "Word" : "headmistress" , "meaning" : "প্রধানশিক্ষিকা; বিদ্যালয়ের প্রধানশিক্ষিকা;"}
+{ "_id" : { "$oid" : "566fe33ae4b023e8f909b599"} , "Word" : "headings" , "meaning" : "শিরনামা;"}
+{ "_id" : { "$oid" : "566fe33ae4b023e8f909b59a"} , "Word" : "headway" , "meaning" : "সম্মুখগতি,অগ্রগতি, উন্নতি"}
+{ "_id" : { "$oid" : "566fe33be4b023e8f909b59b"} , "Word" : "head-dress" , "meaning" : "শিরোভূষণ বিশেষ"}
+{ "_id" : { "$oid" : "566fe33be4b023e8f909b59c"} , "Word" : "headed" , "meaning" : "মস্তকবিশিষ্ট;"}
+{ "_id" : { "$oid" : "566fe33be4b023e8f909b59d"} , "Word" : "heard" , "meaning" : "শুনা; শ্রবণ করা; কর্ণপাত করা; বিচার করা; সংবাদ করা; শোনা;"}
+{ "_id" : { "$oid" : "566fe33ce4b023e8f909b59e"} , "Word" : "healing" , "meaning" : "চিকিত্সা; আরোগ্য; আরোগ্য;"}
+{ "_id" : { "$oid" : "566fe33ce4b023e8f909b59f"} , "Word" : "hazy" , "meaning" : "কুয়াশাচ্ছন্ন; অস্টষ্ট"}
+{ "_id" : { "$oid" : "566fe33ce4b023e8f909b5a0"} , "Word" : "headstrong" , "meaning" : "একগুয়ে ;একরোখা"}
+{ "_id" : { "$oid" : "566fe33de4b023e8f909b5a1"} , "Word" : "healed" , "meaning" : "ভাল করা; আরোগ্য করা; আরোগ্য হত্তয়া; ক্ষতচিহ্নসহ আরোগ্য হত্তয়া;"}
+{ "_id" : { "$oid" : "566fe33de4b023e8f909b5a2"} , "Word" : "head,s off" , "meaning" : "আগাইয়া যাত্তয়া; ছাড়াইয়া যাত্তয়া;"}
+{ "_id" : { "$oid" : "566fe33de4b023e8f909b5a3"} , "Word" : "heaps" , "meaning" : "গাদা;"}
+{ "_id" : { "$oid" : "566fe33ee4b023e8f909b5a4"} , "Word" : "hazard" , "meaning" : "ঝুঁকি, বিপদ"}
+{ "_id" : { "$oid" : "566fe33ee4b023e8f909b5a5"} , "Word" : "headsman" , "meaning" : "জল্লাদ, ঘাতক"}
+{ "_id" : { "$oid" : "566fe33ee4b023e8f909b5a6"} , "Word" : "headship" , "meaning" : "প্রধানশিক্ষক; শিক্ষাকর পদ; প্রধান শিক্ষক বা শিক্ষিকার পদ;"}
+{ "_id" : { "$oid" : "566fe33fe4b023e8f909b5a7"} , "Word" : "headaches" , "meaning" : "মাথা ব্যাথা; মাথাব্যথা; মাথা-ধরা;"}
+{ "_id" : { "$oid" : "566fe33fe4b023e8f909b5a8"} , "Word" : "hazarded" , "meaning" : "ঝুঁকিগ্রহণ করা; ঝুঁকি করা; ঝুঁকি নেত্তয়া; ঝুঁকি লত্তয়া; বিপদাপন্ন করা; সম্মুখীন করা;"}
+{ "_id" : { "$oid" : "566fe33fe4b023e8f909b5a9"} , "Word" : "headquarters" , "meaning" : "সেনাপতির দপ্তর বা বাসস্থান, সদর"}
+{ "_id" : { "$oid" : "566fe340e4b023e8f909b5aa"} , "Word" : "headmaster" , "meaning" : "বিদ্যালয়ের প্রধান শিক্ষক"}
+{ "_id" : { "$oid" : "566fe340e4b023e8f909b5ab"} , "Word" : "hawse" , "meaning" : "জাহাজের সামনের দিকে যেখানে কাছি যাইবার গর্ত কাটা থাকে;"}
+{ "_id" : { "$oid" : "566fe340e4b023e8f909b5ac"} , "Word" : "hawser" , "meaning" : "রজ্জু; কাছি; রজ্জু বা কাছি;"}
+{ "_id" : { "$oid" : "566fe341e4b023e8f909b5ad"} , "Word" : "headman" , "meaning" : "সদ্র্‌ার, মোড়ল"}
+{ "_id" : { "$oid" : "566fe341e4b023e8f909b5ae"} , "Word" : "headache" , "meaning" : "মাথাধরা ; শিরঃপীড়া"}
+{ "_id" : { "$oid" : "566fe341e4b023e8f909b5af"} , "Word" : "healthy" , "meaning" : "স্বাস্থ্যবান,সতেজ, স্বাস্থ্যকর"}
+{ "_id" : { "$oid" : "566fe342e4b023e8f909b5b0"} , "Word" : "hazier" , "meaning" : "অস্পষ্ট; কুয়াশাচ্ছন্ন; কুয়াসাচ্ছন্ন; অনিশ্চিত;"}
+{ "_id" : { "$oid" : "566fe342e4b023e8f909b5b1"} , "Word" : "hearken" , "meaning" : "মনো যোগপূর্বক শ্রবণ করা"}
+{ "_id" : { "$oid" : "566fe342e4b023e8f909b5b2"} , "Word" : "heap up" , "meaning" : "ডাঁই;"}
+{ "_id" : { "$oid" : "566fe343e4b023e8f909b5b3"} , "Word" : "heaps up" , "meaning" : "ডাঁই;"}
+{ "_id" : { "$oid" : "566fe343e4b023e8f909b5b4"} , "Word" : "haywire" , "meaning" : "বিক্ষিপ্তচিত্ত; উত্তেজিত; বিশৃঙ্খল;"}
+{ "_id" : { "$oid" : "566fe343e4b023e8f909b5b5"} , "Word" : "hedgehog" , "meaning" : "শজারু জাতীয় প্রাণী"}
+{ "_id" : { "$oid" : "566fe344e4b023e8f909b5b6"} , "Word" : "hedged" , "meaning" : "রক্ষা করা; ঘেরাত্ত করা;"}
+{ "_id" : { "$oid" : "566fe344e4b023e8f909b5b7"} , "Word" : "hearts" , "meaning" : "হরতন; তাসের হরতন;"}
+{ "_id" : { "$oid" : "566fe344e4b023e8f909b5b8"} , "Word" : "heavenly" , "meaning" : "স্বর্গীয়, দিব্য, আকাশস্থ"}
+{ "_id" : { "$oid" : "566fe345e4b023e8f909b5b9"} , "Word" : "heavyweight" , "meaning" : "মুষ্টিযোদ্ধার ত্তজনবিশেষ;"}
+{ "_id" : { "$oid" : "566fe345e4b023e8f909b5ba"} , "Word" : "heartsick" , "meaning" : "মর্মান্তিক দুঃখিত, হতাশ, অবসাদগ্রস্ত"}
+{ "_id" : { "$oid" : "566fe345e4b023e8f909b5bb"} , "Word" : "heated" , "meaning" : "উত্তপ্ত; উত্তেজিত; উষ্ণ; উত্তাপিত; ক্রুদ্ধ; অত্যন্ত উত্তপ্ত; সন্তপ্ত; অত্যুষ্ণ;"}
+{ "_id" : { "$oid" : "566fe346e4b023e8f909b5bc"} , "Word" : "hedonistic" , "meaning" : "আনন্দবাদী;"}
+{ "_id" : { "$oid" : "566fe346e4b023e8f909b5bd"} , "Word" : "hearth" , "meaning" : "ঘরের যে অংশে উনান থাকে ; রসই ঘর"}
+{ "_id" : { "$oid" : "566fe346e4b023e8f909b5be"} , "Word" : "heat" , "meaning" : "উত্তাপ, যে প্রাথমিক প্রতিযোগিতায় জয়ী খেলোয়াড় পরবর্তী খেলায় অংশ গ্রহণ করতে পারে উত্তপ্ত করা"}
+{ "_id" : { "$oid" : "566fe347e4b023e8f909b5bf"} , "Word" : "heartening" , "meaning" : "উত্সাহ দেত্তয়া; উত্সাহ পাত্তয়া;"}
+{ "_id" : { "$oid" : "566fe347e4b023e8f909b5c0"} , "Word" : "heartburn" , "meaning" : "বুকজ্বালা, অম্বল"}
+{ "_id" : { "$oid" : "566fe347e4b023e8f909b5c1"} , "Word" : "heat apoplexy" , "meaning" : "সর্দি গরমি"}
+{ "_id" : { "$oid" : "566fe348e4b023e8f909b5c2"} , "Word" : "heart-break" , "meaning" : "গভীরমর্ম, নতুন দুঃখ"}
+{ "_id" : { "$oid" : "566fe348e4b023e8f909b5c3"} , "Word" : "heater" , "meaning" : "বৈদু্যতিক চুল্লিবিশেষ"}
+{ "_id" : { "$oid" : "566fe349e4b023e8f909b5c4"} , "Word" : "heathen" , "meaning" : "যে ব্যক্তি ইহুদী, খ্রীষ্টান বা মুসলমান নয়"}
+{ "_id" : { "$oid" : "566fe349e4b023e8f909b5c5"} , "Word" : "hedonist" , "meaning" : "আনন্দবাদী দার্শনিক;"}
+{ "_id" : { "$oid" : "566fe349e4b023e8f909b5c6"} , "Word" : "heckled" , "meaning" : "আঁচড়ান; প্রশ্নবাণে জর্জরিত করা;"}
+{ "_id" : { "$oid" : "566fe34ae4b023e8f909b5c7"} , "Word" : "hearty" , "meaning" : "আন্তরিক, সাদরপূর্ণ দিলখোলা"}
+{ "_id" : { "$oid" : "566fe34ae4b023e8f909b5c8"} , "Word" : "heather" , "meaning" : "গুল্মবিশেষ;"}
+{ "_id" : { "$oid" : "566fe34ae4b023e8f909b5c9"} , "Word" : "hectare" , "meaning" : "জমির আয়তনের মাপ(২৪৭১ একর)"}
+{ "_id" : { "$oid" : "566fe34be4b023e8f909b5ca"} , "Word" : "heart-whole" , "meaning" : "প্রেমে অবিচলিত, যে প্রেমে পড়ে নাই এমন"}
+{ "_id" : { "$oid" : "566fe34be4b023e8f909b5cb"} , "Word" : "heath" , "meaning" : "অনুর্বর,গুল্মবিশেষ"}
+{ "_id" : { "$oid" : "566fe34be4b023e8f909b5cc"} , "Word" : "heathy" , "meaning" : "গুল্মবিশেষপূর্ণ;"}
+{ "_id" : { "$oid" : "566fe34ce4b023e8f909b5cd"} , "Word" : "hedonism" , "meaning" : "ভোগ-সুখবাদ, প্রেয়োবাদ"}
+{ "_id" : { "$oid" : "566fe34ce4b023e8f909b5ce"} , "Word" : "heaviest" , "meaning" : "গুরুতম;"}
+{ "_id" : { "$oid" : "566fe34ce4b023e8f909b5cf"} , "Word" : "heart" , "meaning" : "হৃৎপিন্ড ; হৃদয় ; কেন্দ্রস্থল ; তাসের হরতন"}
+{ "_id" : { "$oid" : "566fe34de4b023e8f909b5d0"} , "Word" : "heatwave" , "meaning" : "লু;"}
+{ "_id" : { "$oid" : "566fe34de4b023e8f909b5d1"} , "Word" : "heartless" , "meaning" : "অনুভূতিহীন, হৃদয়হীন, ভীরু,নিষ্ঠুুর"}
+{ "_id" : { "$oid" : "566fe34de4b023e8f909b5d2"} , "Word" : "heckle" , "meaning" : "চিরূণী;"}
+{ "_id" : { "$oid" : "566fe34ee4b023e8f909b5d3"} , "Word" : "heatproof" , "meaning" : "তাপসহ;"}
+{ "_id" : { "$oid" : "566fe34ee4b023e8f909b5d4"} , "Word" : "heavy" , "meaning" : "ভারী,গুরুভার দুর্বহ, মোটা"}
+{ "_id" : { "$oid" : "566fe34ee4b023e8f909b5d5"} , "Word" : "heartily" , "meaning" : "আন্তরিকভাবে, আন্তরিকতার সঙ্গে"}
+{ "_id" : { "$oid" : "566fe34fe4b023e8f909b5d6"} , "Word" : "hearse" , "meaning" : "শবযান শবাধার বহনের নিম্‌িত্ত গাড়ি"}
+{ "_id" : { "$oid" : "566fe34fe4b023e8f909b5d7"} , "Word" : "heavily" , "meaning" : "অত্যন্ত ভারাক্রান্ত হইয়া;"}
+{ "_id" : { "$oid" : "566fe34fe4b023e8f909b5d8"} , "Word" : "heartbreaking" , "meaning" : "হৃদয় বিদারক, প্রাণঘাতী"}
+{ "_id" : { "$oid" : "566fe350e4b023e8f909b5d9"} , "Word" : "hedges" , "meaning" : "প্রতিবন্ধক; ক্ষুদ্র বৃক্ষনির্মিত বেড়া; কাঠগড়া;"}
+{ "_id" : { "$oid" : "566fe350e4b023e8f909b5da"} , "Word" : "hearsay" , "meaning" : "জনশ্রুতি, জনরব,গুজব"}
+{ "_id" : { "$oid" : "566fe350e4b023e8f909b5db"} , "Word" : "heavenly body" , "meaning" : "জ্যোতিষ্ক;"}
+{ "_id" : { "$oid" : "566fe351e4b023e8f909b5dc"} , "Word" : "heartened" , "meaning" : "উত্সাহ দেত্তয়া; উত্সাহ পাত্তয়া;"}
+{ "_id" : { "$oid" : "566fe351e4b023e8f909b5dd"} , "Word" : "heartbeat" , "meaning" : "হৃৎপিন্ডের স্পন্দন"}
+{ "_id" : { "$oid" : "566fe351e4b023e8f909b5de"} , "Word" : "heavy rainfall" , "meaning" : "অতিবৃষ্টি;"}
+{ "_id" : { "$oid" : "566fe352e4b023e8f909b5df"} , "Word" : "hedgerow" , "meaning" : "মাঠের চারিধারে বেড়া বাঁধিবার গাছের সারি"}
+{ "_id" : { "$oid" : "566fe352e4b023e8f909b5e0"} , "Word" : "heat flash" , "meaning" : "চরম উত্তাপ;"}
+{ "_id" : { "$oid" : "566fe352e4b023e8f909b5e1"} , "Word" : "heart-burning" , "meaning" : "ঈর্ষাদ্বেষ"}
+{ "_id" : { "$oid" : "566fe353e4b023e8f909b5e2"} , "Word" : "heart and soul" , "meaning" : "সর্বান্তঃকরণে;"}
+{ "_id" : { "$oid" : "566fe353e4b023e8f909b5e3"} , "Word" : "heartiness" , "meaning" : "আন্তরিকতা; দিল;"}
+{ "_id" : { "$oid" : "566fe353e4b023e8f909b5e4"} , "Word" : "heavy rain" , "meaning" : "প্রবল বৃষ্টি;"}
+{ "_id" : { "$oid" : "566fe354e4b023e8f909b5e5"} , "Word" : "heartbroken" , "meaning" : "ভগ্নহৃদয়;"}
+{ "_id" : { "$oid" : "566fe354e4b023e8f909b5e6"} , "Word" : "hedge-sparrow" , "meaning" : "গায়ক, পক্ষিবিশেষ"}
+{ "_id" : { "$oid" : "566fe354e4b023e8f909b5e7"} , "Word" : "heaviness" , "meaning" : "গুরুত্বঃ ভাব"}
+{ "_id" : { "$oid" : "566fe355e4b023e8f909b5e8"} , "Word" : "heartbreak" , "meaning" : "মর্মপীড়া; মর্মবেদনা; প্রাণঘাতী হতাশা; হৃদয়ভঙ্গ; প্রাণঘাতী দু:খ;"}
+{ "_id" : { "$oid" : "566fe355e4b023e8f909b5e9"} , "Word" : "hectares" , "meaning" : "জমির আয়তনের মাপবিশেষ;"}
+{ "_id" : { "$oid" : "566fe356e4b023e8f909b5ea"} , "Word" : "hearths" , "meaning" : "আখা;"}
+{ "_id" : { "$oid" : "566fe356e4b023e8f909b5eb"} , "Word" : "heavity" , "meaning" : "গুরুতরভাবে, ভারাক্রান্তভাবে"}
+{ "_id" : { "$oid" : "566fe356e4b023e8f909b5ec"} , "Word" : "heave" , "meaning" : "তোলা, টেনে ওঠানো, চাপিয়ে, তোলা, দীর্ঘশ্বাস ফেলা"}
+{ "_id" : { "$oid" : "566fe357e4b023e8f909b5ed"} , "Word" : "hectic" , "meaning" : "আরক্ত, উত্তেজনাপূর্ণ, বিশ্রামহীন"}
+{ "_id" : { "$oid" : "566fe357e4b023e8f909b5ee"} , "Word" : "hedonic" , "meaning" : "আনন্দবাদী;"}
+{ "_id" : { "$oid" : "566fe357e4b023e8f909b5ef"} , "Word" : "heartier" , "meaning" : "সাদর; বলিষ্ঠ; হাসিখুশি; জবর; আন্তরিক; গভীরভাবে অনুভূত; দিল্দার; দিল্দরিয়া; সমাদরপূর্ণ; প্রকৃত; দিলখোলা; পরিতোষপূর্ণ;"}
+{ "_id" : { "$oid" : "566fe358e4b023e8f909b5f0"} , "Word" : "hearten" , "meaning" : "উৎসাহিত করা, সাহস দেওয়া"}
+{ "_id" : { "$oid" : "566fe358e4b023e8f909b5f1"} , "Word" : "heartiest" , "meaning" : "সাদর; বলিষ্ঠ; হাসিখুশি; জবর; আন্তরিক; গভীরভাবে অনুভূত; দিল্দার; দিল্দরিয়া; সমাদরপূর্ণ; প্রকৃত; দিলখোলা; পরিতোষপূর্ণ;"}
+{ "_id" : { "$oid" : "566fe358e4b023e8f909b5f2"} , "Word" : "heart attack" , "meaning" : "হৃদয়ভঙ্গ; প্রাণঘাতী হতাশা; প্রাণঘাতী দু:খ;"}
+{ "_id" : { "$oid" : "566fe359e4b023e8f909b5f3"} , "Word" : "heart disease" , "meaning" : "হৃদরোগ; হৃদ্রোগ;"}
+{ "_id" : { "$oid" : "566fe359e4b023e8f909b5f4"} , "Word" : "heck" , "meaning" : "নরক;"}
+{ "_id" : { "$oid" : "566fe359e4b023e8f909b5f5"} , "Word" : "heaven" , "meaning" : "আকাশ, স্বর্গ, সুখময়স্থন"}
+{ "_id" : { "$oid" : "566fe35ae4b023e8f909b5f6"} , "Word" : "heart-rending" , "meaning" : "হৃদয়বিদারক, মর্মভেদী"}
+{ "_id" : { "$oid" : "566fe35ae4b023e8f909b5f7"} , "Word" : "heath-cock" , "meaning" : "বন্য কুক্কুট বিশেষ"}
+{ "_id" : { "$oid" : "566fe35ae4b023e8f909b5f8"} , "Word" : "heart-blood" , "meaning" : "জীবনীশক্তি, সার"}
+{ "_id" : { "$oid" : "566fe35be4b023e8f909b5f9"} , "Word" : "hearted" , "meaning" : "হৃদয়গত আবেগাদিসম্পন্ন;"}
+{ "_id" : { "$oid" : "566fe35be4b023e8f909b5fa"} , "Word" : "hector" , "meaning" : "যে ব্যক্তি তর্জন-গর্জন করিয়া জাহির করে; তর্জন-গর্জন করিয়া কর্তৃত্ব জাহির করা;"}
+{ "_id" : { "$oid" : "566fe35be4b023e8f909b5fb"} , "Word" : "heavier" , "meaning" : "গুরুতর;"}
+{ "_id" : { "$oid" : "566fe35ce4b023e8f909b5fc"} , "Word" : "heartache" , "meaning" : "গভীর দুঃখ, মনস্তাপ"}
+{ "_id" : { "$oid" : "566fe35ce4b023e8f909b5fd"} , "Word" : "heaved" , "meaning" : "উত্তোলিত;"}
+{ "_id" : { "$oid" : "566fe35ce4b023e8f909b5fe"} , "Word" : "hedge" , "meaning" : "ঝোপঝাড়ের বেড়া, বেড়া দিয়ে ঘেরা"}
+{ "_id" : { "$oid" : "566fe35de4b023e8f909b5ff"} , "Word" : "heartfelt" , "meaning" : "আন্তরিক"}
+{ "_id" : { "$oid" : "566fe35de4b023e8f909b600"} , "Word" : "hebetude" , "meaning" : "ক্ষীণবুদ্ধি; ক্ষীণমতি;"}
+{ "_id" : { "$oid" : "566fe35de4b023e8f909b601"} , "Word" : "heart-and-soul" , "meaning" : "সর্বান্তঃকরণে;"}
+{ "_id" : { "$oid" : "566fe35ee4b023e8f909b602"} , "Word" : "heating" , "meaning" : "উত্তাপন; গরম করার;"}
+{ "_id" : { "$oid" : "566fe35ee4b023e8f909b603"} , "Word" : "hedging" , "meaning" : "ঝোপঝাড় ছাঁটাই করিবার কাজ"}
+{ "_id" : { "$oid" : "566fe35ee4b023e8f909b604"} , "Word" : "heavy-weight" , "meaning" : "১৭৫ পাউন্ড বা ততোধিক ওজনের মুষ্টিযোদ্ধা"}
+{ "_id" : { "$oid" : "566fe35fe4b023e8f909b605"} , "Word" : "heliotherapy" , "meaning" : "সূর্যচিকিত্সা;"}
+{ "_id" : { "$oid" : "566fe35fe4b023e8f909b606"} , "Word" : "hellebore" , "meaning" : "গোলাপ জাতীয় বৃক্ষবিশেষ বা তাহার ফুল;"}
+{ "_id" : { "$oid" : "566fe35fe4b023e8f909b607"} , "Word" : "hematology" , "meaning" : "রক্ত বিজ্ঞান;"}
+{ "_id" : { "$oid" : "566fe360e4b023e8f909b608"} , "Word" : "hemorrhoids" , "meaning" : "অর্শ"}
+{ "_id" : { "$oid" : "566fe360e4b023e8f909b609"} , "Word" : "helpout" , "meaning" : "সম্পূরণ করা;"}
+{ "_id" : { "$oid" : "566fe361e4b023e8f909b60a"} , "Word" : "helmet" , "meaning" : "শিরন্ত্রাণ"}
+{ "_id" : { "$oid" : "566fe361e4b023e8f909b60b"} , "Word" : "helpfulness" , "meaning" : "উপকারিতা; কাজেরতা;"}
+{ "_id" : { "$oid" : "566fe361e4b023e8f909b60c"} , "Word" : "heliograph" , "meaning" : "সূর্যকিরণ সাহায্যে সংকেত পাঠাইবার যন্ত্র"}
+{ "_id" : { "$oid" : "566fe362e4b023e8f909b60d"} , "Word" : "heliotrope" , "meaning" : "সূর্যমুখী গাছ"}
+{ "_id" : { "$oid" : "566fe362e4b023e8f909b60e"} , "Word" : "help" , "meaning" : "সাহায্য করা, সাহায্যকারী ব্যক্তি"}
+{ "_id" : { "$oid" : "566fe362e4b023e8f909b60f"} , "Word" : "held back" , "meaning" : "প্রতিসংহৃত;"}
+{ "_id" : { "$oid" : "566fe363e4b023e8f909b610"} , "Word" : "hemisphere" , "meaning" : "পৃথিবীর অর্ধাংশ,. গোলার্ধ"}
+{ "_id" : { "$oid" : "566fe363e4b023e8f909b611"} , "Word" : "height" , "meaning" : "উচ্চতা"}
+{ "_id" : { "$oid" : "566fe363e4b023e8f909b612"} , "Word" : "helical" , "meaning" : "স্ক্রুর ন্যায় পেঁচাল;"}
+{ "_id" : { "$oid" : "566fe364e4b023e8f909b613"} , "Word" : "hegemony" , "meaning" : "নেতৃত্ব, বিশেষত, রাষ্ট্রপুঞ্জের মধ্যে একটি রাষ্ট্রের নেতৃত্ব"}
+{ "_id" : { "$oid" : "566fe364e4b023e8f909b614"} , "Word" : "heels" , "meaning" : "হিল;"}
+{ "_id" : { "$oid" : "566fe364e4b023e8f909b615"} , "Word" : "hematemesis" , "meaning" : "রক্তবমন;"}
+{ "_id" : { "$oid" : "566fe365e4b023e8f909b616"} , "Word" : "heed" , "meaning" : "মনোযোগ দেওয়া, লক্ষ্য করা, মনোযোগ"}
+{ "_id" : { "$oid" : "566fe365e4b023e8f909b617"} , "Word" : "helplessness" , "meaning" : "অনুপায়; অনাশ্রয়;"}
+{ "_id" : { "$oid" : "566fe365e4b023e8f909b618"} , "Word" : "hem" , "meaning" : "কাপড়ের মুড়ি দেওয়া প্রান্ত।, মুড়ি সেলাই করা"}
+{ "_id" : { "$oid" : "566fe366e4b023e8f909b619"} , "Word" : "heightened" , "meaning" : "উন্নতিলাভ করা; তীব্রতর করান; উঁচু করা; উঁচু হত্তয়া; উন্নতিবিধান করা; অগ্রসর করান; অগ্রসর হত্তয়া; তীব্রতর হত্তয়া;"}
+{ "_id" : { "$oid" : "566fe366e4b023e8f909b61a"} , "Word" : "helicopter" , "meaning" : "বিমানপোত বিশেষ, হেলিকপটার"}
+{ "_id" : { "$oid" : "566fe366e4b023e8f909b61b"} , "Word" : "heliolatry" , "meaning" : "সূর্যোপাসনা; সূর্যোপাসনা;"}
+{ "_id" : { "$oid" : "566fe367e4b023e8f909b61c"} , "Word" : "heigh" , "meaning" : "প্রশ্ন উত্সাহদান প্রভৃতি সূচক উচ্চধ্বনিবিশেষ;"}
+{ "_id" : { "$oid" : "566fe367e4b023e8f909b61d"} , "Word" : "helpmate" , "meaning" : "সাহায্যকারী বন্ধু বা অংশীদার (সাধারনতঃ স্বামী, বা স্ত্রী"}
+{ "_id" : { "$oid" : "566fe367e4b023e8f909b61e"} , "Word" : "heel" , "meaning" : "গোড়ালি ; গুলফ্"}
+{ "_id" : { "$oid" : "566fe368e4b023e8f909b61f"} , "Word" : "helpmeet" , "meaning" : "পত্নী; সাহায্যকারী; হকারী;"}
+{ "_id" : { "$oid" : "566fe368e4b023e8f909b620"} , "Word" : "heedless" , "meaning" : "অসতর্ক; অবহেলনাকারী; অনবহিত; অমনোযোগী;"}
+{ "_id" : { "$oid" : "566fe368e4b023e8f909b621"} , "Word" : "heliometer" , "meaning" : "যে যন্ত্রের সাহায্যে জ্যোতিষ্ক সমুহের ব্যাস নিখুতভাবে মাপা যায়"}
+{ "_id" : { "$oid" : "566fe369e4b023e8f909b622"} , "Word" : "heighten" , "meaning" : "অধিকতর (উচ্চ বা তীব্র) করা বা হওয়া"}
+{ "_id" : { "$oid" : "566fe369e4b023e8f909b623"} , "Word" : "heirs" , "meaning" : "উত্তরাধিকারী;"}
+{ "_id" : { "$oid" : "566fe369e4b023e8f909b624"} , "Word" : "heirship" , "meaning" : "উত্তরাধিকারিত্ব, উত্তরাধিকার-স্বত্ব"}
+{ "_id" : { "$oid" : "566fe36ae4b023e8f909b625"} , "Word" : "heir" , "meaning" : "উত্তারাধিকারী"}
+{ "_id" : { "$oid" : "566fe36ae4b023e8f909b626"} , "Word" : "heightening" , "meaning" : "উত্ক্রান্তি;"}
+{ "_id" : { "$oid" : "566fe36ae4b023e8f909b627"} , "Word" : "helpful" , "meaning" : "সাহায্যকারী, উপকারী"}
+{ "_id" : { "$oid" : "566fe36be4b023e8f909b628"} , "Word" : "hemp" , "meaning" : "শণ ; পাট ; দড়ি"}
+{ "_id" : { "$oid" : "566fe36be4b023e8f909b629"} , "Word" : "hems" , "meaning" : "পাড়; প্রাস্ত; আঁচলা;"}
+{ "_id" : { "$oid" : "566fe36be4b023e8f909b62a"} , "Word" : "hemispherical" , "meaning" : "গোলার্ধ বা ভূ-গোলার্ধ সংক্রান্ত;"}
+{ "_id" : { "$oid" : "566fe36ce4b023e8f909b62b"} , "Word" : "heeds" , "meaning" : "মানা; মান রাখা; মনোযোগ দেত্তয়া;"}
+{ "_id" : { "$oid" : "566fe36ce4b023e8f909b62c"} , "Word" : "hemoglobin" , "meaning" : "লাল শোণিতকণার রঁজক উপাদান;"}
+{ "_id" : { "$oid" : "566fe36ce4b023e8f909b62d"} , "Word" : "heeding" , "meaning" : "মাননা;"}
+{ "_id" : { "$oid" : "566fe36de4b023e8f909b62e"} , "Word" : "hemorrhage" , "meaning" : "রক্তস্রাব; রক্তকোষসমূহ হইতে শোণিতস্রাব;"}
+{ "_id" : { "$oid" : "566fe36de4b023e8f909b62f"} , "Word" : "hellenist" , "meaning" : "গ্রীক ভাষায় অভিজ্ঞ ব্যক্তি"}
+{ "_id" : { "$oid" : "566fe36de4b023e8f909b630"} , "Word" : "heft" , "meaning" : "উত্তোলন করা; সবলে উত্তোলন; ওজন; উত্তোলন করা;"}
+{ "_id" : { "$oid" : "566fe36ee4b023e8f909b631"} , "Word" : "heifer" , "meaning" : "বকনা বাছুর"}
+{ "_id" : { "$oid" : "566fe36ee4b023e8f909b632"} , "Word" : "heldback" , "meaning" : "প্রতিসংহৃত;"}
+{ "_id" : { "$oid" : "566fe36fe4b023e8f909b633"} , "Word" : "hejira" , "meaning" : "মক্কা হতে মদিনায় মহম্মদের (সাঃ) গমন (৬২২খ্রীস্টব্দের ১৬ই জুলাই তারিখে)"}
+{ "_id" : { "$oid" : "566fe36fe4b023e8f909b634"} , "Word" : "helve" , "meaning" : "কুড় লাদির হাতল; কুড়ুলাদির হাতল;"}
+{ "_id" : { "$oid" : "566fe36fe4b023e8f909b635"} , "Word" : "helioscope" , "meaning" : "যে দুরবীক্ষণ যন্ত্র সূর্য দেখিবার কালে চক্ষুকে রক্ষা করে"}
+{ "_id" : { "$oid" : "566fe370e4b023e8f909b636"} , "Word" : "hemorrhoid" , "meaning" : "অর্শ;"}
+{ "_id" : { "$oid" : "566fe370e4b023e8f909b637"} , "Word" : "helter-skelter" , "meaning" : "বিশৃঙ্খলভাবে, তাড়াহুড়া করে"}
+{ "_id" : { "$oid" : "566fe370e4b023e8f909b638"} , "Word" : "hegh" , "meaning" : "উৎসাহ বা আহ্নাদ সুউচ্চ ধ্বনি, হইও"}
+{ "_id" : { "$oid" : "566fe371e4b023e8f909b639"} , "Word" : "heigh-ho" , "meaning" : "ওহো, একঘেয়েমি জনিত বিরক্তি, ক্লান্তি, হতাশা ইত্যাদি সূচক শব্দ"}
+{ "_id" : { "$oid" : "566fe371e4b023e8f909b63a"} , "Word" : "helix" , "meaning" : "স্ক্রুর ন্যায় পেঁচাল কিছু;"}
+{ "_id" : { "$oid" : "566fe371e4b023e8f909b63b"} , "Word" : "heiress" , "meaning" : "উত্তরাধিকারী;"}
+{ "_id" : { "$oid" : "566fe372e4b023e8f909b63c"} , "Word" : "helmsman" , "meaning" : "কান্ডারী, কর্ণধার"}
+{ "_id" : { "$oid" : "566fe372e4b023e8f909b63d"} , "Word" : "heedful" , "meaning" : "ক্রিয়াপর; সতর্ক; মনোযোগী;"}
+{ "_id" : { "$oid" : "566fe372e4b023e8f909b63e"} , "Word" : "helium" , "meaning" : "গ্যাস বিশেষ"}
+{ "_id" : { "$oid" : "566fe373e4b023e8f909b63f"} , "Word" : "heftier" , "meaning" : "প্রবল; হৃষ্টপুষ্ট; তাগড়াই; প্রাংশু; ভারী ফোছের;"}
+{ "_id" : { "$oid" : "566fe373e4b023e8f909b640"} , "Word" : "helio" , "meaning" : "সৌর; সূর্য;"}
+{ "_id" : { "$oid" : "566fe373e4b023e8f909b641"} , "Word" : "helpless" , "meaning" : "নিঃসহায়, শক্তিহীন"}
+{ "_id" : { "$oid" : "566fe374e4b023e8f909b642"} , "Word" : "held" , "meaning" : "গৃহীত; ধরা; ধৃত; আধৃত; দখলি; দখলী; গত;"}
+{ "_id" : { "$oid" : "566fe374e4b023e8f909b643"} , "Word" : "hefty" , "meaning" : "প্রবল; তাগড়াই; হৃষ্টপুষ্ট; প্রাংশু; ভারী ফোছের;"}
+{ "_id" : { "$oid" : "566fe374e4b023e8f909b644"} , "Word" : "helper" , "meaning" : "সাহায্যকারী ব্যক্তি, সহকারী"}
+{ "_id" : { "$oid" : "566fe375e4b023e8f909b645"} , "Word" : "hell" , "meaning" : "নরক, প্রেতভূমি"}
+{ "_id" : { "$oid" : "566fe375e4b023e8f909b646"} , "Word" : "helped" , "meaning" : "সাহায্য করা; সহায়তা করা; আনুকূল্য করা; অনুগ্রহ করা; প্রতিকার করা; বাধা দেত্তয়া; দান দেত্তয়া;"}
+{ "_id" : { "$oid" : "566fe375e4b023e8f909b647"} , "Word" : "helm" , "meaning" : "নৌকার হাল"}
+{ "_id" : { "$oid" : "566fe376e4b023e8f909b648"} , "Word" : "helps" , "meaning" : "সাহায্য; সহায়তা; সহায়; আনুকূল্য; উদ্ধারার্থ সাহায্য; আভিমুখ্য; কূল; দান; সহকারী; অবলম্বন;"}
+{ "_id" : { "$oid" : "566fe376e4b023e8f909b649"} , "Word" : "held up" , "meaning" : "ঊর্ধ্বে তোলা; ত্তঠান; সরাইয়া রাখা; গোপনে রাখা; সহ্য করা; থামান; নিশ্চল করা;"}
+{ "_id" : { "$oid" : "566fe376e4b023e8f909b64a"} , "Word" : "hello," , "meaning" : "ওহে; আরে;"}
+{ "_id" : { "$oid" : "566fe377e4b023e8f909b64b"} , "Word" : "hell-cat" , "meaning" : "হিংসুটে বিড়াল;"}
+{ "_id" : { "$oid" : "566fe377e4b023e8f909b64c"} , "Word" : "hells" , "meaning" : "জাহান্নাম; নরক; পাতাল; জাহান্নম; নিরয়; মৃতের নরক; মৃতের আলয়; অসংকর্মের আড্ডা; দোজখ;"}
+{ "_id" : { "$oid" : "566fe377e4b023e8f909b64d"} , "Word" : "helping" , "meaning" : "সাহায্যপ্রদ, পরিবেশিত খাদ্যাংশ"}
+{ "_id" : { "$oid" : "566fe378e4b023e8f909b64e"} , "Word" : "helthy" , "meaning" : "স্বাস্থ্যবান;"}
+{ "_id" : { "$oid" : "566fe378e4b023e8f909b64f"} , "Word" : "heirloom" , "meaning" : "যে আসবাবপত্র বা ব্যক্তিগত অস্থাবর সম্পত্তি পুরুষানুক্রমে পরিবাবে চলিয়া আসিয়াছে;"}
+{ "_id" : { "$oid" : "566fe378e4b023e8f909b650"} , "Word" : "heedlessly" , "meaning" : "অন্ধভাবে;"}
+{ "_id" : { "$oid" : "566fe379e4b023e8f909b651"} , "Word" : "hellish" , "meaning" : "নরক সম্বন্ধীয় বা নরকের উপযুক্ত, অতি পাপী"}
+{ "_id" : { "$oid" : "566fe379e4b023e8f909b652"} , "Word" : "hemlock" , "meaning" : "বিষাক্ত উদ্বিদ বিশেষ ও তাহা হইতে জাত বিষ"}
+{ "_id" : { "$oid" : "566fe379e4b023e8f909b653"} , "Word" : "heinous" , "meaning" : "জঘন্য অসৎ ও ঘৃণ্য"}
+{ "_id" : { "$oid" : "566fe37ae4b023e8f909b654"} , "Word" : "henchman" , "meaning" : "ভৃত্য; বালকভৃত্য; দক্ষিণহস্তস্বরুপ সহায়ক ব্যক্তি; দৃঢ় সমর্থক; বালক ভৃত্য; দৃঢ় সমর্থক;"}
+{ "_id" : { "$oid" : "566fe37ae4b023e8f909b655"} , "Word" : "hereupon" , "meaning" : "অতঃপর, এর ফলে"}
+{ "_id" : { "$oid" : "566fe37be4b023e8f909b656"} , "Word" : "herbs" , "meaning" : "ঔষধি; গাছড়া; তৃণ;"}
+{ "_id" : { "$oid" : "566fe37be4b023e8f909b657"} , "Word" : "herein" , "meaning" : "এতে, অতঃপর"}
+{ "_id" : { "$oid" : "566fe37be4b023e8f909b658"} , "Word" : "herbivorous" , "meaning" : "তৃণভোজী"}
+{ "_id" : { "$oid" : "566fe37ce4b023e8f909b659"} , "Word" : "heron" , "meaning" : "বক, সারস"}
+{ "_id" : { "$oid" : "566fe37ce4b023e8f909b65a"} , "Word" : "heritage" , "meaning" : "উত্তরাধিকার, উত্তরাধিকার সূত্রে প্রাপ্ত বিষয়"}
+{ "_id" : { "$oid" : "566fe37ce4b023e8f909b65b"} , "Word" : "heroism" , "meaning" : "বীরত্ব, নির্ভীকতা"}
+{ "_id" : { "$oid" : "566fe37de4b023e8f909b65c"} , "Word" : "heretical" , "meaning" : "মতবিরোধী;"}
+{ "_id" : { "$oid" : "566fe37de4b023e8f909b65d"} , "Word" : "hermaphrodite" , "meaning" : "উভলিঙ্গ; নপুংসক; হিজড়া;"}
+{ "_id" : { "$oid" : "566fe37de4b023e8f909b65e"} , "Word" : "herbalist" , "meaning" : "লতাপাতার ভেষজ গুণবিত্ ব্যক্তি;"}
+{ "_id" : { "$oid" : "566fe37ee4b023e8f909b65f"} , "Word" : "her" , "meaning" : "তাঁর, তার, তাঁকে,তাকে"}
+{ "_id" : { "$oid" : "566fe37ee4b023e8f909b660"} , "Word" : "hep" , "meaning" : "প্রগতি সম্পর্কে ত্তয়াকিবহাল; ওয়াকিবহাল;"}
+{ "_id" : { "$oid" : "566fe37ee4b023e8f909b661"} , "Word" : "hen" , "meaning" : "মুরগী"}
+{ "_id" : { "$oid" : "566fe37fe4b023e8f909b662"} , "Word" : "herpes" , "meaning" : "দাদ প্রভৃতি চর্মরোগ"}
+{ "_id" : { "$oid" : "566fe37fe4b023e8f909b663"} , "Word" : "herdsmen" , "meaning" : "পশুপালক; পশুপাল; দলের পরিচালক;"}
+{ "_id" : { "$oid" : "566fe37fe4b023e8f909b664"} , "Word" : "heritor" , "meaning" : "উত্তরাধিকারী;"}
+{ "_id" : { "$oid" : "566fe380e4b023e8f909b665"} , "Word" : "herbaceous" , "meaning" : "ঔষধি, সম্বন্ধীয়, ঔষধিসদৃশ্য"}
+{ "_id" : { "$oid" : "566fe380e4b023e8f909b666"} , "Word" : "hero" , "meaning" : "বীরপুরুষ, নায়ক"}
+{ "_id" : { "$oid" : "566fe380e4b023e8f909b667"} , "Word" : "heretics" , "meaning" : "পাষণ্ড;"}
+{ "_id" : { "$oid" : "566fe381e4b023e8f909b668"} , "Word" : "herr" , "meaning" : "মহাশয়"}
+{ "_id" : { "$oid" : "566fe381e4b023e8f909b669"} , "Word" : "heroics" , "meaning" : "ভাবের উচ্ছ্বাস; ভাষার উচ্ছ্রাস; ভাবোচ্ছ্বাস;"}
+{ "_id" : { "$oid" : "566fe382e4b023e8f909b66a"} , "Word" : "herald" , "meaning" : "নকীব, অগ্রদূত, আগমনবার্তা ঘোষণা করা"}
+{ "_id" : { "$oid" : "566fe382e4b023e8f909b66b"} , "Word" : "henceforward" , "meaning" : "অতঃপর; অত:পর;"}
+{ "_id" : { "$oid" : "566fe382e4b023e8f909b66c"} , "Word" : "herbage" , "meaning" : "যাবতীয় ঔষধি, গবাদির তৃণাদি খাদ্য"}
+{ "_id" : { "$oid" : "566fe383e4b023e8f909b66d"} , "Word" : "here" , "meaning" : "এখানে, এই স্থানে"}
+{ "_id" : { "$oid" : "566fe383e4b023e8f909b66e"} , "Word" : "herdsman" , "meaning" : "পশুপালক; পশুপাল; দলের পরিচালক;"}
+{ "_id" : { "$oid" : "566fe383e4b023e8f909b66f"} , "Word" : "hermetically" , "meaning" : "অভেদ্যভাবে;"}
+{ "_id" : { "$oid" : "566fe384e4b023e8f909b670"} , "Word" : "heraldry" , "meaning" : "কুলচিহ্নবিদ্যা, লাঞ্জনবিদ্যা"}
+{ "_id" : { "$oid" : "566fe384e4b023e8f909b671"} , "Word" : "hereunder" , "meaning" : "ইহার নিচে; এই পর্যন্ত;"}
+{ "_id" : { "$oid" : "566fe384e4b023e8f909b672"} , "Word" : "heretofore" , "meaning" : "পূর্বে; ইত:পূর্বে;"}
+{ "_id" : { "$oid" : "566fe384e4b023e8f909b673"} , "Word" : "heroic" , "meaning" : "বীরোচিত, বীরের উপযুক্ত"}
+{ "_id" : { "$oid" : "566fe385e4b023e8f909b674"} , "Word" : "herb" , "meaning" : "ঔষধি, বনজ লতা"}
+{ "_id" : { "$oid" : "566fe385e4b023e8f909b675"} , "Word" : "herd" , "meaning" : "পশুর পাল"}
+{ "_id" : { "$oid" : "566fe386e4b023e8f909b676"} , "Word" : "hereabouts" , "meaning" : "এই স্থানের নিকটে"}
+{ "_id" : { "$oid" : "566fe386e4b023e8f909b677"} , "Word" : "here by" , "meaning" : "এতদ্দ্বারা;"}
+{ "_id" : { "$oid" : "566fe386e4b023e8f909b678"} , "Word" : "hernia" , "meaning" : "অন্ত্রবৃদ্ধি রোগ ; হার্নিয়া ; একশিরা"}
+{ "_id" : { "$oid" : "566fe387e4b023e8f909b679"} , "Word" : "heptagon" , "meaning" : "সপ্তভূত ক্ষেত্র"}
+{ "_id" : { "$oid" : "566fe387e4b023e8f909b67a"} , "Word" : "here with" , "meaning" : "ইহার সঙ্গে;"}
+{ "_id" : { "$oid" : "566fe387e4b023e8f909b67b"} , "Word" : "hepatitis" , "meaning" : "যকৃতের প্রদাহ;"}
+{ "_id" : { "$oid" : "566fe388e4b023e8f909b67c"} , "Word" : "heroin" , "meaning" : "মর্ফিন হইতে তৈয়ারি মাদকবিশেষ;"}
+{ "_id" : { "$oid" : "566fe388e4b023e8f909b67d"} , "Word" : "hereby" , "meaning" : "এতদ্বারা"}
+{ "_id" : { "$oid" : "566fe388e4b023e8f909b67e"} , "Word" : "hereditament" , "meaning" : "উত্তরাধিকারীসূত্রে; প্রাপ্তিসাধ্য সম্পত্তি; উত্তরাধিকার;"}
+{ "_id" : { "$oid" : "566fe389e4b023e8f909b67f"} , "Word" : "heroine" , "meaning" : "বীরাঙ্গনা, নায়িকা"}
+{ "_id" : { "$oid" : "566fe389e4b023e8f909b680"} , "Word" : "herbal tea" , "meaning" : "ভেষজ চা;"}
+{ "_id" : { "$oid" : "566fe389e4b023e8f909b681"} , "Word" : "herbivore" , "meaning" : "তৃণভোজী প্রাণী;"}
+{ "_id" : { "$oid" : "566fe38ae4b023e8f909b682"} , "Word" : "herds" , "meaning" : "পশুপালক; পাল; পশুপাল; যূথ; মানুষের পাল; মানুষের বড় দল; গোকুল;"}
+{ "_id" : { "$oid" : "566fe38ae4b023e8f909b683"} , "Word" : "hepatic" , "meaning" : "যকৃত্যুক্ত; যকৃতের উপকারসাধক; যকৃত্-সংক্রান্ত উপকারসাধক;"}
+{ "_id" : { "$oid" : "566fe38ae4b023e8f909b684"} , "Word" : "hereto" , "meaning" : "ইহার জন্য; ইহার দিকে; এখন পর্যন্ত;"}
+{ "_id" : { "$oid" : "566fe38be4b023e8f909b685"} , "Word" : "hermitage" , "meaning" : "সন্ন্যাসীর আশ্রম"}
+{ "_id" : { "$oid" : "566fe38be4b023e8f909b686"} , "Word" : "herbaltea" , "meaning" : "ভেষজ চা;"}
+{ "_id" : { "$oid" : "566fe38be4b023e8f909b687"} , "Word" : "here and there" , "meaning" : "বিরলভাবে; ইতস্তত; মাঝে মাঝে; অনিয়মিতভাবে; এখানে-সেখানে; ইতস্ততঃ; এখানে-সিখানে; মাঝে-মাঝে;"}
+{ "_id" : { "$oid" : "566fe38ce4b023e8f909b688"} , "Word" : "henna" , "meaning" : "মেহেদি; হেনা;"}
+{ "_id" : { "$oid" : "566fe38ce4b023e8f909b689"} , "Word" : "henpecked" , "meaning" : "স্ত্রৈণ; স্ত্রীবশ;"}
+{ "_id" : { "$oid" : "566fe38ce4b023e8f909b68a"} , "Word" : "hermeneutics" , "meaning" : "হের্মেনেত্য;"}
+{ "_id" : { "$oid" : "566fe38de4b023e8f909b68b"} , "Word" : "hereafter" , "meaning" : "অতঃপর, ভবিষ্যতে"}
+{ "_id" : { "$oid" : "566fe38de4b023e8f909b68c"} , "Word" : "herculean" , "meaning" : "অতি কঠিন, অতি বলবান"}
+{ "_id" : { "$oid" : "566fe38de4b023e8f909b68d"} , "Word" : "hero worship" , "meaning" : "বিশিষ্ট ব্যক্তিদের প্রতি অত্যাধিক ভক্তি; বীরপূজা;"}
+{ "_id" : { "$oid" : "566fe38ee4b023e8f909b68e"} , "Word" : "hereof" , "meaning" : "ইহার;"}
+{ "_id" : { "$oid" : "566fe38ee4b023e8f909b68f"} , "Word" : "hens" , "meaning" : "মুরগি;"}
+{ "_id" : { "$oid" : "566fe38ee4b023e8f909b690"} , "Word" : "henceforth" , "meaning" : "অতঃপর; অত:পর;"}
+{ "_id" : { "$oid" : "566fe38fe4b023e8f909b691"} , "Word" : "hence," , "meaning" : "অতএব; সুতরাং; এই স্থান হইতে; ভবিষ্যতে; অত:পর; এই স্থান হয়তে; অতঃপর; এই নিমিত্তে;"}
+{ "_id" : { "$oid" : "566fe38fe4b023e8f909b692"} , "Word" : "here you are" , "meaning" : "এই-ই পথ; এই-ই উপায়;"}
+{ "_id" : { "$oid" : "566fe38fe4b023e8f909b693"} , "Word" : "heredity" , "meaning" : "বংশগতি, বংশের ধারা"}
+{ "_id" : { "$oid" : "566fe390e4b023e8f909b694"} , "Word" : "heralds" , "meaning" : "অগ্রদূত; ঘোষক;"}
+{ "_id" : { "$oid" : "566fe390e4b023e8f909b695"} , "Word" : "herbarium" , "meaning" : "শুষ্ক ঔষধির সংগ্রহ বা নমুনা রাখিবার বাক্স, ঘর ইত্যাদি"}
+{ "_id" : { "$oid" : "566fe390e4b023e8f909b696"} , "Word" : "hereabout" , "meaning" : "এই স্থানের নিকটে"}
+{ "_id" : { "$oid" : "566fe391e4b023e8f909b697"} , "Word" : "hereinafter" , "meaning" : "অত:পর ইহাতে;"}
+{ "_id" : { "$oid" : "566fe391e4b023e8f909b698"} , "Word" : "hermit" , "meaning" : "ঋষি, সন্ন্যাসী"}
+{ "_id" : { "$oid" : "566fe391e4b023e8f909b699"} , "Word" : "hero-worship" , "meaning" : "বীরপুজা, মহাপুরুষদিগকে অতিরিক্ত স্তুতি"}
+{ "_id" : { "$oid" : "566fe392e4b023e8f909b69a"} , "Word" : "hermetic" , "meaning" : "বাতাস ঢুকতে বা বাহির হইতে পারে না এমনভাবে বদ্ধ"}
+{ "_id" : { "$oid" : "566fe392e4b023e8f909b69b"} , "Word" : "heresy" , "meaning" : "প্রচলিত ধর্মমতের বিরুদ্ধ মত"}
+{ "_id" : { "$oid" : "566fe392e4b023e8f909b69c"} , "Word" : "heritable" , "meaning" : "উত্তরাধিকারসূত্রে প্রাপ্য"}
+{ "_id" : { "$oid" : "566fe393e4b023e8f909b69d"} , "Word" : "heretic" , "meaning" : "প্রচলিত ধর্মমতের বিরুদ্ধবাসী"}
+{ "_id" : { "$oid" : "566fe393e4b023e8f909b69e"} , "Word" : "hereditary" , "meaning" : "বংশগত, উত্তরাধিকার সূত্রে প্রাপ্ত"}
+{ "_id" : { "$oid" : "566fe393e4b023e8f909b69f"} , "Word" : "herewith" , "meaning" : "এতৎসহকারে, ইহার সহিত"}
+{ "_id" : { "$oid" : "566fe394e4b023e8f909b6a0"} , "Word" : "hemstitch" , "meaning" : "ঝুলপি-সেলাই করা;"}
+{ "_id" : { "$oid" : "566fe394e4b023e8f909b6a1"} , "Word" : "herded" , "meaning" : "যূথভূত করা; একত্র তাড়িত করা; একত্র চালিত করা;"}
+{ "_id" : { "$oid" : "566fe394e4b023e8f909b6a2"} , "Word" : "herbal" , "meaning" : "লতাপাতার ভেষজ গুণসংক্রান্ত;"}
+{ "_id" : { "$oid" : "566fe395e4b023e8f909b6a3"} , "Word" : "hetero" , "meaning" : "ভিন্ন; অন্য; একটি না হয় অন্যটি;"}
+{ "_id" : { "$oid" : "566fe395e4b023e8f909b6a4"} , "Word" : "hesitation" , "meaning" : "সন্দেহ,. দ্বিধা"}
+{ "_id" : { "$oid" : "566fe396e4b023e8f909b6a5"} , "Word" : "hesitant" , "meaning" : "দিধাগ্রস্ত, সন্দিগ্ধ"}
+{ "_id" : { "$oid" : "566fe396e4b023e8f909b6a6"} , "Word" : "hieroglyph" , "meaning" : "চিত্রলিপিতে ব্যবহৃত বর্ণমালাবিশেষ;"}
+{ "_id" : { "$oid" : "566fe396e4b023e8f909b6a7"} , "Word" : "hierarchies" , "meaning" : "যাজকতন্ত্র; দেবদূতগণ; পুরোহিতগণকর্তৃক শাসন; ক্রমোচ্চ শ্রেণীবিভাগ;"}
+{ "_id" : { "$oid" : "566fe397e4b023e8f909b6a8"} , "Word" : "hie" , "meaning" : "দ্রুত যাওয়া, তাড়াতাড়ি অতিক্রম করা"}
+{ "_id" : { "$oid" : "566fe397e4b023e8f909b6a9"} , "Word" : "hideously" , "meaning" : "নৃশংসভবে;"}
+{ "_id" : { "$oid" : "566fe397e4b023e8f909b6aa"} , "Word" : "hid" , "meaning" : "লুকান; আড়াল করা; চাপা; গুপ্ত রাখা; লুকাইয়া ফেলা; লুকাইয়া পড়া; ছিপান; ছাপান; আড়াল হত্তয়া; সারা; গোপন করা; গোপনে থাকা; গোপনে রাখা; গোপনে মজুত করা; আত্মগোপন করা;"}
+{ "_id" : { "$oid" : "566fe397e4b023e8f909b6ab"} , "Word" : "hesper" , "meaning" : "সাঁঝতারা, শুক্রগ্রহ"}
+{ "_id" : { "$oid" : "566fe398e4b023e8f909b6ac"} , "Word" : "hiatus" , "meaning" : "ফাঁক"}
+{ "_id" : { "$oid" : "566fe398e4b023e8f909b6ad"} , "Word" : "hest" , "meaning" : "আদেশ"}
+{ "_id" : { "$oid" : "566fe399e4b023e8f909b6ae"} , "Word" : "hi tech" , "meaning" : "উচ্চপ্রযুক্তি; হয়তেক;"}
+{ "_id" : { "$oid" : "566fe399e4b023e8f909b6af"} , "Word" : "hi fi" , "meaning" : "মূল আওয়াজ যথাযথভাবে ধ্বনিত করিতে সক্ষম;"}
+{ "_id" : { "$oid" : "566fe399e4b023e8f909b6b0"} , "Word" : "hexagon" , "meaning" : "ষড়ভূজ ক্ষেত্র"}
+{ "_id" : { "$oid" : "566fe39ae4b023e8f909b6b1"} , "Word" : "herring" , "meaning" : "সামুদ্রিক মৎস্যবিশেষ"}
+{ "_id" : { "$oid" : "566fe39ae4b023e8f909b6b2"} , "Word" : "hieroglyphic" , "meaning" : "চিত্রলিপিতে বর্ণমালাসংক্রান্ত;"}
+{ "_id" : { "$oid" : "566fe39ae4b023e8f909b6b3"} , "Word" : "hierarchical" , "meaning" : "প্রধান পুরোহিত বা পৌরোহিত্য সংক্রান্ত;"}
+{ "_id" : { "$oid" : "566fe39be4b023e8f909b6b4"} , "Word" : "hey" , "meaning" : "বিস্ময় বা প্রশ্নসূচক ধ্বনিবিশেষ, এই বা অ্যা"}
+{ "_id" : { "$oid" : "566fe39be4b023e8f909b6b5"} , "Word" : "hickey" , "meaning" : "গ্রামবাসী; পল্লীবাসী; কৃষক; প্রাদেশী; প্রাদেশবাসী; ছোট কল; কাজের সহায়ক ছোটখাট কল;"}
+{ "_id" : { "$oid" : "566fe39be4b023e8f909b6b6"} , "Word" : "hide" , "meaning" : "পশুর চামড়, গোপন করা, লুকিয়ে থাকা"}
+{ "_id" : { "$oid" : "566fe39be4b023e8f909b6b7"} , "Word" : "hesitated" , "meaning" : "দ্বিধা করা; করা; আগেপাছে করা; আগুপিছু করা; দোমনা হত্তয়া; দোলায়মান হত্তয়া; ভয়ে পশ্চাত্পদ হত্তয়া; সঙ্কোচ করা;"}
+{ "_id" : { "$oid" : "566fe39ce4b023e8f909b6b8"} , "Word" : "hex" , "meaning" : "যাদুমন্ত্র; দুর্ভাগ্যসূচক বিষয়; ডাইনি; কুত্সিত কুড়ি; যাহা দুর্ভাগ্যের কারণ; দুর্ভাগ্যসূচক বস্তু; সম্মোহন; সন্মোহন; ;"}
+{ "_id" : { "$oid" : "566fe39ce4b023e8f909b6b9"} , "Word" : "hew" , "meaning" : "কুঠার ইত্যাদি দ্বারা ছেদন করা"}
+{ "_id" : { "$oid" : "566fe39de4b023e8f909b6ba"} , "Word" : "heuristics" , "meaning" : "ন্যায়শাস্ত্রগত আবিষ্কারবিদ্যা; ন্যায়শাস্ত্রগত অনুসন্ধানবিদ্যা;"}
+{ "_id" : { "$oid" : "566fe39de4b023e8f909b6bb"} , "Word" : "het" , "meaning" : "উত্তপ্ত;"}
+{ "_id" : { "$oid" : "566fe39de4b023e8f909b6bc"} , "Word" : "heterodox" , "meaning" : "গোঁড়া নয় এমন"}
+{ "_id" : { "$oid" : "566fe39ee4b023e8f909b6bd"} , "Word" : "higgledy-piggledy" , "meaning" : "বিশৃঙ্খলভাবে।"}
+{ "_id" : { "$oid" : "566fe39ee4b023e8f909b6be"} , "Word" : "hideout" , "meaning" : "গুপ্ত আশ্রয়; গোপনতা;"}
+{ "_id" : { "$oid" : "566fe39ee4b023e8f909b6bf"} , "Word" : "hesitatingly" , "meaning" : "অনিশ্চিতভাবে;"}
+{ "_id" : { "$oid" : "566fe39fe4b023e8f909b6c0"} , "Word" : "hibernate" , "meaning" : "জড়ভাবে শীত কাটানো"}
+{ "_id" : { "$oid" : "566fe39fe4b023e8f909b6c1"} , "Word" : "hertz" , "meaning" : "হের্ত্স্;"}
+{ "_id" : { "$oid" : "566fe39fe4b023e8f909b6c2"} , "Word" : "hideous" , "meaning" : "কুৎসিত, বীভৎস"}
+{ "_id" : { "$oid" : "566fe3a0e4b023e8f909b6c3"} , "Word" : "hers" , "meaning" : "তাহর, তাঁহার"}
+{ "_id" : { "$oid" : "566fe3a0e4b023e8f909b6c4"} , "Word" : "hesitancy" , "meaning" : "দ্বিধা; কুণ্ঠা;"}
+{ "_id" : { "$oid" : "566fe3a0e4b023e8f909b6c5"} , "Word" : "heterosexuality" , "meaning" : "ইতররতি;"}
+{ "_id" : { "$oid" : "566fe3a1e4b023e8f909b6c6"} , "Word" : "hiding" , "meaning" : "লূকাইবার স্থান, বেদম প্রহার"}
+{ "_id" : { "$oid" : "566fe3a1e4b023e8f909b6c7"} , "Word" : "hexa" , "meaning" : "ছয়;"}
+{ "_id" : { "$oid" : "566fe3a1e4b023e8f909b6c8"} , "Word" : "hexagonal" , "meaning" : "ষড়্ভুজাকার; ষণ্মিতি; ষটকোণ;"}
+{ "_id" : { "$oid" : "566fe3a2e4b023e8f909b6c9"} , "Word" : "higgling" , "meaning" : "কষাকষি;"}
+{ "_id" : { "$oid" : "566fe3a2e4b023e8f909b6ca"} , "Word" : "herself" , "meaning" : "তিনি স্বয়ং; সে স্বয়ং; সে বা তিনি স্বয়ং;"}
+{ "_id" : { "$oid" : "566fe3a2e4b023e8f909b6cb"} , "Word" : "heterogenous" , "meaning" : "অসমসত্ত্ব;"}
+{ "_id" : { "$oid" : "566fe3a3e4b023e8f909b6cc"} , "Word" : "heuristic" , "meaning" : "অনুসন্ধানমূলক; আবিষ্কারমূলক; খুঁজিয়া বাহির করে এমন; ;"}
+{ "_id" : { "$oid" : "566fe3a3e4b023e8f909b6cd"} , "Word" : "heterogeneous" , "meaning" : "বিবিধ জাতীয় পদার্থে গঠিত"}
+{ "_id" : { "$oid" : "566fe3a3e4b023e8f909b6ce"} , "Word" : "hierarchs" , "meaning" : "প্রধান পুরোহিত;"}
+{ "_id" : { "$oid" : "566fe3a4e4b023e8f909b6cf"} , "Word" : "high and dry" , "meaning" : "জলে নাই এমন; স্থলোপরি উত্তোলিত;"}
+{ "_id" : { "$oid" : "566fe3a4e4b023e8f909b6d0"} , "Word" : "hesitate" , "meaning" : "ইশতস্ততঃ করা, সন্দিগ্ধ হওয়া"}
+{ "_id" : { "$oid" : "566fe3a4e4b023e8f909b6d1"} , "Word" : "heterotrophic" , "meaning" : "পরভোজী;"}
+{ "_id" : { "$oid" : "566fe3a5e4b023e8f909b6d2"} , "Word" : "hiding place" , "meaning" : "লুকানের স্থান;"}
+{ "_id" : { "$oid" : "566fe3a5e4b023e8f909b6d3"} , "Word" : "hiccough" , "meaning" : "হিক্কা; হেঁচকি; বিষম;"}
+{ "_id" : { "$oid" : "566fe3a5e4b023e8f909b6d4"} , "Word" : "hiccups" , "meaning" : "হিক্কা; হেঁচকি; উদ্গার;"}
+{ "_id" : { "$oid" : "566fe3a6e4b023e8f909b6d5"} , "Word" : "hidebound" , "meaning" : "সঙ্কীর্ণমনা; চর্মময়; চর্মসার; আঁটো চর্মযুক্ত; গোঁড়া;"}
+{ "_id" : { "$oid" : "566fe3a6e4b023e8f909b6d6"} , "Word" : "hessian" , "meaning" : "চট, মোটা কাপড় বিশেষ"}
+{ "_id" : { "$oid" : "566fe3a6e4b023e8f909b6d7"} , "Word" : "hi," , "meaning" : "মনোযোগ আকর্ষক অব্যয়;"}
+{ "_id" : { "$oid" : "566fe3a7e4b023e8f909b6d8"} , "Word" : "high commission" , "meaning" : "প্র-মহাধ্যক্ষস্থান;"}
+{ "_id" : { "$oid" : "566fe3a7e4b023e8f909b6d9"} , "Word" : "heyday" , "meaning" : "সুসময়, সুদিন"}
+{ "_id" : { "$oid" : "566fe3a7e4b023e8f909b6da"} , "Word" : "hidrosis" , "meaning" : "ভীষণ; অতি কুত্সিত; ভয়ঙ্কর;"}
+{ "_id" : { "$oid" : "566fe3a8e4b023e8f909b6db"} , "Word" : "hibiscus" , "meaning" : "গোলাপ ফুল; গোলাপ গাছ;"}
+{ "_id" : { "$oid" : "566fe3a8e4b023e8f909b6dc"} , "Word" : "hibernation" , "meaning" : "শীতযাপনতা;"}
+{ "_id" : { "$oid" : "566fe3a8e4b023e8f909b6dd"} , "Word" : "hierarchic" , "meaning" : "প্রধান পুরোহিত-সংক্রান্ত; প্রধান পৌরোহিত্য-সংক্রান্ত;"}
+{ "_id" : { "$oid" : "566fe3a9e4b023e8f909b6de"} , "Word" : "hierarchy" , "meaning" : "যাজকগন, পুরোহিতবর্গ"}
+{ "_id" : { "$oid" : "566fe3a9e4b023e8f909b6df"} , "Word" : "heterogeneity" , "meaning" : "বিষমসত্ত্বতা; বর্ণসঙ্করতা; দোআঁশলা;"}
+{ "_id" : { "$oid" : "566fe3a9e4b023e8f909b6e0"} , "Word" : "hicks" , "meaning" : "পল্লীবাসী; কৃষক; প্রাদেশী; প্রাদেশবাসী; গ্রামবাসী; অসভ্য জাতির লোক;"}
+{ "_id" : { "$oid" : "566fe3aae4b023e8f909b6e1"} , "Word" : "hifi" , "meaning" : "মূল আওয়াজ যথাযথভাবে ধ্বনিত করিতে সক্ষম;"}
+{ "_id" : { "$oid" : "566fe3aae4b023e8f909b6e2"} , "Word" : "hieroglyphist" , "meaning" : "চিত্রাক্ষর, চিত্রলেখা"}
+{ "_id" : { "$oid" : "566fe3aae4b023e8f909b6e3"} , "Word" : "hierarch" , "meaning" : "প্রধান পুরোহিত; প্রধান পুরোহিত;"}
+{ "_id" : { "$oid" : "566fe3abe4b023e8f909b6e4"} , "Word" : "hewing" , "meaning" : "কোপা ইয়া কাটা;"}
+{ "_id" : { "$oid" : "566fe3abe4b023e8f909b6e5"} , "Word" : "hideouts" , "meaning" : "গুপ্ত আশ্রয়; গোপনতা;"}
+{ "_id" : { "$oid" : "566fe3abe4b023e8f909b6e6"} , "Word" : "heterodyne" , "meaning" : "হেতেরোদীন্;"}
+{ "_id" : { "$oid" : "566fe3ace4b023e8f909b6e7"} , "Word" : "higgle" , "meaning" : "দর কষাকষি করা"}
+{ "_id" : { "$oid" : "566fe3ace4b023e8f909b6e8"} , "Word" : "hiccup" , "meaning" : "হিক্কা; হেঁচকি; উদ্গার;"}
+{ "_id" : { "$oid" : "566fe3ace4b023e8f909b6e9"} , "Word" : "hieroglyphics" , "meaning" : "চিত্রাক্ষর, চিত্রলেখা"}
+{ "_id" : { "$oid" : "566fe3ade4b023e8f909b6ea"} , "Word" : "hidden" , "meaning" : "গুপ্ত, লুকায়িত, অজ্ঞাত"}
+{ "_id" : { "$oid" : "566fe3ade4b023e8f909b6eb"} , "Word" : "hide-and-seek" , "meaning" : "লূকোচুরি খেলা"}
+{ "_id" : { "$oid" : "566fe3ade4b023e8f909b6ec"} , "Word" : "hibernal" , "meaning" : "শীতকালীন;"}
+{ "_id" : { "$oid" : "566fe3aee4b023e8f909b6ed"} , "Word" : "hick" , "meaning" : "পল্লীবাসী; কৃষক; প্রাদেশী; প্রাদেশবাসী; গ্রামবাসী; অসভ্য জাতির লোক;"}
+{ "_id" : { "$oid" : "566fe3aee4b023e8f909b6ee"} , "Word" : "high" , "meaning" : "উঁচু মহৎ খুব বেশী"}
+{ "_id" : { "$oid" : "566fe3aee4b023e8f909b6ef"} , "Word" : "heterosexual" , "meaning" : "ইতররতি-প্রবণ;"}
+{ "_id" : { "$oid" : "566fe3afe4b023e8f909b6f0"} , "Word" : "hesitating" , "meaning" : "দ্বিধাগ্রস্ত; বাধবাধ; কুণ্ঠিত; করে এমন; সংশয়াপন্ন; দ্বিধাপূর্ণ; কুণ্ঠ; দোমনা; দোলায়মান;"}
+{ "_id" : { "$oid" : "566fe3afe4b023e8f909b6f1"} , "Word" : "hidalgo" , "meaning" : "স্পেনের নিম্নতম অভিজাত সম্প্রদায়ের লোক; স্পেইনদেশীয় ভদ্রলোক;"}
+{ "_id" : { "$oid" : "566fe3b0e4b023e8f909b6f2"} , "Word" : "hills" , "meaning" : "পাহাড়; পর্বত; ঢিবি; উপগিরি; ঢিপি; গিরি; শৈল; ভূধরন; মহীধর; অচল;"}
+{ "_id" : { "$oid" : "566fe3b0e4b023e8f909b6f3"} , "Word" : "high-pressure" , "meaning" : "আবহাওয়ার চাপের অপেক্ষা অধিকতর চাপ"}
+{ "_id" : { "$oid" : "566fe3b0e4b023e8f909b6f4"} , "Word" : "hinted" , "meaning" : "সঙ্কেত দেত্তয়া; আঁচ দেত্তয়া; আভাস দেত্তয়া; ষৎ উল্লেখ করা; পরোক্ষ উল্লেখ করা;"}
+{ "_id" : { "$oid" : "566fe3b1e4b023e8f909b6f5"} , "Word" : "hip" , "meaning" : "পাছা, পাছার দুদিকের হাড়"}
+{ "_id" : { "$oid" : "566fe3b1e4b023e8f909b6f6"} , "Word" : "higher" , "meaning" : "গরিষ্ঠ সাধারণ গুণনীয়ক,গ.সা.গু."}
+{ "_id" : { "$oid" : "566fe3b1e4b023e8f909b6f7"} , "Word" : "hinterland" , "meaning" : "পশ্চাদভুমি"}
+{ "_id" : { "$oid" : "566fe3b2e4b023e8f909b6f8"} , "Word" : "hikes" , "meaning" : "ভ্রমণে যাত্তয়া;"}
+{ "_id" : { "$oid" : "566fe3b2e4b023e8f909b6f9"} , "Word" : "him" , "meaning" : "তাঁকে"}
+{ "_id" : { "$oid" : "566fe3b2e4b023e8f909b6fa"} , "Word" : "hilly" , "meaning" : "পাহাড়ী; পাহাড়িয়া; পাহাড়পূর্ণ;"}
+{ "_id" : { "$oid" : "566fe3b3e4b023e8f909b6fb"} , "Word" : "highlight" , "meaning" : "উজ্জ্বলতম স্থান বা অংশসমূহ; লক্ষণীয় করা; সবার দৃষ্টিগোচর করা;"}
+{ "_id" : { "$oid" : "566fe3b3e4b023e8f909b6fc"} , "Word" : "hiking" , "meaning" : "ভ্রমণে যাত্তয়া;"}
+{ "_id" : { "$oid" : "566fe3b3e4b023e8f909b6fd"} , "Word" : "hindered" , "meaning" : "বাধা দেত্তয়া; বাগড়া দেত্তয়া; ব্যাঘাত করা; থামান; রূধা; বিঘ্ন ঘটানো; রোধ করা;"}
+{ "_id" : { "$oid" : "566fe3b4e4b023e8f909b6fe"} , "Word" : "hindu" , "meaning" : "হিন্দু; ভারতবর্ষের; হিন্দুস্থানী;"}
+{ "_id" : { "$oid" : "566fe3b4e4b023e8f909b6ff"} , "Word" : "hippie" , "meaning" : "মাদকসেবী;"}
+{ "_id" : { "$oid" : "566fe3b4e4b023e8f909b700"} , "Word" : "hind" , "meaning" : "হরিণী,পিছনের,পশ্চাদ্বর্তী"}
+{ "_id" : { "$oid" : "566fe3b5e4b023e8f909b701"} , "Word" : "hijacker" , "meaning" : "হাইজ্যেকের;"}
+{ "_id" : { "$oid" : "566fe3b5e4b023e8f909b702"} , "Word" : "hilltops" , "meaning" : "পাহাড়ের চূড়া; গিরিশীর্ষ;"}
+{ "_id" : { "$oid" : "566fe3b5e4b023e8f909b703"} , "Word" : "hilltop" , "meaning" : "গিরিশীর্ষ; পাহাড়ের চূড়া;"}
+{ "_id" : { "$oid" : "566fe3b6e4b023e8f909b704"} , "Word" : "highbrow" , "meaning" : "অতি বিদ্বান; অতি বিদ্বান ব্যক্তি;"}
+{ "_id" : { "$oid" : "566fe3b6e4b023e8f909b705"} , "Word" : "hiked" , "meaning" : "ভ্রমণে যাত্তয়া;"}
+{ "_id" : { "$oid" : "566fe3b6e4b023e8f909b706"} , "Word" : "hindi" , "meaning" : "হিন্দী; হিন্দিভাষা;"}
+{ "_id" : { "$oid" : "566fe3b7e4b023e8f909b707"} , "Word" : "hilarity" , "meaning" : "উল্লাস"}
+{ "_id" : { "$oid" : "566fe3b7e4b023e8f909b708"} , "Word" : "hilum" , "meaning" : "ডিম্বনাভি; ডিম্বকনাভি;"}
+{ "_id" : { "$oid" : "566fe3b7e4b023e8f909b709"} , "Word" : "hill" , "meaning" : "পাহাড়"}
+{ "_id" : { "$oid" : "566fe3b8e4b023e8f909b70a"} , "Word" : "high school" , "meaning" : "উচ্চ বিদ্যালয়; উচ্চবিদ্যালয়;"}
+{ "_id" : { "$oid" : "566fe3b8e4b023e8f909b70b"} , "Word" : "highfalutin" , "meaning" : "গালভরা শব্দপূর্ণ কথাবার্তা; গালভরা শব্দপূর্ণ বক্তৃতা;"}
+{ "_id" : { "$oid" : "566fe3b9e4b023e8f909b70c"} , "Word" : "hindrance" , "meaning" : "বাধা,প্রতিবন্ধক"}
+{ "_id" : { "$oid" : "566fe3b9e4b023e8f909b70d"} , "Word" : "high-water-mark" , "meaning" : "জোয়ারের জল যে রেখা পর্যন্ত উঠে"}
+{ "_id" : { "$oid" : "566fe3b9e4b023e8f909b70e"} , "Word" : "high-sounding" , "meaning" : "আড়ম্বরপুর্ণ"}
+{ "_id" : { "$oid" : "566fe3bae4b023e8f909b70f"} , "Word" : "hilt" , "meaning" : "অস্ত্রের হাতল ;বাঁট"}
+{ "_id" : { "$oid" : "566fe3bae4b023e8f909b710"} , "Word" : "hilling" , "meaning" : "ছাঁচে গঠন; ছাঁচ-নির্মাণ;"}
+{ "_id" : { "$oid" : "566fe3bae4b023e8f909b711"} , "Word" : "high-priest" , "meaning" : "প্রধান পুরোহিত,প্রধান ধর্মযাজক"}
+{ "_id" : { "$oid" : "566fe3bbe4b023e8f909b712"} , "Word" : "hipper" , "meaning" : "প্রগতিপন্থী; প্রগতি সম্পর্কে ত্তয়াকিবহাল;"}
+{ "_id" : { "$oid" : "566fe3bbe4b023e8f909b713"} , "Word" : "himself" , "meaning" : "তিনি স্বয়ং, সে নিজে"}
+{ "_id" : { "$oid" : "566fe3bbe4b023e8f909b714"} , "Word" : "high-strung" , "meaning" : "অত্যন্ত অভিমানী"}
+{ "_id" : { "$oid" : "566fe3bce4b023e8f909b715"} , "Word" : "high-priced" , "meaning" : "মহার্ঘ, দুর্মূল্য"}
+{ "_id" : { "$oid" : "566fe3bce4b023e8f909b716"} , "Word" : "high-treason" , "meaning" : "রাজদ্‌ে্রাহ দেশদ্‌ে্রাহ"}
+{ "_id" : { "$oid" : "566fe3bce4b023e8f909b717"} , "Word" : "hijacking" , "meaning" : "হাইজ্যেক;"}
+{ "_id" : { "$oid" : "566fe3bde4b023e8f909b718"} , "Word" : "hinged" , "meaning" : "নির্ভর করা; কবজা পরান; মোড় ফেরান; কবজায় ঝোলা; কবজায় ঘোরা;"}
+{ "_id" : { "$oid" : "566fe3bde4b023e8f909b719"} , "Word" : "highway" , "meaning" : "রাজপথ,প্রধান সড়ক"}
+{ "_id" : { "$oid" : "566fe3bde4b023e8f909b71a"} , "Word" : "highflown" , "meaning" : "উচ্চ আড়ম্বরপূর্ন, শব্দাড়ম্বরপূর্ন"}
+{ "_id" : { "$oid" : "566fe3bee4b023e8f909b71b"} , "Word" : "highest" , "meaning" : "গরিষ্ঠ সাধারণ গুণনীয়ক,গ.সা.গু."}
+{ "_id" : { "$oid" : "566fe3bee4b023e8f909b71c"} , "Word" : "highranking" , "meaning" : "উচ্চ; ঊর্ধ্বতন;"}
+{ "_id" : { "$oid" : "566fe3bee4b023e8f909b71d"} , "Word" : "high-minded" , "meaning" : "উদারচিত্ত, উচ্চমনা"}
+{ "_id" : { "$oid" : "566fe3bee4b023e8f909b71e"} , "Word" : "hilarious" , "meaning" : "রগুড়ে,স্ফূর্তিবাজ"}
+{ "_id" : { "$oid" : "566fe3bfe4b023e8f909b71f"} , "Word" : "highcommission" , "meaning" : "প্র-মহাধ্যক্ষস্থান;"}
+{ "_id" : { "$oid" : "566fe3bfe4b023e8f909b720"} , "Word" : "highness" , "meaning" : "উচ্চতা, মহত্ত্ব"}
+{ "_id" : { "$oid" : "566fe3c0e4b023e8f909b721"} , "Word" : "hinduism" , "meaning" : "হিন্দুধর্ম; হিন্দুয়ানি; হিন্দুয়ানি;"}
+{ "_id" : { "$oid" : "566fe3c0e4b023e8f909b722"} , "Word" : "high tide" , "meaning" : "জোয়ার;"}
+{ "_id" : { "$oid" : "566fe3c0e4b023e8f909b723"} , "Word" : "hindmost" , "meaning" : "সর্বপশ্চাদ্বর্তী"}
+{ "_id" : { "$oid" : "566fe3c1e4b023e8f909b724"} , "Word" : "highland" , "meaning" : "পার্বত্য দেশ"}
+{ "_id" : { "$oid" : "566fe3c1e4b023e8f909b725"} , "Word" : "hillside" , "meaning" : "শৈলপার্শ্ব,পর্বতের ঢালু গাত্র"}
+{ "_id" : { "$oid" : "566fe3c1e4b023e8f909b726"} , "Word" : "hindsight" , "meaning" : "ঘটনার পরে বুদ্ধির উন্মেষ; সংঘটনের পরে বোধোদয়;"}
+{ "_id" : { "$oid" : "566fe3c2e4b023e8f909b727"} , "Word" : "highly" , "meaning" : "অত্যন্ত; অতিশয়; মাত্রাতিরিক্তভাবে; একেবারে; সম্পূর্ণভাবে; জোরে; সত্যই; যথার্থই; যথাযথভাবে; উপরে; অধিকতর উচ্চে; ঊর্ধ্বদিকে; পূর্বে; ঊর্ধ্বভাগে; অতীত;"}
+{ "_id" : { "$oid" : "566fe3c2e4b023e8f909b728"} , "Word" : "hinder" , "meaning" : "বাধা দেওয়া,পথরোধ করা"}
+{ "_id" : { "$oid" : "566fe3c2e4b023e8f909b729"} , "Word" : "highup" , "meaning" : "উচ্চ সামাজিক মর্যাদাসম্পন্ন; অতি সম্ভ্রান্ত;"}
+{ "_id" : { "$oid" : "566fe3c3e4b023e8f909b72a"} , "Word" : "hilsa" , "meaning" : "ইলিশ মাছ"}
+{ "_id" : { "$oid" : "566fe3c3e4b023e8f909b72b"} , "Word" : "high-pitched" , "meaning" : "উচ্চসুরে বাঁধা, খাড়া"}
+{ "_id" : { "$oid" : "566fe3c3e4b023e8f909b72c"} , "Word" : "highwayman" , "meaning" : "পথের দসু্য"}
+{ "_id" : { "$oid" : "566fe3c4e4b023e8f909b72d"} , "Word" : "highpressure" , "meaning" : "বাষ্পাদির প্রবল চাপ দেয়া বা সহ্য করিতে পারে এমন;"}
+{ "_id" : { "$oid" : "566fe3c4e4b023e8f909b72e"} , "Word" : "hijack" , "meaning" : "ভয় দেখিয়ে (বিমান) অপহরণ করা"}
+{ "_id" : { "$oid" : "566fe3c4e4b023e8f909b72f"} , "Word" : "hint" , "meaning" : "পরোক্ষ সংকেত, ইঙ্গিত আভাস"}
+{ "_id" : { "$oid" : "566fe3c5e4b023e8f909b730"} , "Word" : "highlander" , "meaning" : "পার্বত্য প্রদেশবাসী"}
+{ "_id" : { "$oid" : "566fe3c5e4b023e8f909b731"} , "Word" : "hill-top" , "meaning" : "পাহাড়ের চুড়া"}
+{ "_id" : { "$oid" : "566fe3c5e4b023e8f909b732"} , "Word" : "hight" , "meaning" : "আখ্যাত; অভিহিত;"}
+{ "_id" : { "$oid" : "566fe3c6e4b023e8f909b733"} , "Word" : "high-bred" , "meaning" : "উচ্চবংশে পালিত বা শিক্ষিত"}
+{ "_id" : { "$oid" : "566fe3c6e4b023e8f909b734"} , "Word" : "highlights" , "meaning" : "হাইলাইট; উজ্জ্বলতম স্থানসমুহ; উজ্জ্বলতম অংশসমুহ;"}
+{ "_id" : { "$oid" : "566fe3c6e4b023e8f909b735"} , "Word" : "hindering" , "meaning" : "বাধক; প্রতিবন্ধক; রোধক;"}
+{ "_id" : { "$oid" : "566fe3c7e4b023e8f909b736"} , "Word" : "hillbilly" , "meaning" : "পল্লীবাসিক; অমার্জিত; প্রাদেশিক; আঁচলিক; গ্রামবাসিক;"}
+{ "_id" : { "$oid" : "566fe3c7e4b023e8f909b737"} , "Word" : "high-handed" , "meaning" : "উদ্ধত, স্বেচ্ছাচারী"}
+{ "_id" : { "$oid" : "566fe3c7e4b023e8f909b738"} , "Word" : "hinges" , "meaning" : "কবজা;"}
+{ "_id" : { "$oid" : "566fe3c8e4b023e8f909b739"} , "Word" : "hillock" , "meaning" : "ছোট পাহাড়, টিলা"}
+{ "_id" : { "$oid" : "566fe3c8e4b023e8f909b73a"} , "Word" : "high-jump" , "meaning" : "উচ্চ লম্ফ"}
+{ "_id" : { "$oid" : "566fe3c8e4b023e8f909b73b"} , "Word" : "hinge" , "meaning" : "কবজা কবজাযুক্ত করা নির্ভর করা"}
+{ "_id" : { "$oid" : "566fe3c9e4b023e8f909b73c"} , "Word" : "hip-joint" , "meaning" : "উারুসন্ধি"}
+{ "_id" : { "$oid" : "566fe3c9e4b023e8f909b73d"} , "Word" : "high-road" , "meaning" : "রাজপথ"}
+{ "_id" : { "$oid" : "566fe3c9e4b023e8f909b73e"} , "Word" : "highlevel" , "meaning" : "উচ্চপর্যায়ের; উচ্চপর্ষায়সম্বন্ধীয়;"}
+{ "_id" : { "$oid" : "566fe3cae4b023e8f909b73f"} , "Word" : "hinny" , "meaning" : "ঘোটক বগর্দভী হইতে উত্পন্ন খচ্চর;"}
+{ "_id" : { "$oid" : "566fe3cae4b023e8f909b741"} , "Word" : "high-born" , "meaning" : "উচ্চ-বংশীয়, সম্ভান্তবংশীয়"}
+{ "_id" : { "$oid" : "566fe3cbe4b023e8f909b743"} , "Word" : "hippo" , "meaning" : "জলহস্তী;"}
+{ "_id" : { "$oid" : "566fe3cae4b023e8f909b740"} , "Word" : "hike" , "meaning" : "পরিশ্রমসহকারে হাঁটা; পল্লী অঞ্চলে পদব্রজে দীর্ঘ ভ্রমণ; ভ্রমণে যাত্তয়া;"}
+{ "_id" : { "$oid" : "566fe3cbe4b023e8f909b742"} , "Word" : "hive" , "meaning" : "মৌচাক, ব্যস্ততাপুর্ণ স্থান"}
+{ "_id" : { "$oid" : "566fe3cbe4b023e8f909b744"} , "Word" : "hodman" , "meaning" : "রাজ মিস্ত্রীর মজুর; যোগাড়ে"}
+{ "_id" : { "$oid" : "566fe3cce4b023e8f909b745"} , "Word" : "hoarseness" , "meaning" : "কর্কশতা; ফেঁসফেঁসেতা;"}
+{ "_id" : { "$oid" : "566fe3cce4b023e8f909b746"} , "Word" : "hitchhike" , "meaning" : "হিচ-হায্ক করা;"}
+{ "_id" : { "$oid" : "566fe3cce4b023e8f909b747"} , "Word" : "hobos" , "meaning" : "ভবঘুরে লোক;"}
+{ "_id" : { "$oid" : "566fe3cde4b023e8f909b748"} , "Word" : "hippodrome" , "meaning" : "(প্রাচীন গ্রীসে বা রোমে) রথের দৌড় ইত্যাদির মাঠ"}
+{ "_id" : { "$oid" : "566fe3cde4b023e8f909b749"} , "Word" : "historiographer" , "meaning" : "সরকারি ইতিহাসলেখক; পেশাদার ইতিহাসলেখক; ইতিহাস-রচয়িতা;"}
+{ "_id" : { "$oid" : "566fe3cde4b023e8f909b74a"} , "Word" : "hob-nob" , "meaning" : "একত্রে পান"}
+{ "_id" : { "$oid" : "566fe3cee4b023e8f909b74b"} , "Word" : "historic" , "meaning" : "ঐতিহাসিক; ইতিহাস; ইতিহাস-অনুযায়ী;"}
+{ "_id" : { "$oid" : "566fe3cee4b023e8f909b74c"} , "Word" : "hoar" , "meaning" : "শুভ্র; ধূসরাভ; পলিত; বার্ধক্যের ফলে পলিতকেশ;"}
+{ "_id" : { "$oid" : "566fe3cfe4b023e8f909b74d"} , "Word" : "his" , "meaning" : "তাঁর"}
+{ "_id" : { "$oid" : "566fe3cfe4b023e8f909b74e"} , "Word" : "hoax" , "meaning" : "ধোঁকা,ফাঁকি"}
+{ "_id" : { "$oid" : "566fe3cfe4b023e8f909b74f"} , "Word" : "hippy" , "meaning" : "মাদকসেবী; সমাজদ্রোহী; মাদকসেবন; যৌনস্বাধীনতা;"}
+{ "_id" : { "$oid" : "566fe3d0e4b023e8f909b750"} , "Word" : "hit" , "meaning" : "আঘাত। আঘাত করা,লক্ষ্য ভেদ করা"}
+{ "_id" : { "$oid" : "566fe3d0e4b023e8f909b751"} , "Word" : "hither and thither" , "meaning" : "ইতস্তত; এখানে-ত্তখানে;"}
+{ "_id" : { "$oid" : "566fe3d0e4b023e8f909b752"} , "Word" : "hire" , "meaning" : "ভাড়া,পারিশ্রামক,মজুরী"}
+{ "_id" : { "$oid" : "566fe3d1e4b023e8f909b753"} , "Word" : "hodgepodge" , "meaning" : "খিচুড়ি; জগাখিচুড়ি;"}
+{ "_id" : { "$oid" : "566fe3d1e4b023e8f909b754"} , "Word" : "histology" , "meaning" : "কলাস্থান,দেহতত্ত্বর বিজ্ঞান"}
+{ "_id" : { "$oid" : "566fe3d1e4b023e8f909b755"} , "Word" : "hissed" , "meaning" : "হিসহিস ধ্বনি;"}
+{ "_id" : { "$oid" : "566fe3d2e4b023e8f909b756"} , "Word" : "hoarding" , "meaning" : "বিজ্ঞাপন পত্র আটিবার তক্তার বেড়া"}
+{ "_id" : { "$oid" : "566fe3d2e4b023e8f909b757"} , "Word" : "hitting" , "meaning" : "আঘাত; আঘাত করা;"}
+{ "_id" : { "$oid" : "566fe3d2e4b023e8f909b758"} , "Word" : "hobby" , "meaning" : "শখ,খেয়াল"}
+{ "_id" : { "$oid" : "566fe3d3e4b023e8f909b759"} , "Word" : "hobbies" , "meaning" : "শখ; শখের পেশা; খোশখেয়াল;"}
+{ "_id" : { "$oid" : "566fe3d3e4b023e8f909b75a"} , "Word" : "hitherto" , "meaning" : "এযাবৎ; এই সময় পর্যন্ত; এই স্থান পর্যন্ত;"}
+{ "_id" : { "$oid" : "566fe3d3e4b023e8f909b75b"} , "Word" : "hips" , "meaning" : "পোঁদ;"}
+{ "_id" : { "$oid" : "566fe3d4e4b023e8f909b75c"} , "Word" : "hisses" , "meaning" : "হিস্হিস; হিস্হিস ধ্বনি;"}
+{ "_id" : { "$oid" : "566fe3d4e4b023e8f909b75d"} , "Word" : "hocus" , "meaning" : "প্রতারিত করা; ঠকান; ফাঁকি দেত্তয়া; ধোঁকা দেত্তয়া; ভোজবাজি;"}
+{ "_id" : { "$oid" : "566fe3d4e4b023e8f909b75e"} , "Word" : "hoarse" , "meaning" : "কর্কশকন্ঠ, কর্কশ স্বরবিশিষ্ট্য"}
+{ "_id" : { "$oid" : "566fe3d5e4b023e8f909b75f"} , "Word" : "histogram" , "meaning" : "বারলেখ;"}
+{ "_id" : { "$oid" : "566fe3d5e4b023e8f909b760"} , "Word" : "hoar-frost" , "meaning" : "শুভ্র হিমকণা, তুষারবিব্দু"}
+{ "_id" : { "$oid" : "566fe3d5e4b023e8f909b761"} , "Word" : "hitech" , "meaning" : "উচ্চপ্রযুক্তি; হয়তেক;"}
+{ "_id" : { "$oid" : "566fe3d6e4b023e8f909b762"} , "Word" : "hobnob" , "meaning" : "খুব মেলামেশা করা; বন্ধুভাবে মেলা-মেশা করা;"}
+{ "_id" : { "$oid" : "566fe3d6e4b023e8f909b763"} , "Word" : "hobbles" , "meaning" : "মুশকিল; জবুথবুভাবে চলা; পায়ে বাধা ভার; পায়ের বোঝা;"}
+{ "_id" : { "$oid" : "566fe3d6e4b023e8f909b764"} , "Word" : "hockey" , "meaning" : "হকি খেলা"}
+{ "_id" : { "$oid" : "566fe3d7e4b023e8f909b765"} , "Word" : "hit upon" , "meaning" : "হঠাৎ আবিষ্কার করা; উদ্ভাবন করা;"}
+{ "_id" : { "$oid" : "566fe3d7e4b023e8f909b766"} , "Word" : "hobble" , "meaning" : "কুৎসিত ভাবে খোঁড়ানো"}
+{ "_id" : { "$oid" : "566fe3d7e4b023e8f909b767"} , "Word" : "hock" , "meaning" : "বন্ধকী জিনিস;"}
+{ "_id" : { "$oid" : "566fe3d8e4b023e8f909b768"} , "Word" : "hob" , "meaning" : "চক্রের নাভি"}
+{ "_id" : { "$oid" : "566fe3d8e4b023e8f909b769"} , "Word" : "hitched" , "meaning" : "ঝাঁকি দিয়া চলা; ঝাঁকি দিয়া চালান; ঝাঁকি মারিয়া টানা; ঝাঁকি মারিয়া নাড়ান; ঝাঁকি দেত্তয়া; ঝিঁকা মারা; ঝাঁকি মারা; ঝাঁকি মারিয়া চলা; ঝাঁকি মারিয়া ছোড়া;"}
+{ "_id" : { "$oid" : "566fe3d8e4b023e8f909b76a"} , "Word" : "ho" , "meaning" : "হো ! ওহে,ওগো!"}
+{ "_id" : { "$oid" : "566fe3d9e4b023e8f909b76b"} , "Word" : "hod" , "meaning" : "চুন, সুরকি, ইট ইত্যাদি বহিবার জন্য লম্বা হাতলযুক্ত পাত্রবিশেষ"}
+{ "_id" : { "$oid" : "566fe3d9e4b023e8f909b76c"} , "Word" : "hispanic" , "meaning" : "স্পেইনদেশীয়;"}
+{ "_id" : { "$oid" : "566fe3d9e4b023e8f909b76d"} , "Word" : "hireling" , "meaning" : "ঠিকালোক"}
+{ "_id" : { "$oid" : "566fe3dae4b023e8f909b76e"} , "Word" : "hirsute" , "meaning" : "কেশিক; কেশে আবৃত; লোমশ;"}
+{ "_id" : { "$oid" : "566fe3dae4b023e8f909b76f"} , "Word" : "hire-purchase" , "meaning" : "কিস্তিবন্দীতে কেনা"}
+{ "_id" : { "$oid" : "566fe3dae4b023e8f909b770"} , "Word" : "hives" , "meaning" : "আমবাত অন্ত্র, কন্ঠনালী প্রভৃতির প্রদাহ"}
+{ "_id" : { "$oid" : "566fe3dbe4b023e8f909b771"} , "Word" : "hobnail" , "meaning" : "জুতার কাটা"}
+{ "_id" : { "$oid" : "566fe3dbe4b023e8f909b772"} , "Word" : "hoaxes" , "meaning" : "ধাপ্পাবাজি; ফাঁকি; ধাপ্পা; ভাঁত্ততা; দম; ফক্কিকা; দমবাজি; ধোঁকা;"}
+{ "_id" : { "$oid" : "566fe3dbe4b023e8f909b773"} , "Word" : "hippies" , "meaning" : "মাদকসেবী;"}
+{ "_id" : { "$oid" : "566fe3dce4b023e8f909b774"} , "Word" : "hired" , "meaning" : "ঠিকা; ভাড়াটে; ভাড়া-করা; ভাড়াটে; ভাড়াকরা;"}
+{ "_id" : { "$oid" : "566fe3dce4b023e8f909b775"} , "Word" : "hiss" , "meaning" : "হিসহিস শব্দ করা শিস দেওয়া"}
+{ "_id" : { "$oid" : "566fe3dce4b023e8f909b776"} , "Word" : "hocky" , "meaning" : "হকিখেলা;"}
+{ "_id" : { "$oid" : "566fe3dde4b023e8f909b777"} , "Word" : "hist" , "meaning" : "চুপ!থাম"}
+{ "_id" : { "$oid" : "566fe3dde4b023e8f909b778"} , "Word" : "historiography" , "meaning" : "ইতিহাস রচনা; ইতিহাস-রচনা;"}
+{ "_id" : { "$oid" : "566fe3dde4b023e8f909b779"} , "Word" : "hiring" , "meaning" : "ভাড়া করা; ভাড়া লত্তয়া; মজুরি করা;"}
+{ "_id" : { "$oid" : "566fe3dee4b023e8f909b77a"} , "Word" : "hobbyhorse" , "meaning" : "প্রি় বিষয়বস্তু; খেলনা-ঘোড়া; কাঠের ঘোড়া;"}
+{ "_id" : { "$oid" : "566fe3dee4b023e8f909b77b"} , "Word" : "hodge" , "meaning" : "মজুর; পল্লীবাসী; কৃষক; প্রাদেশী; প্রাদেশবাসী; গ্রামবাসী; ছোট কল;"}
+{ "_id" : { "$oid" : "566fe3dee4b023e8f909b77c"} , "Word" : "histrionic" , "meaning" : "নট বা অভিনয়াদি সম্পর্কীয়"}
+{ "_id" : { "$oid" : "566fe3dfe4b023e8f909b77d"} , "Word" : "hipster" , "meaning" : "মাদকসেবী; সমাজদ্রোহী; মাদকসেবন; যৌনস্বাধীনতা;"}
+{ "_id" : { "$oid" : "566fe3dfe4b023e8f909b77e"} , "Word" : "hoards" , "meaning" : "ভাণ্ডার; সম্পদ্; গুণ্ডা ভাণ্ডার; মজুত-করা বস্তু;"}
+{ "_id" : { "$oid" : "566fe3dfe4b023e8f909b77f"} , "Word" : "hippopotamus" , "meaning" : "জলহস্তি"}
+{ "_id" : { "$oid" : "566fe3e0e4b023e8f909b780"} , "Word" : "hoary" , "meaning" : "শুক্ল; ধূসরাভ; পলিত; প্রাচীন; শুভ্র; বয়সের দরুন শুভ্র বা পালিত;"}
+{ "_id" : { "$oid" : "566fe3e0e4b023e8f909b781"} , "Word" : "hoarder" , "meaning" : "মজুতদার;"}
+{ "_id" : { "$oid" : "566fe3e0e4b023e8f909b782"} , "Word" : "hocus-pocus" , "meaning" : "ভোজবাজি; প্রতারিত করা; ঠকান; ধোঁকা দেত্তয়া; ফাঁকি দেত্তয়া;"}
+{ "_id" : { "$oid" : "566fe3e1e4b023e8f909b783"} , "Word" : "hobgoblin" , "meaning" : "পরীবিশেষ, দুষ্ট ভুত"}
+{ "_id" : { "$oid" : "566fe3e1e4b023e8f909b784"} , "Word" : "hissing" , "meaning" : "হিস্হিস ধ্বনি করা;"}
+{ "_id" : { "$oid" : "566fe3e1e4b023e8f909b785"} , "Word" : "history" , "meaning" : "ইতিহাস"}
+{ "_id" : { "$oid" : "566fe3e2e4b023e8f909b786"} , "Word" : "hobnobbing" , "meaning" : "খুব মেলামেশা করা;"}
+{ "_id" : { "$oid" : "566fe3e2e4b023e8f909b787"} , "Word" : "hobgoblins" , "meaning" : "দুষ্ট পরী; জুজু ভূত;"}
+{ "_id" : { "$oid" : "566fe3e2e4b023e8f909b788"} , "Word" : "hit out" , "meaning" : "আঘাত করিয়া ওড়ান; আঘার করিয়া ত্তড়ান;"}
+{ "_id" : { "$oid" : "566fe3e3e4b023e8f909b789"} , "Word" : "hobby-horse" , "meaning" : "ছেলেদের খেলার কাঠের ঘোড়া"}
+{ "_id" : { "$oid" : "566fe3e3e4b023e8f909b78a"} , "Word" : "hoarded" , "meaning" : "জমা করিয়া রাখা; গোপনে মজুত করা; গোপনে রাখা;"}
+{ "_id" : { "$oid" : "566fe3e3e4b023e8f909b78b"} , "Word" : "hit the sack" , "meaning" : "শয়ন করা; শয়ান পড়া;"}
+{ "_id" : { "$oid" : "566fe3e4e4b023e8f909b78c"} , "Word" : "hitch" , "meaning" : "হেঁচকা টানে তোলা, আঙটা দিয়ে আটকানো"}
+{ "_id" : { "$oid" : "566fe3e4e4b023e8f909b78d"} , "Word" : "hoard" , "meaning" : "গোপন ভান্ডার"}
+{ "_id" : { "$oid" : "566fe3e4e4b023e8f909b78e"} , "Word" : "historical" , "meaning" : "ঐতিহাসিক"}
+{ "_id" : { "$oid" : "566fe3e5e4b023e8f909b78f"} , "Word" : "hobs" , "meaning" : "গ্রামবাসী; চক্রনাভি; উনানের পিঠ; কৃষক; পল্লীবাসী; প্রাদেশী; প্রাদেশবাসী; ভাঁড়; ছোট কল;"}
+{ "_id" : { "$oid" : "566fe3e5e4b023e8f909b790"} , "Word" : "historian" , "meaning" : "ইতিহাস লেখক,ইতিহাসবেত্তা"}
+{ "_id" : { "$oid" : "566fe3e5e4b023e8f909b791"} , "Word" : "hither" , "meaning" : "এখানে"}
+{ "_id" : { "$oid" : "566fe3e6e4b023e8f909b792"} , "Word" : "holdback" , "meaning" : "বাধা;"}
+{ "_id" : { "$oid" : "566fe3e6e4b023e8f909b793"} , "Word" : "hold-all" , "meaning" : "বিছানাপত্র বেঁধে বহন করার থলিবিশেষ;হোল্ডঅল"}
+{ "_id" : { "$oid" : "566fe3e7e4b023e8f909b794"} , "Word" : "holding" , "meaning" : "জোতজমা, জমিজমা, শেয়ার"}
+{ "_id" : { "$oid" : "566fe3e7e4b023e8f909b795"} , "Word" : "holster" , "meaning" : "পিস্তল বা রিভলভার রাখবার চামড়ার খাপ"}
+{ "_id" : { "$oid" : "566fe3e7e4b023e8f909b796"} , "Word" : "holed" , "meaning" : "গর্ত করা;"}
+{ "_id" : { "$oid" : "566fe3e8e4b023e8f909b797"} , "Word" : "homemade" , "meaning" : "গৃহ্য; সাদাসিধা; গৃহজাত; ঘরে তৈয়ারী; স্বগৃহে প্রস্তুত; স্বদেশে প্রস্তুত; বাড়ীতে তৈরি;"}
+{ "_id" : { "$oid" : "566fe3e8e4b023e8f909b798"} , "Word" : "hold on" , "meaning" : "যথাস্থানে রাখা; অধ্যবসায়সহকারে লাগিয়া থাকা; আঁকড়াইয়া ধরা; চালাইয়া যাত্তয়া; আটিয়া ধাকা; একটু অপেক্ষা করা; অধ্যবসায়সহকারে লাগিয়া থাক; চালাইয়া যাওয়া; আঁটিয়া থাকা;"}
+{ "_id" : { "$oid" : "566fe3e8e4b023e8f909b799"} , "Word" : "hold-on" , "meaning" : "যথাস্থানে রাখা; অধ্যবসায়সহকারে লাগিয়া থাকা; আঁকড়াইয়া ধরা; চালাইয়া যাত্তয়া; আটিয়া ধাকা; একটু অপেক্ষা করা; অধ্যবসায়সহকারে লাগিয়া থাক; চালাইয়া যাওয়া; আঁটিয়া থাকা;"}
+{ "_id" : { "$oid" : "566fe3e9e4b023e8f909b79a"} , "Word" : "hollered" , "meaning" : "তীব্রস্বরে চীত্কার করা; তারস্বরে চীত্কার করা;"}
+{ "_id" : { "$oid" : "566fe3e9e4b023e8f909b79b"} , "Word" : "hoisting" , "meaning" : "খাটান; উত্তোলন করা;"}
+{ "_id" : { "$oid" : "566fe3e9e4b023e8f909b79c"} , "Word" : "hollows" , "meaning" : "ঠালা; ফাঁপা জায়গা; গর্ত; রন্ধ্র; কোটর; খোল; খাঁজ; গুহা; শূন্যগর্ত জায়গা; দাবিয়া যাত্তয়া জায়গা; টোল; খাত;"}
+{ "_id" : { "$oid" : "566fe3eae4b023e8f909b79d"} , "Word" : "hollow-eyed" , "meaning" : "কোটরগত চক্ষুবিশিষ্ট"}
+{ "_id" : { "$oid" : "566fe3eae4b023e8f909b79e"} , "Word" : "holarrhena antidysenterica" , "meaning" : "কুরচি;"}
+{ "_id" : { "$oid" : "566fe3eae4b023e8f909b79f"} , "Word" : "homeland" , "meaning" : "জন্মভূমি; স্বদেশ"}
+{ "_id" : { "$oid" : "566fe3ebe4b023e8f909b7a0"} , "Word" : "holes" , "meaning" : "গর্ত; ছিদ্র; ফাঁক; গুহা; ছেঁদ; কূপ; ঘর; রন্ধ্র; ফাটল; খাদ; কুহর; খাই; অন্ধিসন্ধি; ঝঁঝাট; সুরুক; ফুকর; খুপরি; দর; বিল; লুকানের স্থান; আশ্রয়স্থল; খানা; বেআইনী কারবারের আড্ডা; খোঁদল; নোংরা কারবারের আড্ডা; নোংরা অন্ধকার বাসাকক্ষ; নোংরা অন্ধকার বাসা; কোটর;"}
+{ "_id" : { "$oid" : "566fe3ebe4b023e8f909b7a1"} , "Word" : "hold back" , "meaning" : "করা; অনিচ্ছা প্রকাশ করা; কিছু করিতে না দেত্তয়া; আটকাইয়া রাখা; প্রতিসংহার করা;"}
+{ "_id" : { "$oid" : "566fe3ebe4b023e8f909b7a2"} , "Word" : "hold over" , "meaning" : "মেয়াদ উর্ত্তীণ হওয়ার পরেও বাড়িতে বা জমিতে থাকা; মুলতবি করা; রহিত করা; কালহরণ করা;"}
+{ "_id" : { "$oid" : "566fe3ece4b023e8f909b7a3"} , "Word" : "holdon" , "meaning" : "যথাস্থানে রাখা; অধ্যবসায়সহকারে লাগিয়া থাকা; আঁকড়াইয়া ধরা; চালাইয়া যাত্তয়া; আটিয়া ধাকা; একটু অপেক্ষা করা; অধ্যবসায়সহকারে লাগিয়া থাক; চালাইয়া যাওয়া; আঁটিয়া থাকা;"}
+{ "_id" : { "$oid" : "566fe3ece4b023e8f909b7a4"} , "Word" : "hold forth" , "meaning" : "সম্মুখে স্থাপন করা; দেখান; দিতে চাত্তয়া;"}
+{ "_id" : { "$oid" : "566fe3ece4b023e8f909b7a5"} , "Word" : "holla" , "meaning" : "শুন!, এই যে!"}
+{ "_id" : { "$oid" : "566fe3ede4b023e8f909b7a6"} , "Word" : "home office" , "meaning" : "স্বরাষ্ট্র দফতর; স্বরাষ্ট্র-ভবন;"}
+{ "_id" : { "$oid" : "566fe3ede4b023e8f909b7a7"} , "Word" : "hold" , "meaning" : "ধারণ"}
+{ "_id" : { "$oid" : "566fe3ede4b023e8f909b7a8"} , "Word" : "home ministry" , "meaning" : "স্বরাষ্ট্র মন্ত্রক;"}
+{ "_id" : { "$oid" : "566fe3eee4b023e8f909b7a9"} , "Word" : "holiday" , "meaning" : "উৎসবের দিন, ছুটির দিন"}
+{ "_id" : { "$oid" : "566fe3eee4b023e8f909b7aa"} , "Word" : "homecoming" , "meaning" : "স্বগৃহে বা স্বদেশে প্রত্যাবর্তন;"}
+{ "_id" : { "$oid" : "566fe3eee4b023e8f909b7ab"} , "Word" : "home-keeping" , "meaning" : "গৃহবাসী"}
+{ "_id" : { "$oid" : "566fe3efe4b023e8f909b7ac"} , "Word" : "hog" , "meaning" : "শুকর, ছিন্নমুষ্ক শূকর। এক বছরের মেষশাবক"}
+{ "_id" : { "$oid" : "566fe3efe4b023e8f909b7ad"} , "Word" : "hold down" , "meaning" : "নোয়াইয়া বা নিচু করিয়া রাখা; নোয়াইয়া করিয়া রাখা; নিচু করিয়া রাখা; বজায় রাখা;"}
+{ "_id" : { "$oid" : "566fe3efe4b023e8f909b7ae"} , "Word" : "holiness" , "meaning" : "পবিত্রতা"}
+{ "_id" : { "$oid" : "566fe3f0e4b023e8f909b7af"} , "Word" : "homeless" , "meaning" : "গৃহহীন; গৃহহারা; গৃহশূন্য; নিরাশ্রয়; নির্গৃহ; নিরাশ্রক; গৃহচু্যত; অনিকেত; অনিকেতন; নিরবলম্ব; নিরাবলম্ব; নিরাধার; ছন্নছাড়া;"}
+{ "_id" : { "$oid" : "566fe3f0e4b023e8f909b7b0"} , "Word" : "hoisted" , "meaning" : "উত্তোলন; লিফট; উত্তোলক যন্ত্র; দড়িদড়া বাঁধিয়া উত্তোলন করা;"}
+{ "_id" : { "$oid" : "566fe3f0e4b023e8f909b7b1"} , "Word" : "holds" , "meaning" : "রাখা; ধরা; ধারণ করা; আঁকড়াইয়া ধরা; অধিকারে পাত্তয়া; অধিকারলাভ করা; যুক্তি দ্বারা সমর্থন করা; সহ্য করা; পোষণ করা; অধিষ্ঠান করা; দখলে রাখা; আঁটা; আঁটিয়া থাকা; আটক রাখা; সংযত করা; বিলম্বিত করান; ধরিয়া রাখা; অভ্যন্তরে ধারণ করা; অনুষ্ঠান করা; বিবেচনা করা; স্থির থাকা; অটল থাকা; আকর্ষণ করা;"}
+{ "_id" : { "$oid" : "566fe3f1e4b023e8f909b7b2"} , "Word" : "hold-down" , "meaning" : "নোয়াইয়া বা নিচু করিয়া রাখা; নোয়াইয়া করিয়া রাখা; নিচু করিয়া রাখা; বজায় রাখা;"}
+{ "_id" : { "$oid" : "566fe3f1e4b023e8f909b7b3"} , "Word" : "holography" , "meaning" : "হোলগ্রফ্;"}
+{ "_id" : { "$oid" : "566fe3f1e4b023e8f909b7b4"} , "Word" : "homeopath" , "meaning" : "হোমিয়প্যাথি চিকিৎসক"}
+{ "_id" : { "$oid" : "566fe3f2e4b023e8f909b7b5"} , "Word" : "hollyhock" , "meaning" : "নানাবর্ণ পুষ্পপ্রসু উচু গাছবিশেষ;"}
+{ "_id" : { "$oid" : "566fe3f2e4b023e8f909b7b6"} , "Word" : "hold off" , "meaning" : "আঁকড়াইয়া ধরা; দূরে সরাইয়া রাখা; এড়াইয়া চলা;"}
+{ "_id" : { "$oid" : "566fe3f2e4b023e8f909b7b7"} , "Word" : "hokgepodge" , "meaning" : "খিচুড়ি; বিভিন্ন দ্রব্যের মিশ্যণ"}
+{ "_id" : { "$oid" : "566fe3f3e4b023e8f909b7b8"} , "Word" : "homecraft" , "meaning" : "গৃহজাত শিল্প; কুটিরশিল্প;"}
+{ "_id" : { "$oid" : "566fe3f3e4b023e8f909b7b9"} , "Word" : "home" , "meaning" : "আবাস; বাসস্থান; স্বদেশ"}
+{ "_id" : { "$oid" : "566fe3f3e4b023e8f909b7ba"} , "Word" : "holly" , "meaning" : "চিরশ্যামল গুল্মবিশেষ;"}
+{ "_id" : { "$oid" : "566fe3f4e4b023e8f909b7bb"} , "Word" : "holi day" , "meaning" : "ছুটির দিন; পর্ব; পর্বদিন; আমোদের দিন; ছুটির ও আমোদের দিন;"}
+{ "_id" : { "$oid" : "566fe3f4e4b023e8f909b7bc"} , "Word" : "holdfast" , "meaning" : "আঁকড় ; ছিটকিনিবিশেষ"}
+{ "_id" : { "$oid" : "566fe3f4e4b023e8f909b7bd"} , "Word" : "holy" , "meaning" : "পবিত্র; ধার্মিক; ভগবদ্ভক্ত; ঐশ্বরিক"}
+{ "_id" : { "$oid" : "566fe3f5e4b023e8f909b7be"} , "Word" : "hoe" , "meaning" : "নিড়ানী দিয়ে আগাছা উপরে ফেলা"}
+{ "_id" : { "$oid" : "566fe3f5e4b023e8f909b7bf"} , "Word" : "home made" , "meaning" : "গৃহজাত;"}
+{ "_id" : { "$oid" : "566fe3f5e4b023e8f909b7c0"} , "Word" : "hogging" , "meaning" : "নুড়ি; কাঁকর;"}
+{ "_id" : { "$oid" : "566fe3f6e4b023e8f909b7c1"} , "Word" : "holt" , "meaning" : "বন; বনময় পাহাড়; নিরাপদ স্থান"}
+{ "_id" : { "$oid" : "566fe3f6e4b023e8f909b7c2"} , "Word" : "hold out" , "meaning" : "স্থায়ী হওয়া; সহ্য করা; টেকসই হত্তয়া; স্থায়ী হত্তয়া; প্রতিরোধ করিয়া চলা; দিতে চাত্তয়া; আগাইয়া করিয়া ধরা; প্রসারিত করিয়া ধরা;"}
+{ "_id" : { "$oid" : "566fe3f6e4b023e8f909b7c3"} , "Word" : "hokum" , "meaning" : "ফাঁকি; প্রতারণা; ছলনা; প্রতারণ; ভোজবাজি;"}
+{ "_id" : { "$oid" : "566fe3f7e4b023e8f909b7c4"} , "Word" : "hold good" , "meaning" : "খাটা;"}
+{ "_id" : { "$oid" : "566fe3f7e4b023e8f909b7c5"} , "Word" : "holders" , "meaning" : "ধারক; অধিকারী ব্যক্তি; ধারয়িতা;"}
+{ "_id" : { "$oid" : "566fe3f7e4b023e8f909b7c6"} , "Word" : "holler" , "meaning" : "তীব্রস্বরে চীত্কার করা; তারস্বরে চীত্কার করা; তীব্রস্বরে বা তারস্বরে চীত্কার করা;"}
+{ "_id" : { "$oid" : "566fe3f8e4b023e8f909b7c7"} , "Word" : "holm" , "meaning" : "নদীর ছোট দ্বীপ; নদী তীরবর্তী উর্বর সমতল ক্ষেত্র"}
+{ "_id" : { "$oid" : "566fe3f8e4b023e8f909b7c8"} , "Word" : "hollo" , "meaning" : "আরে;"}
+{ "_id" : { "$oid" : "566fe3f8e4b023e8f909b7c9"} , "Word" : "hold in" , "meaning" : "সংযত করিয়া রাখা; সংযত দমাইয়া রাখা;"}
+{ "_id" : { "$oid" : "566fe3f9e4b023e8f909b7ca"} , "Word" : "home-made" , "meaning" : "গৃহজাত; স্বদেশজাত; সাদাসিধা"}
+{ "_id" : { "$oid" : "566fe3f9e4b023e8f909b7cb"} , "Word" : "holi" , "meaning" : "হোলিখেলা;"}
+{ "_id" : { "$oid" : "566fe3f9e4b023e8f909b7cc"} , "Word" : "homely" , "meaning" : "গৃহজাত; গার্হস্থ্য; সাদাসিধা; সুপরিচিত"}
+{ "_id" : { "$oid" : "566fe3fae4b023e8f909b7cd"} , "Word" : "hollow place" , "meaning" : "নিতল;"}
+{ "_id" : { "$oid" : "566fe3fae4b023e8f909b7ce"} , "Word" : "hole" , "meaning" : "গর্ত, গহ্বর"}
+{ "_id" : { "$oid" : "566fe3fae4b023e8f909b7cf"} , "Word" : "holidaymakers" , "meaning" : "যাহারা ছুটির দিন যাপন করিতে আসিয়াছে; উত্সবকারিগণ;"}
+{ "_id" : { "$oid" : "566fe3fbe4b023e8f909b7d0"} , "Word" : "holder" , "meaning" : "ধারক; অধিকারী ব্যক্তি; ধারয়িতা; ধারণকারী;"}
+{ "_id" : { "$oid" : "566fe3fbe4b023e8f909b7d1"} , "Word" : "hogshead" , "meaning" : "পরিমাণবিশেষ; বড় পিপা"}
+{ "_id" : { "$oid" : "566fe3fbe4b023e8f909b7d2"} , "Word" : "holds up" , "meaning" : "ঊর্ধ্বে তোলা; ত্তঠান; সরাইয়া রাখা; গোপনে রাখা; সহ্য করা; থামান; নিশ্চল করা;"}
+{ "_id" : { "$oid" : "566fe3fce4b023e8f909b7d3"} , "Word" : "holy day" , "meaning" : "শাস্ত্রীয় পর্বদিন; শাস্ট্রীয় পর্বদিন;"}
+{ "_id" : { "$oid" : "566fe3fce4b023e8f909b7d4"} , "Word" : "hoist" , "meaning" : "উত্তোলন করা, তোলা"}
+{ "_id" : { "$oid" : "566fe3fce4b023e8f909b7d5"} , "Word" : "hoggish" , "meaning" : "লোভী ও স্বার্থপর; নোংরা। শুকরের মত"}
+{ "_id" : { "$oid" : "566fe3fde4b023e8f909b7d6"} , "Word" : "homage" , "meaning" : "সশ্রদ্ধ স্বীকৃতি; শ্রদ্ধা প্রদর্শন"}
+{ "_id" : { "$oid" : "566fe3fde4b023e8f909b7d7"} , "Word" : "hold-up" , "meaning" : "লুন্ঠনের উদ্দেশ্যে জোর করিযা আটকানো"}
+{ "_id" : { "$oid" : "566fe3fde4b023e8f909b7d8"} , "Word" : "holocaust," , "meaning" : "ব্যাপক হত্যাকাণ্ড; হোমবিশেষ;"}
+{ "_id" : { "$oid" : "566fe3fee4b023e8f909b7d9"} , "Word" : "hold with" , "meaning" : "অনুমোদন করা; অনুমোদন করা;"}
+{ "_id" : { "$oid" : "566fe3fee4b023e8f909b7da"} , "Word" : "hollering" , "meaning" : "তীব্রস্বরে চীত্কার করা; তারস্বরে চীত্কার করা;"}
+{ "_id" : { "$oid" : "566fe3fee4b023e8f909b7db"} , "Word" : "hoists" , "meaning" : "খাটান; উত্তোলন করা;"}
+{ "_id" : { "$oid" : "566fe3ffe4b023e8f909b7dc"} , "Word" : "hollow" , "meaning" : "ফাঁপা, শূন্য গর্ভ"}
+{ "_id" : { "$oid" : "566fe3ffe4b023e8f909b7dd"} , "Word" : "hold up" , "meaning" : "ওঠান; উর্ধ্বে তোলা; সরাইয়া রাখা; গোপানে রাখা; ঊর্ধ্বে তোলা; ত্তঠান; সরাইয়া রাখা; গোপনে রাখা; সহ্য করা; থামান; নিশ্চল করা;"}
+{ "_id" : { "$oid" : "566fe3ffe4b023e8f909b7de"} , "Word" : "hold onto" , "meaning" : "মালিকানা ত্যাগ না করা;"}
+{ "_id" : { "$oid" : "566fe400e4b023e8f909b7df"} , "Word" : "holy book" , "meaning" : "ধর্মগ্রন্থ;"}
+{ "_id" : { "$oid" : "566fe400e4b023e8f909b7e0"} , "Word" : "hog plum" , "meaning" : "আমড়া; বিলাতী আমড়া;"}
+{ "_id" : { "$oid" : "566fe400e4b023e8f909b7e1"} , "Word" : "honourably" , "meaning" : "সম্মানিত;"}
+{ "_id" : { "$oid" : "566fe401e4b023e8f909b7e2"} , "Word" : "homicide" , "meaning" : "নরহত্যা; নরহস্তা"}
+{ "_id" : { "$oid" : "566fe401e4b023e8f909b7e3"} , "Word" : "honors" , "meaning" : "প্রদর্শিত সৌলন্যাদি;"}
+{ "_id" : { "$oid" : "566fe401e4b023e8f909b7e4"} , "Word" : "honk" , "meaning" : "মাটরগাড়ির শিঙ্গার আওয়াজ; বুহো হাঁসের ডাক"}
+{ "_id" : { "$oid" : "566fe402e4b023e8f909b7e5"} , "Word" : "hoodlums" , "meaning" : "দসু্য;"}
+{ "_id" : { "$oid" : "566fe402e4b023e8f909b7e6"} , "Word" : "honeydew" , "meaning" : "বৃক্ষাদি-নিসৃত মধুর নির্যাস; বৃক্ষনি:সৃত মধুর নির্যাস;"}
+{ "_id" : { "$oid" : "566fe403e4b023e8f909b7e7"} , "Word" : "honorary" , "meaning" : "সম্মানার্থ প্রদত্ত; অবৈতনিক"}
+{ "_id" : { "$oid" : "566fe403e4b023e8f909b7e8"} , "Word" : "hominy" , "meaning" : "দুগ্ধে বা জলে সিদ্ধ ভূটাচূর্ণ"}
+{ "_id" : { "$oid" : "566fe403e4b023e8f909b7e9"} , "Word" : "honest" , "meaning" : "সৎ, সাধু"}
+{ "_id" : { "$oid" : "566fe404e4b023e8f909b7ea"} , "Word" : "honestly" , "meaning" : "সত্য-সত্যই;"}
+{ "_id" : { "$oid" : "566fe404e4b023e8f909b7eb"} , "Word" : "honeybees" , "meaning" : "মউমাছি;"}
+{ "_id" : { "$oid" : "566fe404e4b023e8f909b7ec"} , "Word" : "honey" , "meaning" : "মধু"}
+{ "_id" : { "$oid" : "566fe405e4b023e8f909b7ed"} , "Word" : "homeopathist" , "meaning" : "হোমিয়প্যাথি চিকিৎসক"}
+{ "_id" : { "$oid" : "566fe405e4b023e8f909b7ee"} , "Word" : "honing" , "meaning" : "শান-পাথার ঘসিয়া ধার দেত্তয়া;"}
+{ "_id" : { "$oid" : "566fe405e4b023e8f909b7ef"} , "Word" : "honoured" , "meaning" : "সম্মানিত; আদৃত; সম্ভ্রান্ত; অভিনঁদিত; গৌরবান্বিত; গৌরবজনক;"}
+{ "_id" : { "$oid" : "566fe405e4b023e8f909b7f0"} , "Word" : "homiletics" , "meaning" : "ধর্মপ্রচারবিদ্যা;"}
+{ "_id" : { "$oid" : "566fe406e4b023e8f909b7f1"} , "Word" : "homeopathy" , "meaning" : "সদৃশবিধান; হোমিত্তপ্যাথি;"}
+{ "_id" : { "$oid" : "566fe406e4b023e8f909b7f2"} , "Word" : "homer" , "meaning" : "শীঘ্রই দূর হইতে পঠ চিনিয়া নিজের বাসায় পোঁছিতে শেখে এমন পারাবত;"}
+{ "_id" : { "$oid" : "566fe406e4b023e8f909b7f3"} , "Word" : "honeybee" , "meaning" : "মউমাছি;"}
+{ "_id" : { "$oid" : "566fe407e4b023e8f909b7f4"} , "Word" : "hood" , "meaning" : "মাথার ঢাকনা; সাপের ফণা। মোটর গাড়ির আচ্ছাদন"}
+{ "_id" : { "$oid" : "566fe407e4b023e8f909b7f5"} , "Word" : "hooliganism" , "meaning" : "গুণ্ডামি; রাহাজানি; গুণ্ডাানি;"}
+{ "_id" : { "$oid" : "566fe407e4b023e8f909b7f6"} , "Word" : "hooligan" , "meaning" : "গুন্ডামি"}
+{ "_id" : { "$oid" : "566fe408e4b023e8f909b7f7"} , "Word" : "hoof" , "meaning" : "পশুর পায়ের খুর"}
+{ "_id" : { "$oid" : "566fe408e4b023e8f909b7f8"} , "Word" : "hoodwink" , "meaning" : "প্রতারণা করা"}
+{ "_id" : { "$oid" : "566fe408e4b023e8f909b7f9"} , "Word" : "hook" , "meaning" : "বঁড়শি, আঙটা"}
+{ "_id" : { "$oid" : "566fe409e4b023e8f909b7fa"} , "Word" : "homonym" , "meaning" : "নানার্থ শব্দ; ভিন্নার্থবোধক শব্দ; একই ধ্বনিবিশিষ্ট কিন্তু ভিন্নার্থক শব্দ;"}
+{ "_id" : { "$oid" : "566fe409e4b023e8f909b7fb"} , "Word" : "homogeneous" , "meaning" : "সমজাতীয়; সমপ্রকৃতি বিশিষ্ট"}
+{ "_id" : { "$oid" : "566fe40ae4b023e8f909b7fc"} , "Word" : "hooker" , "meaning" : "ইতর স্ত্রীলোক;"}
+{ "_id" : { "$oid" : "566fe40ae4b023e8f909b7fd"} , "Word" : "homespun" , "meaning" : "দেশী; সাদাসিধা; দেশীয়; স্বগৃহে বোনা; স্বদেশে বোনা; স্বদেশে বা স্বগৃহে বোনা;"}
+{ "_id" : { "$oid" : "566fe40ae4b023e8f909b7fe"} , "Word" : "hometown" , "meaning" : "যে নগরে কেহ স্বভাবতঃ বাস করে বা করিত;"}
+{ "_id" : { "$oid" : "566fe40be4b023e8f909b7ff"} , "Word" : "honor" , "meaning" : "সম্মান; মান্য; সম্ভ্রম; শ্রদ্ধা; সুনাম; উচ্চ মন্মান; সম্মানিত পদ; আবরূ; কদর; মান; খাতির; গৌরব; প্রতিপত্তি; সাধুতা; সততা; আত্ম-মন্মান; কর্তব্যপরায়ণতা; সতীত্ব; আদর;"}
+{ "_id" : { "$oid" : "566fe40be4b023e8f909b800"} , "Word" : "honorific" , "meaning" : "সম্মানসূচক;"}
+{ "_id" : { "$oid" : "566fe40be4b023e8f909b801"} , "Word" : "hook worm" , "meaning" : "হুককৃমি;"}
+{ "_id" : { "$oid" : "566fe40ce4b023e8f909b802"} , "Word" : "hood-wink" , "meaning" : "ভাঁড়ান; চক্ষু বান্ধিয়া দেত্তয়া; প্রতারণা করা; ফাঁকি দেত্তয়া; ধাঁধা দেত্তয়া; ধাঁধা লাগান; প্রবঁচনা করা; চাল মারা; কলা দেখান; চক্ষু বাঁধিয়া দেওয়া;"}
+{ "_id" : { "$oid" : "566fe40ce4b023e8f909b803"} , "Word" : "hoop" , "meaning" : "পিপা আঁটার ধাতুপাতের ঘের"}
+{ "_id" : { "$oid" : "566fe40ce4b023e8f909b804"} , "Word" : "homesick" , "meaning" : "ঘরকাতুরে, স্বদেশের জন্য মন কাঁদে এমন"}
+{ "_id" : { "$oid" : "566fe40de4b023e8f909b805"} , "Word" : "hooded" , "meaning" : "গুণ্ঠিত; ফণাত্তয়ালা; বোরখা দিয়া আবৃত; বোরখা দিয়া আবৃত; ফণাওয়াল;"}
+{ "_id" : { "$oid" : "566fe40de4b023e8f909b806"} , "Word" : "homestead" , "meaning" : "চালাঘর; বাসভবন"}
+{ "_id" : { "$oid" : "566fe40de4b023e8f909b807"} , "Word" : "homeward" , "meaning" : "স্বদেশাভিমুখ; স্বগৃহাভিমুখ; ঘর-ভাঙ্গানী;"}
+{ "_id" : { "$oid" : "566fe40ee4b023e8f909b808"} , "Word" : "hooked" , "meaning" : "কাঁটাওয়ালা; বঁড়শির ন্যায় বাঁকান"}
+{ "_id" : { "$oid" : "566fe40ee4b023e8f909b809"} , "Word" : "homeric laughter" , "meaning" : "হোমরের রচনায় বর্ণিত দেবমণ্ডলীসুলভ অট্টহাসি;"}
+{ "_id" : { "$oid" : "566fe40ee4b023e8f909b80a"} , "Word" : "homework" , "meaning" : "প্রস্তুতিপর্বের কাজ;"}
+{ "_id" : { "$oid" : "566fe40fe4b023e8f909b80b"} , "Word" : "hoods" , "meaning" : "হুড; ফণা; সাপের ফণা; গুণ্ডা; গুণ্ঠন; অবগুণ্ঠন; দসু্য; চক্র; বোরখা;"}
+{ "_id" : { "$oid" : "566fe40fe4b023e8f909b80c"} , "Word" : "homicides" , "meaning" : "নরহত্যা; স্বশ্রেণীঘাতক; নরহত্যাকারী; নরঘাতক;"}
+{ "_id" : { "$oid" : "566fe40fe4b023e8f909b80d"} , "Word" : "homing" , "meaning" : "স্বগৃহে প্রত্যাবর্তন;"}
+{ "_id" : { "$oid" : "566fe40fe4b023e8f909b80e"} , "Word" : "homicidal" , "meaning" : "হত্যাপূর্ণ; নরঘাতী; স্বশ্রেণীঘাতী; স্বশ্রেণীঘাতক; ;"}
+{ "_id" : { "$oid" : "566fe410e4b023e8f909b80f"} , "Word" : "homogenous" , "meaning" : "সজাতি; সমশ্রেণীভুক্ত; একরূপ; সমপ্রকৃতি; সমরুপ;"}
+{ "_id" : { "$oid" : "566fe410e4b023e8f909b810"} , "Word" : "homeopathic" , "meaning" : "হোমিয়প্যাথি চিকিৎসা সম্বন্ধীয়"}
+{ "_id" : { "$oid" : "566fe411e4b023e8f909b811"} , "Word" : "hooks" , "meaning" : "আঙ্গুলসমূহ;"}
+{ "_id" : { "$oid" : "566fe411e4b023e8f909b812"} , "Word" : "homograph" , "meaning" : "সমপ্রকৃতি শব্দ; একই বানানবিশিষ্ট কিন্তু ভিন্নার্থক শব্দ;"}
+{ "_id" : { "$oid" : "566fe411e4b023e8f909b813"} , "Word" : "homosexuality" , "meaning" : "সমকাম; সমরতি;"}
+{ "_id" : { "$oid" : "566fe411e4b023e8f909b814"} , "Word" : "hooch" , "meaning" : "মদ্য; হুইস্কি; হুইসকি;"}
+{ "_id" : { "$oid" : "566fe412e4b023e8f909b815"} , "Word" : "honorable" , "meaning" : "মাননীয়; সম্মানিত; সম্মানজনক; মহনীয়; ন্যায়পরায়ণ; পূজনীয়; সসম্মান; সম্মানার্হ; সম্মানপূর্ণ; মান্য; সম্মানযোর্গ্য; সম্মানযোগ্য; মাননীয়; ন্যায়পরায়ণ;"}
+{ "_id" : { "$oid" : "566fe412e4b023e8f909b816"} , "Word" : "honesty" , "meaning" : "সাধুতা, সত্যবাদিতা, ন্যায়পরায়ণতা"}
+{ "_id" : { "$oid" : "566fe413e4b023e8f909b817"} , "Word" : "honeymoon" , "meaning" : "নবদম্পতির প্রথশ অবকাশ-ভোগ"}
+{ "_id" : { "$oid" : "566fe413e4b023e8f909b818"} , "Word" : "hookworm" , "meaning" : "বক্রদেহ ক্রিমিবিশেষ;"}
+{ "_id" : { "$oid" : "566fe413e4b023e8f909b819"} , "Word" : "homonymous" , "meaning" : "নানার্থ; একই ধ্বনিবিশিষ্ট কিন্তু ভিন্নার্থক শব্দ;"}
+{ "_id" : { "$oid" : "566fe414e4b023e8f909b81a"} , "Word" : "homily" , "meaning" : "ধর্মোপদেশ;ধর্মীয় বা নীতিগর্ভ আলোচনা"}
+{ "_id" : { "$oid" : "566fe414e4b023e8f909b81b"} , "Word" : "honks" , "meaning" : "ভেঁপু; বন্য হংসীর ডাক;"}
+{ "_id" : { "$oid" : "566fe414e4b023e8f909b81c"} , "Word" : "homonyms" , "meaning" : "নানার্থ শব্দ; ভিন্নার্থবোধক শব্দ;"}
+{ "_id" : { "$oid" : "566fe415e4b023e8f909b81d"} , "Word" : "homoeopathy" , "meaning" : "সমজাতীয়; সমপ্রকৃতি বিশিষ্ট"}
+{ "_id" : { "$oid" : "566fe415e4b023e8f909b81e"} , "Word" : "honeysuckle" , "meaning" : "পুষ্পলতাবিশেষ;"}
+{ "_id" : { "$oid" : "566fe415e4b023e8f909b81f"} , "Word" : "homologated" , "meaning" : "একমত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fe415e4b023e8f909b820"} , "Word" : "homologous" , "meaning" : "সমসংস্থ; সমগণীয়; অনুরূপ; সদৃশ;"}
+{ "_id" : { "$oid" : "566fe416e4b023e8f909b821"} , "Word" : "honour" , "meaning" : "সম্মান, খ্যাতি"}
+{ "_id" : { "$oid" : "566fe416e4b023e8f909b822"} , "Word" : "honored" , "meaning" : "সম্মানিত; আদৃত; সম্ভ্রান্ত; অভিনঁদিত; গৌরবান্বিত; গৌরবজনক;"}
+{ "_id" : { "$oid" : "566fe416e4b023e8f909b823"} , "Word" : "homophone" , "meaning" : "একই ধ্বনি অথবা উচ্চারণবিশিষ্ট কিন্তু ভিন্নার্থক ও ভিন্নবানানবিশিষ্ট শব্দ;"}
+{ "_id" : { "$oid" : "566fe417e4b023e8f909b824"} , "Word" : "hone" , "meaning" : "শান দিবার পাথর"}
+{ "_id" : { "$oid" : "566fe417e4b023e8f909b825"} , "Word" : "honourable" , "meaning" : "মাননীয়; মহামান্য; সম্মানগোয্য; সম্মান"}
+{ "_id" : { "$oid" : "566fe417e4b023e8f909b826"} , "Word" : "homesteaders" , "meaning" : "ডেরাডাণ্ডা লোক;"}
+{ "_id" : { "$oid" : "566fe418e4b023e8f909b827"} , "Word" : "hoofs" , "meaning" : "খুর; ক্ষুর; অশ্বখুর; পা; গোক্ষুর;"}
+{ "_id" : { "$oid" : "566fe418e4b023e8f909b828"} , "Word" : "honeycomb" , "meaning" : "মধুচক্র; মৌচাক"}
+{ "_id" : { "$oid" : "566fe418e4b023e8f909b829"} , "Word" : "honours" , "meaning" : "প্রদর্শিত সৌলন্যাদি;"}
+{ "_id" : { "$oid" : "566fe419e4b023e8f909b82a"} , "Word" : "honorarium" , "meaning" : "দক্ষিণা বা সস্মানী"}
+{ "_id" : { "$oid" : "566fe419e4b023e8f909b82b"} , "Word" : "homo" , "meaning" : "সম-; অনুর্ঊপ-; সদৃশ-;"}
+{ "_id" : { "$oid" : "566fe419e4b023e8f909b82c"} , "Word" : "homogeneity" , "meaning" : "সমসত্ত্বতা;"}
+{ "_id" : { "$oid" : "566fe41ae4b023e8f909b82d"} , "Word" : "hoodlum" , "meaning" : "দসু্য; রাস্তার গুণ্ডা; বকবাজ ছেলে;"}
+{ "_id" : { "$oid" : "566fe41ae4b023e8f909b82e"} , "Word" : "hoodoo" , "meaning" : "দুরদৃষ্ট আনয়ন- কারী; দুরদৃষ্ট"}
+{ "_id" : { "$oid" : "566fe41ae4b023e8f909b82f"} , "Word" : "honeycombed" , "meaning" : "ঝাঁজর; ঝাঁঝর; মউচাকতুল্য ছিদ্রবহুল; ঝাঁজরা; ফোঁপরা;"}
+{ "_id" : { "$oid" : "566fe41be4b023e8f909b830"} , "Word" : "homographs" , "meaning" : "সমপ্রকৃতি শব্দ;"}
+{ "_id" : { "$oid" : "566fe41be4b023e8f909b831"} , "Word" : "hooted" , "meaning" : "চিঁকার করা; টিটকারি দেত্তয়া; ধিক্কার দেত্তয়া;"}
+{ "_id" : { "$oid" : "566fe41ce4b023e8f909b832"} , "Word" : "hors" , "meaning" : "বহির্ভূত;"}
+{ "_id" : { "$oid" : "566fe41ce4b023e8f909b833"} , "Word" : "hosanna" , "meaning" : "ভগবানের প্রশংসাসূচক ধ্বনি; ভগবানের আশীর্বাদলাভের জন্য প্রার্থনা;"}
+{ "_id" : { "$oid" : "566fe41ce4b023e8f909b834"} , "Word" : "horsewhip" , "meaning" : "ঘোড়ার চাবুক"}
+{ "_id" : { "$oid" : "566fe41de4b023e8f909b835"} , "Word" : "horseplay" , "meaning" : "ক্রীড়নক; ডানপিটেমি ও হৈচৈপূর্ণ খেলা; নাটক বা অভিনয়;"}
+{ "_id" : { "$oid" : "566fe41de4b023e8f909b836"} , "Word" : "hoover" , "meaning" : "হুবের;"}
+{ "_id" : { "$oid" : "566fe41de4b023e8f909b837"} , "Word" : "horde" , "meaning" : "বড় দল; যাযাবর জাতিবিশেষ; বড় দল;"}
+{ "_id" : { "$oid" : "566fe41ee4b023e8f909b838"} , "Word" : "hornet" , "meaning" : "ভিমরুল"}
+{ "_id" : { "$oid" : "566fe41ee4b023e8f909b839"} , "Word" : "horn" , "meaning" : "শিং ; শিঙ্গা ; ভে'পু"}
+{ "_id" : { "$oid" : "566fe41ee4b023e8f909b83a"} , "Word" : "hooping cough" , "meaning" : "ঘুংড়ি কাশি"}
+{ "_id" : { "$oid" : "566fe41fe4b023e8f909b83b"} , "Word" : "hopper" , "meaning" : "এক পায়ে বা সব পায়ে যে লাফায়"}
+{ "_id" : { "$oid" : "566fe41fe4b023e8f909b83c"} , "Word" : "hooves" , "meaning" : "খুর; অশ্বখুর; ক্ষুর; পা; গোক্ষুর;"}
+{ "_id" : { "$oid" : "566fe41fe4b023e8f909b83d"} , "Word" : "hopping" , "meaning" : "প্লব;"}
+{ "_id" : { "$oid" : "566fe420e4b023e8f909b83e"} , "Word" : "hose" , "meaning" : "জলসেচনের পাইপ, মোজা ইত্যাদি"}
+{ "_id" : { "$oid" : "566fe420e4b023e8f909b83f"} , "Word" : "hop off" , "meaning" : "প্রস্থান করা;"}
+{ "_id" : { "$oid" : "566fe420e4b023e8f909b840"} , "Word" : "hooter" , "meaning" : "যে ব্যক্তি বিদ্রূপাত্মক চিত্কার করে; কারখানা খনি রেল স্টীমার প্রভৃতির সাইরেন সিটি বা রাশি;"}
+{ "_id" : { "$oid" : "566fe421e4b023e8f909b841"} , "Word" : "horseman" , "meaning" : "অশ্বা-রোহী"}
+{ "_id" : { "$oid" : "566fe421e4b023e8f909b842"} , "Word" : "horrify" , "meaning" : "আতস্কিত করা"}
+{ "_id" : { "$oid" : "566fe422e4b023e8f909b843"} , "Word" : "horoscope" , "meaning" : "ঠিকুজি; কোষ্ঠী, জন্মপত্রিকা"}
+{ "_id" : { "$oid" : "566fe422e4b023e8f909b844"} , "Word" : "horned" , "meaning" : "শৃঙ্গযুক্ত;"}
+{ "_id" : { "$oid" : "566fe422e4b023e8f909b845"} , "Word" : "horn bill" , "meaning" : "শিঙওয়াল ঠোঁটযুক্ত পক্ষিবিশেষ;"}
+{ "_id" : { "$oid" : "566fe423e4b023e8f909b846"} , "Word" : "hospitable" , "meaning" : "অতিথি সেবা পরায়ণ"}
+{ "_id" : { "$oid" : "566fe423e4b023e8f909b847"} , "Word" : "horticulturist" , "meaning" : "উদ্যানপালক; উদ্যানপাল;"}
+{ "_id" : { "$oid" : "566fe423e4b023e8f909b848"} , "Word" : "horse-trainer" , "meaning" : "দৌড়বাজি ইত্যাদির জন্য যে ব্যক্তি অশ্বকে শিক্ষা দেয়"}
+{ "_id" : { "$oid" : "566fe424e4b023e8f909b849"} , "Word" : "hopped" , "meaning" : "একপায়ে লাফান; থামিয়া পড়া; খোঁড়ান;"}
+{ "_id" : { "$oid" : "566fe424e4b023e8f909b84a"} , "Word" : "hosed" , "meaning" : "আঁটো পাজামা পরিহিত;"}
+{ "_id" : { "$oid" : "566fe424e4b023e8f909b84b"} , "Word" : "horrific," , "meaning" : "ভয়ঙ্কর; আতঙ্ককর; আতঙ্ক কর; ভয়ঙ্কর;"}
+{ "_id" : { "$oid" : "566fe425e4b023e8f909b84c"} , "Word" : "host" , "meaning" : "নিয়ন্ত্রণকর্তা"}
+{ "_id" : { "$oid" : "566fe425e4b023e8f909b84d"} , "Word" : "horrid" , "meaning" : "জঘন্য;ভয়স্কর"}
+{ "_id" : { "$oid" : "566fe425e4b023e8f909b84e"} , "Word" : "hospitalize" , "meaning" : "চিকিত্সার্থ হাসপাতালে পাঠান বা ভর্তি করা;"}
+{ "_id" : { "$oid" : "566fe426e4b023e8f909b84f"} , "Word" : "hospice" , "meaning" : "ধর্মশালা; সন্ন্যাসি সম্প্রদায় কর্তৃক পরিচালিত অতিথিশালা; অনাথশালা;"}
+{ "_id" : { "$oid" : "566fe426e4b023e8f909b850"} , "Word" : "horticulture" , "meaning" : "উদ্যান পালন বিদ্র্যা"}
+{ "_id" : { "$oid" : "566fe426e4b023e8f909b851"} , "Word" : "hoopoe" , "meaning" : "ঝুঁটিত্তয়ালা পাখিবিশেষ; ঝুঁটিওয়ালা পাখিবিশেষ;"}
+{ "_id" : { "$oid" : "566fe427e4b023e8f909b852"} , "Word" : "horizon" , "meaning" : "দিগন্ত;দিকচক্রবাল"}
+{ "_id" : { "$oid" : "566fe427e4b023e8f909b853"} , "Word" : "hosier" , "meaning" : "মোজা অন্তর্বাস ইত্যাদি বিক্রেতা"}
+{ "_id" : { "$oid" : "566fe427e4b023e8f909b854"} , "Word" : "horse-power" , "meaning" : "অশ্বশক্তি; মোটর ইঞ্জিন ইত্যাদির শক্তির পরিমাণ(৩৩,০০০ পাউন্ড ওজন এক মিনিটে এক ফুট উপরে উঠাতে যে পরিমা"}
+{ "_id" : { "$oid" : "566fe428e4b023e8f909b855"} , "Word" : "hoot" , "meaning" : "পেঁচার ডাক; তীব্রব্ধনি"}
+{ "_id" : { "$oid" : "566fe428e4b023e8f909b856"} , "Word" : "horseback" , "meaning" : "অশ্বপৃষ্ঠ;"}
+{ "_id" : { "$oid" : "566fe428e4b023e8f909b857"} , "Word" : "horrified" , "meaning" : "সন্ত্রাসিত;"}
+{ "_id" : { "$oid" : "566fe429e4b023e8f909b858"} , "Word" : "hope less" , "meaning" : "আশাহীন; নিরাশ; ব্যর্থ; অকর্মণ্য; চিকিত্সার অসাধ্য; অকেজো;"}
+{ "_id" : { "$oid" : "566fe429e4b023e8f909b859"} , "Word" : "hornpipe" , "meaning" : "বাঁশি- বিশেষ; দ্রুততালে নৃত্য"}
+{ "_id" : { "$oid" : "566fe429e4b023e8f909b85a"} , "Word" : "horizontal" , "meaning" : "আনুভূমিক; দিগন্তের সমান্তরাল"}
+{ "_id" : { "$oid" : "566fe42ae4b023e8f909b85b"} , "Word" : "hostage" , "meaning" : "প্রতিভূ, জামিন হিসাবে বন্দী ব্যক্তি"}
+{ "_id" : { "$oid" : "566fe42ae4b023e8f909b85c"} , "Word" : "hoped" , "meaning" : "প্রত্যাশিত; আশঁসিত;"}
+{ "_id" : { "$oid" : "566fe42ae4b023e8f909b85d"} , "Word" : "hop" , "meaning" : "একপায়ে লাফানো; লাফিয়ে লাফিয়ে চালা"}
+{ "_id" : { "$oid" : "566fe42be4b023e8f909b85e"} , "Word" : "hospital" , "meaning" : "হাসপাতাল, (দাতব্য) চিকিৎসাগার"}
+{ "_id" : { "$oid" : "566fe42be4b023e8f909b85f"} , "Word" : "hope" , "meaning" : "আশা, বিশ্বাস,পূর্ব অনুমান, পুর্ব সূচনা"}
+{ "_id" : { "$oid" : "566fe42be4b023e8f909b860"} , "Word" : "hornbill" , "meaning" : "শিঙওয়াল ঠোঁটযুক্ত পক্ষিবিশেষ;"}
+{ "_id" : { "$oid" : "566fe42ce4b023e8f909b861"} , "Word" : "horologe" , "meaning" : "ঘড়ি; ঘটিকা; সময়-নির্দেশক যন্ত্র; সময় নির্দেশক যন্ত্র; ঘড়ি;"}
+{ "_id" : { "$oid" : "566fe42ce4b023e8f909b862"} , "Word" : "horns" , "meaning" : "শিঙা; শৃঙ্গ; শিঙ্গা; শুঙ্গ; তূরী; পশুশৃঙ্গ; বিষাণ; রামশিঙ্গা; ভেঁপু; তুরি; তূর্য; হুল; খড়গ;"}
+{ "_id" : { "$oid" : "566fe42ce4b023e8f909b863"} , "Word" : "horses" , "meaning" : "অশ্ব; সাদী; ঘোড়া; ঘোটক; অশ্বারোহী সৈন্যদল;"}
+{ "_id" : { "$oid" : "566fe42de4b023e8f909b864"} , "Word" : "hooping-cough" , "meaning" : "ঘুংড়িকাশি"}
+{ "_id" : { "$oid" : "566fe42de4b023e8f909b865"} , "Word" : "horse-tamer" , "meaning" : "পেশাদারী অশ্ব শিক্ষক"}
+{ "_id" : { "$oid" : "566fe42de4b023e8f909b866"} , "Word" : "horny" , "meaning" : "শিঙের মত; শিঙের তৈরি"}
+{ "_id" : { "$oid" : "566fe42ee4b023e8f909b867"} , "Word" : "hospitality" , "meaning" : "অতিথি সৎকার, আতিথেয়তা"}
+{ "_id" : { "$oid" : "566fe42ee4b023e8f909b868"} , "Word" : "horticultural" , "meaning" : "উদ্যানপালনসংক্রান্ত;"}
+{ "_id" : { "$oid" : "566fe42ee4b023e8f909b869"} , "Word" : "horse" , "meaning" : "ঘোড়া ; অশ্ব"}
+{ "_id" : { "$oid" : "566fe42fe4b023e8f909b86a"} , "Word" : "hopples" , "meaning" : "জবুথবুভাবে চলা; পায়ে বাধা ভার; মুশকিল; পায়ের বোঝা;"}
+{ "_id" : { "$oid" : "566fe42fe4b023e8f909b86b"} , "Word" : "horrendous" , "meaning" : "ভয়ঙ্কর; ভীষণ; ভয়ানক;"}
+{ "_id" : { "$oid" : "566fe42fe4b023e8f909b86c"} , "Word" : "horrible" , "meaning" : "ভয়স্কর"}
+{ "_id" : { "$oid" : "566fe430e4b023e8f909b86d"} , "Word" : "hops" , "meaning" : "লতাবিশেষ;"}
+{ "_id" : { "$oid" : "566fe430e4b023e8f909b86e"} , "Word" : "horseshoe" , "meaning" : "ঘোড়ার পায়ের নাল"}
+{ "_id" : { "$oid" : "566fe430e4b023e8f909b86f"} , "Word" : "horsemanship" , "meaning" : "অশ্বারোহীতা;"}
+{ "_id" : { "$oid" : "566fe431e4b023e8f909b870"} , "Word" : "horse-race" , "meaning" : "ঘোড় দৌড়"}
+{ "_id" : { "$oid" : "566fe431e4b023e8f909b871"} , "Word" : "hoping" , "meaning" : "প্রত্যাশী;"}
+{ "_id" : { "$oid" : "566fe431e4b023e8f909b872"} , "Word" : "hopeful" , "meaning" : "আশান্বিত; আশাপ্রদ"}
+{ "_id" : { "$oid" : "566fe432e4b023e8f909b873"} , "Word" : "hornswoggle" , "meaning" : "প্রতারণা করা;"}
+{ "_id" : { "$oid" : "566fe432e4b023e8f909b874"} , "Word" : "hosiery" , "meaning" : "মোজা গেঞ্জি অন্তর্বাস প্রভৃতি ব্যবসায়ীকের বিক্রয়ের দোকান"}
+{ "_id" : { "$oid" : "566fe432e4b023e8f909b875"} , "Word" : "hopeless" , "meaning" : "নিরাশ"}
+{ "_id" : { "$oid" : "566fe433e4b023e8f909b876"} , "Word" : "horseradish" , "meaning" : "সজিনা; ঝাল স্বাদযূক্ত কন্দবিশেষ;"}
+{ "_id" : { "$oid" : "566fe433e4b023e8f909b877"} , "Word" : "hornbeam" , "meaning" : "শক্ত কাণ্ডযুক্ত ক্ষুদ্র বৃক্ষবিশেষ;"}
+{ "_id" : { "$oid" : "566fe433e4b023e8f909b878"} , "Word" : "horripilation" , "meaning" : "রোমাঞ্চ; গায়ের লোম খাড়া হইয়া ওঠার অবস্থা; রোমাঁচ;"}
+{ "_id" : { "$oid" : "566fe434e4b023e8f909b879"} , "Word" : "hordes" , "meaning" : "বড় দল;"}
+{ "_id" : { "$oid" : "566fe434e4b023e8f909b87a"} , "Word" : "horse carriage" , "meaning" : "ঘোড়ার গাড়ি;"}
+{ "_id" : { "$oid" : "566fe434e4b023e8f909b87b"} , "Word" : "hora" , "meaning" : "ঘণ্টা; 60 মিনিট;"}
+{ "_id" : { "$oid" : "566fe435e4b023e8f909b87c"} , "Word" : "hopelessness" , "meaning" : "আশাহীনতা; অকর্মণ্যতা; ব্যর্থতা; নিরাশতা;"}
+{ "_id" : { "$oid" : "566fe435e4b023e8f909b87d"} , "Word" : "hooting" , "meaning" : "টিটকারি;"}
+{ "_id" : { "$oid" : "566fe435e4b023e8f909b87e"} , "Word" : "horror" , "meaning" : "বিষম ভয় বা তীব্র ঘৃণা; আতস্ক"}
+{ "_id" : { "$oid" : "566fe436e4b023e8f909b87f"} , "Word" : "hormone" , "meaning" : "শারীরের ভিতরের যে রস রক্তের সাথে মিশে তা শরীরযন্ত্রকে কার্যক্ষম করে"}
+{ "_id" : { "$oid" : "566fe436e4b023e8f909b880"} , "Word" : "hounds" , "meaning" : "জ্বালাতন করা; পশ্চাদ্ধাবন করা;"}
+{ "_id" : { "$oid" : "566fe436e4b023e8f909b881"} , "Word" : "hotspur" , "meaning" : "বদমেজাজী লোক"}
+{ "_id" : { "$oid" : "566fe437e4b023e8f909b882"} , "Word" : "housemaid" , "meaning" : "গৃহপরিচারিকা; বাড়ির ঝি;"}
+{ "_id" : { "$oid" : "566fe437e4b023e8f909b883"} , "Word" : "housefly" , "meaning" : "মাছি;"}
+{ "_id" : { "$oid" : "566fe438e4b023e8f909b884"} , "Word" : "howled" , "meaning" : "আর্তনাদ করা; গর্জন করা; চিত্কার করা;"}
+{ "_id" : { "$oid" : "566fe438e4b023e8f909b885"} , "Word" : "house-work" , "meaning" : "গৃহকর্ম; সংসারের রান্নাবান্না,পরিস্কার-পরিচ্ছন্ন করা কাজ"}
+{ "_id" : { "$oid" : "566fe438e4b023e8f909b886"} , "Word" : "housekeeper" , "meaning" : "গৃহস্থালীর কাজে নিযুক্তা স্ত্রীলোক, ঘরকন্নার পরিচালিকা"}
+{ "_id" : { "$oid" : "566fe438e4b023e8f909b887"} , "Word" : "house wife" , "meaning" : "গৃহিনী; গৃহিণী; ঘরণী; গৃহকত্র্রী; গৃহস্বামিনী; গেহিনী; ঘরনী; বৌ;"}
+{ "_id" : { "$oid" : "566fe439e4b023e8f909b888"} , "Word" : "house" , "meaning" : "বাড়ি ঘর; পরিবার;ব্যবসায়-প্রতিষ্ঠান"}
+{ "_id" : { "$oid" : "566fe439e4b023e8f909b889"} , "Word" : "how many days" , "meaning" : "কতদিন;"}
+{ "_id" : { "$oid" : "566fe439e4b023e8f909b88a"} , "Word" : "hostages" , "meaning" : "প্রতিভূ;"}
+{ "_id" : { "$oid" : "566fe43ae4b023e8f909b88b"} , "Word" : "hostess" , "meaning" : "অতিথি সেবিকা, বাড়িওয়ালী"}
+{ "_id" : { "$oid" : "566fe43ae4b023e8f909b88c"} , "Word" : "hounded" , "meaning" : "জ্বালাতন করা; পশ্চাদ্ধাবন করা;"}
+{ "_id" : { "$oid" : "566fe43ae4b023e8f909b88d"} , "Word" : "housework" , "meaning" : "গৃহকর্ম; গৃহস্থালির কাজ; ঘরকন্না; গৃহস্থালি; ঘরকরনা;"}
+{ "_id" : { "$oid" : "566fe43be4b023e8f909b88e"} , "Word" : "house fly" , "meaning" : "মাছি;"}
+{ "_id" : { "$oid" : "566fe43be4b023e8f909b88f"} , "Word" : "hovered" , "meaning" : "ঝুলিতে থাকা; বিলম্ব করা; বাতাসে ভাসিতে থাকা;"}
+{ "_id" : { "$oid" : "566fe43be4b023e8f909b890"} , "Word" : "hovercraft" , "meaning" : "হোভের;"}
+{ "_id" : { "$oid" : "566fe43ce4b023e8f909b891"} , "Word" : "hotbed" , "meaning" : "সার পচিয়ে যে জমি উত্তপ্ত করা হয়"}
+{ "_id" : { "$oid" : "566fe43ce4b023e8f909b892"} , "Word" : "howdah" , "meaning" : "হাত্তদা; হাওদা;"}
+{ "_id" : { "$oid" : "566fe43ce4b023e8f909b893"} , "Word" : "however," , "meaning" : "কিন্তু; যাহা হউক; তত্সত্ত্বেত্ত; যাহাই হউক না কেন;"}
+{ "_id" : { "$oid" : "566fe43de4b023e8f909b894"} , "Word" : "how" , "meaning" : "কি প্রকারে, কেমন করে"}
+{ "_id" : { "$oid" : "566fe43de4b023e8f909b895"} , "Word" : "housing" , "meaning" : "নিবসন; বাসভবনসমূহ; বাসস্থানসমূহ; গৃহস্থালীর কাম;"}
+{ "_id" : { "$oid" : "566fe43de4b023e8f909b896"} , "Word" : "hotline" , "meaning" : "হট লাইন; উদ্যত লাইন;"}
+{ "_id" : { "$oid" : "566fe43ee4b023e8f909b897"} , "Word" : "hour-glass" , "meaning" : "বালির ঘড়ি"}
+{ "_id" : { "$oid" : "566fe43ee4b023e8f909b898"} , "Word" : "household" , "meaning" : "পরিবার"}
+{ "_id" : { "$oid" : "566fe43ee4b023e8f909b899"} , "Word" : "housewife" , "meaning" : "গৃহিনী,গৃহকত্রী"}
+{ "_id" : { "$oid" : "566fe43fe4b023e8f909b89a"} , "Word" : "hot water" , "meaning" : "উষ্ণোদক;"}
+{ "_id" : { "$oid" : "566fe43fe4b023e8f909b89b"} , "Word" : "howl" , "meaning" : "নেকড়ে বাঘের ডাক; দীর্ঘ আতনাদ"}
+{ "_id" : { "$oid" : "566fe43fe4b023e8f909b89c"} , "Word" : "hour-hand" , "meaning" : "ঘড়ির ঘন্টার কাঁটা"}
+{ "_id" : { "$oid" : "566fe440e4b023e8f909b89d"} , "Word" : "householder" , "meaning" : "গৃহস্থ; গৃহস্বামী"}
+{ "_id" : { "$oid" : "566fe440e4b023e8f909b89e"} , "Word" : "houri" , "meaning" : "হুরি;"}
+{ "_id" : { "$oid" : "566fe441e4b023e8f909b89f"} , "Word" : "hot spring" , "meaning" : "উষ্ণপ্রসবণ;"}
+{ "_id" : { "$oid" : "566fe441e4b023e8f909b8a0"} , "Word" : "hot dog" , "meaning" : "হট ডগ;"}
+{ "_id" : { "$oid" : "566fe441e4b023e8f909b8a1"} , "Word" : "hound" , "meaning" : "শিকারী কুকুর"}
+{ "_id" : { "$oid" : "566fe441e4b023e8f909b8a2"} , "Word" : "how many" , "meaning" : "কত; কয়;"}
+{ "_id" : { "$oid" : "566fe442e4b023e8f909b8a3"} , "Word" : "hot" , "meaning" : "গরম;অগ্নিময়;ঝাল;উগ্র;প্রচন্ড"}
+{ "_id" : { "$oid" : "566fe442e4b023e8f909b8a4"} , "Word" : "hovers" , "meaning" : "ঝুলিতে থাকা; বিলম্ব করা; বাতাসে ভাসিতে থাকা;"}
+{ "_id" : { "$oid" : "566fe442e4b023e8f909b8a5"} , "Word" : "hostility" , "meaning" : "শত্রুতা;বিরুদ্ধতা; সংগ্রাম কার্য"}
+{ "_id" : { "$oid" : "566fe443e4b023e8f909b8a6"} , "Word" : "hostilities" , "meaning" : "বিরুদ্ধাচরণ, যুদ্ধবিগ্রহ"}
+{ "_id" : { "$oid" : "566fe443e4b023e8f909b8a7"} , "Word" : "hourly" , "meaning" : "প্রতি ঘন্টায়(ঘটে এমন),একঘন্টা অন্তর; ঘন্টাপিছু"}
+{ "_id" : { "$oid" : "566fe443e4b023e8f909b8a8"} , "Word" : "houseful" , "meaning" : "রাজসংসার;"}
+{ "_id" : { "$oid" : "566fe444e4b023e8f909b8a9"} , "Word" : "how much" , "meaning" : "কত; কতেক;"}
+{ "_id" : { "$oid" : "566fe444e4b023e8f909b8aa"} , "Word" : "hothead" , "meaning" : "উগ্রস্বভাব ব্যক্তি;"}
+{ "_id" : { "$oid" : "566fe444e4b023e8f909b8ab"} , "Word" : "houris" , "meaning" : "হুরি;"}
+{ "_id" : { "$oid" : "566fe445e4b023e8f909b8ac"} , "Word" : "housekeeping" , "meaning" : "গৃহস্থালি; ঘরকন্না; ঘরকরনা;"}
+{ "_id" : { "$oid" : "566fe445e4b023e8f909b8ad"} , "Word" : "houseboat" , "meaning" : "(নদী ইত্যাদিতে)বাসোপযোগী নৌকা"}
+{ "_id" : { "$oid" : "566fe445e4b023e8f909b8ae"} , "Word" : "how old are you" , "meaning" : "আপনার বয়স কত?;"}
+{ "_id" : { "$oid" : "566fe446e4b023e8f909b8af"} , "Word" : "how beit" , "meaning" : "যে যা হোক"}
+{ "_id" : { "$oid" : "566fe446e4b023e8f909b8b0"} , "Word" : "hosteller" , "meaning" : "সরাইত্তয়ালা; হসটেলের মালিক; হসটেল-বাসী; সরাইওয়ালা; ;"}
+{ "_id" : { "$oid" : "566fe446e4b023e8f909b8b1"} , "Word" : "house arrest" , "meaning" : "স্বগৃহে বন্দী;"}
+{ "_id" : { "$oid" : "566fe447e4b023e8f909b8b2"} , "Word" : "how do u do" , "meaning" : "কেমন আছ তুমি;"}
+{ "_id" : { "$oid" : "566fe447e4b023e8f909b8b3"} , "Word" : "how long" , "meaning" : "কতকাল;"}
+{ "_id" : { "$oid" : "566fe448e4b023e8f909b8b4"} , "Word" : "hot air" , "meaning" : "যে উত্তেজিত দম্ভোক্তির তেমন অর্থ নাই;"}
+{ "_id" : { "$oid" : "566fe448e4b023e8f909b8b5"} , "Word" : "house hold" , "meaning" : "পরিবার; পরিজনবর্গ; রাজসংসার;"}
+{ "_id" : { "$oid" : "566fe448e4b023e8f909b8b6"} , "Word" : "hotblooded" , "meaning" : "উষ্ণশোণিতপূর্ণ; উত্তেজিত; আগ্রহপূর্ণ; উগ্রস্বভাব;"}
+{ "_id" : { "$oid" : "566fe449e4b023e8f909b8b7"} , "Word" : "hot-headed" , "meaning" : "উগ্রস্বভাব;প্রচন্ড"}
+{ "_id" : { "$oid" : "566fe449e4b023e8f909b8b8"} , "Word" : "hotchpotch" , "meaning" : "বিশৃঙ্খলা; জগাখিচুড়ি"}
+{ "_id" : { "$oid" : "566fe449e4b023e8f909b8b9"} , "Word" : "how ever" , "meaning" : "কিন্তু; যাহা হউক; তত্সত্ত্বেত্ত; যাহাই হউক না কেন;"}
+{ "_id" : { "$oid" : "566fe449e4b023e8f909b8ba"} , "Word" : "hourglass," , "meaning" : "বালিঘড়ি;"}
+{ "_id" : { "$oid" : "566fe44ae4b023e8f909b8bb"} , "Word" : "hovel" , "meaning" : "চালাঘর;কুটির;ক্ষুদ্র ও নিকৃষ্ট গৃহ"}
+{ "_id" : { "$oid" : "566fe44ae4b023e8f909b8bc"} , "Word" : "housebreaker" , "meaning" : "যে চুরি করবার উদ্দেশ্যে দিনের বেলা বাড়ির দরজা জানালা ভেঙ্গে প্রবেশ করে"}
+{ "_id" : { "$oid" : "566fe44ae4b023e8f909b8bd"} , "Word" : "hotter" , "meaning" : "গরম; উষ্ণ; প্রচণ্ড; খুব গরম; কামুক; জ্বলন্ত; প্রখর; অত্যুষ্ণ; ঝাল; বিপজ্জনক; অত্যন্ত গরম; উদ্দীপ্ত; আতপ্ত; আগ্রহাম্বিত; অদম্য; অদমনীয়; আগ্রহপূর্ণ; উচ্চতাপযুক্ত; সাগ্রহ; অগ্নিময়; তিগ্ম; কড়ুয়া; ঝাঁজাল; অগ্নিবৎ; আগ্রহদীপ্ত; দুর্দান্ত; কামোদ্দীপিত;"}
+{ "_id" : { "$oid" : "566fe44be4b023e8f909b8be"} , "Word" : "how is it going" , "meaning" : "কেমন চলছে?;"}
+{ "_id" : { "$oid" : "566fe44be4b023e8f909b8bf"} , "Word" : "house keeping" , "meaning" : "গৃহস্থালি; ঘরকন্না; ঘরকরনা;"}
+{ "_id" : { "$oid" : "566fe44be4b023e8f909b8c0"} , "Word" : "how far" , "meaning" : "কতদূর;"}
+{ "_id" : { "$oid" : "566fe44ce4b023e8f909b8c1"} , "Word" : "hover" , "meaning" : "বাতাসে উড়িতে থাকা;ঘোরাফেরা করা"}
+{ "_id" : { "$oid" : "566fe44ce4b023e8f909b8c2"} , "Word" : "howitzer" , "meaning" : "ছোট হালকা কামানবিশেষ"}
+{ "_id" : { "$oid" : "566fe44de4b023e8f909b8c3"} , "Word" : "hour" , "meaning" : "ঘন্টা,৬০ মিনিট কাল, নিদিষ্ট সময়"}
+{ "_id" : { "$oid" : "566fe44de4b023e8f909b8c4"} , "Word" : "hot line" , "meaning" : "হট লাইন; উদ্যত লাইন;"}
+{ "_id" : { "$oid" : "566fe44de4b023e8f909b8c5"} , "Word" : "housed" , "meaning" : "বাস করা; গৃহের ব্যবস্হা করা; গৃহে আশ্রয় দেত্তয়া; আশ্রয় দেত্তয়া; নিবাসিত করা; গুদামজাত করা; আশ্রয় লত্তয়া;"}
+{ "_id" : { "$oid" : "566fe44ee4b023e8f909b8c6"} , "Word" : "hostel" , "meaning" : "ছাত্রাবাস"}
+{ "_id" : { "$oid" : "566fe44ee4b023e8f909b8c7"} , "Word" : "hostile" , "meaning" : "শক্রভাবা-পন্ন, যুদ্ধপ্রিয়"}
+{ "_id" : { "$oid" : "566fe44ee4b023e8f909b8c8"} , "Word" : "hove" , "meaning" : "গৃহকর্ম; সংসারের রান্নাবান্না,পরিস্কার-পরিচ্ছন্ন করা কাজ"}
+{ "_id" : { "$oid" : "566fe44ee4b023e8f909b8c9"} , "Word" : "hotelier" , "meaning" : "হোটেলের মালিক;"}
+{ "_id" : { "$oid" : "566fe44fe4b023e8f909b8ca"} , "Word" : "hotpress" , "meaning" : "দুটি গরম ধাতু পাতের মধ্যে কাগজ ইত্যাদি চাপা দেওয়া; কাগজ ইত্যাদি মসৃণ করবার যন্ত্র"}
+{ "_id" : { "$oid" : "566fe44fe4b023e8f909b8cb"} , "Word" : "hotel" , "meaning" : "হোটেল; পান্থাবাস; পান্থশালা; পান্থনিবাস; বড় সরাই; হোটেল;"}
+{ "_id" : { "$oid" : "566fe450e4b023e8f909b8cc"} , "Word" : "hothouse" , "meaning" : "বেশ্যালয়;"}
+{ "_id" : { "$oid" : "566fe450e4b023e8f909b8cd"} , "Word" : "hullo" , "meaning" : "আরে;"}
+{ "_id" : { "$oid" : "566fe450e4b023e8f909b8ce"} , "Word" : "hubris" , "meaning" : "ঔদ্ধত্য; অযথা গর্ব;"}
+{ "_id" : { "$oid" : "566fe451e4b023e8f909b8cf"} , "Word" : "hug" , "meaning" : "আলিঙ্গন করা; জড়াইয়া ধরা"}
+{ "_id" : { "$oid" : "566fe451e4b023e8f909b8d0"} , "Word" : "huminsm" , "meaning" : "মানবিকতা;সাহিত্যিক সংস্কৃতি"}
+{ "_id" : { "$oid" : "566fe451e4b023e8f909b8d1"} , "Word" : "hue" , "meaning" : "বর্ণ; রঙ; চিৎকার"}
+{ "_id" : { "$oid" : "566fe452e4b023e8f909b8d2"} , "Word" : "huf" , "meaning" : "আকস্মিক ত্রেুাধ;"}
+{ "_id" : { "$oid" : "566fe452e4b023e8f909b8d3"} , "Word" : "hulking" , "meaning" : "জবুথবু; প্রকাণ্ড;"}
+{ "_id" : { "$oid" : "566fe452e4b023e8f909b8d4"} , "Word" : "humiliating" , "meaning" : "অপমান করা"}
+{ "_id" : { "$oid" : "566fe453e4b023e8f909b8d5"} , "Word" : "huddles" , "meaning" : "গাদাগাদি করা; বিশৃঙ্খলভাবে গাদাগাদি করান; বিশৃঙ্খলভাবে গাদাগাদি করা;"}
+{ "_id" : { "$oid" : "566fe453e4b023e8f909b8d6"} , "Word" : "hub" , "meaning" : "কেন্দ্রস্তল;অস্ত্রের হাতল"}
+{ "_id" : { "$oid" : "566fe453e4b023e8f909b8d7"} , "Word" : "hubbub" , "meaning" : "গোলমাল; গন্ডগোল; শোরগোল"}
+{ "_id" : { "$oid" : "566fe454e4b023e8f909b8d8"} , "Word" : "hullaballoo" , "meaning" : "শোরগোল;গোলমাল"}
+{ "_id" : { "$oid" : "566fe454e4b023e8f909b8d9"} , "Word" : "hubble bubble" , "meaning" : "গড়গড়া;"}
+{ "_id" : { "$oid" : "566fe454e4b023e8f909b8da"} , "Word" : "huger" , "meaning" : "বিশাল; প্রকাণ্ড; রাক্ষুসে; পেল্লয়; পেল্লায়; প্রকাণ্ডকায়; অতীব প্রকাণ্ড; বৃহত্কায়; সুবিপুল; ঢাউস;"}
+{ "_id" : { "$oid" : "566fe455e4b023e8f909b8db"} , "Word" : "humanism" , "meaning" : "মানবধর্ম; সাহিত্যানুশীলন; প্রয়োগবাদ;"}
+{ "_id" : { "$oid" : "566fe455e4b023e8f909b8dc"} , "Word" : "huff" , "meaning" : "অভিমান; রোষাবেশ; মান; ক্ষোভ;"}
+{ "_id" : { "$oid" : "566fe455e4b023e8f909b8dd"} , "Word" : "howmuch" , "meaning" : "কত; কতেক;"}
+{ "_id" : { "$oid" : "566fe456e4b023e8f909b8de"} , "Word" : "humane" , "meaning" : "দয়ালু; উত্কৃষ্ট; ক্ষমাশীল; উচ্চাঙ্গ; মনুষ্যত্বপূর্ণ; সাধু; মনুষ্যোচিত ভাবপূর্ণ; কোমলহৃদয়; ; দয়ালু; কোমলহৃদয়;"}
+{ "_id" : { "$oid" : "566fe456e4b023e8f909b8df"} , "Word" : "humanities" , "meaning" : "মানুষের প্রতিকৃতি;"}
+{ "_id" : { "$oid" : "566fe456e4b023e8f909b8e0"} , "Word" : "humanist" , "meaning" : "মানবজাতির ইতিহাস বা মানব চরিত্র সম্বন্ধে অভিজ্ঞ ব্যক্তি"}
+{ "_id" : { "$oid" : "566fe457e4b023e8f909b8e1"} , "Word" : "humiliate" , "meaning" : "অপদস্থ হওয়া; অপমান করা"}
+{ "_id" : { "$oid" : "566fe457e4b023e8f909b8e2"} , "Word" : "humanized" , "meaning" : "মনুষ্যত্বপূর্ণ করা; মনুষ্যত্বপূর্ণ হত্তয়া; মনুষ্যোচিত করা; মনুষ্যোচিত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fe457e4b023e8f909b8e3"} , "Word" : "hullabaloo" , "meaning" : "হৈচৈ; চেঁচাচেঁচি; চেঁচামেচি; খচমচ; শোরগোল; হট্টগোল;"}
+{ "_id" : { "$oid" : "566fe458e4b023e8f909b8e4"} , "Word" : "hugs" , "meaning" : "আলিঙ্গন; গাঢ় আলিঙ্গন; কোলাকুলি;"}
+{ "_id" : { "$oid" : "566fe458e4b023e8f909b8e5"} , "Word" : "humility" , "meaning" : "নম্রতা; নীচাবস্থা; অবমানিত অবস্থা; নিরহঙ্কারতা;"}
+{ "_id" : { "$oid" : "566fe458e4b023e8f909b8e6"} , "Word" : "hummed" , "meaning" : "ঝঙ্কৃত;"}
+{ "_id" : { "$oid" : "566fe459e4b023e8f909b8e7"} , "Word" : "humble submission" , "meaning" : "ককানি;"}
+{ "_id" : { "$oid" : "566fe459e4b023e8f909b8e8"} , "Word" : "howmany" , "meaning" : "কত; কয়;"}
+{ "_id" : { "$oid" : "566fe459e4b023e8f909b8e9"} , "Word" : "humblesubmission" , "meaning" : "ককানি;"}
+{ "_id" : { "$oid" : "566fe45ae4b023e8f909b8ea"} , "Word" : "humiliation" , "meaning" : "অপমান"}
+{ "_id" : { "$oid" : "566fe45ae4b023e8f909b8eb"} , "Word" : "huge" , "meaning" : "বিশাল,প্রকান্ড,বিপুল"}
+{ "_id" : { "$oid" : "566fe45ae4b023e8f909b8ec"} , "Word" : "humidity" , "meaning" : "আদ্রতা; বাতাসে জলীয় বাস্পের অনুপাত"}
+{ "_id" : { "$oid" : "566fe45be4b023e8f909b8ed"} , "Word" : "humble-bee" , "meaning" : "একজাতীয় মরুমক্ষিকা; ভ্রমর"}
+{ "_id" : { "$oid" : "566fe45be4b023e8f909b8ee"} , "Word" : "huddled" , "meaning" : "গাদাগাদি করা; বিশৃঙ্খলভাবে গাদাগাদি করান; বিশৃঙ্খলভাবে গাদাগাদি করা;"}
+{ "_id" : { "$oid" : "566fe45be4b023e8f909b8ef"} , "Word" : "huddle" , "meaning" : "গাদা; গাদাগাদি করে রাখা"}
+{ "_id" : { "$oid" : "566fe45ce4b023e8f909b8f0"} , "Word" : "humerus" , "meaning" : "প্রগণ্ডাস্থি; বাহুর উর্ধ্বাংশের হাড়;"}
+{ "_id" : { "$oid" : "566fe45ce4b023e8f909b8f1"} , "Word" : "humanity" , "meaning" : "মানুষজাতি; মানবপ্রকৃতি; মানবতা; মনুষ্যত্ব"}
+{ "_id" : { "$oid" : "566fe45ce4b023e8f909b8f2"} , "Word" : "humanitarian" , "meaning" : "মানবপ্রেমিক; মানবহিতৈষী; বিশ্বপ্রেমিক"}
+{ "_id" : { "$oid" : "566fe45de4b023e8f909b8f3"} , "Word" : "humdrum" , "meaning" : "নীরস; সাধারণ; একঘেয়ে;নীরসতা"}
+{ "_id" : { "$oid" : "566fe45de4b023e8f909b8f4"} , "Word" : "human rights" , "meaning" : "মানবাধিকার;"}
+{ "_id" : { "$oid" : "566fe45de4b023e8f909b8f5"} , "Word" : "humblest" , "meaning" : "নিচু; নত; নম্র; অবনমিত; হৃতমান; নিরহঙ্কার; নীচ; দীন-দরিদ্র; ইতর;"}
+{ "_id" : { "$oid" : "566fe45ee4b023e8f909b8f6"} , "Word" : "humble" , "meaning" : "নম্র; বিনীত; নিচু"}
+{ "_id" : { "$oid" : "566fe45ee4b023e8f909b8f7"} , "Word" : "humanistic" , "meaning" : "মনুষ্য বা মনুষ্যত্ব সংক্রান্ত; মনুষ্য-সংক্রান্ত; মনুষ্যত্ব-সংক্রান্ত; প্রয়োগবাদমূলক;"}
+{ "_id" : { "$oid" : "566fe45ee4b023e8f909b8f8"} , "Word" : "huckster" , "meaning" : "ফেরীওয়ালা"}
+{ "_id" : { "$oid" : "566fe45fe4b023e8f909b8f9"} , "Word" : "howls" , "meaning" : "আর্তনাদ; গর্জন; চিত্কার;"}
+{ "_id" : { "$oid" : "566fe45fe4b023e8f909b8fa"} , "Word" : "hulk" , "meaning" : "বেসামাল জাহাজ;"}
+{ "_id" : { "$oid" : "566fe45fe4b023e8f909b8fb"} , "Word" : "howlong" , "meaning" : "কতকাল;"}
+{ "_id" : { "$oid" : "566fe460e4b023e8f909b8fc"} , "Word" : "hull" , "meaning" : "জাহাজের কাঠাম; তুষ বহিরাবরণ; তুষ খোসা; তষু খোসা বা বহিরাবরণ; বহিরাবরণ মোচন করা;"}
+{ "_id" : { "$oid" : "566fe460e4b023e8f909b8fd"} , "Word" : "humbled" , "meaning" : "খর্ব; নিনু; হতমান; পাতিত;"}
+{ "_id" : { "$oid" : "566fe460e4b023e8f909b8fe"} , "Word" : "hubble-bubble" , "meaning" : "গড়গড়া ; হুঁকা"}
+{ "_id" : { "$oid" : "566fe461e4b023e8f909b8ff"} , "Word" : "humbler" , "meaning" : "নম্র; নিচু; নত; অবনমিত; হৃতমান; নিরহঙ্কার; নীচ; ইতর; দীন-দরিদ্র;"}
+{ "_id" : { "$oid" : "566fe461e4b023e8f909b900"} , "Word" : "hoyden" , "meaning" : "দামাল মেয়ে; গেছো মেয়ে;"}
+{ "_id" : { "$oid" : "566fe461e4b023e8f909b901"} , "Word" : "hugger-mugger" , "meaning" : "গোপনতা; গোলমাল"}
+{ "_id" : { "$oid" : "566fe462e4b023e8f909b902"} , "Word" : "humbling" , "meaning" : "নিচু করা; নত করা; অবনমিত করা; হৃতমান করা; খাট করা; খর্ব করা;"}
+{ "_id" : { "$oid" : "566fe462e4b023e8f909b903"} , "Word" : "humiliated" , "meaning" : "অবনমিত; অপদস্থ; নিকৃত; খেলো;"}
+{ "_id" : { "$oid" : "566fe462e4b023e8f909b904"} , "Word" : "hum" , "meaning" : "গুঞ্জন"}
+{ "_id" : { "$oid" : "566fe463e4b023e8f909b905"} , "Word" : "hugging" , "meaning" : "গাঢ় আলিঙ্গন;"}
+{ "_id" : { "$oid" : "566fe463e4b023e8f909b906"} , "Word" : "huckleberry" , "meaning" : "উত্তর আমেরিকার গুল্মবিশেষ বা উহার ফল;"}
+{ "_id" : { "$oid" : "566fe463e4b023e8f909b907"} , "Word" : "hugged" , "meaning" : "জড়ান;"}
+{ "_id" : { "$oid" : "566fe464e4b023e8f909b908"} , "Word" : "humming" , "meaning" : "গুঁজনকর; গুঞ্জন;"}
+{ "_id" : { "$oid" : "566fe464e4b023e8f909b909"} , "Word" : "hubby" , "meaning" : "(চলতি)স্বামী"}
+{ "_id" : { "$oid" : "566fe464e4b023e8f909b90a"} , "Word" : "huffy" , "meaning" : "তর্জনগর্জনে অভ্যস্ত; অভিমানী; তর্জন-গর্জনের অভ্যস্ত;"}
+{ "_id" : { "$oid" : "566fe465e4b023e8f909b90b"} , "Word" : "humid" , "meaning" : "আর্দ্র; সিক্ত; ভিজা; স্যাঁতসেঁতে"}
+{ "_id" : { "$oid" : "566fe465e4b023e8f909b90c"} , "Word" : "hues" , "meaning" : "রঙ; বর্ণ; রঙ্গ; রং; হৈচৈ; চেহারা; রঁজক পদার্থ;"}
+{ "_id" : { "$oid" : "566fe465e4b023e8f909b90d"} , "Word" : "howsoever" , "meaning" : "যে কোন উপায়েই হোক"}
+{ "_id" : { "$oid" : "566fe466e4b023e8f909b90e"} , "Word" : "humankind" , "meaning" : "মানবজাতি; মনুষ্যজাতি;"}
+{ "_id" : { "$oid" : "566fe466e4b023e8f909b90f"} , "Word" : "human" , "meaning" : "মানুষ সম্বন্ধীয়;মনুষ্যোচিত; সহৃদয়"}
+{ "_id" : { "$oid" : "566fe466e4b023e8f909b910"} , "Word" : "humbly" , "meaning" : "নম্রভাবে; বিনীতভাবে;"}
+{ "_id" : { "$oid" : "566fe467e4b023e8f909b911"} , "Word" : "howler" , "meaning" : "সাঙ্ঘাতিক ভুল;"}
+{ "_id" : { "$oid" : "566fe467e4b023e8f909b912"} , "Word" : "humidify" , "meaning" : "আদ করা;"}
+{ "_id" : { "$oid" : "566fe468e4b023e8f909b913"} , "Word" : "howling" , "meaning" : "আর্তনাদ; গর্জন;"}
+{ "_id" : { "$oid" : "566fe468e4b023e8f909b914"} , "Word" : "hue and cry" , "meaning" : "কাহারও পশ্চাদ্ধাবনার্থ অপরদের আহ্বানের জন্য সৃষ্ট শোরগোল;"}
+{ "_id" : { "$oid" : "566fe468e4b023e8f909b915"} , "Word" : "huffish" , "meaning" : "তর্জনগর্জনে অভ্যস্ত; অভিমানী;"}
+{ "_id" : { "$oid" : "566fe469e4b023e8f909b916"} , "Word" : "hugely" , "meaning" : "অতিশয়; বিশালভাবে; অত্যধিক; প্রকাণ্ডভাবে; অত্যাধিক; অতিশয়;"}
+{ "_id" : { "$oid" : "566fe469e4b023e8f909b917"} , "Word" : "human society" , "meaning" : "মানবসমাজ; জনসমাজ;"}
+{ "_id" : { "$oid" : "566fe469e4b023e8f909b918"} , "Word" : "hued," , "meaning" : "বর্ণবিশিষ্ট;"}
+{ "_id" : { "$oid" : "566fe46ae4b023e8f909b919"} , "Word" : "humbug" , "meaning" : "দমবাজি; প্রতারণা; ছলনা; প্রবঞ্চক"}
+{ "_id" : { "$oid" : "566fe46ae4b023e8f909b91a"} , "Word" : "humanitarianism" , "meaning" : "খ্রিস্টকে কেবল মনুষ্যরূপে বর্ণনা;"}
+{ "_id" : { "$oid" : "566fe46ae4b023e8f909b91b"} , "Word" : "huddling" , "meaning" : "গাদাগাদি করা; বিশৃঙ্খলভাবে গাদাগাদি করান; বিশৃঙ্খলভাবে গাদাগাদি করা;"}
+{ "_id" : { "$oid" : "566fe46be4b023e8f909b91c"} , "Word" : "humph" , "meaning" : "কুঁজসদৃশ; কুঁজবিশিষ্ট;"}
+{ "_id" : { "$oid" : "566fe46be4b023e8f909b91d"} , "Word" : "hurry-scurry" , "meaning" : "বিশৃঙ্খলভাবে"}
+{ "_id" : { "$oid" : "566fe46be4b023e8f909b91e"} , "Word" : "hurdles" , "meaning" : "বেড়া-ডিঙ্গান দৌড়;"}
+{ "_id" : { "$oid" : "566fe46ce4b023e8f909b91f"} , "Word" : "hunk" , "meaning" : "বড় দলা; বড় পিনু; বড় দল বা পিণ্ড;"}
+{ "_id" : { "$oid" : "566fe46ce4b023e8f909b920"} , "Word" : "hurtful" , "meaning" : "বেদনাদায়ক; অপরাধী; ক্ষতিকর; ক্ষতিকারক; বেদনাদায়ক; ;"}
+{ "_id" : { "$oid" : "566fe46ce4b023e8f909b921"} , "Word" : "hundredth" , "meaning" : "শততম"}
+{ "_id" : { "$oid" : "566fe46de4b023e8f909b922"} , "Word" : "hurting" , "meaning" : "আহত করা; বেদনা দেত্তয়া; যন্ত্রণা দেত্তয়া; ক্ষত করা; ক্ষতিসাধন করা;"}
+{ "_id" : { "$oid" : "566fe46de4b023e8f909b923"} , "Word" : "hummingbird" , "meaning" : "খঁজনা;"}
+{ "_id" : { "$oid" : "566fe46de4b023e8f909b924"} , "Word" : "hunger-march" , "meaning" : "ভুখা মিছিল"}
+{ "_id" : { "$oid" : "566fe46ee4b023e8f909b925"} , "Word" : "hurrying" , "meaning" : "ত্বরা; ত্বরন্বিত;"}
+{ "_id" : { "$oid" : "566fe46ee4b023e8f909b926"} , "Word" : "hundred" , "meaning" : "একশত সংখ্যা,একশত,১০০"}
+{ "_id" : { "$oid" : "566fe46ee4b023e8f909b927"} , "Word" : "hung about" , "meaning" : "ঘোরাঘুরি করা;"}
+{ "_id" : { "$oid" : "566fe46fe4b023e8f909b928"} , "Word" : "humours" , "meaning" : "মেজাজ; ধাত; ধাতু; মানসিক অবস্থা; খেয়াল; জীবদেহনি:সৃত রস; কৌতুকরসবোধ; ব্যঙ্গকৌতুক;"}
+{ "_id" : { "$oid" : "566fe46fe4b023e8f909b929"} , "Word" : "hung" , "meaning" : "উঁচুতে লাগানো বা আটকানো"}
+{ "_id" : { "$oid" : "566fe46fe4b023e8f909b92a"} , "Word" : "hunted" , "meaning" : "মৃগয়া করা; শিকারের পশ্চাদ্ধাবন করা; শিকার করা; শিকার সন্ধান করা; অনুসরণ করা;"}
+{ "_id" : { "$oid" : "566fe470e4b023e8f909b92b"} , "Word" : "hurling" , "meaning" : "ক্ষেপণ;"}
+{ "_id" : { "$oid" : "566fe470e4b023e8f909b92c"} , "Word" : "hunched" , "meaning" : "বাঁকা;"}
+{ "_id" : { "$oid" : "566fe470e4b023e8f909b92d"} , "Word" : "hurry" , "meaning" : "ত্বরান্বিত করা; অগ্রসর করা;তাড়াতাড়ি করিয়া করা বা চলা"}
+{ "_id" : { "$oid" : "566fe471e4b023e8f909b92e"} , "Word" : "hunky" , "meaning" : "পূর্ব ইয়োরোপ হইতে আগত লোক;"}
+{ "_id" : { "$oid" : "566fe471e4b023e8f909b92f"} , "Word" : "humour" , "meaning" : "কৌতুক; মেজাজ; খেয়াল"}
+{ "_id" : { "$oid" : "566fe471e4b023e8f909b930"} , "Word" : "hung up" , "meaning" : "লটকান; ঝোলান; টাঙ্গান; দেরি করান; পূর্বস্তানে রাখা; যথাস্থানে রাখা; টাঙান;"}
+{ "_id" : { "$oid" : "566fe472e4b023e8f909b931"} , "Word" : "hunks" , "meaning" : "কৃপণ ব্যক্তি;"}
+{ "_id" : { "$oid" : "566fe472e4b023e8f909b932"} , "Word" : "hunger strike" , "meaning" : "অনশন ধর্মঘট; অনশন-ধর্মঘট; প্রায়োপবেশন;"}
+{ "_id" : { "$oid" : "566fe472e4b023e8f909b933"} , "Word" : "huns" , "meaning" : "হুন; হুনজাতীয় লোক;"}
+{ "_id" : { "$oid" : "566fe473e4b023e8f909b934"} , "Word" : "hunt" , "meaning" : "শিকার; অনুসন্ধান"}
+{ "_id" : { "$oid" : "566fe473e4b023e8f909b935"} , "Word" : "hurdle" , "meaning" : "(দৌড়ঝাঁপে ব্যবহৃত লম্বাটে) বেড়, প্রতিবন্ধক"}
+{ "_id" : { "$oid" : "566fe473e4b023e8f909b936"} , "Word" : "humor" , "meaning" : "মেজাজ; ধাত; ধাতু; মানসিক অবস্থা; খেয়াল; জীবদেহনি:সৃত রস; কৌতুকরসবোধ; ব্যঙ্গকৌতুক; ব্যঙ্গকৌতুক; জীবদেহনিঃসৃত রস;"}
+{ "_id" : { "$oid" : "566fe474e4b023e8f909b937"} , "Word" : "hungry" , "meaning" : "ক্ষুধিত; ক্ষুধার্ত"}
+{ "_id" : { "$oid" : "566fe474e4b023e8f909b938"} , "Word" : "hunches" , "meaning" : "দলা; পিণ্ড; ককুদ; কুঁজ; গড়ু; সুচতুর অনুমান; যথার্থ অনুমান; পূর্বাভাস;"}
+{ "_id" : { "$oid" : "566fe475e4b023e8f909b939"} , "Word" : "hush money" , "meaning" : "মুখবন্ধ রাখার জন্য প্রদত্ত ঘুষ; ঘুষ;"}
+{ "_id" : { "$oid" : "566fe475e4b023e8f909b93a"} , "Word" : "hurtle" , "meaning" : "সশব্দে নিক্ষেপ করা; ছুটিয়া যাত্তয়া;"}
+{ "_id" : { "$oid" : "566fe475e4b023e8f909b93b"} , "Word" : "hummock" , "meaning" : "ক্ষুদ্র পাহাড়; ঢিবি;(তুষার)স্তূপ"}
+{ "_id" : { "$oid" : "566fe476e4b023e8f909b93c"} , "Word" : "humpty-dumpty" , "meaning" : "গোলমাল লোক"}
+{ "_id" : { "$oid" : "566fe476e4b023e8f909b93d"} , "Word" : "humorist" , "meaning" : "রসিক ব্যক্তি বা বক্তা; যার চালচলন কথাবার্তা কৌতুকপূর্ণ"}
+{ "_id" : { "$oid" : "566fe476e4b023e8f909b93e"} , "Word" : "hurriedly" , "meaning" : "তাড়াতাড়ি; ঝটিতি; তাড়াতাড়ি;"}
+{ "_id" : { "$oid" : "566fe477e4b023e8f909b93f"} , "Word" : "hundreds" , "meaning" : "শত; একশত; শতক;"}
+{ "_id" : { "$oid" : "566fe477e4b023e8f909b940"} , "Word" : "hunch" , "meaning" : "কুঁজ"}
+{ "_id" : { "$oid" : "566fe477e4b023e8f909b941"} , "Word" : "hunger" , "meaning" : "ক্ষুধা ; প্রবল আকাঙ্খা"}
+{ "_id" : { "$oid" : "566fe477e4b023e8f909b942"} , "Word" : "hurtled" , "meaning" : "সশব্দে নিক্ষেপ করা; ছুটিয়া যাত্তয়া;"}
+{ "_id" : { "$oid" : "566fe478e4b023e8f909b943"} , "Word" : "hump backed" , "meaning" : "কুঁজ; কুেঁজা; কুজপৃষ্ঠ; কুব্জক; কুঁজত্তয়ালা; কুঁজো;"}
+{ "_id" : { "$oid" : "566fe478e4b023e8f909b944"} , "Word" : "humourist" , "meaning" : "রসিক; কৌতুকপূর্ণ কাহিনী-রচয়িতা;"}
+{ "_id" : { "$oid" : "566fe478e4b023e8f909b945"} , "Word" : "hunting" , "meaning" : "শিকার; মৃগয়া;"}
+{ "_id" : { "$oid" : "566fe479e4b023e8f909b946"} , "Word" : "hurst" , "meaning" : "বনানী; বন; কুঁজ; কুঁজবন; কুঁজকানন; কুঞ্জ;"}
+{ "_id" : { "$oid" : "566fe479e4b023e8f909b947"} , "Word" : "hunky-dory" , "meaning" : "চমত্কার;"}
+{ "_id" : { "$oid" : "566fe47ae4b023e8f909b948"} , "Word" : "husbandly" , "meaning" : "মিতব্যয়ী;"}
+{ "_id" : { "$oid" : "566fe47ae4b023e8f909b949"} , "Word" : "hurrah" , "meaning" : "আনন্দ সুচক ধ্বনি, হুররে"}
+{ "_id" : { "$oid" : "566fe47ae4b023e8f909b94a"} , "Word" : "humped" , "meaning" : "কুব্জ; কুঁজত্তয়ালা; কুব্জক; কুব্জপৃষঠ; কঁজওয়াল;"}
+{ "_id" : { "$oid" : "566fe47be4b023e8f909b94b"} , "Word" : "hurtling" , "meaning" : "সশব্দে নিক্ষেপ করা; ছুটিয়া যাত্তয়া;"}
+{ "_id" : { "$oid" : "566fe47be4b023e8f909b94c"} , "Word" : "humpback" , "meaning" : "কুঁজ; কুঁজো; কুেঁজা লোক;"}
+{ "_id" : { "$oid" : "566fe47be4b023e8f909b94d"} , "Word" : "hurricane-lamp" , "meaning" : "হারিকেন লন্ঠন"}
+{ "_id" : { "$oid" : "566fe47ce4b023e8f909b94e"} , "Word" : "hundredweight" , "meaning" : "হন্দর,১১২ পাউন্ড,এ(১, ২০) টন"}
+{ "_id" : { "$oid" : "566fe47ce4b023e8f909b94f"} , "Word" : "humming-bird" , "meaning" : "অতি ক্ষুদ্র উজ্জ্বল রং বিশিষ্ট পক্ষিবিশেষ"}
+{ "_id" : { "$oid" : "566fe47ce4b023e8f909b950"} , "Word" : "husband" , "meaning" : "স্বামী"}
+{ "_id" : { "$oid" : "566fe47de4b023e8f909b951"} , "Word" : "hunching" , "meaning" : "বাঁকান; কুেঁজা করা;"}
+{ "_id" : { "$oid" : "566fe47de4b023e8f909b952"} , "Word" : "hurried" , "meaning" : "তড়বড়ে;"}
+{ "_id" : { "$oid" : "566fe47de4b023e8f909b953"} , "Word" : "hurricane" , "meaning" : "হ্যারিকেন; প্রবল বাত্যা; ঝঁঝা; প্রবল সামুদ্রিক ঝড়;"}
+{ "_id" : { "$oid" : "566fe47ee4b023e8f909b954"} , "Word" : "hurray" , "meaning" : "আনন্দসুচক উচ্চধ্বনি; অনুমোদনসূচক উচ্চধ্বনি; অনুমোদনসূচক বা আনন্দসূচক উচ্চধ্বনি;"}
+{ "_id" : { "$oid" : "566fe47ee4b023e8f909b955"} , "Word" : "hurry up" , "meaning" : "তাড়াতাড়ি করা; প্রস্তুত হওয়া; তাড়াতাড়ি করা; প্রস্তুত হত্তয়া; প্রস্তুত চলা;"}
+{ "_id" : { "$oid" : "566fe47ee4b023e8f909b956"} , "Word" : "hush" , "meaning" : "চুপ করা বা করান"}
+{ "_id" : { "$oid" : "566fe47fe4b023e8f909b957"} , "Word" : "hurts" , "meaning" : "ক্ষত; ক্ষতি;"}
+{ "_id" : { "$oid" : "566fe47fe4b023e8f909b958"} , "Word" : "hungary" , "meaning" : "হাঙ্গেরি;"}
+{ "_id" : { "$oid" : "566fe480e4b023e8f909b959"} , "Word" : "hun" , "meaning" : "হন জাতি; এশিয়ার প্রাচীন জাতি বিশেষ"}
+{ "_id" : { "$oid" : "566fe480e4b023e8f909b95a"} , "Word" : "humps" , "meaning" : "কুঁজ; মনমরা ভাব; ককুদ; হতাশা ভাব;"}
+{ "_id" : { "$oid" : "566fe480e4b023e8f909b95b"} , "Word" : "humorously" , "meaning" : "খিটখিটি; খেয়াল;"}
+{ "_id" : { "$oid" : "566fe481e4b023e8f909b95c"} , "Word" : "hunts" , "meaning" : "শিকার; অনুসন্ধান; শিকার-সন্ধান; অনুসরণ;"}
+{ "_id" : { "$oid" : "566fe481e4b023e8f909b95d"} , "Word" : "hurly-burly" , "meaning" : "গোলমাল; হুলস্থুল"}
+{ "_id" : { "$oid" : "566fe481e4b023e8f909b95e"} , "Word" : "humorous" , "meaning" : "কৌতুকপূর্ণ ; হাস্যোদ্রেককর ; রসাত্মক"}
+{ "_id" : { "$oid" : "566fe482e4b023e8f909b95f"} , "Word" : "hunt for" , "meaning" : "খোঁজা; খোঁজা; তালাস করা;"}
+{ "_id" : { "$oid" : "566fe482e4b023e8f909b960"} , "Word" : "humpy" , "meaning" : "বদমেজাজ; কুঁজসদৃশ; কুঁজবিশিষ্ট;"}
+{ "_id" : { "$oid" : "566fe482e4b023e8f909b961"} , "Word" : "huntsman" , "meaning" : "ব্যাধ; শিকারী; শিকারি;"}
+{ "_id" : { "$oid" : "566fe483e4b023e8f909b962"} , "Word" : "hunt down" , "meaning" : "অনুসন্ধান ও অনুসরণপূর্বক গ্রেপ্তার করা; অনুসরণপূর্বক গ্রেপ্তার করা;"}
+{ "_id" : { "$oid" : "566fe483e4b023e8f909b963"} , "Word" : "hunter" , "meaning" : "শিকারী, ব্যাধ"}
+{ "_id" : { "$oid" : "566fe483e4b023e8f909b964"} , "Word" : "humus" , "meaning" : "মাটি বিশ্লেষণ করিলে তন্মধ্যে মিশ্রিত যে গলিত জীবদেহ পাওয়া যায়; মৃত্তিকায় পরিণত গলিত জীবদেহ;"}
+{ "_id" : { "$oid" : "566fe484e4b023e8f909b965"} , "Word" : "hurt" , "meaning" : "আঘাত বা আহত করা"}
+{ "_id" : { "$oid" : "566fe484e4b023e8f909b966"} , "Word" : "hump" , "meaning" : "কুঁজ(উট বা ষাঁড়ের পিঠের) ককুৎ"}
+{ "_id" : { "$oid" : "566fe484e4b023e8f909b967"} , "Word" : "hush up" , "meaning" : "কণ্ঠরোধ করিয়া ফেলা; নীরব হওয়া; গোপন করিয়া ফেলা; গোপন লুকাইয়া ফেলা; নীরব হত্তয়া; ধামা-চাপা দেত্তয়া;"}
+{ "_id" : { "$oid" : "566fe485e4b023e8f909b968"} , "Word" : "husbandry" , "meaning" : "চাষাবাদ; যত্ন সহকারে পরিচালন"}
+{ "_id" : { "$oid" : "566fe485e4b023e8f909b969"} , "Word" : "hunchback" , "meaning" : "কুঁজ; কুঁজো; কুেঁজা লোক; কুঁজো লোক;"}
+{ "_id" : { "$oid" : "566fe485e4b023e8f909b96a"} , "Word" : "hurl" , "meaning" : "জোরে নিক্ষেপ করা"}
+{ "_id" : { "$oid" : "566fe486e4b023e8f909b96b"} , "Word" : "hurled" , "meaning" : "নিক্ষিপ্ত;"}
+{ "_id" : { "$oid" : "566fe486e4b023e8f909b96c"} , "Word" : "hyperboles" , "meaning" : "অতিশয়োক্তি;"}
+{ "_id" : { "$oid" : "566fe486e4b023e8f909b96d"} , "Word" : "hutted" , "meaning" : "কুটিরদ্বারা গঠিত;"}
+{ "_id" : { "$oid" : "566fe487e4b023e8f909b96e"} , "Word" : "hypnotised" , "meaning" : "সংবেশিত;"}
+{ "_id" : { "$oid" : "566fe487e4b023e8f909b96f"} , "Word" : "hydrated" , "meaning" : "সোদক; জলযোজিত; জলয়োজিত;"}
+{ "_id" : { "$oid" : "566fe487e4b023e8f909b970"} , "Word" : "hydrant" , "meaning" : "রাজপথের ধারের জলের কল"}
+{ "_id" : { "$oid" : "566fe488e4b023e8f909b971"} , "Word" : "hydrangea" , "meaning" : "নীলাবা গোলপি পুষ্পপ্রসু গুল্মবিশেষ;"}
+{ "_id" : { "$oid" : "566fe488e4b023e8f909b972"} , "Word" : "hypnotic" , "meaning" : "সম্মোহক; সম্মোহিত"}
+{ "_id" : { "$oid" : "566fe488e4b023e8f909b973"} , "Word" : "hyperbola" , "meaning" : "জ্যামিতিক ক্ষেত্র বিশেষ"}
+{ "_id" : { "$oid" : "566fe489e4b023e8f909b974"} , "Word" : "hydrosphere" , "meaning" : "বারিমণ্ডল;"}
+{ "_id" : { "$oid" : "566fe489e4b023e8f909b975"} , "Word" : "huzza" , "meaning" : "জয়ধ্বনি; জয়; জয়জয়কার;"}
+{ "_id" : { "$oid" : "566fe489e4b023e8f909b976"} , "Word" : "hustler" , "meaning" : "যে ব্যক্তি কাজে তাড়াহুড়া করে"}
+{ "_id" : { "$oid" : "566fe48ae4b023e8f909b977"} , "Word" : "hyperbole" , "meaning" : "আতশ শক্তি অলংকার"}
+{ "_id" : { "$oid" : "566fe48ae4b023e8f909b978"} , "Word" : "hussy" , "meaning" : "অর্কমণ্য; স্ত্রীলোক; বাচাল মেয়ে"}
+{ "_id" : { "$oid" : "566fe48ae4b023e8f909b979"} , "Word" : "hybridity" , "meaning" : "বর্ণসঙ্করতা;"}
+{ "_id" : { "$oid" : "566fe48be4b023e8f909b97a"} , "Word" : "hustle" , "meaning" : "ধাক্কাধাক্কি করা; ঠেলা মারা"}
+{ "_id" : { "$oid" : "566fe48be4b023e8f909b97b"} , "Word" : "hutment" , "meaning" : "কুটিরে বাস; ডেরা;"}
+{ "_id" : { "$oid" : "566fe48be4b023e8f909b97c"} , "Word" : "husking" , "meaning" : "কণ্ডন;"}
+{ "_id" : { "$oid" : "566fe48ce4b023e8f909b97d"} , "Word" : "husky" , "meaning" : "বলবান; কর্কশ; তুষেপূর্ণ; শুষ্ক; ভগ্নস্বর; আবর্জনাতুল্য; নীরস; খোসাত্তয়ালা; তুসে বা ভুসিতে পূর্ণ; খোসাওয়ালা;"}
+{ "_id" : { "$oid" : "566fe48ce4b023e8f909b97e"} , "Word" : "hydrodynamics" , "meaning" : "জল ও অন্য অন্যান্য তরল পদার্থসংক্রান্ত শক্তিবিজ্ঞান;"}
+{ "_id" : { "$oid" : "566fe48ce4b023e8f909b97f"} , "Word" : "hustings" , "meaning" : "লণ্ডনের প্রধান আদালত; নির্বাচন-সংক্রান্ত কাজকর্ম; লনডনের প্রধান আদালত;"}
+{ "_id" : { "$oid" : "566fe48de4b023e8f909b980"} , "Word" : "hydro-electricity" , "meaning" : "জলবিদু্যৎ; জলশক্তিতে উৎপন্ন বিদু্যৎ"}
+{ "_id" : { "$oid" : "566fe48de4b023e8f909b981"} , "Word" : "hustling" , "meaning" : "তাড়াহুড়া করা; হৈচৈ করা; একত্র নাড়ান; একত্র ঠেলা; প্রতারণা করা;"}
+{ "_id" : { "$oid" : "566fe48de4b023e8f909b982"} , "Word" : "hydraulic" , "meaning" : "জলবাহী; জল ও অন্য তরল পদার্থের গতিবিজ্ঞান সংক্রান্ত;"}
+{ "_id" : { "$oid" : "566fe48ee4b023e8f909b983"} , "Word" : "hydrology" , "meaning" : "জলানুসন্ধান বিজ্ঞান;"}
+{ "_id" : { "$oid" : "566fe48ee4b023e8f909b984"} , "Word" : "hygiene" , "meaning" : "স্বাস্থ্য-বিজ্ঞান"}
+{ "_id" : { "$oid" : "566fe48ee4b023e8f909b985"} , "Word" : "hypnosis" , "meaning" : "সংবেশন; সম্মোহন; সম্মোহিত অবস্থা; সন্মোহিত অবস্থা;"}
+{ "_id" : { "$oid" : "566fe48fe4b023e8f909b986"} , "Word" : "husked" , "meaning" : "কাঁড়া; খোসা ভুসি বা তুসের দ্বারা আবৃত্ত বা ঐগুলি ছাড়াইয়া লওয়া হইয়াছে এমন;"}
+{ "_id" : { "$oid" : "566fe48fe4b023e8f909b987"} , "Word" : "hypnotization" , "meaning" : "বশীকরণ;"}
+{ "_id" : { "$oid" : "566fe48fe4b023e8f909b988"} , "Word" : "hydrotherapy" , "meaning" : "জলচিকিত্সা;"}
+{ "_id" : { "$oid" : "566fe490e4b023e8f909b989"} , "Word" : "hydratic" , "meaning" : "জলশক্তিতে চালিত; জলশক্তি বিষয়ক"}
+{ "_id" : { "$oid" : "566fe490e4b023e8f909b98a"} , "Word" : "hydroponics" , "meaning" : "জলেসার মৃত্তিকাবিহীন কৃষি; জল-চাষ বিদ্যা;"}
+{ "_id" : { "$oid" : "566fe490e4b023e8f909b98b"} , "Word" : "hushed" , "meaning" : "ধামা-চাপা;"}
+{ "_id" : { "$oid" : "566fe491e4b023e8f909b98c"} , "Word" : "hypnotize" , "meaning" : "সম্মোহন করা; বশ করা"}
+{ "_id" : { "$oid" : "566fe491e4b023e8f909b98d"} , "Word" : "hypertension" , "meaning" : "রক্তের অস্বাভাবিক উচ্চচাপ"}
+{ "_id" : { "$oid" : "566fe491e4b023e8f909b98e"} , "Word" : "hybrid" , "meaning" : "বর্ণসংকর বা দোআঁশলা"}
+{ "_id" : { "$oid" : "566fe492e4b023e8f909b98f"} , "Word" : "hyphen" , "meaning" : "শব্দ সংযোজক চিহ্ন বিশেষ"}
+{ "_id" : { "$oid" : "566fe492e4b023e8f909b990"} , "Word" : "hushes" , "meaning" : "নীরব হত্তয়া; নীরব করা; শান্ত করা; শান্ত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fe493e4b023e8f909b991"} , "Word" : "hydrocele" , "meaning" : "কুরণ্ড; কোষবৃদ্ধিরোগ; কোষবৃদ্ধি রোগ;"}
+{ "_id" : { "$oid" : "566fe493e4b023e8f909b992"} , "Word" : "hypercritical" , "meaning" : "অত্যন্ত সূক্ষ্ম সমালোচনাকর বা ছিদ্রান্বেষী;"}
+{ "_id" : { "$oid" : "566fe493e4b023e8f909b993"} , "Word" : "hypes" , "meaning" : "প্রতারণা; মাদকাসক্ত ব্যক্তি;"}
+{ "_id" : { "$oid" : "566fe494e4b023e8f909b994"} , "Word" : "hygienic" , "meaning" : "স্বাস্থ্যবিধি সম্মত"}
+{ "_id" : { "$oid" : "566fe494e4b023e8f909b995"} , "Word" : "hydrophyte" , "meaning" : "জলজ;"}
+{ "_id" : { "$oid" : "566fe494e4b023e8f909b996"} , "Word" : "hyper" , "meaning" : "অধি; অস্বাভাবিক; অত্যাধিক;"}
+{ "_id" : { "$oid" : "566fe495e4b023e8f909b997"} , "Word" : "hyaena" , "meaning" : "হায়না; গোবাঘ; গোবাঘা; হিংস্র প্রাণী বিশেষ; হায়না;"}
+{ "_id" : { "$oid" : "566fe495e4b023e8f909b998"} , "Word" : "hymn" , "meaning" : "প্রার্থণা সঙ্গীত"}
+{ "_id" : { "$oid" : "566fe495e4b023e8f909b999"} , "Word" : "hymen" , "meaning" : "পরিণয়; বিবাহ; সতীচছদ; গ্রীক বিবাহ-দেবতা;"}
+{ "_id" : { "$oid" : "566fe496e4b023e8f909b99a"} , "Word" : "hyperbolical" , "meaning" : "পরাবৃত্তবৎ; অতিশয়োক্তিসংক্রান্ত; পরাবৃত্ত বা অতিশয়োক্তি সংক্রান্ত;"}
+{ "_id" : { "$oid" : "566fe496e4b023e8f909b99b"} , "Word" : "hydrophobia" , "meaning" : "জলাতঙ্ক রোগ"}
+{ "_id" : { "$oid" : "566fe496e4b023e8f909b99c"} , "Word" : "hydrostatics" , "meaning" : "তরল পদার্থের স্থিতিবিজ্ঞান"}
+{ "_id" : { "$oid" : "566fe497e4b023e8f909b99d"} , "Word" : "hy per tension" , "meaning" : "উচ্চ রক্তচাপ; রক্তচাপাধিক;"}
+{ "_id" : { "$oid" : "566fe497e4b023e8f909b99e"} , "Word" : "hydrolysis" , "meaning" : "জলের সহিতে রাসায়নিক ক্রিয়ার ফলে বিয়োজন;"}
+{ "_id" : { "$oid" : "566fe498e4b023e8f909b99f"} , "Word" : "hyphenate" , "meaning" : "হাইফেন দেত্তয়া; হাইফেনদ্বারা সংযুক্ত করা;"}
+{ "_id" : { "$oid" : "566fe498e4b023e8f909b9a0"} , "Word" : "hypnotist" , "meaning" : "সংবেশক; সম্মোহকারী; সম্মোহন-বিজ্ঞানী; সন্মোহক পদার্থ; সন্মোহিত ব্যক্তি বা প্রাণী;"}
+{ "_id" : { "$oid" : "566fe498e4b023e8f909b9a1"} , "Word" : "hyacinth" , "meaning" : "লিলি-জাতীয় পুষ্প-লতাবিশেষ বা উহার রক্তাভ নীল ফুল;"}
+{ "_id" : { "$oid" : "566fe499e4b023e8f909b9a2"} , "Word" : "hydro" , "meaning" : "জল;"}
+{ "_id" : { "$oid" : "566fe499e4b023e8f909b9a3"} , "Word" : "hypnotism" , "meaning" : "সম্মোহন; সম্মোহন বিদ্যা"}
+{ "_id" : { "$oid" : "566fe499e4b023e8f909b9a4"} , "Word" : "hydroplane" , "meaning" : "জল হইতে উড়িতে পারে এমন উড়োজাহাজ"}
+{ "_id" : { "$oid" : "566fe49ae4b023e8f909b9a5"} , "Word" : "hymns" , "meaning" : "স্তবগান; বন্দনা; স্তুতি; প্রশস্তি; স্তব; স্তোত্র;"}
+{ "_id" : { "$oid" : "566fe49ae4b023e8f909b9a6"} , "Word" : "hypallage" , "meaning" : "বাক্যে দুই শব্দের স্বাভাবিক সম্বন্ধ উলটানো"}
+{ "_id" : { "$oid" : "566fe49ae4b023e8f909b9a7"} , "Word" : "hydroelectric" , "meaning" : "জলশক্তি হইতে উত্পন্ন বিদ্যুত বিশেষ;"}
+{ "_id" : { "$oid" : "566fe49be4b023e8f909b9a8"} , "Word" : "husk" , "meaning" : "শস্যের খোসা; তুষ;ভুষি"}
+{ "_id" : { "$oid" : "566fe49be4b023e8f909b9a9"} , "Word" : "hydrography" , "meaning" : "পৃথিবীর জলভাগ সম্বন্ধে গবেষণা উহার মানচিত্রাঙ্কন গভীরতা নির্ণয় প্রভৃতি সংক্রান্ত বিজ্ঞান;"}
+{ "_id" : { "$oid" : "566fe49be4b023e8f909b9aa"} , "Word" : "hypersensitive" , "meaning" : "অত্যধিক সংবেদনশীল; অত্যধিক সুবেদী; অত্যাধিক সংবেদনশীল বা সুবেদী;"}
+{ "_id" : { "$oid" : "566fe49ce4b023e8f909b9ab"} , "Word" : "hyped up" , "meaning" : "কৃত্রিম উপায়ে উত্তেজিত বা উদ্দীপিত;"}
+{ "_id" : { "$oid" : "566fe49ce4b023e8f909b9ac"} , "Word" : "hydra" , "meaning" : "কাল্পনিক বহুমস্তক বিশিষ্ট জলচর সাপ"}
+{ "_id" : { "$oid" : "566fe49ce4b023e8f909b9ad"} , "Word" : "hyena" , "meaning" : "হিংস্র মাংসাসী প্রাণী্‌ ; তরক্ষু ; হায়েনা"}
+{ "_id" : { "$oid" : "566fe49de4b023e8f909b9ae"} , "Word" : "hydrometer" , "meaning" : "ঘনত্বমাপক;"}
+{ "_id" : { "$oid" : "566fe49de4b023e8f909b9af"} , "Word" : "hut" , "meaning" : "কুটির; কুঁড়ে ঘর"}
+{ "_id" : { "$oid" : "566fe49de4b023e8f909b9b0"} , "Word" : "hygroscopic" , "meaning" : "জলগ্রাহী; জলাকর্ষী;"}
+{ "_id" : { "$oid" : "566fe49ee4b023e8f909b9b1"} , "Word" : "hygienist" , "meaning" : "স্বাস্থ্যবিজ্ঞান; স্বাস্থ্যবিজ্ঞানী;"}
+{ "_id" : { "$oid" : "566fe49ee4b023e8f909b9b2"} , "Word" : "hypo" , "meaning" : "ফটোগ্রাফিতে ব্যবহৃত পদার্থ বিশেষ"}
+{ "_id" : { "$oid" : "566fe49ee4b023e8f909b9b3"} , "Word" : "hydration" , "meaning" : "রাসায়নিক প্রক্রিয়ার জল যোজন; জলয়োজন;"}
+{ "_id" : { "$oid" : "566fe49fe4b023e8f909b9b4"} , "Word" : "hutch" , "meaning" : "সিন্দুক; বাক্স; খরগোশাদি রাখার বাক্স বা খাঁচা;"}
+{ "_id" : { "$oid" : "566fe49fe4b023e8f909b9b5"} , "Word" : "hydrogen" , "meaning" : "স্বাদ গন্ধ ও বর্ণহীন গ্যাস বিশেষ"}
+{ "_id" : { "$oid" : "566fe49fe4b023e8f909b9b6"} , "Word" : "hypersonic" , "meaning" : "শব্দাপেক্ষা পাঁচগুণ গতিবেগসম্পন্ন;"}
+{ "_id" : { "$oid" : "566fe4a0e4b023e8f909b9b7"} , "Wo

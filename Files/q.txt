@@ -1,0 +1,86 @@
+{ "_id" : { "$oid" : "567016aae4b00acd570fdbd2"} , "Word" : "quarrelled" , "meaning" : "খুঁতখুঁত করা; ঝগড়া করা; বিবাদে মগ্ন হত্তয়া; ভিন্নমত প্রকাশ করা; দ্বন্দ্ব করা; চটাচটি করা; চুলাচুলি করা; ঝামেলা করা; বিবাদ করা; ঝগড়াঝাঁটি করা; কলহ করা; বিরোধ করা;"}
+{ "_id" : { "$oid" : "567016aae4b00acd570fdbd3"} , "Word" : "quadrille" , "meaning" : "যুগলের নৃত্য; চার যুগলের নৃত্য;"}
+{ "_id" : { "$oid" : "567016abe4b00acd570fdbd4"} , "Word" : "quart" , "meaning" : "এক গ্যালনের চতুর্থাংশ;"}
+{ "_id" : { "$oid" : "567016abe4b00acd570fdbd5"} , "Word" : "quantities" , "meaning" : "পরিমাণ; রাশি; মাত্রা; আয়তন; অংশ; স্বরধ্বনির দৈঘ্র্য; স্বরধ্বনির হ্রস্বতা; উমান; মোট পরিমাণ; মোট সংখ্যা; মোটা অংশ;"}
+{ "_id" : { "$oid" : "567016abe4b00acd570fdbd6"} , "Word" : "quail" , "meaning" : "ভীত হওয়া"}
+{ "_id" : { "$oid" : "567016ace4b00acd570fdbd7"} , "Word" : "qualify" , "meaning" : "যোগ্য বা উপযুক্ত করা"}
+{ "_id" : { "$oid" : "567016ace4b00acd570fdbd8"} , "Word" : "quark" , "meaning" : "তত্ত্ব-অনুমিত একধরণের অতি ক্ষুদ্র মৌল কণা;"}
+{ "_id" : { "$oid" : "567016ade4b00acd570fdbd9"} , "Word" : "quarrelsome" , "meaning" : "ঝসড়াটে, কুঁদুলে"}
+{ "_id" : { "$oid" : "567016ade4b00acd570fdbda"} , "Word" : "quantified" , "meaning" : "সংখ্যায় ব্যক্ত করা;"}
+{ "_id" : { "$oid" : "567016ade4b00acd570fdbdb"} , "Word" : "quantifies" , "meaning" : "সংখ্যায় ব্যক্ত করা;"}
+{ "_id" : { "$oid" : "567016aee4b00acd570fdbdc"} , "Word" : "quaintest" , "meaning" : "উদ্ভট; খেয়ালী; অদ্ভুত; দক্ষ; উদ্ভটি; মনোরম;"}
+{ "_id" : { "$oid" : "567016aee4b00acd570fdbdd"} , "Word" : "qualification" , "meaning" : "গুণ, যোগ্যতা"}
+{ "_id" : { "$oid" : "567016aee4b00acd570fdbde"} , "Word" : "quadratic" , "meaning" : "দ্বিঘাত; দ্বিশক্তি; সমচতুষ্কোণসংক্রান্ত; চতুষ্কোণতুল্য;"}
+{ "_id" : { "$oid" : "567016afe4b00acd570fdbdf"} , "Word" : "quadrupled" , "meaning" : "চতুর্গুণ করা; চতুর্গুণ হত্তয়া;"}
+{ "_id" : { "$oid" : "567016afe4b00acd570fdbe0"} , "Word" : "quailed" , "meaning" : "ভয়ে পিছাইয়া পড়া; নিস্তেজ হত্তয়া; ক্ষীণ হত্তয়া;"}
+{ "_id" : { "$oid" : "567016afe4b00acd570fdbe1"} , "Word" : "quantity" , "meaning" : "পরিমাণ,রাশি, সমষ্টি"}
+{ "_id" : { "$oid" : "567016b0e4b00acd570fdbe2"} , "Word" : "quadrennial" , "meaning" : "চতুর্বষীয়; চতুর্বাষিক; চর্তুবার্ষিক;"}
+{ "_id" : { "$oid" : "567016b0e4b00acd570fdbe3"} , "Word" : "quadrangular" , "meaning" : "চতুর্ভুজাকার"}
+{ "_id" : { "$oid" : "567016b0e4b00acd570fdbe4"} , "Word" : "quaff" , "meaning" : "ঢকঢক করিয়া পান করা"}
+{ "_id" : { "$oid" : "567016b1e4b00acd570fdbe5"} , "Word" : "quadrilateral" , "meaning" : "চতুর্ভুজ"}
+{ "_id" : { "$oid" : "567016b1e4b00acd570fdbe6"} , "Word" : "quantifying" , "meaning" : "সংখ্যায় ব্যক্ত করা;"}
+{ "_id" : { "$oid" : "567016b1e4b00acd570fdbe7"} , "Word" : "quantify" , "meaning" : "সংখ্যায় ব্যক্ত করা; পরিমাণ নির্ণয় করা;"}
+{ "_id" : { "$oid" : "567016b2e4b00acd570fdbe8"} , "Word" : "quack" , "meaning" : "পাতি হাঁসের ডাক"}
+{ "_id" : { "$oid" : "567016b2e4b00acd570fdbe9"} , "Word" : "quadroon" , "meaning" : "বর্ণসঙ্কর জাতি; কাফ্রিংসকর ও শ্বেতকায়ের মিলনজাত সন্তান;"}
+{ "_id" : { "$oid" : "567016b2e4b00acd570fdbea"} , "Word" : "quarries" , "meaning" : "খাদ; আকর; খনি; বধ্য প্রাণী; বধ্য লক্ষ্যবস্তু; উদ্দিষ্ট শিকার;"}
+{ "_id" : { "$oid" : "567016b3e4b00acd570fdbeb"} , "Word" : "quackery" , "meaning" : "হাতুড়েগিরি; হাতুড়ে বৈদ্যগিরি; হাতুড়েগিরি; হাতুড়েদের আচরণ;"}
+{ "_id" : { "$oid" : "567016b3e4b00acd570fdbec"} , "Word" : "quadrant" , "meaning" : "বৃত্তের বা পরিধির এক চতুর্থাংশ কৌণিক উচচতা মাপনী"}
+{ "_id" : { "$oid" : "567016b3e4b00acd570fdbed"} , "Word" : "quarto" , "meaning" : "আটপেজী"}
+{ "_id" : { "$oid" : "567016b4e4b00acd570fdbee"} , "Word" : "quadruple" , "meaning" : "চারগুণ"}
+{ "_id" : { "$oid" : "567016b4e4b00acd570fdbef"} , "Word" : "qualities" , "meaning" : "গুণ; দক্ষতা; উত্কর্ষ; স্বভাব; প্রকৃতি; চরিত্র; শ্রেণী; উচ্চ সামাজিক মর্যাদা; বৃত্তি; ধর্ম; প্রকার; আরোপিত গুণ; আরোপিত বৈশিষ্ট্য;"}
+{ "_id" : { "$oid" : "567016b4e4b00acd570fdbf0"} , "Word" : "quality control" , "meaning" : "গুণ নিয়ন্ত্রণ;"}
+{ "_id" : { "$oid" : "567016b5e4b00acd570fdbf1"} , "Word" : "quality" , "meaning" : "গুণ, ধর্ম, প্রকার বা শ্রেণী"}
+{ "_id" : { "$oid" : "567016b5e4b00acd570fdbf2"} , "Word" : "q-boat" , "meaning" : "ডুবো জাহাজকে ভুলাইয়া ধ্বংস করিবার উদ্দেশ্যে ব্যবহৃত বাণিজ্য"}
+{ "_id" : { "$oid" : "567016b5e4b00acd570fdbf3"} , "Word" : "quartz" , "meaning" : "স্ফটিকমণি"}
+{ "_id" : { "$oid" : "567016b6e4b00acd570fdbf4"} , "Word" : "quadrangle" , "meaning" : "চতুর্ভুজ সমতল ক্ষেত্র"}
+{ "_id" : { "$oid" : "567016b6e4b00acd570fdbf5"} , "Word" : "quartet" , "meaning" : "চৌতাল; চৌবন্দী; চতুষ্টয়; ব্যক্তিচতুষ্টয়; বস্তুচতুষ্টয়; চৌপদী;"}
+{ "_id" : { "$oid" : "567016b6e4b00acd570fdbf6"} , "Word" : "quarter" , "meaning" : "চতুর্থাংশ"}
+{ "_id" : { "$oid" : "567016b7e4b00acd570fdbf7"} , "Word" : "quaking" , "meaning" : "কম্পমান; স্পন্দিত; কমি্পত; বেপমান; ঠস্ঠসে;"}
+{ "_id" : { "$oid" : "567016b7e4b00acd570fdbf8"} , "Word" : "quarantined" , "meaning" : "সঙ্গরোধ করিয়া রাখা;"}
+{ "_id" : { "$oid" : "567016b7e4b00acd570fdbf9"} , "Word" : "qualifications" , "meaning" : "গুণ; বিধিনিষেধ; অপরিহার্য শর্ত; বৈশিষ্ট্য; পরিবর্তন; যোগ্যতা;"}
+{ "_id" : { "$oid" : "567016b8e4b00acd570fdbfa"} , "Word" : "quarrelling" , "meaning" : "দ্বন্দ্বী;"}
+{ "_id" : { "$oid" : "567016b8e4b00acd570fdbfb"} , "Word" : "quadrate" , "meaning" : "সদৃশ করা; সদৃশ হত্তয়া; সমচতুষ্কোণ করা; সমচতুষ্কোণ হত্তয়া; চতুষ্কোণ করা;"}
+{ "_id" : { "$oid" : "567016b8e4b00acd570fdbfc"} , "Word" : "quarantine" , "meaning" : "যে সময় পর্যন্ত সংক্রামণ আশঙ্কায় পৃথক রাখা হয়,সঙ্গরোধ"}
+{ "_id" : { "$oid" : "567016b9e4b00acd570fdbfd"} , "Word" : "quadrants" , "meaning" : "পাদ;"}
+{ "_id" : { "$oid" : "567016b9e4b00acd570fdbfe"} , "Word" : "qualifies" , "meaning" : "সীমাবদ্ধ করা; পরিমিত করান; প্রশমিত করা; বৈশিষ্ট্যযুক্ত করা; নিয়ন্ত্রিত করা; সক্ষম করা; সক্ষম হত্তয়া; গুণ আরোপ করা; যোগ্য করা; যোগ্য হত্তয়া;"}
+{ "_id" : { "$oid" : "567016b9e4b00acd570fdbff"} , "Word" : "quarrels" , "meaning" : "চটাচটি; ঝগড়া; বিবাদ; ঝগড়াঝাঁটি; কলহ; দ্বন্দ্ব; অসদ্ভাব; অপ্রণয়; আপত্তি; বিবাদের হেতু; বন্ধুবিচ্ছেদ; প্রণয়ভঙ্গ; আড়ি; নটখট; ভেদ; কন্দল; কলি; ফইজত; ফেসাদ; ট্যাণ্ডাই ম্যাণ্ডাই; অকৌশল; ঠোকাঠুকি; খাত্তয়া-খাত্তয়ি; প্রতিযোগ;"}
+{ "_id" : { "$oid" : "567016bae4b00acd570fdc00"} , "Word" : "quadrature" , "meaning" : "বর্গীকরণ; পাদসংস্থান; সমচতুষ্কোণতা; সমচতুষ্কোণকরণ;"}
+{ "_id" : { "$oid" : "567016bae4b00acd570fdc01"} , "Word" : "qualitative" , "meaning" : "গুণগত গুণীয়"}
+{ "_id" : { "$oid" : "567016bae4b00acd570fdc02"} , "Word" : "quartern" , "meaning" : "চার পাউণ্ডের রুটি;"}
+{ "_id" : { "$oid" : "567016bbe4b00acd570fdc03"} , "Word" : "qualm" , "meaning" : "সংশয়, দ্বিধা"}
+{ "_id" : { "$oid" : "567016bbe4b00acd570fdc04"} , "Word" : "quadrillion" , "meaning" : "দশলক্ষের চতুর্ঘাত; হাজারের পঁচঘাত;"}
+{ "_id" : { "$oid" : "567016bbe4b00acd570fdc05"} , "Word" : "quack doctor" , "meaning" : "নাড়িটেপা ডাক্তার; অচিকিত্সক;"}
+{ "_id" : { "$oid" : "567016bce4b00acd570fdc06"} , "Word" : "quarters" , "meaning" : "বাসস্থান"}
+{ "_id" : { "$oid" : "567016bce4b00acd570fdc07"} , "Word" : "quantum" , "meaning" : "পরিমাণ, সংখ্যা"}
+{ "_id" : { "$oid" : "567016bce4b00acd570fdc08"} , "Word" : "quadrat" , "meaning" : "মুদ্রণে হরফ বা লাইনের মধ্যে ফাঁক রাখবার জন্যে ব্যবহৃত ছোট ধাতুখণ্ড;"}
+{ "_id" : { "$oid" : "567016bde4b00acd570fdc09"} , "Word" : "quantitative" , "meaning" : "পরিমাণগত, মাত্রিক"}
+{ "_id" : { "$oid" : "567016bde4b00acd570fdc0a"} , "Word" : "quadri lateral" , "meaning" : "চতুর্ভুজ; চতুর্ভুজাকার;"}
+{ "_id" : { "$oid" : "567016bde4b00acd570fdc0b"} , "Word" : "quandary" , "meaning" : "বিহুলতা"}
+{ "_id" : { "$oid" : "567016bee4b00acd570fdc0c"} , "Word" : "quarrel" , "meaning" : "ঝসড়া করা"}
+{ "_id" : { "$oid" : "567016bee4b00acd570fdc0d"} , "Word" : "quadruplicate" , "meaning" : "চতুর্গুণ; চতুর্বিধ; চতুর্গুণিত;"}
+{ "_id" : { "$oid" : "567016bee4b00acd570fdc0e"} , "Word" : "quaint" , "meaning" : "রমনীয় অথচ অদ্ভুত"}
+{ "_id" : { "$oid" : "567016bfe4b00acd570fdc0f"} , "Word" : "quadrisyllable" , "meaning" : "চার অক্ষরবিশিষ্ট পদ;"}
+{ "_id" : { "$oid" : "567016bfe4b00acd570fdc10"} , "Word" : "quadruped" , "meaning" : "চতুস্পদ জন্তু, চতুস্পদ"}
+{ "_id" : { "$oid" : "567016bfe4b00acd570fdc11"} , "Word" : "quarterback" , "meaning" : "পরিকল্পনা করা; নেতৃত্ব করা; নকশা বানান; পরিকল্পনা নেত্তয়া; পরিচালনা করা; কর্মমূচী বানানো;"}
+{ "_id" : { "$oid" : "567016c0e4b00acd570fdc12"} , "Word" : "quakes" , "meaning" : "ভূমিকম্প; কম্পন; শিহরণ; টলা; ঠরৃ্ঠর; কাম্পন; কাম্পনি; কাম্পুনি;"}
+{ "_id" : { "$oid" : "567016c0e4b00acd570fdc13"} , "Word" : "quadrumanous" , "meaning" : "চারিহস্তবিশিষ্ট"}
+{ "_id" : { "$oid" : "567016c0e4b00acd570fdc14"} , "Word" : "quails" , "meaning" : "ভয়ে পিছাইয়া পড়া; নিস্তেজ হত্তয়া; ক্ষীণ হত্তয়া;"}
+{ "_id" : { "$oid" : "567016c1e4b00acd570fdc15"} , "Word" : "quadrilaterals" , "meaning" : "চতুর্ভুজ ক্ষেত্র; চতুর্ভুজ সমতল ক্ষেত্র;"}
+{ "_id" : { "$oid" : "567016c1e4b00acd570fdc16"} , "Word" : "quarry" , "meaning" : "প্রস্তুরখনি, বিভিন্নরকম পাথরের খাদ"}
+{ "_id" : { "$oid" : "567016c1e4b00acd570fdc17"} , "Word" : "quad" , "meaning" : "চতুর্ভুজ; চতুর্গুণ সংখ্যা; চতুষ্টয়; চতুর্ভুজ ক্ষেত্র; চতুষ্ক; চার গুণ; চার বস্তুর সমষ্টি; চতুর্ভুজ সমতল ক্ষেত্র;"}
+{ "_id" : { "$oid" : "567016c2e4b00acd570fdc18"} , "Word" : "quagmire" , "meaning" : "পাঁকজমিত জলাভূমি"}
+{ "_id" : { "$oid" : "567016c2e4b00acd570fdc19"} , "Word" : "q" , "meaning" : "ইংরেজী বর্ণমালার সপ্তদশ বর্ণ"}
+{ "_id" : { "$oid" : "567016c2e4b00acd570fdc1a"} , "Word" : "quake" , "meaning" : "কাঁপা, কাঁপান"}
+{ "_id" : { "$oid" : "567016c3e4b00acd570fdc1b"} , "Word" : "qualms" , "meaning" : "সংশয়;"}
+{ "_id" : { "$oid" : "567016c3e4b00acd570fdc1c"} , "Word" : "quackeries" , "meaning" : "হাতুড়েগিরি; হাতুড়ে বৈদ্যগিরি;"}
+{ "_id" : { "$oid" : "567016c3e4b00acd570fdc1d"} , "Word" : "quadri" , "meaning" : "চৌ; চতুঃ; চার;"}
+{ "_id" : { "$oid" : "567016c4e4b00acd570fdc1e"} , "Word" : "quag" , "meaning" : "পাঁক, পাঁক-জমি"}
+{ "_id" : { "$oid" : "567016c4e4b00acd570fdc1f"} , "Word" : "quarterly" , "meaning" : "ত্রৈমাসিক, প্রতি তিন মাস অন্তর প্রকাশিত"}
+{ "_id" : { "$oid" : "567016c4e4b00acd570fdc20"} , "Word" : "quadragenarian" , "meaning" : "40 থেকে 49 বছর বয়সের;"}
+{ "_id" : { "$oid" : "567016c5e4b00acd570fdc21"} , "Word" : "qualified" , "meaning" : "যোগ্য,উপযুক্ত, যোগ্যতাসম্পন্ন"}
+{ "_id" : { "$oid" : "567016c5e4b00acd570fdc22"} , "Word" : "quotient" , "meaning" : "(গণিত) ভাগফল"}
+{ "_id" : { "$oid" : "567016c6e4b00acd570fdc23"} , "Word" : "quorum" , "meaning" : "সভার সিদ্দতার জন্য নিয়মানুযয়িী ন্যনতম পক্ষে যে কয়জন স্েযও উপস্থিতি প্রয়োজন"}
+{ "_id" : { "$oid" : "567016c6e4b00acd570fdc24"} , "Word" : "quince" , "meaning" : "নাসপাতির আকারের হলদেটে শক্ত ফল;"}
+{ "_id" : { "$oid" : "567016c6e4b00acd570fdc25"} , "Word" : "quiver" , "meaning" : "তৃণ,তুীর কাঁপা, শিহরিত হওয়া"}
+{ "_id" : { "$oid" : "567016c7e4b00acd570fdc26"} , "Word" : "quoting" , "meaning" : "উদ্ধৃত করা; পুনরূক্তি করা; বাজারদর দেত্তয়া; বর্তমান মূল্য জানান; উদ্ধার করা;"}
+{ "_id" : { "$oid" : "567016c7e4b00acd570fdc27"} , "Word" : "quittance" , "meaning" : "ঋণমুক্তি, দেনা হইতে 

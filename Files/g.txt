@@ -1,0 +1,1292 @@
+{ "_id" : { "$oid" : "566fdc2fe4b03dcbb96c1782"} , "Word" : "gadder" , "meaning" : "ভবঘুরে; বাউণ্ডুলে; যাযাবর;"}
+{ "_id" : { "$oid" : "566fdc2fe4b03dcbb96c1783"} , "Word" : "gaffs" , "meaning" : "অর্থহীন কিছু; বর্শাবিশেষ; কোঁচ;"}
+{ "_id" : { "$oid" : "566fdc30e4b03dcbb96c1784"} , "Word" : "gaff" , "meaning" : "মাছ ধরিবার কোঁচ বা বর্শা"}
+{ "_id" : { "$oid" : "566fdc30e4b03dcbb96c1785"} , "Word" : "gain the upper hand" , "meaning" : "জয়ী হওয়া; জয়লাভ করা; বিজয়ী হওয়া;"}
+{ "_id" : { "$oid" : "566fdc31e4b03dcbb96c1786"} , "Word" : "gaffe" , "meaning" : "ভুল; অসমীচীন কাজ; অসমীচীন মন্তব্য; ভুল পদক্ষেপ;"}
+{ "_id" : { "$oid" : "566fdc31e4b03dcbb96c1787"} , "Word" : "galas" , "meaning" : "পর্ব; উত্সব; আনন্দোত্সব; ভোজনোত্সব;"}
+{ "_id" : { "$oid" : "566fdc31e4b03dcbb96c1788"} , "Word" : "gait" , "meaning" : "চলনভঙ্গি, হাঁটার ধরন"}
+{ "_id" : { "$oid" : "566fdc32e4b03dcbb96c1789"} , "Word" : "gagged" , "meaning" : "কণ্ঠরোধ করা;"}
+{ "_id" : { "$oid" : "566fdc32e4b03dcbb96c178a"} , "Word" : "gall bladder" , "meaning" : "পিত্তকোষ;"}
+{ "_id" : { "$oid" : "566fdc32e4b03dcbb96c178b"} , "Word" : "gaga" , "meaning" : "ভীমরতিগ্রস্ত;"}
+{ "_id" : { "$oid" : "566fdc33e4b03dcbb96c178c"} , "Word" : "gab" , "meaning" : "বাজে গল্প, বাচালতা"}
+{ "_id" : { "$oid" : "566fdc33e4b03dcbb96c178d"} , "Word" : "gambled" , "meaning" : "অপব্যয় করা; জুয়া খেলা; জুয়া খেলিয়া ত্তড়ান; জুয়া খেলিয়া উড়ান; জুয়া খেলিয়া খোয়ান;"}
+{ "_id" : { "$oid" : "566fdc33e4b03dcbb96c178e"} , "Word" : "gallows-bird" , "meaning" : "ফাঁসিরযোগ্য অপরাধী"}
+{ "_id" : { "$oid" : "566fdc34e4b03dcbb96c178f"} , "Word" : "gad" , "meaning" : "অলসভাবে ইতস্ততঃ ভ্রমণ করা"}
+{ "_id" : { "$oid" : "566fdc34e4b03dcbb96c1790"} , "Word" : "gag" , "meaning" : "গোঁজ দিয়ে কন্ঠরোধ করা"}
+{ "_id" : { "$oid" : "566fdc34e4b03dcbb96c1791"} , "Word" : "gaffes" , "meaning" : "অসমীচীন কাজ; ভুল; অসমীচীন মন্তব্য; ভুল পদক্ষেপ;"}
+{ "_id" : { "$oid" : "566fdc35e4b03dcbb96c1792"} , "Word" : "gadget" , "meaning" : "যে কোন ছোট কল; যন্ত্র বা কৌশল"}
+{ "_id" : { "$oid" : "566fdc35e4b03dcbb96c1793"} , "Word" : "gallivant" , "meaning" : "ছিনালি করা; ফ্লার্ট করা;"}
+{ "_id" : { "$oid" : "566fdc35e4b03dcbb96c1794"} , "Word" : "gaffer" , "meaning" : "শ্রমিক-সর্দার;"}
+{ "_id" : { "$oid" : "566fdc36e4b03dcbb96c1795"} , "Word" : "gagman" , "meaning" : "কমিক; ভাঁড়; বিদূষক; সঙ;"}
+{ "_id" : { "$oid" : "566fdc36e4b03dcbb96c1796"} , "Word" : "gallstone" , "meaning" : "পাথুরি-রোগ;"}
+{ "_id" : { "$oid" : "566fdc37e4b03dcbb96c1797"} , "Word" : "gage" , "meaning" : "ঁজামিনস্বরূপ যে বস্তু রাখা যায়; যে বস্তু নিক্ষেপ করিয়া যুদ্ধের জন্য আহ্বান করা হয়"}
+{ "_id" : { "$oid" : "566fdc37e4b03dcbb96c1798"} , "Word" : "gabble" , "meaning" : "নিরর্থক বকবক করা; রাজহংসের ন্যায় পঁ্যাকপঁ্যাক করা; অস্পষ্ট ভাবে উচ্চারণ করা"}
+{ "_id" : { "$oid" : "566fdc37e4b03dcbb96c1799"} , "Word" : "gaiety" , "meaning" : "উল্লাস, আনন্দ"}
+{ "_id" : { "$oid" : "566fdc38e4b03dcbb96c179a"} , "Word" : "gaily" , "meaning" : "উল্লাস সহকারে"}
+{ "_id" : { "$oid" : "566fdc38e4b03dcbb96c179b"} , "Word" : "gaits" , "meaning" : "গেইট; চলাফেরা; চলনভঙ্গি; হাঁটার ধরন; সঁচার; চাল; ক্রাঁতি;"}
+{ "_id" : { "$oid" : "566fdc38e4b03dcbb96c179c"} , "Word" : "gabby" , "meaning" : "বাচাল; কইয়ে;"}
+{ "_id" : { "$oid" : "566fdc39e4b03dcbb96c179d"} , "Word" : "gall-stone" , "meaning" : "পাথুরিরোগ"}
+{ "_id" : { "$oid" : "566fdc39e4b03dcbb96c179e"} , "Word" : "gal" , "meaning" : "মেয়ে;"}
+{ "_id" : { "$oid" : "566fdc39e4b03dcbb96c179f"} , "Word" : "galling" , "meaning" : "অপ্রীতিকর; পীড়াদায়ক; জ্বালাতনকর;"}
+{ "_id" : { "$oid" : "566fdc3ae4b03dcbb96c17a0"} , "Word" : "gaberdine" , "meaning" : "মিহিশক্ত কাপড়, টিলা আলখেল্লা বিশেষ"}
+{ "_id" : { "$oid" : "566fdc3ae4b03dcbb96c17a1"} , "Word" : "gallows" , "meaning" : "ফাঁসিকাঠ"}
+{ "_id" : { "$oid" : "566fdc3ae4b03dcbb96c17a2"} , "Word" : "gaby" , "meaning" : "বোকা লোক; হাবাগোবা লোক"}
+{ "_id" : { "$oid" : "566fdc3be4b03dcbb96c17a3"} , "Word" : "galaxy" , "meaning" : "ছায়াপথ, আকাশগঙ্গা"}
+{ "_id" : { "$oid" : "566fdc3be4b03dcbb96c17a4"} , "Word" : "gallop" , "meaning" : "(ঘোড়ার) দ্রুততম গতি"}
+{ "_id" : { "$oid" : "566fdc3be4b03dcbb96c17a5"} , "Word" : "galleries" , "meaning" : "দরদালান; আচ্ছাদিত ভ্রমণস্থান; দেহলি; লম্বা বারান্দা; সুড়ঙ্গ; নাট্যশালা; ধারি; সংক্রমণিকা; গ্যাল্যারি;"}
+{ "_id" : { "$oid" : "566fdc3ce4b03dcbb96c17a6"} , "Word" : "gall" , "meaning" : "পিত্ত; তিক্ততা"}
+{ "_id" : { "$oid" : "566fdc3ce4b03dcbb96c17a7"} , "Word" : "gallon" , "meaning" : "তরল ওজনের পরিমাণ; প্রায় ৫ লিটার"}
+{ "_id" : { "$oid" : "566fdc3ce4b03dcbb96c17a8"} , "Word" : "gainful" , "meaning" : "লাভজনক; সুবিধাজনক; অর্থকর"}
+{ "_id" : { "$oid" : "566fdc3de4b03dcbb96c17a9"} , "Word" : "gamble" , "meaning" : "জুয়া খেলা; লাভের আশায় ঝুঁকি নেওয়া"}
+{ "_id" : { "$oid" : "566fdc3de4b03dcbb96c17aa"} , "Word" : "galleon" , "meaning" : "স্পেইনদেশীয় পোতবিশেষ;"}
+{ "_id" : { "$oid" : "566fdc3de4b03dcbb96c17ab"} , "Word" : "galvanize" , "meaning" : "রাসায়নিক তড়িৎ সংযুক্ত করা"}
+{ "_id" : { "$oid" : "566fdc3ee4b03dcbb96c17ac"} , "Word" : "gaggle" , "meaning" : "হাঁসের মত প্যাঁকপঁ্যাক করা"}
+{ "_id" : { "$oid" : "566fdc3ee4b03dcbb96c17ad"} , "Word" : "gale" , "meaning" : "ঝড়, প্রবল বাতাস"}
+{ "_id" : { "$oid" : "566fdc3ee4b03dcbb96c17ae"} , "Word" : "gallops" , "meaning" : "দ্রুত ছোটা; স্বচ্ছন্দধাবন; অশ্বের প্লূতগতি; ঘোড়ার কদম গতি;"}
+{ "_id" : { "$oid" : "566fdc3fe4b03dcbb96c17af"} , "Word" : "galactic" , "meaning" : "ছায়াপথসংক্রান্ত;"}
+{ "_id" : { "$oid" : "566fdc3fe4b03dcbb96c17b0"} , "Word" : "galvanism" , "meaning" : "রাসায়নিক তড়িৎ"}
+{ "_id" : { "$oid" : "566fdc3fe4b03dcbb96c17b1"} , "Word" : "galore" , "meaning" : "প্রচুর পরিমাণে"}
+{ "_id" : { "$oid" : "566fdc40e4b03dcbb96c17b2"} , "Word" : "gallbladder" , "meaning" : "পিত্তকোষ;"}
+{ "_id" : { "$oid" : "566fdc40e4b03dcbb96c17b3"} , "Word" : "gained" , "meaning" : "লব্ধ; ক্রীত;"}
+{ "_id" : { "$oid" : "566fdc40e4b03dcbb96c17b4"} , "Word" : "gall-bladder" , "meaning" : "পিত্তকোষ"}
+{ "_id" : { "$oid" : "566fdc41e4b03dcbb96c17b5"} , "Word" : "gambler" , "meaning" : "জুয়াড়ি; দ্যূতকর;"}
+{ "_id" : { "$oid" : "566fdc41e4b03dcbb96c17b6"} , "Word" : "gallant" , "meaning" : "সাহসী; সুন্দর; মহৎ"}
+{ "_id" : { "$oid" : "566fdc41e4b03dcbb96c17b7"} , "Word" : "gallows bird" , "meaning" : "ফাঁসির আদেশপ্রাপ্ত ব্যক্তি; ফাঁসির যোগ্য ব্যক্তি;"}
+{ "_id" : { "$oid" : "566fdc42e4b03dcbb96c17b8"} , "Word" : "gala" , "meaning" : "উৎসব, উৎসবের দিন; সামাজিক আনন্দোৎসব"}
+{ "_id" : { "$oid" : "566fdc42e4b03dcbb96c17b9"} , "Word" : "galvanise" , "meaning" : "ধাতুর প্রলেপ দেওযা; বিদু্যৎ প্রবাহ দ্বারা রাসায়নিক প্রক্রিয়ায় টিন ইত্যাদিতে দস্তা-প্রলেপ দেওয়া"}
+{ "_id" : { "$oid" : "566fdc42e4b03dcbb96c17ba"} , "Word" : "galvanic" , "meaning" : "তাড়িত; বিদ্যুত্প্রবাহজাত; বিদ্যুত্প্রবাহ-সংক্রান্ত; বিদ্যুত্প্রবাহোত্পাদী;"}
+{ "_id" : { "$oid" : "566fdc43e4b03dcbb96c17bb"} , "Word" : "gable" , "meaning" : "বাড়ির ত্রিকোণ ধার;"}
+{ "_id" : { "$oid" : "566fdc43e4b03dcbb96c17bc"} , "Word" : "gadfly" , "meaning" : "দংশ; উদ্দংশ; ডাঁশ; গো-মাছি;"}
+{ "_id" : { "$oid" : "566fdc43e4b03dcbb96c17bd"} , "Word" : "gaelic" , "meaning" : "স্কটলন্ডের পার্বত্য জাতি সম্বন্ধীয়"}
+{ "_id" : { "$oid" : "566fdc44e4b03dcbb96c17be"} , "Word" : "galloping" , "meaning" : "দ্রুতগতিতে বৃদ্ধি পায় এমন; দৌড়াইতে চলিত;"}
+{ "_id" : { "$oid" : "566fdc44e4b03dcbb96c17bf"} , "Word" : "g" , "meaning" : "ইংরেজি বর্ণমালার সপ্তম অক্ষর"}
+{ "_id" : { "$oid" : "566fdc45e4b03dcbb96c17c0"} , "Word" : "galley" , "meaning" : "ছাপাখানার সাজানো অক্ষর রাখিবার কাষ্ঠাধার"}
+{ "_id" : { "$oid" : "566fdc45e4b03dcbb96c17c1"} , "Word" : "gala day" , "meaning" : "উত্সবের দিন;"}
+{ "_id" : { "$oid" : "566fdc45e4b03dcbb96c17c2"} , "Word" : "gallery" , "meaning" : "শিল্পদ্রব্যের প্রদর্শনী ঘর; রঙ্গমঞ্চের বিশেষ আসনশ্রেণী; গ্যালারি"}
+{ "_id" : { "$oid" : "566fdc46e4b03dcbb96c17c3"} , "Word" : "gallinaceous" , "meaning" : "কুক্কুটজাতীয়;"}
+{ "_id" : { "$oid" : "566fdc46e4b03dcbb96c17c4"} , "Word" : "galvanized" , "meaning" : "রাংঝালাই করা; বিদ্যুত্প্রবাহ সঁচারিত করা; কৃত্রিম বলসঁচার করা; বিদ্যুত্প্রবাহ প্রয়োগ করা;"}
+{ "_id" : { "$oid" : "566fdc46e4b03dcbb96c17c5"} , "Word" : "gain ground" , "meaning" : "এগিয়ে যাওয়া; উন্নতি করা; সফল হওয়া; ধরে ফেলা; বিস্তৃতি লাভ করা; পরিব্যাপ্ত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdc47e4b03dcbb96c17c6"} , "Word" : "gages" , "meaning" : "জামিন; বন্ধকী দ্রব্য; বন্ধকী জমানত;"}
+{ "_id" : { "$oid" : "566fdc47e4b03dcbb96c17c7"} , "Word" : "gabber" , "meaning" : "বাচাল ব্যক্তি; গপ্প; আড্ডাবাজ; দাম্ভিক; হামবড়া;"}
+{ "_id" : { "$oid" : "566fdc47e4b03dcbb96c17c8"} , "Word" : "gabelle" , "meaning" : "ট্যাক্‌স, কর, লবণের উপর শুল্ক"}
+{ "_id" : { "$oid" : "566fdc48e4b03dcbb96c17c9"} , "Word" : "gaining" , "meaning" : "লব্ধ অর্থ"}
+{ "_id" : { "$oid" : "566fdc48e4b03dcbb96c17ca"} , "Word" : "gain" , "meaning" : "লাভ করা বা লাভবান হওয়া; উপার্জন করা"}
+{ "_id" : { "$oid" : "566fdc48e4b03dcbb96c17cb"} , "Word" : "gainsay" , "meaning" : "অস্বীকার করা, প্রতিবাদ করা"}
+{ "_id" : { "$oid" : "566fdc49e4b03dcbb96c17cc"} , "Word" : "galloped" , "meaning" : "দ্রুত গমন করা; প্লূতগতিতে যাত্তয়া; দ্রুত অগ্রসর হত্তয়া; প্লূতগতিতে চালান; সলম্ফে দৌড়ান;"}
+{ "_id" : { "$oid" : "566fdc49e4b03dcbb96c17cd"} , "Word" : "gadgets" , "meaning" : "যে কোন ছোট কল;"}
+{ "_id" : { "$oid" : "566fdc49e4b03dcbb96c17ce"} , "Word" : "gains" , "meaning" : "লাভ; নাফা; কুলায়; মুনাফা; জয়; অর্জিত বস্তু; কিফাইত; কিফায়ত;"}
+{ "_id" : { "$oid" : "566fdc4ae4b03dcbb96c17cf"} , "Word" : "galop" , "meaning" : "দ্বিগুণলয়ে নৃত্যবিশেষ;"}
+{ "_id" : { "$oid" : "566fdc4ae4b03dcbb96c17d0"} , "Word" : "gallantry" , "meaning" : "সাহসিকতা, নির্ভীকতা"}
+{ "_id" : { "$oid" : "566fdc4ae4b03dcbb96c17d1"} , "Word" : "gaged" , "meaning" : "মূল্যাবধারণ করা; হিসাব করা; মাপা; মাপ লত্তয়া; সাধারণ মাপে আনা; সাধারণ মানে আনা;"}
+{ "_id" : { "$oid" : "566fdc4be4b03dcbb96c17d2"} , "Word" : "gauging" , "meaning" : "মূল্যাবধারণ করা; হিসাব করা; মাপা; মাপ লত্তয়া; সাধারণ মাপে আনা; সাধারণ মানে আনা;"}
+{ "_id" : { "$oid" : "566fdc4be4b03dcbb96c17d3"} , "Word" : "gateaux" , "meaning" : "বিস্কুট;"}
+{ "_id" : { "$oid" : "566fdc4ce4b03dcbb96c17d4"} , "Word" : "gateway" , "meaning" : "ফটকের বা খিলানোর মধ্য দিয়া পথ"}
+{ "_id" : { "$oid" : "566fdc4ce4b03dcbb96c17d5"} , "Word" : "gawky" , "meaning" : "লাজুক; জবুথবু;"}
+{ "_id" : { "$oid" : "566fdc4ce4b03dcbb96c17d6"} , "Word" : "gazette" , "meaning" : "সরকারী সাময়িকপত্র, ইশতেহার, গেজেট"}
+{ "_id" : { "$oid" : "566fdc4de4b03dcbb96c17d7"} , "Word" : "gasping" , "meaning" : "হাঁপাচ্ছে বা খাবি খাচ্ছে এমন; মুমূর্ষু"}
+{ "_id" : { "$oid" : "566fdc4de4b03dcbb96c17d8"} , "Word" : "gastronomy" , "meaning" : "সুখাদ্য ভোজন-বিদ্যা;"}
+{ "_id" : { "$oid" : "566fdc4de4b03dcbb96c17d9"} , "Word" : "gasps" , "meaning" : "হাঁপান; দম ফুরাইয়া হাঁপান; হাঁ করিয়া শ্বাস লত্তয়া; পাইবার জন্য আকুল হত্তয়া; মুমুর্ষু হত্তয়া; হাঁপাইতে হাঁপাইতে বলা; খাবি খাত্তয়া; দম ফুরাইয়া হাঁফান; মরণশ্বাস তোলা;"}
+{ "_id" : { "$oid" : "566fdc4ee4b03dcbb96c17da"} , "Word" : "gaud" , "meaning" : "চাকচিক্যপূর্ণ বস্তু; গহনাবিশেষ; জাঁকাল অনুষ্ঠান; উত্সব;"}
+{ "_id" : { "$oid" : "566fdc4ee4b03dcbb96c17db"} , "Word" : "gatherings" , "meaning" : "জমায়েত; সংগ্রহ; জনসমাবেশ; সমাবেশ; সম্মেলন; ভিড়; পুঁজ; আমদানি; আসর; পূঁযপূর্ণ ফোঁড়া;"}
+{ "_id" : { "$oid" : "566fdc4ee4b03dcbb96c17dc"} , "Word" : "gear" , "meaning" : "দাঁতাল চাকা; যান্ত্রিক যানের চালক অংশ"}
+{ "_id" : { "$oid" : "566fdc4fe4b03dcbb96c17dd"} , "Word" : "gather" , "meaning" : "সংগ্রহ করা; একত্র করা; উপার্জন করা"}
+{ "_id" : { "$oid" : "566fdc4fe4b03dcbb96c17de"} , "Word" : "gaul" , "meaning" : "ফ্রান্সদেশের প্রাচীন নাম"}
+{ "_id" : { "$oid" : "566fdc4fe4b03dcbb96c17df"} , "Word" : "gathering" , "meaning" : "সংগ্রহকরণ; জনতা; জনসভা"}
+{ "_id" : { "$oid" : "566fdc50e4b03dcbb96c17e0"} , "Word" : "geminate" , "meaning" : "যুগ্ম;"}
+{ "_id" : { "$oid" : "566fdc50e4b03dcbb96c17e1"} , "Word" : "gazed" , "meaning" : "স্থির দৃষ্টিতে তাকাইয়া থাকা; একদৃষ্টিতে তাকান;"}
+{ "_id" : { "$oid" : "566fdc51e4b03dcbb96c17e2"} , "Word" : "gearup" , "meaning" : "দ্রুতগতির গিয়ার দেওয়া;"}
+{ "_id" : { "$oid" : "566fdc51e4b03dcbb96c17e3"} , "Word" : "gemini" , "meaning" : "মিথুন রাশি"}
+{ "_id" : { "$oid" : "566fdc51e4b03dcbb96c17e4"} , "Word" : "gatekeeper" , "meaning" : "দ্বাররক্ষী; দরত্তয়ান; দ্বাররক্ষক; দ্বারবান; দৌবারিক; দরোয়ান;"}
+{ "_id" : { "$oid" : "566fdc52e4b03dcbb96c17e5"} , "Word" : "gasoline" , "meaning" : "পিট্রল;"}
+{ "_id" : { "$oid" : "566fdc52e4b03dcbb96c17e6"} , "Word" : "geiger" , "meaning" : "ধাতুনলের মধ্যে তড়িৎদ্বার-সংবলিত তেজস্ক্রিয়তার অস্তিত্ব- ও মাত্রা-নির্ধারক যন্ত্র;"}
+{ "_id" : { "$oid" : "566fdc52e4b03dcbb96c17e7"} , "Word" : "gateways" , "meaning" : "প্রবেশপথ; দরজা; দ্বার; দরজার ভিতর দিয়া পথ; দ্বারদেশ; তোরণ;"}
+{ "_id" : { "$oid" : "566fdc53e4b03dcbb96c17e8"} , "Word" : "gathring" , "meaning" : "সংগ্রহকরণ;জনতা; জনসভা"}
+{ "_id" : { "$oid" : "566fdc53e4b03dcbb96c17e9"} , "Word" : "gelatinizing" , "meaning" : "জাউ করা; হালুয়া করা; সিরিশ-আঠায় পরিণত করা;"}
+{ "_id" : { "$oid" : "566fdc53e4b03dcbb96c17ea"} , "Word" : "geminis" , "meaning" : "মিথুনরাশি;"}
+{ "_id" : { "$oid" : "566fdc54e4b03dcbb96c17eb"} , "Word" : "gatherers" , "meaning" : "সংগ্রাহক;"}
+{ "_id" : { "$oid" : "566fdc54e4b03dcbb96c17ec"} , "Word" : "gate" , "meaning" : "ফটক, প্রবেশ-পথ"}
+{ "_id" : { "$oid" : "566fdc54e4b03dcbb96c17ed"} , "Word" : "gear-box" , "meaning" : "গীয়ার-ঢাকা; বাক্স"}
+{ "_id" : { "$oid" : "566fdc55e4b03dcbb96c17ee"} , "Word" : "gems" , "meaning" : "মণি; জহর; রত্ন; দামি বস্তু; পাথর; প্রশংসনীয় ব্যক্তি; পর্লকাটা রত্ন; দামি ব্যক্তি; সুন্দর বস্তু; প্রশংসনীয় বস্তু; উপল;"}
+{ "_id" : { "$oid" : "566fdc55e4b03dcbb96c17ef"} , "Word" : "gat" , "meaning" : "খাল;"}
+{ "_id" : { "$oid" : "566fdc55e4b03dcbb96c17f0"} , "Word" : "gastritis" , "meaning" : "পাকাশয়ের প্রদাহপূর্ণ রোগ;"}
+{ "_id" : { "$oid" : "566fdc56e4b03dcbb96c17f1"} , "Word" : "gee" , "meaning" : "ঘোড়া;"}
+{ "_id" : { "$oid" : "566fdc56e4b03dcbb96c17f2"} , "Word" : "gecko" , "meaning" : "টিকটিকি সরীসৃপ;"}
+{ "_id" : { "$oid" : "566fdc56e4b03dcbb96c17f3"} , "Word" : "gaudy" , "meaning" : "জাঁকালো কিন্তু রুচিহীন"}
+{ "_id" : { "$oid" : "566fdc57e4b03dcbb96c17f4"} , "Word" : "gay" , "meaning" : "প্রফুল্ল, প্রাণচঞ্চল, হাসিখুশী"}
+{ "_id" : { "$oid" : "566fdc57e4b03dcbb96c17f5"} , "Word" : "gashes" , "meaning" : "গভীর ক্ষত; গভীর বিদারণ;"}
+{ "_id" : { "$oid" : "566fdc57e4b03dcbb96c17f6"} , "Word" : "gelatine" , "meaning" : "সিরিশ-আঠা;"}
+{ "_id" : { "$oid" : "566fdc58e4b03dcbb96c17f7"} , "Word" : "gazetted" , "meaning" : "গেজেটে প্রকাশিত করা;"}
+{ "_id" : { "$oid" : "566fdc58e4b03dcbb96c17f8"} , "Word" : "gastronome" , "meaning" : "পাকপণ্ডিত; উদরসেবী;"}
+{ "_id" : { "$oid" : "566fdc58e4b03dcbb96c17f9"} , "Word" : "gem" , "meaning" : "রত্ন, মূল্যবান বস্তু"}
+{ "_id" : { "$oid" : "566fdc59e4b03dcbb96c17fa"} , "Word" : "geared" , "meaning" : "গিয়ার্ চালু করা; সাজ পরান; গিয়ার্ লাগান; কার্যরত করান; সক্রিয় করা;"}
+{ "_id" : { "$oid" : "566fdc59e4b03dcbb96c17fb"} , "Word" : "gel" , "meaning" : "জেলির মতো বা আঠার মতো থকথকে পদার্থের তল;"}
+{ "_id" : { "$oid" : "566fdc59e4b03dcbb96c17fc"} , "Word" : "gave away" , "meaning" : "বিকান; ছাড়িয়া দেত্তয়া; বিতরণ করা; বাঁটিয়া দেত্তয়া; ফিরিয়ে দেত্তয়া; ফেরৎ দেত্তয়া; দেত্তয়া;"}
+{ "_id" : { "$oid" : "566fdc5ae4b03dcbb96c17fd"} , "Word" : "gauntlet" , "meaning" : "ধাতুর তৈরী দস্তানা"}
+{ "_id" : { "$oid" : "566fdc5ae4b03dcbb96c17fe"} , "Word" : "gateman" , "meaning" : "দ্বাররক্ষী; দরত্তয়ান; দ্বাররক্ষক; দ্বারবান; দৌবারিক;"}
+{ "_id" : { "$oid" : "566fdc5ae4b03dcbb96c17ff"} , "Word" : "gash" , "meaning" : "গভীর ও দীর্ঘক্ষত"}
+{ "_id" : { "$oid" : "566fdc5be4b03dcbb96c1800"} , "Word" : "gavel" , "meaning" : "সভাপতির হাতুড়ি; নিলামদারের হাতুড়ি; নিলামকারী কাঠের মুগুর;"}
+{ "_id" : { "$oid" : "566fdc5be4b03dcbb96c1801"} , "Word" : "gear up" , "meaning" : "দ্রুতগতির গিয়ার দেওয়া;"}
+{ "_id" : { "$oid" : "566fdc5ce4b03dcbb96c1802"} , "Word" : "gelatinous" , "meaning" : "জাউতুল্য; নরম ত্ত আঠাল;"}
+{ "_id" : { "$oid" : "566fdc5ce4b03dcbb96c1803"} , "Word" : "gastric juice" , "meaning" : "পাচকরস; জঠরাগ্নি; জঠরানল;"}
+{ "_id" : { "$oid" : "566fdc5ce4b03dcbb96c1804"} , "Word" : "gasp" , "meaning" : "কষ্টে শ্বাস নেওয়া, খাবি খাওয়া"}
+{ "_id" : { "$oid" : "566fdc5de4b03dcbb96c1805"} , "Word" : "gelatin" , "meaning" : "সিরিশ-আঠা;"}
+{ "_id" : { "$oid" : "566fdc5de4b03dcbb96c1806"} , "Word" : "gelatine, gelatin" , "meaning" : "সিরিশ আঠা"}
+{ "_id" : { "$oid" : "566fdc5de4b03dcbb96c1807"} , "Word" : "gazing" , "meaning" : "একদৃষ্টি;"}
+{ "_id" : { "$oid" : "566fdc5ee4b03dcbb96c1808"} , "Word" : "geezer" , "meaning" : "অদ্ভুত বুড়ো লোক; লোক;"}
+{ "_id" : { "$oid" : "566fdc5ee4b03dcbb96c1809"} , "Word" : "gawk" , "meaning" : "জবুথবু ব্যক্তি; জবুথবু ভাঁড়; জবুথবু সং; জবুথবু লোক; লাজুক লোক; কদাকার লোক;"}
+{ "_id" : { "$oid" : "566fdc5ee4b03dcbb96c180a"} , "Word" : "gazelles" , "meaning" : "হরিণ;"}
+{ "_id" : { "$oid" : "566fdc5fe4b03dcbb96c180b"} , "Word" : "gash-light" , "meaning" : "গ্যাসের আলো"}
+{ "_id" : { "$oid" : "566fdc5fe4b03dcbb96c180c"} , "Word" : "gazelle" , "meaning" : "সুদৃশ্য দ্রুতগামী মৃগবিশেষ"}
+{ "_id" : { "$oid" : "566fdc5fe4b03dcbb96c180d"} , "Word" : "gasometer" , "meaning" : "গ্যাস মজুত রাখিবার পাত্র বিশেষ"}
+{ "_id" : { "$oid" : "566fdc60e4b03dcbb96c180e"} , "Word" : "gastric" , "meaning" : "পাকাশয় সংক্রান্ত"}
+{ "_id" : { "$oid" : "566fdc60e4b03dcbb96c180f"} , "Word" : "gauche" , "meaning" : "আনাড়ি; কদর্য; কদাকার; অবিবেচক; অশিষ্ট; কৌশলহীন; কৌশলশূন্য;"}
+{ "_id" : { "$oid" : "566fdc60e4b03dcbb96c1810"} , "Word" : "gauzy" , "meaning" : "পাতলা ত্ত স্বচ্ছ;"}
+{ "_id" : { "$oid" : "566fdc61e4b03dcbb96c1811"} , "Word" : "gassy" , "meaning" : "গ্যাসীয়; অসার দম্ভপ্রবণ; গ্যাসে পূণ্; গ্যাসময়;"}
+{ "_id" : { "$oid" : "566fdc61e4b03dcbb96c1812"} , "Word" : "gates" , "meaning" : "গেট; দরজা; দ্বার; প্রবেশদ্বার; দুয়ার; সদর দরজা; পথ; প্রবেশপথ; সিংহদ্বার; প্রবেশের পথ; দরজার কপাট; খাল; গিরিপথ; নির্গমনপথ; বহিদ্র্বার; গোপুর;"}
+{ "_id" : { "$oid" : "566fdc61e4b03dcbb96c1813"} , "Word" : "gasped" , "meaning" : "হাঁপান; দম ফুরাইয়া হাঁপান; হাঁ করিয়া শ্বাস লত্তয়া; পাইবার জন্য আকুল হত্তয়া; মুমুর্ষু হত্তয়া; হাঁপাইতে হাঁপাইতে বলা; খাবি খাত্তয়া; দম ফুরাইয়া হাঁফান; মরণশ্বাস তোলা;"}
+{ "_id" : { "$oid" : "566fdc62e4b03dcbb96c1814"} , "Word" : "gelid" , "meaning" : "ঠাণ্ডা; তুষার-শীতল;"}
+{ "_id" : { "$oid" : "566fdc62e4b03dcbb96c1815"} , "Word" : "gauges" , "meaning" : "হিসাব করার নিয়ম; হিসাব করার উপায়; মানদণ্ড; পরিমাণ; মাপ; মাপার যন্ত্র;"}
+{ "_id" : { "$oid" : "566fdc63e4b03dcbb96c1816"} , "Word" : "gasify" , "meaning" : "গ্যাসে রূপান্তরিত করা;"}
+{ "_id" : { "$oid" : "566fdc63e4b03dcbb96c1817"} , "Word" : "gave" , "meaning" : "দেত্তয়া; প্রদান করা; দান করা; সমর্পণ করা; ছাড়িয়া দেত্তয়া; স্বীকার করা; অর্পণ করা; বিচ্ছুরিত করা; ঔষধ খাত্তয়ান; কারণ হত্তয়া; নরম হত্তয়া; গলিতে আরম্ভ করা; সরবরাহ করা; ন্যস্ত করা; প্রতিদান করা; সম্প্রদান করা; দান দেত্তয়া; চাপে খুলিয়া যাত্তয়া; উত্পাদন করা; সংবাদ জানান; কথা দেত্তয়া; শাস্তি দেত্তয়া; মানিয়া লত্তয়া; চাপে পড়িয়া হার মানা; অনুমতি দেত্তয়া; অনুমোদন করা; যোগান; নি:সৃত করা; ঘোষণা করা;"}
+{ "_id" : { "$oid" : "566fdc63e4b03dcbb96c1818"} , "Word" : "gaunt" , "meaning" : "ক্ষীণ;"}
+{ "_id" : { "$oid" : "566fdc64e4b03dcbb96c1819"} , "Word" : "gasoline, gasoline" , "meaning" : "পেট্রলজাত তরল পদার্থ বিশেষ"}
+{ "_id" : { "$oid" : "566fdc64e4b03dcbb96c181a"} , "Word" : "gaze" , "meaning" : "বদ্ধদৃষ্টিতে তাকিয়ে থাকা"}
+{ "_id" : { "$oid" : "566fdc64e4b03dcbb96c181b"} , "Word" : "gassing" , "meaning" : "অসার কথা; বাজে কথা; গ্যাস দ্বারা বিষাক্ত করা; বিষবাষ্পপ্রয়োগ; বিষবাষ্পপ্রয়োগে হত্যা;"}
+{ "_id" : { "$oid" : "566fdc65e4b03dcbb96c181c"} , "Word" : "gauge" , "meaning" : "মাপিবার যন্ত্র; রেল লাইনের মধ্যবর্তী দূরত্ব"}
+{ "_id" : { "$oid" : "566fdc65e4b03dcbb96c181d"} , "Word" : "gauze" , "meaning" : "পাতলা জালি কাপড়; ক্ষতস্থান বাঁধার কাপড় বিশেষ"}
+{ "_id" : { "$oid" : "566fdc65e4b03dcbb96c181e"} , "Word" : "geese" , "meaning" : "রাজহংসী সকল"}
+{ "_id" : { "$oid" : "566fdc66e4b03dcbb96c181f"} , "Word" : "geld" , "meaning" : "কর; খাজনা;"}
+{ "_id" : { "$oid" : "566fdc66e4b03dcbb96c1820"} , "Word" : "gathered" , "meaning" : "অবচিত; সঁচিত; কুড়ান;"}
+{ "_id" : { "$oid" : "566fdc67e4b03dcbb96c1822"} , "Word" : "gentlemen" , "meaning" : "পুরুষ;"}
+{ "_id" : { "$oid" : "566fdc67e4b03dcbb96c1823"} , "Word" : "genre" , "meaning" : "রীতি; ধারা; প্রকার; রকম; ধরন; উপায়;"}
+{ "_id" : { "$oid" : "566fdc66e4b03dcbb96c1821"} , "Word" : "gauged" , "meaning" : "মূল্যাবধারণ করা; হিসাব করা; মাপা; মাপ লত্তয়া; সাধারণ মাপে আনা; সাধারণ মানে আনা;"}
+{ "_id" : { "$oid" : "566fdc68e4b03dcbb96c1824"} , "Word" : "genocide" , "meaning" : "ব্যাপক হত্যা দ্বারা কোন জাতির বা সম্প্রদায়ের বিলুপ্তি সাধন; গণহত্যা"}
+{ "_id" : { "$oid" : "566fdc68e4b03dcbb96c1825"} , "Word" : "genitalia" , "meaning" : "উপস্থ; জননেনি্দ্রয়;"}
+{ "_id" : { "$oid" : "566fdc68e4b03dcbb96c1826"} , "Word" : "generalize" , "meaning" : "বিশ্বজনীন করা; সাধারণ করা; সর্বজনীন করা; সাধারণ রূপ দেত্তয়া; সাধারণ সংজ্ঞা দেত্তয়া; সামান্য করা; সাধারণের ব্যবহারে লাগান; সাধারণের আয়ত্ত করা; সাধারণের বোধগম্য করা;"}
+{ "_id" : { "$oid" : "566fdc69e4b03dcbb96c1827"} , "Word" : "general manager" , "meaning" : "ব্যবস্থাপক; মহাকর্মাধ্যক্ষ;"}
+{ "_id" : { "$oid" : "566fdc69e4b03dcbb96c1828"} , "Word" : "genuinely" , "meaning" : "সত্যি সত্যি; প্রকৃতই;"}
+{ "_id" : { "$oid" : "566fdc69e4b03dcbb96c1829"} , "Word" : "genealogies" , "meaning" : "বংশতালিকা; কুলুজি; বংশবৃতান্ত; কুলজীশাস্ত্র;"}
+{ "_id" : { "$oid" : "566fdc6ae4b03dcbb96c182a"} , "Word" : "gent" , "meaning" : "ভদ্রলোক"}
+{ "_id" : { "$oid" : "566fdc6ae4b03dcbb96c182b"} , "Word" : "geocentric" , "meaning" : "ভূকেন্দ্রী; ভূকেনি্দ্রক;"}
+{ "_id" : { "$oid" : "566fdc6ae4b03dcbb96c182c"} , "Word" : "gentle’" , "meaning" : "মৃদু; ভদ্র; মৃদুমন্দ; নম্র; অমায়িক; শান্তিস্বভাব; সুশীল; শীতল; অল্প; ক্রমান্বয়ী; অক্রূর; অনুগ্র; আনম্র; লহু; ধীরপ্রকৃতি; সদ্বংশজাত; মন্দ;"}
+{ "_id" : { "$oid" : "566fdc6be4b03dcbb96c182d"} , "Word" : "general strike" , "meaning" : "সাধারণ ধর্মঘট;"}
+{ "_id" : { "$oid" : "566fdc6be4b03dcbb96c182e"} , "Word" : "geographer" , "meaning" : "ভূগোলবিদ"}
+{ "_id" : { "$oid" : "566fdc6be4b03dcbb96c182f"} , "Word" : "gender" , "meaning" : "বিশেষ্য ও সর্বনাম পদেও লিঙ্গ"}
+{ "_id" : { "$oid" : "566fdc6ce4b03dcbb96c1830"} , "Word" : "geologist" , "meaning" : "ভূবিজ্ঞানী"}
+{ "_id" : { "$oid" : "566fdc6ce4b03dcbb96c1831"} , "Word" : "generation" , "meaning" : "উৎপাদন,উদ্ভব; বংশপরষ্পরা; সমকালীন ব্যক্তি-বর্গ"}
+{ "_id" : { "$oid" : "566fdc6ce4b03dcbb96c1832"} , "Word" : "generalising" , "meaning" : "বিশ্বজনীন করা; সাধারণের আয়ত্ত করা; সাধারণ করা; সর্বজনীন করা; সাধারণ রূপ দেত্তয়া; সাধারণ সংজ্ঞা দেত্তয়া; সামান্য করা; সাধারণের ব্যবহারে লাগান; সাধারণের বোধগম্য করা;"}
+{ "_id" : { "$oid" : "566fdc6de4b03dcbb96c1833"} , "Word" : "gentleman" , "meaning" : "সম্ভ্রান্তা বা সদবংশীয় ব্যক্তি"}
+{ "_id" : { "$oid" : "566fdc6de4b03dcbb96c1834"} , "Word" : "genital" , "meaning" : "বংশ সম্বন্ধীয়; জনন সম্বন্ধীয়;"}
+{ "_id" : { "$oid" : "566fdc6de4b03dcbb96c1835"} , "Word" : "gen" , "meaning" : "জনক; খোঁজখবর; উৎপাদক; পাত্তা; সৃষ্টিকারী ইত্যাদি অর্থজ্ঞাপক উপসর্গ;"}
+{ "_id" : { "$oid" : "566fdc6ee4b03dcbb96c1836"} , "Word" : "gene" , "meaning" : "জীন; ক্রোমোসোমের অন্তর্গত একক যা ব্যক্তির কোনো নির্দিষ্ট বংশানুক্রমিক বৈশিষ্ট্যকে নিয়ন্ত্রণ করে; বংশানু;"}
+{ "_id" : { "$oid" : "566fdc6ee4b03dcbb96c1837"} , "Word" : "geo" , "meaning" : "পার্থিব; মাটি; ভূখণ্ড; জগত্-; পৃথিবী; ভূগোলক; জমি-;"}
+{ "_id" : { "$oid" : "566fdc6ee4b03dcbb96c1838"} , "Word" : "gentry" , "meaning" : "ভদ্রসম্প্রদায়"}
+{ "_id" : { "$oid" : "566fdc6fe4b03dcbb96c1839"} , "Word" : "gentle folks" , "meaning" : "ভদ্রলোকসমূহ; সম্ভ্রান্ত-বংশীয় ব্যক্তিগণ"}
+{ "_id" : { "$oid" : "566fdc6fe4b03dcbb96c183a"} , "Word" : "genius" , "meaning" : "প্রতিভা; প্রতিভাধর ব্যক্তি"}
+{ "_id" : { "$oid" : "566fdc70e4b03dcbb96c183b"} , "Word" : "generates" , "meaning" : "উত্পাদন করা; সৃষ্টি করা; জন্মান; উদ্ভূত করান; উপজা; জন্মদান দেত্তয়া; জন্ম দেত্তয়া; উদ্ভূত করা;"}
+{ "_id" : { "$oid" : "566fdc70e4b03dcbb96c183c"} , "Word" : "genteel" , "meaning" : "সদবংশীয়; মার্জিত ব্যবহার"}
+{ "_id" : { "$oid" : "566fdc70e4b03dcbb96c183d"} , "Word" : "genealogist" , "meaning" : "কুলাচার্ল; বংশতালিকা যে পর্যালোচনা করে"}
+{ "_id" : { "$oid" : "566fdc71e4b03dcbb96c183e"} , "Word" : "genuflect" , "meaning" : "সমভ্রমিতে নতজানু হত্তয়া; নত হত্তয়া; নতজানু হত্তয়া; গড় করা; গড় হত্তয়া; নমস্কার করা;"}
+{ "_id" : { "$oid" : "566fdc71e4b03dcbb96c183f"} , "Word" : "gentlefolk" , "meaning" : "ভদ্রলোকসমূহ; সম্ভ্রান্ত-বংশীয় ব্যক্তিগণ"}
+{ "_id" : { "$oid" : "566fdc71e4b03dcbb96c1840"} , "Word" : "general secretary" , "meaning" : "সাধারণ সম্পাদক;"}
+{ "_id" : { "$oid" : "566fdc72e4b03dcbb96c1841"} , "Word" : "generated" , "meaning" : "উত্পাদন করা; সৃষ্টি করা; জন্মান; উদ্ভূত করান; উপজা; জন্মদান দেত্তয়া; জন্ম দেত্তয়া; উদ্ভূত করা;"}
+{ "_id" : { "$oid" : "566fdc72e4b03dcbb96c1842"} , "Word" : "generality" , "meaning" : "জনসাধারণ; প্রধান অংশ; অধিকাংশ;"}
+{ "_id" : { "$oid" : "566fdc72e4b03dcbb96c1843"} , "Word" : "gently" , "meaning" : "শান্তভাবে, বিনীতভাবে, আস্তে ধীরে"}
+{ "_id" : { "$oid" : "566fdc73e4b03dcbb96c1844"} , "Word" : "generosity" , "meaning" : "উদারতা; বদান্যতা, মহত্ত্ব"}
+{ "_id" : { "$oid" : "566fdc73e4b03dcbb96c1845"} , "Word" : "genitive" , "meaning" : "সম্বন্ধপদ, ষষ্ঠীবিভক্তি"}
+{ "_id" : { "$oid" : "566fdc73e4b03dcbb96c1846"} , "Word" : "gentility" , "meaning" : "ভদ্রবংশে জন্ম; ভদ্রসমাজোচিত ব্যবহার"}
+{ "_id" : { "$oid" : "566fdc74e4b03dcbb96c1847"} , "Word" : "generic" , "meaning" : "জাতিগত; শ্রেণীগত"}
+{ "_id" : { "$oid" : "566fdc74e4b03dcbb96c1848"} , "Word" : "geniality" , "meaning" : "প্রফুল্ল"}
+{ "_id" : { "$oid" : "566fdc74e4b03dcbb96c1849"} , "Word" : "generation gap" , "meaning" : "প্রজন্মগত ব্যবধান; বিকাশপর্যায়;"}
+{ "_id" : { "$oid" : "566fdc75e4b03dcbb96c184a"} , "Word" : "geniuses" , "meaning" : "প্রতিভাবন্ ব্যক্তিগণ;"}
+{ "_id" : { "$oid" : "566fdc75e4b03dcbb96c184b"} , "Word" : "genres" , "meaning" : "রীতি; ধারা; প্রকার; রকম; ধরন; উপায়;"}
+{ "_id" : { "$oid" : "566fdc75e4b03dcbb96c184c"} , "Word" : "generate" , "meaning" : "উৎপাদন করা"}
+{ "_id" : { "$oid" : "566fdc76e4b03dcbb96c184d"} , "Word" : "generalised" , "meaning" : "বিশ্বজনীন করা; সাধারণের আয়ত্ত করা; সাধারণ করা; সর্বজনীন করা; সাধারণ রূপ দেত্তয়া; সাধারণ সংজ্ঞা দেত্তয়া; সামান্য করা; সাধারণের ব্যবহারে লাগান; সাধারণের বোধগম্য করা;"}
+{ "_id" : { "$oid" : "566fdc76e4b03dcbb96c184e"} , "Word" : "gentles" , "meaning" : "নরম করা; শান্ত করা; উপশম করা; কম করা; হ্রাস করা; কমিয়ে দেত্তয়া; কোমল করা;"}
+{ "_id" : { "$oid" : "566fdc76e4b03dcbb96c184f"} , "Word" : "gentleness" , "meaning" : "ভদ্রভাব; সদয়তা; কোমলতা"}
+{ "_id" : { "$oid" : "566fdc77e4b03dcbb96c1850"} , "Word" : "generous" , "meaning" : "উদার, দানশীল"}
+{ "_id" : { "$oid" : "566fdc77e4b03dcbb96c1851"} , "Word" : "geography" , "meaning" : "ভূগোলবিদ্যা; ভূগোলবিষয়ক বই"}
+{ "_id" : { "$oid" : "566fdc77e4b03dcbb96c1852"} , "Word" : "genuine" , "meaning" : "খাঁটি, অকত্রিম"}
+{ "_id" : { "$oid" : "566fdc78e4b03dcbb96c1853"} , "Word" : "generally" , "meaning" : "সাধারণত; সাধারণভাবে; সর্বজনীনভাবে; একত্রে; সচরাচর; প্রায় ক্ষেত্রেই; মোষের উপর; মোটের উপর;"}
+{ "_id" : { "$oid" : "566fdc78e4b03dcbb96c1854"} , "Word" : "generalization" , "meaning" : "সামান্যীকরণ; সাধারণীকরণ; সিদ্ধান্ত; মন্তব্য;"}
+{ "_id" : { "$oid" : "566fdc78e4b03dcbb96c1855"} , "Word" : "generator" , "meaning" : "বিদু্যৎ-উৎপাদক যন্ত্র"}
+{ "_id" : { "$oid" : "566fdc79e4b03dcbb96c1856"} , "Word" : "genitals" , "meaning" : "জননেনি্দ্রয়; উপস্থ;"}
+{ "_id" : { "$oid" : "566fdc79e4b03dcbb96c1857"} , "Word" : "geological" , "meaning" : "ভূবিদ্যাসংক্রান্ত"}
+{ "_id" : { "$oid" : "566fdc79e4b03dcbb96c1858"} , "Word" : "generalisation" , "meaning" : "সামান্যীকরণ; সাধারণীকরণ; সিদ্ধান্ত; মন্তব্য;"}
+{ "_id" : { "$oid" : "566fdc7ae4b03dcbb96c1859"} , "Word" : "gemstone" , "meaning" : "রত্ন পাথর;"}
+{ "_id" : { "$oid" : "566fdc7ae4b03dcbb96c185a"} , "Word" : "geographic" , "meaning" : "ভূগোল-সংক্রান্ত, ভৌগোলিক"}
+{ "_id" : { "$oid" : "566fdc7ae4b03dcbb96c185b"} , "Word" : "generative" , "meaning" : "উৎপাদনক্ষম"}
+{ "_id" : { "$oid" : "566fdc7be4b03dcbb96c185c"} , "Word" : "genera" , "meaning" : "মহাজাতি; বর্গ;"}
+{ "_id" : { "$oid" : "566fdc7be4b03dcbb96c185d"} , "Word" : "gentile" , "meaning" : "ইহুদী ভিন্ন অন্য জাতীয় লোক; পৌত্তলিক"}
+{ "_id" : { "$oid" : "566fdc7be4b03dcbb96c185e"} , "Word" : "genealogical" , "meaning" : "বংশানুক্রমিক বা বংশ সংক্রান্ত"}
+{ "_id" : { "$oid" : "566fdc7ce4b03dcbb96c185f"} , "Word" : "generalise" , "meaning" : "সাধারণ ধারণা গঠন; সামগ্রিক বৈশিষ্ট দান করা; সাধারণ অভিধা বা সংজ্ঞা দান করা; বিমূর্ত রূপদানের মাধ্যমে সাধারণ ধারণা গঠন করা; সার্বজনীন তত্ত্ব বা নিয়মে পরিণত করা; সাধারণ রূপ দেওয়া;"}
+{ "_id" : { "$oid" : "566fdc7ce4b03dcbb96c1860"} , "Word" : "gendarme" , "meaning" : "ফ্রান্সের সৈনিক আরক্ষী;"}
+{ "_id" : { "$oid" : "566fdc7de4b03dcbb96c1861"} , "Word" : "generating" , "meaning" : "উত্পাদন করা; সৃষ্টি করা; জন্মান; উদ্ভূত করান; উপজা; জন্মদান দেত্তয়া; জন্ম দেত্তয়া; উদ্ভূত করা;"}
+{ "_id" : { "$oid" : "566fdc7de4b03dcbb96c1862"} , "Word" : "geographically" , "meaning" : "ভৌগোলিক দিক থেকে; ভৌগোলিক বিচারে;"}
+{ "_id" : { "$oid" : "566fdc7de4b03dcbb96c1863"} , "Word" : "genus" , "meaning" : "কয়েকটি ক্ষুদ্র্র জাতির সমবায়; মহাজাতি"}
+{ "_id" : { "$oid" : "566fdc7ee4b03dcbb96c1864"} , "Word" : "geographical" , "meaning" : "ভূগোল-সংক্রান্ত, ভৌগোলিক"}
+{ "_id" : { "$oid" : "566fdc7ee4b03dcbb96c1865"} , "Word" : "genuineness" , "meaning" : "অকৃত্রিমতা; খাঁতিত্ব; প্রকৃতত্ব;"}
+{ "_id" : { "$oid" : "566fdc7ee4b03dcbb96c1866"} , "Word" : "generalissimo" , "meaning" : "প্রধান সেনাপতি; সর্বাধিনায়ক; মহাধ্যক্ষ সেনাপতি; জেনেরালিসিমো;"}
+{ "_id" : { "$oid" : "566fdc7fe4b03dcbb96c1867"} , "Word" : "genuiness" , "meaning" : "খাঁটিত্ব; অকৃত্রিমতা; প্রকৃতত্ব;"}
+{ "_id" : { "$oid" : "566fdc7fe4b03dcbb96c1868"} , "Word" : "general" , "meaning" : "সামরিক কর্মকর্তা"}
+{ "_id" : { "$oid" : "566fdc7fe4b03dcbb96c1869"} , "Word" : "genesis" , "meaning" : "সৃষ্টি, উৎপত্তি, আদি"}
+{ "_id" : { "$oid" : "566fdc80e4b03dcbb96c186a"} , "Word" : "genetics" , "meaning" : "প্রজননশাস্ত্র; সুপ্রজননবিদ্যা;"}
+{ "_id" : { "$oid" : "566fdc80e4b03dcbb96c186b"} , "Word" : "genealogy" , "meaning" : "বংশতালিকা, কুলজি"}
+{ "_id" : { "$oid" : "566fdc80e4b03dcbb96c186c"} , "Word" : "genie" , "meaning" : "জিন, ভূত, প্রেত"}
+{ "_id" : { "$oid" : "566fdc81e4b03dcbb96c186d"} , "Word" : "genial" , "meaning" : "সদয়; অমায়িক; স্বাস্থ্যকর; আনন্দদায়ক; চিবুকসংক্রান্ত; বর্ধনসহায়ক;"}
+{ "_id" : { "$oid" : "566fdc81e4b03dcbb96c186e"} , "Word" : "generations" , "meaning" : "প্রজন্ম; উত্পাদন; সৃষ্টি; জন্ম; উদ্ভব; পর্যায়; বংশধর; বংশপরস্পরা; প্রজনন; জনি; জনন; বংশের পর্যায়; সমকালীন ব্যক্তিবর্গ; জ্ঞাতি; ইতিহাস; সংজনন; সন্তান; পুরুষ;"}
+{ "_id" : { "$oid" : "566fdc81e4b03dcbb96c186f"} , "Word" : "genetic" , "meaning" : "সৃষ্টি, সম্বন্ধীয়"}
+{ "_id" : { "$oid" : "566fdc82e4b03dcbb96c1870"} , "Word" : "gentlemanlike" , "meaning" : "ভদ্রোচিত"}
+{ "_id" : { "$oid" : "566fdc82e4b03dcbb96c1871"} , "Word" : "gestures" , "meaning" : "অঙ্গভঙ্গি; ইঙ্গিত; সংকেত; অঙ্গবিক্ষেপ; সঙ্কেত; ব্যঁজনা; আকার-ইঙ্গিত;"}
+{ "_id" : { "$oid" : "566fdc83e4b03dcbb96c1872"} , "Word" : "get around" , "meaning" : "স্বমতে আনা; ভ্রমণ করা; স্বীয় কাজকর্ম করা; প্রসারিত হত্তয়া; প্রচারিত হত্তয়া; রাষ্ট্র হয়ে পড়া; এড়ান; বুঝাইয়া সুঝাইয়া রাজি করান; স্বপক্ষে আনা; সুস্থ হয়ে ত্তঠা; আরোগ্যলাভ করা; বহু জায়গা ঘোরা;"}
+{ "_id" : { "$oid" : "566fdc83e4b03dcbb96c1873"} , "Word" : "get at" , "meaning" : "পোঁছান; উপনীত হওয়া; পৌঁছান; নাগাল পাত্তয়া; হাতে পাত্তয়া; ধরিতে পারা; খুঁজিয়া পাত্তয়া; বুঝিতে পারা; কোন কিছু বুঝাইতে চাত্তয়া; ইঙ্গিত করা; পরিহাস করা;"}
+{ "_id" : { "$oid" : "566fdc83e4b03dcbb96c1874"} , "Word" : "get along" , "meaning" : "এগিয়ে চলা; সফল হওয়া; কোনোক্রমে চলে যাওয়া; কাজ চালিয়ে নেওয়া; মিলেমিশে থাকা; কার্যাদি চালান; চলিতে পারা; অগ্রসর হত্তয়া; উন্নতিলাভ করা; একমত হত্তয়া; সম্মত হত্তয়া; ঐক্যপূর্ণ হত্তয়া; সৌহাদ্র্যপূর্ণ হত্তয়া; মানাইয়া চলা;"}
+{ "_id" : { "$oid" : "566fdc84e4b03dcbb96c1875"} , "Word" : "get worse" , "meaning" : "অবনতি প্রাপ্ত হত্তয়া; অবনতি লাভ করা;"}
+{ "_id" : { "$oid" : "566fdc84e4b03dcbb96c1876"} , "Word" : "get-up" , "meaning" : "সাজ সজ্জা,অলঙ্ককরণ, পরিসাজ"}
+{ "_id" : { "$oid" : "566fdc84e4b03dcbb96c1877"} , "Word" : "get back" , "meaning" : "যাত্রাস্থলে ফিরিয়া আসা; পুনরূদ্ধার করা; ফিরিয়া পাত্তয়া; পূর্বস্থানে ফিরাইয়া নেত্তয়া; পূর্বস্থানে পৌঁছাইয়া দেত্তয়া;"}
+{ "_id" : { "$oid" : "566fdc85e4b03dcbb96c1878"} , "Word" : "germinant" , "meaning" : "অঙ্কুরোদগম হইতেছে এমন"}
+{ "_id" : { "$oid" : "566fdc85e4b03dcbb96c1879"} , "Word" : "germinal" , "meaning" : "বীজ সম্বন্ধীয়; উন্মেষ বা বুদ্ধির প্রথম অবস্থায়; প্রাথমিক অবস্থায়"}
+{ "_id" : { "$oid" : "566fdc85e4b03dcbb96c187a"} , "Word" : "geopolitics" , "meaning" : "ভৌগোলিক রাজনীতি; ভৌগলিক বৈশিষ্ট্যাদি দ্বারা নির্ধারিত রাজনীতি;"}
+{ "_id" : { "$oid" : "566fdc86e4b03dcbb96c187b"} , "Word" : "gerund" , "meaning" : "ক্রিয়াবাচক বিশেষ্যপদ"}
+{ "_id" : { "$oid" : "566fdc86e4b03dcbb96c187c"} , "Word" : "get across" , "meaning" : "বিরক্তি করা; খচিয়ে দেওয়া;"}
+{ "_id" : { "$oid" : "566fdc86e4b03dcbb96c187d"} , "Word" : "get out" , "meaning" : "বাহিরে আনা; বাহির করা; বেরিয়ে যাত্তয়া; বেরিয়ে পড়া;"}
+{ "_id" : { "$oid" : "566fdc87e4b03dcbb96c187e"} , "Word" : "geology" , "meaning" : "ভূতত্ত্ব,ভূবিদ্যা"}
+{ "_id" : { "$oid" : "566fdc87e4b03dcbb96c187f"} , "Word" : "getready" , "meaning" : "তৈয়ারি হত্তয়া; উদ্যোগ করা; প্রস্তুত হত্তয়া; উদ্যোগী হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdc87e4b03dcbb96c1880"} , "Word" : "geophysicist" , "meaning" : "ভূপদার্থবিদ্যা;"}
+{ "_id" : { "$oid" : "566fdc88e4b03dcbb96c1881"} , "Word" : "get to" , "meaning" : "উপনীত হওয়া; আরম্ভ করা;"}
+{ "_id" : { "$oid" : "566fdc88e4b03dcbb96c1882"} , "Word" : "geranium" , "meaning" : "একজাতের গাছ যা সারসচঞ্চু-আকৃতির ফল দেয়;"}
+{ "_id" : { "$oid" : "566fdc88e4b03dcbb96c1883"} , "Word" : "georgic" , "meaning" : "কৃষি, সম্বন্ধীয় *"}
+{ "_id" : { "$oid" : "566fdc89e4b03dcbb96c1884"} , "Word" : "get round" , "meaning" : "তোষামদ করে হাত করে ফেলা; এড়ান; বুঝাইয়া সুঝাইয়া রাজি করান; স্বপক্ষে আনা; স্বমতে আনা; সুস্থ হয়ে ত্তঠা; আরোগ্যলাভ করা;"}
+{ "_id" : { "$oid" : "566fdc89e4b03dcbb96c1885"} , "Word" : "geothermal" , "meaning" : "ভূ-তাপীয়;"}
+{ "_id" : { "$oid" : "566fdc89e4b03dcbb96c1886"} , "Word" : "get off" , "meaning" : "নেমে আসা; অবরোহন করা; অবতরণ করা; অপসৃত হত্তয়া; সরা; যাত্রা করা; এড়ান; পলায়ন করা; নিজে নিজে পরিচিত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdc8ae4b03dcbb96c1887"} , "Word" : "gesticulate" , "meaning" : "কথাবার্তার সঙ্গে সঙ্গে কথাবার্তা না বলিয়া থাকার ইঙ্গিতে করা"}
+{ "_id" : { "$oid" : "566fdc8ae4b03dcbb96c1888"} , "Word" : "germicide" , "meaning" : "জীবাণুনাশক দ্রব্য"}
+{ "_id" : { "$oid" : "566fdc8ae4b03dcbb96c1889"} , "Word" : "get hurt" , "meaning" : "ক্ষত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdc8be4b03dcbb96c188a"} , "Word" : "gesticulation" , "meaning" : "অঙ্গভঙ্গীকরণ; ঠার;"}
+{ "_id" : { "$oid" : "566fdc8be4b03dcbb96c188b"} , "Word" : "get down" , "meaning" : "লিখে রাখা; অবতরণ করা; গিলে ফেলা; গলাধ:করণ করা; লিখিয়া লত্তয়া; মনমরা করা; নামা;"}
+{ "_id" : { "$oid" : "566fdc8be4b03dcbb96c188c"} , "Word" : "germs" , "meaning" : "জীবাণু; অঙ্কুর; বীজ; উত্স; সূত্রপাত; মূলসূত্র; রোগজীবাণু;"}
+{ "_id" : { "$oid" : "566fdc8ce4b03dcbb96c188d"} , "Word" : "get" , "meaning" : "পাওয়া,অর্জন করা, আনা"}
+{ "_id" : { "$oid" : "566fdc8ce4b03dcbb96c188e"} , "Word" : "getting over" , "meaning" : "ডিঙ্গাইয়া পার হত্তয়া; অতিক্রম করা; কাটাইয়া ত্তঠা; সামলাইয়া ত্তঠা; উত্তীর্ণ হত্তয়া; আরোগ্যলাভ করা; তরা;"}
+{ "_id" : { "$oid" : "566fdc8ce4b03dcbb96c188f"} , "Word" : "get in" , "meaning" : "উঠা; ঢোকা; পৌঁছান; ঢোকান; সংগ্রহ করিয়া আনা; আদায় করিয়া আনা;"}
+{ "_id" : { "$oid" : "566fdc8de4b03dcbb96c1890"} , "Word" : "german" , "meaning" : "জার্মানীদেশীয় (লোক বা ভাষা)"}
+{ "_id" : { "$oid" : "566fdc8de4b03dcbb96c1891"} , "Word" : "germ" , "meaning" : "বীজ; রোগ জীবাণু; অঙ্কুর বা মূল"}
+{ "_id" : { "$oid" : "566fdc8de4b03dcbb96c1892"} , "Word" : "gerrymander" , "meaning" : "ষড়্যন্ত্র; কূটকৌশল;"}
+{ "_id" : { "$oid" : "566fdc8ee4b03dcbb96c1893"} , "Word" : "georgia" , "meaning" : "জর্জিয়া;"}
+{ "_id" : { "$oid" : "566fdc8ee4b03dcbb96c1894"} , "Word" : "geometry" , "meaning" : "জ্যামিতি, ক্ষেত্রতত্ত্ব"}
+{ "_id" : { "$oid" : "566fdc8ee4b03dcbb96c1895"} , "Word" : "germane," , "meaning" : "সঙ্গত; প্রাসঙ্গিক; যথাযথ;"}
+{ "_id" : { "$oid" : "566fdc8fe4b03dcbb96c1896"} , "Word" : "get up" , "meaning" : "ওঠা; উঠে দাঁড়ানো; বিছান থেকে ওঠা; উঠে পড়া; ঘোড়ার পিঠে চড়া; উঠা; ত্তঠা; উঠিয়া দাঁড়ান; উত্থান করা; অভু্যত্থান করা; গা তোলা; জাগা; জাগান; শয্যা হইতে ত্তঠা; শয্যা হইতে তোলা; আরোহণ করা; শেখা করা; মুখস্থ করা; নাগাল ধরা; পরিশোভিত করা; আয়োজন করা; ব্যবস্থা করা; উত্পাদন করা; সাজা; পোশাক পরা;"}
+{ "_id" : { "$oid" : "566fdc8fe4b03dcbb96c1897"} , "Word" : "getdown" , "meaning" : "লিখে রাখা; অবতরণ করা; গিলে ফেলা; গলাধ:করণ করা; লিখিয়া লত্তয়া; মনমরা করা; নামা;"}
+{ "_id" : { "$oid" : "566fdc8fe4b03dcbb96c1898"} , "Word" : "gestate" , "meaning" : "গর্ভনিষেক থেকে প্রসবের কাল পর্যন্ত গর্ভে ধারণ করা;"}
+{ "_id" : { "$oid" : "566fdc90e4b03dcbb96c1899"} , "Word" : "germinated" , "meaning" : "অঙ্কুরিত; উদ্ভিন্ন;"}
+{ "_id" : { "$oid" : "566fdc90e4b03dcbb96c189a"} , "Word" : "geriatrics" , "meaning" : "বার্ধক্যবিদ্যা; বৃদ্ধদের স্বাস্থ্য ও পরিচর্যা সংক্রান্ত চিকিৎসাবিজ্ঞান বা সমাজবিজ্ঞান;"}
+{ "_id" : { "$oid" : "566fdc90e4b03dcbb96c189b"} , "Word" : "get back at" , "meaning" : "ফিরে মার দেওয়া; শোধ তোলা;"}
+{ "_id" : { "$oid" : "566fdc91e4b03dcbb96c189c"} , "Word" : "getting" , "meaning" : "প্রাপ্তি;"}
+{ "_id" : { "$oid" : "566fdc91e4b03dcbb96c189d"} , "Word" : "getover" , "meaning" : "পার হয়ে যাওয়া; ডিঙ্গাইয়া পার হত্তয়া; অতিক্রম করা; কাটাইয়া ত্তঠা; সামলাইয়া ত্তঠা; উত্তীর্ণ হত্তয়া; আরোগ্যলাভ করা; তরা;"}
+{ "_id" : { "$oid" : "566fdc91e4b03dcbb96c189e"} , "Word" : "get rid of" , "meaning" : "মুক্ত করা; পরিত্রাণ পাত্তয়া;"}
+{ "_id" : { "$oid" : "566fdc92e4b03dcbb96c189f"} , "Word" : "geometric" , "meaning" : "জ্যামিতিক, জ্যামিতি বিষয়ক"}
+{ "_id" : { "$oid" : "566fdc92e4b03dcbb96c18a0"} , "Word" : "get lost" , "meaning" : "বিদায় হোন!;"}
+{ "_id" : { "$oid" : "566fdc92e4b03dcbb96c18a1"} , "Word" : "gestapo" , "meaning" : "জার্র্মানদিগের গুপ্ত পুলিস বা গোয়েন্দা"}
+{ "_id" : { "$oid" : "566fdc93e4b03dcbb96c18a2"} , "Word" : "get out of" , "meaning" : "নামা;"}
+{ "_id" : { "$oid" : "566fdc93e4b03dcbb96c18a3"} , "Word" : "georgette" , "meaning" : "একপ্রকার পাতলা রেশমী বস্ত্র"}
+{ "_id" : { "$oid" : "566fdc93e4b03dcbb96c18a4"} , "Word" : "get-together" , "meaning" : "প্রীতিসম্মেলন"}
+{ "_id" : { "$oid" : "566fdc94e4b03dcbb96c18a5"} , "Word" : "get through" , "meaning" : "সমাপ্তি বা ইতি ঘটানো; অনুমোদিত হওয়া; পাশ করানো; পৌঁছান; শেষ করা; টেলিফোনে লাইন পাত্তয়া; উত্তীর্ণ হত্তয়া; পাস করা; পাস করান;"}
+{ "_id" : { "$oid" : "566fdc94e4b03dcbb96c18a6"} , "Word" : "get over" , "meaning" : "পার হয়ে যাওয়া; ডিঙ্গাইয়া পার হত্তয়া; অতিক্রম করা; কাটাইয়া ত্তঠা; সামলাইয়া ত্তঠা; উত্তীর্ণ হত্তয়া; আরোগ্যলাভ করা; তরা;"}
+{ "_id" : { "$oid" : "566fdc94e4b03dcbb96c18a7"} , "Word" : "get by" , "meaning" : "কোনরকমে প্রয়োজন মেটানো; বাধা বিপত্তি সত্বেও চালিয়ে নেওয়া; পাশ দিয়া যাত্তয়া;"}
+{ "_id" : { "$oid" : "566fdc95e4b03dcbb96c18a8"} , "Word" : "geometrical" , "meaning" : "জ্যামিতিক, জ্যামিতি বিষয়ক"}
+{ "_id" : { "$oid" : "566fdc95e4b03dcbb96c18a9"} , "Word" : "getoff" , "meaning" : "নেমে আসা; অবরোহন করা; অবতরণ করা; অপসৃত হত্তয়া; সরা; যাত্রা করা; এড়ান; পলায়ন করা; নিজে নিজে পরিচিত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdc95e4b03dcbb96c18aa"} , "Word" : "germination" , "meaning" : "অঙ্কুরোদগম"}
+{ "_id" : { "$oid" : "566fdc96e4b03dcbb96c18ab"} , "Word" : "georgian" , "meaning" : "ককেসাসের,অন্তর্গত জর্জিয়া দেশীয়"}
+{ "_id" : { "$oid" : "566fdc96e4b03dcbb96c18ac"} , "Word" : "gestation" , "meaning" : "গর্ভধারণকাল"}
+{ "_id" : { "$oid" : "566fdc97e4b03dcbb96c18ad"} , "Word" : "gets" , "meaning" : "হত্তয়া; ধরা; পাত্তয়া; অর্জন করা; বুঝিতে পারা; চালান; লাভ করা; আঘাত করা; প্রাপ্ত হত্তয়া; শেখা; মুখস্থ করা; আনিয়া দেত্তয়া; পাত্তয়া করা; জুটান; সংগ্রহ করা; গ্রেপ্তার করা; আকৃষ্ট করা; আবিষ্কার করা; দেখিতে পাত্তয়া; পরাভূত করা; সংগ্রাম করা; উত্ত্যক্ত করা; হত্তয়ান; অধিকতর সমৃদ্ধ হত্তয়া; অবলম্বন করা; জন্ম দেত্তয়া; উপনীত হত্তয়া; আয়ত্তে আনা; আনা; যোগাযোগ স্থাপন করা; সংযোগ স্থাপন করা; প্ররোচিত করা; জোটান;"}
+{ "_id" : { "$oid" : "566fdc97e4b03dcbb96c18ae"} , "Word" : "germing" , "meaning" : "বিকশিত হত্তয়া; উন্নত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdc97e4b03dcbb96c18af"} , "Word" : "gerontology" , "meaning" : "বার্ধক্যবিদ্যা;"}
+{ "_id" : { "$oid" : "566fdc98e4b03dcbb96c18b0"} , "Word" : "gesture" , "meaning" : "অর্থবোধক অঙ্গভঙ্গী বা ইশারা"}
+{ "_id" : { "$oid" : "566fdc98e4b03dcbb96c18b1"} , "Word" : "get away" , "meaning" : "পাঠাইয়া দেত্তয়া; পাঠাইয়া সরান; পাঠাইয়া দূর করা; পলায়ন করা;"}
+{ "_id" : { "$oid" : "566fdc98e4b03dcbb96c18b2"} , "Word" : "germinate" , "meaning" : "অঙ্কুরিত হওয়া বা করা"}
+{ "_id" : { "$oid" : "566fdc99e4b03dcbb96c18b3"} , "Word" : "get on" , "meaning" : "বিরক্তি উত্পাদন করা; চড়ে বসা; আরোহণ করা; আরোহণ করা; ভর দেত্তয়া; অগ্রসর হত্তয়া; আসন্ন হত্তয়া; উন্নতিলাভ করা; মানাইয়া চলা; পরিধান করা; উপরে লাগান; উপরে বসান; ঘনান;"}
+{ "_id" : { "$oid" : "566fdc99e4b03dcbb96c18b4"} , "Word" : "get together" , "meaning" : "একত্র করা; একত্র হত্তয়া; জড় হত্তয়া; জড় করা;"}
+{ "_id" : { "$oid" : "566fdc99e4b03dcbb96c18b5"} , "Word" : "george" , "meaning" : "পুরুষমানুষের নাম; উড়োজাহাজের স্বয়ংক্রিয় চালক; বিস্ময় বা অনুমোদনসূচক দিব্যি; জর্জি;"}
+{ "_id" : { "$oid" : "566fdc9ae4b03dcbb96c18b6"} , "Word" : "get ready" , "meaning" : "তৈয়ারি হত্তয়া; উদ্যোগ করা; প্রস্তুত হত্তয়া; উদ্যোগী হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdc9ae4b03dcbb96c18b7"} , "Word" : "get into" , "meaning" : "প্রভাবিত করা; গুলিয়ে দেওয়া; আগ্রহী হয়ে ওঠা; ঢোকা; পরিধান করা; সঁচারিত হত্তয়া; সঁচালিত হত্তয়া; আবিষ্ট হত্তয়া; অভ্যস্ত হত্তয়া; সেঁধান;"}
+{ "_id" : { "$oid" : "566fdc9ae4b03dcbb96c18b8"} , "Word" : "gettired" , "meaning" : "পরিশ্রান্ত হত্তয়া; শ্রান্ত হত্তয়া; ক্লান্ত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdc9be4b03dcbb96c18b9"} , "Word" : "get under" , "meaning" : "স্তিমিত করা; দমন করা; প্রশমিত করা;"}
+{ "_id" : { "$oid" : "566fdc9be4b03dcbb96c18ba"} , "Word" : "gestured" , "meaning" : "অঙ্গভঙ্গির দ্বারা প্রকাশ করা; অঙ্গবিক্ষেপ করা; অঙ্গভঙ্গি করা;"}
+{ "_id" : { "$oid" : "566fdc9be4b03dcbb96c18bb"} , "Word" : "geton" , "meaning" : "বিরক্তি উত্পাদন করা; চড়ে বসা; আরোহণ করা; আরোহণ করা; ভর দেত্তয়া; অগ্রসর হত্তয়া; আসন্ন হত্তয়া; উন্নতিলাভ করা; মানাইয়া চলা; পরিধান করা; উপরে লাগান; উপরে বসান; ঘনান;"}
+{ "_id" : { "$oid" : "566fdc9ce4b03dcbb96c18bc"} , "Word" : "gestalt" , "meaning" : "আকার; গড়ন; ধাঁচ; যে উপলব্ধির সামগ্রিকতা খণ্ড উপাদানগুলির যোগফলের অতিরিক্ত;"}
+{ "_id" : { "$oid" : "566fdc9ce4b03dcbb96c18bd"} , "Word" : "geophysics" , "meaning" : "ভূপ্রকৃতিবিদ্যা;"}
+{ "_id" : { "$oid" : "566fdc9de4b03dcbb96c18be"} , "Word" : "girlish" , "meaning" : "বালিকাসুলভ; বালিকার ন্যায়; মেয়েদের মতো;"}
+{ "_id" : { "$oid" : "566fdc9de4b03dcbb96c18bf"} , "Word" : "gettogether" , "meaning" : "একত্র হত্তয়া; জড় হত্তয়া; একত্র করা; জড় করা;"}
+{ "_id" : { "$oid" : "566fdc9de4b03dcbb96c18c0"} , "Word" : "giltedged" , "meaning" : "স্বর্ণতুল্য; গিলটিকরা প্রান্তযুক্ত; শ্রেষ্ঠ শ্রেণীর; সম্পূর্ণ নিরাপদ্;"}
+{ "_id" : { "$oid" : "566fdc9ee4b03dcbb96c18c1"} , "Word" : "giber" , "meaning" : "উপহাসকারী; পরিহাসকারী; ব্যঙ্গকারী; বিদ্রূপকারী;"}
+{ "_id" : { "$oid" : "566fdc9ee4b03dcbb96c18c2"} , "Word" : "giddiness" , "meaning" : "মাথা ঘোরা রোগ"}
+{ "_id" : { "$oid" : "566fdc9ee4b03dcbb96c18c3"} , "Word" : "ghosts" , "meaning" : "প্রেতাত্মা; প্রেত; ভূত; অপচ্ছায়া; অপদেবতা; উপচ্ছায়া; মূর্ত প্রেত; জীবিত ব্যক্তির ছায়ামুর্তি; জীবিত ব্যক্তির প্রেতাত্মা; মানুষের আত্মা; সূক্ষ্মদেহ; ক্ষীণ আভাস; মিথ্যা আভাস; সাদৃশ্য; ভৌতিক দেহ;"}
+{ "_id" : { "$oid" : "566fdc9fe4b03dcbb96c18c4"} , "Word" : "gist" , "meaning" : "সারমর্ম; মূল বক্তব্য"}
+{ "_id" : { "$oid" : "566fdc9fe4b03dcbb96c18c5"} , "Word" : "ghost" , "meaning" : "ভূত; প্রেত"}
+{ "_id" : { "$oid" : "566fdc9fe4b03dcbb96c18c6"} , "Word" : "girl friend" , "meaning" : "বন্ধুনী; বান্ধবী; মেয়ে বন্ধু;"}
+{ "_id" : { "$oid" : "566fdca0e4b03dcbb96c18c7"} , "Word" : "gimlet" , "meaning" : "তুরপুন; তুরপুন দ্বারা ছিদ্র করা"}
+{ "_id" : { "$oid" : "566fdca0e4b03dcbb96c18c8"} , "Word" : "giggled" , "meaning" : "মুখ চাপিয়া হাসা;"}
+{ "_id" : { "$oid" : "566fdca0e4b03dcbb96c18c9"} , "Word" : "ghana" , "meaning" : "ঘানা; গানা;"}
+{ "_id" : { "$oid" : "566fdca1e4b03dcbb96c18ca"} , "Word" : "ghastly" , "meaning" : "মৃত্যুবৎ (ভয়ঙ্কর); বীভৎস; বিবর্ণ"}
+{ "_id" : { "$oid" : "566fdca1e4b03dcbb96c18cb"} , "Word" : "gibbering" , "meaning" : "অর্থহীন আত্তয়াজ করা; অস্পষ্ট আত্তয়াজ করা;"}
+{ "_id" : { "$oid" : "566fdca1e4b03dcbb96c18cc"} , "Word" : "gilt" , "meaning" : "স্বর্ণমন্ডিত;গিলটি করা"}
+{ "_id" : { "$oid" : "566fdca2e4b03dcbb96c18cd"} , "Word" : "gingerbread" , "meaning" : "জিনজার ব্রেড;"}
+{ "_id" : { "$oid" : "566fdca2e4b03dcbb96c18ce"} , "Word" : "gill" , "meaning" : "পরিমান বিশেষ; পাইটের চতুর্থ ভাগ"}
+{ "_id" : { "$oid" : "566fdca2e4b03dcbb96c18cf"} , "Word" : "getto" , "meaning" : "উপনীত হওয়া; আরম্ভ করা;"}
+{ "_id" : { "$oid" : "566fdca3e4b03dcbb96c18d0"} , "Word" : "giraffes" , "meaning" : "জিরাফ;"}
+{ "_id" : { "$oid" : "566fdca3e4b03dcbb96c18d1"} , "Word" : "ghosted" , "meaning" : "উদয় হত্তয়া; হাজির হত্তয়া; আসা;"}
+{ "_id" : { "$oid" : "566fdca3e4b03dcbb96c18d2"} , "Word" : "girder" , "meaning" : "বেষ্টনকারী বস্তু, প্রধান কড়ি কাঠ"}
+{ "_id" : { "$oid" : "566fdca4e4b03dcbb96c18d3"} , "Word" : "gild" , "meaning" : "সোনা দিযে মোড়া বা সোনালী রঙ দ্বারা উজ্জ্বল করা"}
+{ "_id" : { "$oid" : "566fdca4e4b03dcbb96c18d4"} , "Word" : "git" , "meaning" : "ফালতু বা এলেবেলে লোক;"}
+{ "_id" : { "$oid" : "566fdca4e4b03dcbb96c18d5"} , "Word" : "girlhood" , "meaning" : "বালিকা-বয়স; বালিকাবস্থা"}
+{ "_id" : { "$oid" : "566fdca5e4b03dcbb96c18d6"} , "Word" : "gipsy" , "meaning" : "জিপসি; বেদে; ভারতীয যাযাবর শ্রেনী থেকে উদ্ভূতভবঘুরে জাতিভুক্ত লোক; আকর্ষণীয় বা দুষ্টু লোক;"}
+{ "_id" : { "$oid" : "566fdca5e4b03dcbb96c18d7"} , "Word" : "gills" , "meaning" : "ফুলকা; ফুল্কা; কানকুয়া; মত্স্যাদির শ্বাযন্ত্র; কঙ্কত; কাণকুয়া; পাইঁটের চতুর্থ ভাগ;"}
+{ "_id" : { "$oid" : "566fdca5e4b03dcbb96c18d8"} , "Word" : "ghetto" , "meaning" : "মহল্লা; বস্তি; প্রাচীন শহরের ইহুদি বসতি; বিশেষত যেখানে সংখ্যালঘু সম্প্রদায়ের বাস; শহরে ইন্থর্দিপাড়া; শহরাদিতে ইন্থদিপাড়া;"}
+{ "_id" : { "$oid" : "566fdca6e4b03dcbb96c18d9"} , "Word" : "give birth" , "meaning" : "প্রসব করা; জন্ম দেত্তয়া; ফলন দেত্তয়া; উদ্রেক করা;"}
+{ "_id" : { "$oid" : "566fdca6e4b03dcbb96c18da"} , "Word" : "ginkgo" , "meaning" : "গিংকো;"}
+{ "_id" : { "$oid" : "566fdca6e4b03dcbb96c18db"} , "Word" : "geyser" , "meaning" : "উষ্ণ প্রস্রবণ; জল গরম করার যন্ত্র"}
+{ "_id" : { "$oid" : "566fdca7e4b03dcbb96c18dc"} , "Word" : "giggling" , "meaning" : "মুখ চাপিয়া হাসা;"}
+{ "_id" : { "$oid" : "566fdca7e4b03dcbb96c18dd"} , "Word" : "gin" , "meaning" : "জাল; ফাঁদ; এক ধরনের বর্ণহীন মাদক দ্রব্য"}
+{ "_id" : { "$oid" : "566fdca7e4b03dcbb96c18de"} , "Word" : "gibbon" , "meaning" : "একজাতীয় দীর্ঘবাহু বানর"}
+{ "_id" : { "$oid" : "566fdca8e4b03dcbb96c18df"} , "Word" : "gib" , "meaning" : "বিড়াল; হুল বিড়াল; চিপ; বল্টু; গোঁজ; কাঠ বা ধাতুর যে টুকরো গুঁজে দিয়ে মেশিন ইত্যাদির কোন অংশ ঠিক অবস্থানে রাখা হয়;"}
+{ "_id" : { "$oid" : "566fdca8e4b03dcbb96c18e0"} , "Word" : "gigs" , "meaning" : "দ্বিচক্রযানবিশেষ; অস্থিরচিত্তা বালিকা; অস্থিরচিত্তা তরুণী; লম্বা হাল্কা ছিপ; বাইচের নৌকা; কোঁচ;"}
+{ "_id" : { "$oid" : "566fdca8e4b03dcbb96c18e1"} , "Word" : "getup" , "meaning" : "অঙ্গ-সজ্জা; সাজসজ্জা; বাহ্য চেহারা; পরিসাজ;"}
+{ "_id" : { "$oid" : "566fdca9e4b03dcbb96c18e2"} , "Word" : "gingerly" , "meaning" : "সাবধানে; সুন্দররূপে; নি:শব্দচরণে; খুব সাবধানে; অতি সন্তর্পণে; পা টিপে; চুপি চুপি;"}
+{ "_id" : { "$oid" : "566fdca9e4b03dcbb96c18e3"} , "Word" : "gig" , "meaning" : "দুই চাকাবিশিষ্ট এক ঘোড়ার হালকা গাড়ি"}
+{ "_id" : { "$oid" : "566fdca9e4b03dcbb96c18e4"} , "Word" : "gimp" , "meaning" : "কাক; পঙ্গুতা; খঁজত্ব; পঙ্গু লোক; খোঁড়া; খোঁড়ামি; দড়ি বা তারের সঙে পাকানো সিল্কের বা সূতির ফিতে; ছিপের জন্য তার মোড়া সিল্কের সূতো;"}
+{ "_id" : { "$oid" : "566fdcaae4b03dcbb96c18e5"} , "Word" : "gift" , "meaning" : "উপহার; দান; সহজাত গুণ"}
+{ "_id" : { "$oid" : "566fdcaae4b03dcbb96c18e6"} , "Word" : "giggle" , "meaning" : "মুখ চেপে হাসা; মুখ চেপে হাসি"}
+{ "_id" : { "$oid" : "566fdcaae4b03dcbb96c18e7"} , "Word" : "give" , "meaning" : "দেওয়া; প্রদান করা"}
+{ "_id" : { "$oid" : "566fdcabe4b03dcbb96c18e8"} , "Word" : "girth" , "meaning" : "জিনের পেটি; কোমরের বেড়"}
+{ "_id" : { "$oid" : "566fdcabe4b03dcbb96c18e9"} , "Word" : "ghoul" , "meaning" : "মৃতদেহ ভক্ষণকারী; পিশাচ"}
+{ "_id" : { "$oid" : "566fdcace4b03dcbb96c18ea"} , "Word" : "gingers" , "meaning" : "আদা; আদ্রক; ধাত; উত্তেজন; তেজ-সঁচার;"}
+{ "_id" : { "$oid" : "566fdcace4b03dcbb96c18eb"} , "Word" : "getworse" , "meaning" : "অবনতি প্রাপ্ত হত্তয়া; অবনতি লাভ করা;"}
+{ "_id" : { "$oid" : "566fdcace4b03dcbb96c18ec"} , "Word" : "gibe" , "meaning" : "গালি দেওয়া; বিদ্রূপ করা"}
+{ "_id" : { "$oid" : "566fdcade4b03dcbb96c18ed"} , "Word" : "gimmick" , "meaning" : "বিজ্ঞাপনের চমক; মনভোলানো চটক; মনোযোগ আকর্ষণের কায়দা বা চতুরী; প্রতারণাপূর্ণ কৌশল;"}
+{ "_id" : { "$oid" : "566fdcade4b03dcbb96c18ee"} , "Word" : "gibbet" , "meaning" : "ফাঁসিকাঠ; উপহাসাস্পদ করা;"}
+{ "_id" : { "$oid" : "566fdcade4b03dcbb96c18ef"} , "Word" : "gibber" , "meaning" : "বিড়বিড় করা, অর্থহীন কথা বলা"}
+{ "_id" : { "$oid" : "566fdcaee4b03dcbb96c18f0"} , "Word" : "gigolo" , "meaning" : "পেশাদার পুরুষ নৃত্য সঙ্গী; বয়স্কা ধনবতী মহিলার রক্ষিত যুবক সঙ্গী; পেশাদার পুরুষ নৃত্যসঙ্গী;"}
+{ "_id" : { "$oid" : "566fdcaee4b03dcbb96c18f1"} , "Word" : "give back" , "meaning" : "ফিরিয়ে দেত্তয়া; ফেরৎ দেত্তয়া; ফেরৎ পাঠান; প্রতিদান দেত্তয়া; পুনরর্পণ করা; প্রত্যর্পণ করা; প্রত্যয়র্পণ করা; দেত্তয়া;"}
+{ "_id" : { "$oid" : "566fdcaee4b03dcbb96c18f2"} , "Word" : "girl" , "meaning" : "বালিকা ; কুমারী মেয়ে"}
+{ "_id" : { "$oid" : "566fdcafe4b03dcbb96c18f3"} , "Word" : "gibbets" , "meaning" : "ফাঁসিকাঠ; উপহাসাস্পদ করা;"}
+{ "_id" : { "$oid" : "566fdcafe4b03dcbb96c18f4"} , "Word" : "giddily" , "meaning" : "লঘুচিত্তভাবে;"}
+{ "_id" : { "$oid" : "566fdcafe4b03dcbb96c18f5"} , "Word" : "gifting" , "meaning" : "উপহার দেত্তয়া; বিশেষ গুণবিশিষ্ট করা; বিশেষ শক্তি করা; ভূষিত করা;"}
+{ "_id" : { "$oid" : "566fdcb0e4b03dcbb96c18f6"} , "Word" : "giraffe" , "meaning" : "জিরাফ"}
+{ "_id" : { "$oid" : "566fdcb0e4b03dcbb96c18f7"} , "Word" : "gimmicks" , "meaning" : "প্রতারণাপূর্ণ কৌশল;"}
+{ "_id" : { "$oid" : "566fdcb0e4b03dcbb96c18f8"} , "Word" : "gird" , "meaning" : "বেষ্টন করে বাঁধা"}
+{ "_id" : { "$oid" : "566fdcb1e4b03dcbb96c18f9"} , "Word" : "gifted" , "meaning" : "সহজাত, গুণসম্পন্ন"}
+{ "_id" : { "$oid" : "566fdcb1e4b03dcbb96c18fa"} , "Word" : "ghettos" , "meaning" : "শহরে ইন্থর্দিপাড়া; শহরাদিতে ইন্থদিপাড়া;"}
+{ "_id" : { "$oid" : "566fdcb1e4b03dcbb96c18fb"} , "Word" : "ginned" , "meaning" : "ফাঁদে ফেলা; জালে আটকান; ফাঁদে আটকান; পরিষ্কার করা;"}
+{ "_id" : { "$oid" : "566fdcb2e4b03dcbb96c18fc"} , "Word" : "ghostly" , "meaning" : "ধর্মসংক্রান্ত; আবছায়া; অশরীরী; ক্ষীণ; আধ্যাত্মিক; ভৌতিক; ভৌতিক; ভূতের মতো; প্রেতসদৃশ; আত্মিক; ভূতুড়ে;"}
+{ "_id" : { "$oid" : "566fdcb2e4b03dcbb96c18fd"} , "Word" : "gigantic" , "meaning" : "বৃহদাকার; দানবীয়"}
+{ "_id" : { "$oid" : "566fdcb2e4b03dcbb96c18fe"} , "Word" : "gewgaw" , "meaning" : "অল্প দামের চটকদার অলংকার বা খেলনা"}
+{ "_id" : { "$oid" : "566fdcb3e4b03dcbb96c18ff"} , "Word" : "ghat" , "meaning" : "ঘাট; পর্বতশ্রেণী; গিরিপথ; নদীর ঘাট; শ্মশান-ঘাট;"}
+{ "_id" : { "$oid" : "566fdcb3e4b03dcbb96c1900"} , "Word" : "gherkin" , "meaning" : "ক্ষীরা; এক ধরনের ছোট কচি শশা যা আচার বানাতে কাজে লাগে;"}
+{ "_id" : { "$oid" : "566fdcb3e4b03dcbb96c1901"} , "Word" : "ginger" , "meaning" : "আদা ; আদার রসমিশান পানীয়"}
+{ "_id" : { "$oid" : "566fdcb4e4b03dcbb96c1902"} , "Word" : "ghoulish" , "meaning" : "পৈশাচিক; পৈশাচ; মড়া-থেকো; ভযানক; বীভৎস; জঘন্য; কদর্য;"}
+{ "_id" : { "$oid" : "566fdcb4e4b03dcbb96c1903"} , "Word" : "girlfriend" , "meaning" : "বান্ধবী; সখী; সই;"}
+{ "_id" : { "$oid" : "566fdcb4e4b03dcbb96c1904"} , "Word" : "girt" , "meaning" : "বেষ্টন করা"}
+{ "_id" : { "$oid" : "566fdcb5e4b03dcbb96c1905"} , "Word" : "ghee" , "meaning" : "ঘি; ঘৃত;"}
+{ "_id" : { "$oid" : "566fdcb5e4b03dcbb96c1906"} , "Word" : "gilded" , "meaning" : "স্বর্ণাবৃত্তি করা; সোনালী;"}
+{ "_id" : { "$oid" : "566fdcb5e4b03dcbb96c1907"} , "Word" : "give away" , "meaning" : "দান করা সম্পত্তি; অজান্তে প্রকাশ বা ফাঁস করে ফেলা; ছাড়িয়া দেত্তয়া; বিতরণ করা; বাঁটিয়া দেত্তয়া; ফিরিয়ে দেত্তয়া; ফেরৎ দেত্তয়া; দেত্তয়া; বিকান;"}
+{ "_id" : { "$oid" : "566fdcb6e4b03dcbb96c1908"} , "Word" : "gibberish" , "meaning" : "দ্রুত উচ্চারিত; অস্পষ্ট কথা"}
+{ "_id" : { "$oid" : "566fdcb6e4b03dcbb96c1909"} , "Word" : "giblets" , "meaning" : "পাখির মাংস রাধবার আগে পাখির শরীরের যে সমস্ত ভক্ষণযোগ্য অঙ্গ আলাদা করে নেওয়া হয়;"}
+{ "_id" : { "$oid" : "566fdcb6e4b03dcbb96c190a"} , "Word" : "giddy" , "meaning" : "মাথা ঘোরা রোগ বিশিষ্ট"}
+{ "_id" : { "$oid" : "566fdcb7e4b03dcbb96c190b"} , "Word" : "girdle" , "meaning" : "কোমর বন্ধ, ঘের"}
+{ "_id" : { "$oid" : "566fdcb7e4b03dcbb96c190c"} , "Word" : "giant" , "meaning" : "দৈত্য, দানব; অসাধারন আকার ও শক্তিবিশিষ্ট লোক"}
+{ "_id" : { "$oid" : "566fdcb8e4b03dcbb96c190d"} , "Word" : "gleaned" , "meaning" : "কুড়ান;"}
+{ "_id" : { "$oid" : "566fdcb8e4b03dcbb96c190e"} , "Word" : "glide" , "meaning" : "স্বচ্ছন্দ বা ধীরগতিতে চলা বা ওড়া"}
+{ "_id" : { "$oid" : "566fdcb8e4b03dcbb96c190f"} , "Word" : "glancing" , "meaning" : "নেত্রপাত;"}
+{ "_id" : { "$oid" : "566fdcb9e4b03dcbb96c1910"} , "Word" : "glaze" , "meaning" : "কাঁচ বা সার্সী বসানো, চকচক করা"}
+{ "_id" : { "$oid" : "566fdcb9e4b03dcbb96c1911"} , "Word" : "glaringly" , "meaning" : "উজ্জ্বলরূপে;"}
+{ "_id" : { "$oid" : "566fdcb9e4b03dcbb96c1912"} , "Word" : "giveout" , "meaning" : "শেষ হয়ে যাওয়া; ফুরিয়ে যাওয়া; ক্লান্তি ইত্যাদির কারনে ভেঙে পড়া; সংবাদজ্ঞাপন করা; ঘোষণা করা; নি:সৃত করা; বিচ্ছুরিত করা; বিতরণ করা; বাঁটিয়া দেত্তয়া; ভাঙ্গিয়া পড়া; ক্ষীণ হত্তয়া; কম পড়া; পৃথক্ করা; বেছে নেত্তয়া; বিশিষ্ট করা; তুলে ধরা;"}
+{ "_id" : { "$oid" : "566fdcbae4b03dcbb96c1913"} , "Word" : "glamour" , "meaning" : "চাকচিক্য; যাদু, মোহিনী সৌন্দর্য"}
+{ "_id" : { "$oid" : "566fdcbae4b03dcbb96c1914"} , "Word" : "giveup" , "meaning" : "হাল ছেড়ে দেওয়া; আত্মসমর্পণ করা; ছেড়ে দেওয়া; পরিত্যাগ করা; অস্বীকার করা; ত্যাগ করা; বর্জন করা; ইস্তফা দেত্তয়া; প্রত্যাখ্যান করা; পথ ছাড়া; নিরস্ত হওয়া;"}
+{ "_id" : { "$oid" : "566fdcbae4b03dcbb96c1915"} , "Word" : "give out" , "meaning" : "শেষ হয়ে যাওয়া; ফুরিয়ে যাওয়া; ক্লান্তি ইত্যাদির কারনে ভেঙে পড়া; সংবাদজ্ঞাপন করা; ঘোষণা করা; নি:সৃত করা; বিচ্ছুরিত করা; বিতরণ করা; বাঁটিয়া দেত্তয়া; ভাঙ্গিয়া পড়া; ক্ষীণ হত্তয়া; কম পড়া; পৃথক্ করা; বেছে নেত্তয়া; বিশিষ্ট করা; তুলে ধরা;"}
+{ "_id" : { "$oid" : "566fdcbbe4b03dcbb96c1916"} , "Word" : "glade" , "meaning" : "ডাঙ্গা; বনের ফাঁকা স্থান; বনমধ্যস্থ মাঠ; কানন-পথ; বনবীথি; বনের মধ্যে গাছে ঘেরা মাঠ;"}
+{ "_id" : { "$oid" : "566fdcbbe4b03dcbb96c1917"} , "Word" : "glared" , "meaning" : "চক্মক্ করা; জ্বলন্ত দৃষ্টিতে তাকান; তীব্রভাবে ঝলমল করা; তীব্রভাবে দীপ্তি িপাত্তয়া; তীব্রদৃষ্টিতে তাকান; জ্বলজ্বল করা;"}
+{ "_id" : { "$oid" : "566fdcbbe4b03dcbb96c1918"} , "Word" : "given" , "meaning" : "অর্পিত;নির্দিষ্ট; স্বীকৃত"}
+{ "_id" : { "$oid" : "566fdcbce4b03dcbb96c1919"} , "Word" : "gleaner" , "meaning" : "সংগ্রাহক; বিভিন্ন সূত্রে থেকে আহরিত জ্ঞানকণা;"}
+{ "_id" : { "$oid" : "566fdcbce4b03dcbb96c191a"} , "Word" : "glides" , "meaning" : "পিছলে পড়া; পিছলান; হড়কান; ধীরে ভাসিয়া চলা; ধীরে বহিয়া চলা;"}
+{ "_id" : { "$oid" : "566fdcbce4b03dcbb96c191b"} , "Word" : "glamorous" , "meaning" : "চাকচিক্যময়; সম্মোহক"}
+{ "_id" : { "$oid" : "566fdcbde4b03dcbb96c191c"} , "Word" : "give in" , "meaning" : "দেত্তয়া; অর্পণ করা; দান করা; আত্মসমর্পণ করা; ছেড়ে দেত্তয়া; ত্যাগ করা; মেনে নেত্তয়া; স্বীকার করে নেত্তয়া; পরাজয় স্বীকার করা; রাজী হত্তয়া; স্বীকৃত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdcbde4b03dcbb96c191d"} , "Word" : "glider" , "meaning" : "ইঞ্জিন বিহীন খেলনা বিমান বিশেষ"}
+{ "_id" : { "$oid" : "566fdcbde4b03dcbb96c191e"} , "Word" : "gleaming" , "meaning" : "জ্বলা; উজ্জ্বল হত্তয়া; মিট্মিট করা; প্রতিফলিত করা; ঝিক্মিক্ করা; আলো দেত্তয়া;"}
+{ "_id" : { "$oid" : "566fdcbee4b03dcbb96c191f"} , "Word" : "glad" , "meaning" : "আনন্দিত; প্রফুল্ল; হৃষ্ট"}
+{ "_id" : { "$oid" : "566fdcbee4b03dcbb96c1920"} , "Word" : "gladsome" , "meaning" : "হৃষ্ট; আনন্দিত"}
+{ "_id" : { "$oid" : "566fdcbee4b03dcbb96c1921"} , "Word" : "give off" , "meaning" : "ত্যাগ করা; নির্গত করা; নিঃসৃত করা; ছাড়া; নি:সৃত করা; পৃথক্ করা; বেছে নেত্তয়া; বিশিষ্ট করা; তুলে ধরা;"}
+{ "_id" : { "$oid" : "566fdcbfe4b03dcbb96c1922"} , "Word" : "glass ware" , "meaning" : "কাচবস্তু;"}
+{ "_id" : { "$oid" : "566fdcbfe4b03dcbb96c1923"} , "Word" : "glance" , "meaning" : "ক্ষণিক দৃষ্টি পাত; এক পরক দৃষ্টি; ঝলক"}
+{ "_id" : { "$oid" : "566fdcbfe4b03dcbb96c1924"} , "Word" : "glassy" , "meaning" : "কাচিক; কাচের; কাচতুল্য; কাচনির্মিত; কাচবৎ; কাচীয়; কাচের মতো; কাচনিভ; কাচ-জাতীয়;"}
+{ "_id" : { "$oid" : "566fdcc0e4b03dcbb96c1925"} , "Word" : "glassware" , "meaning" : "কাঁচের বাসনপত্র"}
+{ "_id" : { "$oid" : "566fdcc0e4b03dcbb96c1926"} , "Word" : "give up" , "meaning" : "হাল ছেড়ে দেওয়া; আত্মসমর্পণ করা; ছেড়ে দেওয়া; পরিত্যাগ করা; অস্বীকার করা; ত্যাগ করা; বর্জন করা; ইস্তফা দেত্তয়া; প্রত্যাখ্যান করা; পথ ছাড়া; নিরস্ত হওয়া;"}
+{ "_id" : { "$oid" : "566fdcc0e4b03dcbb96c1927"} , "Word" : "glided" , "meaning" : "পিছলে পড়া; পিছলান; হড়কান; ধীরে ভাসিয়া চলা; ধীরে বহিয়া চলা;"}
+{ "_id" : { "$oid" : "566fdcc1e4b03dcbb96c1928"} , "Word" : "gleeful" , "meaning" : "আহ্লাদিত; সানন্দ; উল্লসিত; আনন্দিত; আনন্দপূর্ণ; খুশি; সহর্ষে;"}
+{ "_id" : { "$oid" : "566fdcc1e4b03dcbb96c1929"} , "Word" : "gladden" , "meaning" : "প্রসন্ন করা; আনন্দিত করা; উজ্জ্বল করা; মনোরম করা; খুশি করা; আহ্লাদিত করা; সন্তুষ্ট করা;"}
+{ "_id" : { "$oid" : "566fdcc1e4b03dcbb96c192a"} , "Word" : "gladiatorial" , "meaning" : "গ্ল্যাডিয়েটর সংক্রান্ত;"}
+{ "_id" : { "$oid" : "566fdcc2e4b03dcbb96c192b"} , "Word" : "glib" , "meaning" : "পিচ্ছিল; অনর্গল কথা বলতে পারে এমন বাক্‌পটু"}
+{ "_id" : { "$oid" : "566fdcc2e4b03dcbb96c192c"} , "Word" : "gliding" , "meaning" : "পিছলান; হড়কানি;"}
+{ "_id" : { "$oid" : "566fdcc2e4b03dcbb96c192d"} , "Word" : "glamourous" , "meaning" : "চাকচিক্যময়; মুগ্ধকর; আকর্ষক; রঁজক; জাদুপূর্ণ; জাদুবিদ্যাসংক্রান্ত; চটকদার; চাকচিক্যপূর্ণ; চটুকে; মনোহর; মনোরম; মনোমোহন; মনোমুগ্ধকর; মনোমোহকর;"}
+{ "_id" : { "$oid" : "566fdcc3e4b03dcbb96c192e"} , "Word" : "glacier" , "meaning" : "হিমবাহ; তুষারস্রোত"}
+{ "_id" : { "$oid" : "566fdcc3e4b03dcbb96c192f"} , "Word" : "glibly" , "meaning" : "শতমুখে; চটপটেভাবে;"}
+{ "_id" : { "$oid" : "566fdcc3e4b03dcbb96c1930"} , "Word" : "giving up" , "meaning" : "ত্যাগ; নিবর্তন; ছোড়;"}
+{ "_id" : { "$oid" : "566fdcc4e4b03dcbb96c1931"} , "Word" : "glacial" , "meaning" : "বরফতুল্য; জমাট বাঁধা; নীরস; তুষার সংক্রান্ত; বরফসংক্রান্ত; তুষারযুগীয়; বরফের মতো; বরফ-সংক্রান্ত; তুষারকল্প; অবিচলিত;"}
+{ "_id" : { "$oid" : "566fdcc4e4b03dcbb96c1932"} , "Word" : "gliders" , "meaning" : "এনজির্নহীন বিমান;"}
+{ "_id" : { "$oid" : "566fdcc4e4b03dcbb96c1933"} , "Word" : "glaucoma" , "meaning" : "চক্ষু রোগ বিশেষ"}
+{ "_id" : { "$oid" : "566fdcc5e4b03dcbb96c1934"} , "Word" : "glasses" , "meaning" : "উপচক্ষু;"}
+{ "_id" : { "$oid" : "566fdcc5e4b03dcbb96c1935"} , "Word" : "glades" , "meaning" : "ডাঙ্গা; বনের ফাঁকা স্থান; বনমধ্যস্থ মাঠ; কানন-পথ;"}
+{ "_id" : { "$oid" : "566fdcc5e4b03dcbb96c1936"} , "Word" : "give up the ghost" , "meaning" : "শেষ নিঃশ্বাস ত্যাগ করা; প্রাণত্যাগ করা; মারা যাত্তয়া; দেহত্যাগ করা; দেহরক্ষা করা;"}
+{ "_id" : { "$oid" : "566fdcc6e4b03dcbb96c1937"} , "Word" : "glassy-glasses" , "meaning" : "চশমা"}
+{ "_id" : { "$oid" : "566fdcc6e4b03dcbb96c1938"} , "Word" : "gizzard" , "meaning" : "গলা; কণ্ঠ; পাখির প্রথম পাকস্থলি থেকে আগত পাচকরস মিশ্রিত খাদ্য ক্গূর্ণ; কিছু কিছু মাছ পতঙ্গ ইত্যাদির বিশেষ ধরণের পেশি যুক্ত পাকস্থলি;"}
+{ "_id" : { "$oid" : "566fdcc6e4b03dcbb96c1939"} , "Word" : "gladiolus" , "meaning" : "তলোয়ার-আকৃতির পাতা এবং উজ্জ্বল কাঁটাফুল-বিশিষ্ট একধরনের গাছ;"}
+{ "_id" : { "$oid" : "566fdcc7e4b03dcbb96c193a"} , "Word" : "give way" , "meaning" : "পথ ছেড়ে বা করে দেওয়া; নিজেকে সঁপে দেওয়া; ছাড় দেওয়া; হজম করা বা মেনে নেওয়া;"}
+{ "_id" : { "$oid" : "566fdcc7e4b03dcbb96c193b"} , "Word" : "glamor" , "meaning" : "ইন্দ্রজাল; আকর্ষণীয়তা; কুহক; চটক; আকর্ষণ; মুগ্ধতা; চাকচিক্য; মনোমোহন; মোহন; জাদু; যাদু; ভোজবিদ্যা; ভেলকি; চাকচক্য; জাঁকজমক; ঠাট; ঠমকী; মোহিনী মায়া; বিলাস; গ্ল্যামার; মায়াজাল; মোহিনী মায়া;"}
+{ "_id" : { "$oid" : "566fdcc8e4b03dcbb96c193c"} , "Word" : "glen" , "meaning" : "সংকীর্ণ উপত্যকা"}
+{ "_id" : { "$oid" : "566fdcc8e4b03dcbb96c193d"} , "Word" : "give over" , "meaning" : "নিবৃত্ত হত্তয়া; অর্পণ করা; দেত্তয়া; দান করা; দিয়ে দেত্তয়া; পাঠিয়ে দেত্তয়া; বন্ধ করা; থামানো; থামা; বন্ধ হত্তয়া; শেষ করা; শেষ হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdcc8e4b03dcbb96c193e"} , "Word" : "glebe" , "meaning" : "মৃত্তিকা; জমি; খেত; মাটি; ভূমি; ক্ষেত্র;"}
+{ "_id" : { "$oid" : "566fdcc9e4b03dcbb96c193f"} , "Word" : "glass" , "meaning" : "কাঁচ; আয়না; দর্পণ। (কাঁচের) গেলাস"}
+{ "_id" : { "$oid" : "566fdcc9e4b03dcbb96c1940"} , "Word" : "glee" , "meaning" : "হর্য, উল্লাস"}
+{ "_id" : { "$oid" : "566fdcc9e4b03dcbb96c1941"} , "Word" : "giving" , "meaning" : "দান; সম্প্রদান; অর্পণ; ন্যাস;"}
+{ "_id" : { "$oid" : "566fdccae4b03dcbb96c1942"} , "Word" : "glim" , "meaning" : "আলোক"}
+{ "_id" : { "$oid" : "566fdccae4b03dcbb96c1943"} , "Word" : "give on" , "meaning" : "এক জায়গা থেকে অন্য জায়গা দেখতে পাওয়া বা অন্য কোথাও গেয়ে পড়া;"}
+{ "_id" : { "$oid" : "566fdccae4b03dcbb96c1944"} , "Word" : "glaring" , "meaning" : "জাজ্বল্যমান; জ্বলজ্বলে; চটকদার; চমকদার; উজ্জ্বল; ডাহা; জ্বলন্ত; চক্চকে; দীপ্তিমিান্; স্পষ্ট; নির্লজ্জ; চটকদারভাবে শোভিত; চোখধাঁধানো; চোখ-ধাঁধানো; ক্রুদ্ধ; প্রত্যক্ষ; প্রকট; ভয়ানক;"}
+{ "_id" : { "$oid" : "566fdccbe4b03dcbb96c1945"} , "Word" : "glans" , "meaning" : "শিশ্নাগ্র; শিশ্নমুণ্ড;"}
+{ "_id" : { "$oid" : "566fdccbe4b03dcbb96c1946"} , "Word" : "glazed" , "meaning" : "মাতাল;"}
+{ "_id" : { "$oid" : "566fdccbe4b03dcbb96c1947"} , "Word" : "gives" , "meaning" : "দেত্তয়া; প্রদান করা; দান করা; দান দেত্তয়া; সম্প্রদান করা; প্রতিদান করা; অর্পণ করা; ন্যস্ত করা; সরবরাহ করা; ছাড়িয়া দেত্তয়া; ঘোষণা করা; নি:সৃত করা; বিচ্ছুরিত করা; গলিতে আরম্ভ করা; সমর্পণ করা; যোগান; ঔষধ খাত্তয়ান; অনুমোদন করা; অনুমতি দেত্তয়া; স্বীকার করা; মানিয়া লত্তয়া; শাস্তি দেত্তয়া; কথা দেত্তয়া; সংবাদ জানান; কারণ হত্তয়া; উত্পাদন করা; চাপে খুলিয়া যাত্তয়া; চাপে পড়িয়া হার মানা; নরম হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdccce4b03dcbb96c1948"} , "Word" : "giver" , "meaning" : "দাতা; প্রদানকারী; অর্পণকারী;"}
+{ "_id" : { "$oid" : "566fdccce4b03dcbb96c1949"} , "Word" : "glanced" , "meaning" : "কটাক্ষে দেখা; কটাক্ষপাত করা; দেখা; ক্ষণিকের জন্য দেখিতে পাত্তয়া; কটাক্ষ করা; নেত্রপাত করা; এক পলক দেখা; এক নজরে দেখা; দৃষি্টপাত করা; ঝলকান; আভাস দেত্তয়া; কিরণ বিক্ষেপ করা; হঠাৎ নিক্ষেপ করা; বক্রভাবে উড়িয়া যাত্তয়া; বক্রভাবে নিক্ষেপ করা; অল্পক্ষণের জন্য আসা; অবলোকন করা; ঝলকাইয়া তোলা; তিযর়্গ্ভাবে ছুটিয়া যাত্তয়া; তিযর়্গ্ভাবে ছুড়িয়া মারা;"}
+{ "_id" : { "$oid" : "566fdccce4b03dcbb96c194a"} , "Word" : "give down" , "meaning" : "বিকীর্ন বা নির্গত করা; প্রকাশ করা;"}
+{ "_id" : { "$oid" : "566fdccde4b03dcbb96c194b"} , "Word" : "glance over" , "meaning" : "পাতা উল্টে দেখা; চোখ বোলানো; ওপর-ওপর দেখা; তাড়াতাড়ি পড়া; চোখ বুলান;"}
+{ "_id" : { "$oid" : "566fdccde4b03dcbb96c194c"} , "Word" : "glances" , "meaning" : "কটাক্ষে দেখা; কটাক্ষপাত করা; দেখা; ক্ষণিকের জন্য দেখিতে পাত্তয়া; কটাক্ষ করা; নেত্রপাত করা; এক পলক দেখা; এক নজরে দেখা; দৃষি্টপাত করা; ঝলকান; আভাস দেত্তয়া; কিরণ বিক্ষেপ করা; হঠাৎ নিক্ষেপ করা; বক্রভাবে উড়িয়া যাত্তয়া; বক্রভাবে নিক্ষেপ করা; অল্পক্ষণের জন্য আসা; অবলোকন করা; ঝলকাইয়া তোলা; তিযর়্গ্ভাবে ছুটিয়া যাত্তয়া; তিযর়্গ্ভাবে ছুড়িয়া মারা;"}
+{ "_id" : { "$oid" : "566fdccde4b03dcbb96c194d"} , "Word" : "glare" , "meaning" : "চোখ ঘাঁধানো আলো"}
+{ "_id" : { "$oid" : "566fdccee4b03dcbb96c194e"} , "Word" : "gladdening" , "meaning" : "আমুদে; আনন্দিত; ফূর্তিবাজ; প্রফুল্ল; প্রফুল্লিত; প্রমোদক;"}
+{ "_id" : { "$oid" : "566fdccee4b03dcbb96c194f"} , "Word" : "gladness" , "meaning" : "আনন্দ; প্রসন্নতা; উল্লাস; আহ্লাদ; খুশি; হ্লাদ; খুশিখুশি ভাব; হৃষ্টতা; সন্তুষ্টি;"}
+{ "_id" : { "$oid" : "566fdccee4b03dcbb96c1950"} , "Word" : "glazing" , "meaning" : "চাকচিক্যময়; চকচকে; চাকচিক্যপূর্ণ;"}
+{ "_id" : { "$oid" : "566fdccfe4b03dcbb96c1951"} , "Word" : "gland" , "meaning" : "গ্রন্থি; লালা গ্রন্থি; মাংস গ্রন্থি"}
+{ "_id" : { "$oid" : "566fdccfe4b03dcbb96c1952"} , "Word" : "glandular" , "meaning" : "গ্রন্থিময়; গ্রন্থিসম্বন্ধীয়; গ্রন্থিসংক্রান্ত; গ্রন্থিসদৃশ; গ্রন্থিঘটিত;"}
+{ "_id" : { "$oid" : "566fdccfe4b03dcbb96c1953"} , "Word" : "gladiators" , "meaning" : "প্রাচীন রোমের মল্লযোদ্ধা;"}
+{ "_id" : { "$oid" : "566fdcd0e4b03dcbb96c1954"} , "Word" : "glands" , "meaning" : "উদ্ভিদ্দেহের লালাগ্রন্থি; জীবদেহের লালাগ্রন্থি; মাংসগ্রন্থি; গণ্ড;"}
+{ "_id" : { "$oid" : "566fdcd0e4b03dcbb96c1955"} , "Word" : "glasgow" , "meaning" : "গ্লাজ্গোউ;"}
+{ "_id" : { "$oid" : "566fdcd0e4b03dcbb96c1956"} , "Word" : "gladly" , "meaning" : "হৃষ্টভাবে, আনন্দের সাথে"}
+{ "_id" : { "$oid" : "566fdcd1e4b03dcbb96c1957"} , "Word" : "gleam" , "meaning" : "মৃদুভাবে দীপ্তি পাওয়া"}
+{ "_id" : { "$oid" : "566fdcd1e4b03dcbb96c1958"} , "Word" : "given up" , "meaning" : "নিবৃত্ত;"}
+{ "_id" : { "$oid" : "566fdcd1e4b03dcbb96c1959"} , "Word" : "glean" , "meaning" : "ক্ষেতে পড়ে থাকা শস্যকণা কুড়ান; সংগ্রহ করা"}
+{ "_id" : { "$oid" : "566fdcd2e4b03dcbb96c195a"} , "Word" : "gleamed" , "meaning" : "জ্বলা; উজ্জ্বল হত্তয়া; মিট্মিট করা; প্রতিফলিত করা; ঝিক্মিক্ করা; আলো দেত্তয়া;"}
+{ "_id" : { "$oid" : "566fdcd2e4b03dcbb96c195b"} , "Word" : "glace" , "meaning" : "মসৃণ; চকচকে; পালিশ করা; মসৃণ-করা; পালিশ-করা;"}
+{ "_id" : { "$oid" : "566fdcd2e4b03dcbb96c195c"} , "Word" : "gladiator" , "meaning" : "তর্কচুঞ্চু; গ্ল্যাডিয়েটর; প্রাচীন রোমের মল্লযোদ্ধা;"}
+{ "_id" : { "$oid" : "566fdcd3e4b03dcbb96c195d"} , "Word" : "glum" , "meaning" : "ভ্রূকুটি-কুটিল; বিষন্ন"}
+{ "_id" : { "$oid" : "566fdcd3e4b03dcbb96c195e"} , "Word" : "glummer" , "meaning" : "বিষাদগ্রস্ত; বিমর্ষ; বিষাদময়; তিমিরাচ্ছন্ন; অন্ধকারময়; বিষণ্ণ; বিষণ্ণপ্রকৃতি; গোমড়া; দু:খিত;"}
+{ "_id" : { "$oid" : "566fdcd4e4b03dcbb96c195f"} , "Word" : "glossary" , "meaning" : "শব্দকোষ; বিশেষ শব্দসমূহের নির্ঘন্ট"}
+{ "_id" : { "$oid" : "566fdcd4e4b03dcbb96c1960"} , "Word" : "gloomier" , "meaning" : "তমসাচ্ছন্ন; নিরাশ; অন্ধকারময়; আঁধার; তমসাবৃত; ভগ্নহৃদয়; বিষণ্ণ; তিমিরাচ্ছন্ন; অন্ধ; হতাশ; মনমরা; অপ্রফুল্ল; এঁধো; দু:খিত;"}
+{ "_id" : { "$oid" : "566fdcd4e4b03dcbb96c1961"} , "Word" : "glister" , "meaning" : "চক্চকে দূ্যতি; ঝলক; মৃদু দীপ্তি; ঔজ্বল্য; উজ্জ্বলতা; ঝক্ঝকানি; ঝক্মকানি; ছটা;"}
+{ "_id" : { "$oid" : "566fdcd5e4b03dcbb96c1962"} , "Word" : "glycogen" , "meaning" : "প্রাণী-শ্বেতসার;"}
+{ "_id" : { "$oid" : "566fdcd5e4b03dcbb96c1963"} , "Word" : "glycerine" , "meaning" : "গ্লিসারিন;"}
+{ "_id" : { "$oid" : "566fdcd5e4b03dcbb96c1964"} , "Word" : "glop" , "meaning" : "অরুচিকর খাদ্য; তরল বা চিটচিটে খাবার জিনিস;"}
+{ "_id" : { "$oid" : "566fdcd6e4b03dcbb96c1965"} , "Word" : "glorious" , "meaning" : "মহৎ, গৌরবময়; যশোদায়ক"}
+{ "_id" : { "$oid" : "566fdcd6e4b03dcbb96c1966"} , "Word" : "glue" , "meaning" : "সিরিস-আঠা"}
+{ "_id" : { "$oid" : "566fdcd6e4b03dcbb96c1967"} , "Word" : "glimpses" , "meaning" : "আভাস; ঝলক; ক্ষীণ আলো; ক্ষণিক দৃষ্টি;"}
+{ "_id" : { "$oid" : "566fdcd7e4b03dcbb96c1968"} , "Word" : "glimmer" , "meaning" : "অস্পষ্টভাবে জ্বলা"}
+{ "_id" : { "$oid" : "566fdcd7e4b03dcbb96c1969"} , "Word" : "gloryhole" , "meaning" : "অত্যন্ত অগোছালো ঘর; দেরাজ ইঃ;"}
+{ "_id" : { "$oid" : "566fdcd7e4b03dcbb96c196a"} , "Word" : "glow" , "meaning" : "শিখাহীন উজ্জ্বল আলো ও উত্তাপ; ঔজ্জ্বল্য, আভা"}
+{ "_id" : { "$oid" : "566fdcd8e4b03dcbb96c196b"} , "Word" : "glorifies" , "meaning" : "কীর্তন করা; সুখ্যাতি করা; মহিমান্বিত করা; প্রশংসা করা; গুণকীর্তন করা; গুণগান করা; স্তব করা; স্তুতি করা; কীর্তন গাত্তয়া; পূজা করা; চমত্কারিত্ব দান করা; সৌন্দর্য দান করা; দু্যতি দান করা; জয়গর্ব প্রকাশ করা; সুখী করা;"}
+{ "_id" : { "$oid" : "566fdcd8e4b03dcbb96c196c"} , "Word" : "glims" , "meaning" : "লণ্ঠন; ক্ষীণ আলো; আলোক;"}
+{ "_id" : { "$oid" : "566fdcd8e4b03dcbb96c196d"} , "Word" : "glitters" , "meaning" : "চিক্চিক; চক্চকে দূ্যতি; ঝলক; মৃদু দীপ্তি; ঔজ্বল্য; উজ্জ্বলতা; ছটা; ঝক্ঝকানি; ঝক্মকানি;"}
+{ "_id" : { "$oid" : "566fdcd9e4b03dcbb96c196e"} , "Word" : "gluey" , "meaning" : "আঠাযুক্ত; আঠালো"}
+{ "_id" : { "$oid" : "566fdcd9e4b03dcbb96c196f"} , "Word" : "glowworm" , "meaning" : "জোনাকি; খদ্যোৎ;"}
+{ "_id" : { "$oid" : "566fdcd9e4b03dcbb96c1970"} , "Word" : "glycerine" , "meaning" : "গ্লিসারিন;"}
+{ "_id" : { "$oid" : "566fdcdae4b03dcbb96c1971"} , "Word" : "glucose" , "meaning" : "শ্বেতসার জাত শর্করা বা চিনি, দ্রাক্ষা শর্করা"}
+{ "_id" : { "$oid" : "566fdcdae4b03dcbb96c1972"} , "Word" : "glimpsed" , "meaning" : "আভাস পাত্তয়া; মিট্মিট করিয়া জ্বলা; ক্ষণিকের জন্য দেখিতে পাত্তয়া;"}
+{ "_id" : { "$oid" : "566fdcdae4b03dcbb96c1973"} , "Word" : "glisten" , "meaning" : "চকচক করা"}
+{ "_id" : { "$oid" : "566fdcdbe4b03dcbb96c1974"} , "Word" : "gloom" , "meaning" : "ক্ষীণালোক; বিষন্নতা; নৈরাশ্য"}
+{ "_id" : { "$oid" : "566fdcdbe4b03dcbb96c1975"} , "Word" : "gluten" , "meaning" : "ময়দার আঠা ভাগ, যাহা থাকাতে ময়দা ভিজাইলে আঠালো হয়"}
+{ "_id" : { "$oid" : "566fdcdbe4b03dcbb96c1976"} , "Word" : "glowered" , "meaning" : "একদৃষ্টিতে তাকান; ক্রুদ্ধভাবে তাকান;"}
+{ "_id" : { "$oid" : "566fdcdce4b03dcbb96c1977"} , "Word" : "glittering" , "meaning" : "ঝিলিমিলি; চমকপ্রদ; ঝক্ঝকে; চমকদার; ঝক্মকে; ঝলমলে; চকচকে; জমকালো; ঝকমকে; দ্যুতিময়;"}
+{ "_id" : { "$oid" : "566fdcdce4b03dcbb96c1978"} , "Word" : "glitter" , "meaning" : "ঝকঝক (করা); জ্বলজ্বল করা; উজ্জ্বলতা প্রভা"}
+{ "_id" : { "$oid" : "566fdcdce4b03dcbb96c1979"} , "Word" : "gnash" , "meaning" : "(দাঁত) কিডমিড করা"}
+{ "_id" : { "$oid" : "566fdcdde4b03dcbb96c197a"} , "Word" : "gloaming" , "meaning" : "গোধুলি"}
+{ "_id" : { "$oid" : "566fdcdde4b03dcbb96c197b"} , "Word" : "glottis" , "meaning" : "শ্বাসরন্ধ্র; স্বরতন্ত্রীসমূহের মধ্যবর্তী ছিদ্র; স্বরযন্ত্রমুখ;"}
+{ "_id" : { "$oid" : "566fdcdde4b03dcbb96c197c"} , "Word" : "global" , "meaning" : "গোলাকার; বিশ্বব্যাপী"}
+{ "_id" : { "$oid" : "566fdcdee4b03dcbb96c197d"} , "Word" : "gluttonish" , "meaning" : "ঔদরিকত; পেটুক"}
+{ "_id" : { "$oid" : "566fdcdee4b03dcbb96c197e"} , "Word" : "glues" , "meaning" : "আঠা; লেই; শিরিশ; শিরিস; শিরীষ; সিরিশ; কাই;"}
+{ "_id" : { "$oid" : "566fdcdee4b03dcbb96c197f"} , "Word" : "gnat" , "meaning" : "ডাশ, এক রকমের মাছি"}
+{ "_id" : { "$oid" : "566fdcdfe4b03dcbb96c1980"} , "Word" : "gnaw" , "meaning" : "অনবরত কামড়ানো, কামড়িয়ে ক্ষয় করে ফেল"}
+{ "_id" : { "$oid" : "566fdcdfe4b03dcbb96c1981"} , "Word" : "glint" , "meaning" : "ঝক্ঝকানি; ঝলক; মৃদু দীপ্তি; ঔজ্বল্য; উজ্জ্বলতা; ক্ষণিক প্রভা; ছটা;"}
+{ "_id" : { "$oid" : "566fdcdfe4b03dcbb96c1982"} , "Word" : "globular" , "meaning" : "গোলাকার"}
+{ "_id" : { "$oid" : "566fdce0e4b03dcbb96c1983"} , "Word" : "glissade" , "meaning" : "হড়কানি; পিছলান;"}
+{ "_id" : { "$oid" : "566fdce0e4b03dcbb96c1984"} , "Word" : "gnarled" , "meaning" : "জেদী; গ্রন্থিল; গ্রন্থিযুক্ত; একগুঁয়ে; অবাধ্য; ছিদ্রান্বেষী; খিট্খিটে; খুঁতখুঁতে; প্যাঁচানো; খোঁচা-খোঁচা; এবড়ো-খেবড়ো;"}
+{ "_id" : { "$oid" : "566fdce0e4b03dcbb96c1985"} , "Word" : "glued" , "meaning" : "আঁটা; সাঁটা; আঠা লাগান; আঠা দিয়ে লাগানো;"}
+{ "_id" : { "$oid" : "566fdce1e4b03dcbb96c1986"} , "Word" : "glove" , "meaning" : "দস্তানা ; (মুষ্টিযুদ্ধে পরিধেয়) হস্তাবরণ"}
+{ "_id" : { "$oid" : "566fdce1e4b03dcbb96c1987"} , "Word" : "globulous" , "meaning" : "গোলাকার"}
+{ "_id" : { "$oid" : "566fdce1e4b03dcbb96c1988"} , "Word" : "gloze" , "meaning" : "(দোষত্রুটি) হালকা করিয়া দেখাইবার চেষ্টা করা; তোষামোদ করা"}
+{ "_id" : { "$oid" : "566fdce2e4b03dcbb96c1989"} , "Word" : "gnawing" , "meaning" : "চিবান; ক্ষয় করা; যন্ত্রণা দেত্তয়া; কামড়ে খাত্তয়া; বিরক্ত করা; কষ্ট দেত্তয়া; জ্বালাতন করা; বিব্রত করা;"}
+{ "_id" : { "$oid" : "566fdce2e4b03dcbb96c198a"} , "Word" : "glistening" , "meaning" : "হড়হড়ে; পিচ্ছিল; ঝক্মকে; ঝক্ঝকে; চিক্চিকে; হড়কাল;"}
+{ "_id" : { "$oid" : "566fdce2e4b03dcbb96c198b"} , "Word" : "glossy" , "meaning" : "চকচকে; ঝক্ঝকে; সমতল; মসৃণ; উজ্জ্বল; গূঢ়; চিক্কণ; সমান; গুপ্ত;"}
+{ "_id" : { "$oid" : "566fdce3e4b03dcbb96c198c"} , "Word" : "glossitis" , "meaning" : "জিহ্বাপ্রদাহ; জিভের ঘা;"}
+{ "_id" : { "$oid" : "566fdce3e4b03dcbb96c198d"} , "Word" : "globules" , "meaning" : "বড়ি; বটিকা; গুটি; গুটিকা; গুলি; ক্ষুদ্র গোলক;"}
+{ "_id" : { "$oid" : "566fdce3e4b03dcbb96c198e"} , "Word" : "glower" , "meaning" : "একদৃষ্টিতে তাকান; ক্রুদ্ধভাবে তাকান; কটমট করে; ভীতিজনকভাবে তাকানো;"}
+{ "_id" : { "$oid" : "566fdce4e4b03dcbb96c198f"} , "Word" : "glistened" , "meaning" : "ঝলমল করা; চক্চক্ করা; জ্বলজ্বল করা; ঝলকাইয়া ত্তঠা; ঝক্মক্ করা; ঝক্ঝক্ করা; ঝলমলান; ঝক্মকান; ঝক্ঝকান; ঝক্ঝকে হত্তয়া; প্রতিবিম্বিত করান;"}
+{ "_id" : { "$oid" : "566fdce4e4b03dcbb96c1990"} , "Word" : "glimmering" , "meaning" : "ক্ষীণভাবে বা অস্পষ্টভাবে দীপ্যমান"}
+{ "_id" : { "$oid" : "566fdce4e4b03dcbb96c1991"} , "Word" : "glycerin" , "meaning" : "গ্লিসারিন;"}
+{ "_id" : { "$oid" : "566fdce5e4b03dcbb96c1992"} , "Word" : "globule" , "meaning" : "ক্ষুদ্র বড়ি, বটিকা"}
+{ "_id" : { "$oid" : "566fdce5e4b03dcbb96c1993"} , "Word" : "gluttonous" , "meaning" : "ঔদরিকত; পেটুক"}
+{ "_id" : { "$oid" : "566fdce5e4b03dcbb96c1994"} , "Word" : "glycerol" , "meaning" : "গ্লিসারিন;"}
+{ "_id" : { "$oid" : "566fdce6e4b03dcbb96c1995"} , "Word" : "gloated" , "meaning" : "আগ্রহসহকারে দেখা; উল্লাস দৃষ্টিতে তাকান; তুষ্টির দৃষি্টতে তাকান; লোলুপনেত্রে দেখা;"}
+{ "_id" : { "$oid" : "566fdce6e4b03dcbb96c1996"} , "Word" : "glorify" , "meaning" : "গৌরবান্বিত বা মহিমান্বিত করা"}
+{ "_id" : { "$oid" : "566fdce7e4b03dcbb96c1997"} , "Word" : "glowed" , "meaning" : "ঝলকাইয়া ত্তঠা; ধক্ধক্ করা; জ্বলা; স্ফুরিত হত্তয়া; শ্বেতোত্তাপে উজ্জ্বল করা;"}
+{ "_id" : { "$oid" : "566fdce7e4b03dcbb96c1998"} , "Word" : "globulin" , "meaning" : "প্রাণী বা উদ্ভিদদেহের কলায় প্রাপ্ত একধরনের প্রোটীন;"}
+{ "_id" : { "$oid" : "566fdce7e4b03dcbb96c1999"} , "Word" : "globe" , "meaning" : "ভূ-গোলক; পৃথিবী"}
+{ "_id" : { "$oid" : "566fdce8e4b03dcbb96c199a"} , "Word" : "glow-worm" , "meaning" : "জোনাকি পোকা"}
+{ "_id" : { "$oid" : "566fdce8e4b03dcbb96c199b"} , "Word" : "glories" , "meaning" : "গরিমা; যশ; কুদরত; গৌরব; ভগ; বৈভব; মহিমাগৌরব; বিজয়গৌরব; বৈশিষ্ট্য; সম্পত্তি; অলঙ্কার; দু্যতি; চমত্কারিত্ব; সৌন্দর্য; স্বর্গীয় জ্যোতি; সুখ; শ্বরের অধিষ্ঠান; শ্বরের সান্নিধ্য; ঐশ্বর্য;"}
+{ "_id" : { "$oid" : "566fdce8e4b03dcbb96c199c"} , "Word" : "glory" , "meaning" : "গৌরব, যশ, সৌন্দর্য, মহিমা"}
+{ "_id" : { "$oid" : "566fdce9e4b03dcbb96c199d"} , "Word" : "glows" , "meaning" : "ঝলকাইয়া ত্তঠা; ধক্ধক্ করা; জ্বলা; স্ফুরিত হত্তয়া; শ্বেতোত্তাপে উজ্জ্বল করা;"}
+{ "_id" : { "$oid" : "566fdce9e4b03dcbb96c199e"} , "Word" : "glover" , "meaning" : "যে দস্তানা তৈরি করে বা বিক্রয় করে"}
+{ "_id" : { "$oid" : "566fdce9e4b03dcbb96c199f"} , "Word" : "glimpse" , "meaning" : "ক্ষণিক দৃষ্টি; আভাস"}
+{ "_id" : { "$oid" : "566fdceae4b03dcbb96c19a0"} , "Word" : "gloves" , "meaning" : "গ্লাভস; হাতমোজা;"}
+{ "_id" : { "$oid" : "566fdceae4b03dcbb96c19a1"} , "Word" : "gloss" , "meaning" : "মসৃণতা, চাকচিক্য"}
+{ "_id" : { "$oid" : "566fdceae4b03dcbb96c19a2"} , "Word" : "gloat" , "meaning" : "উল্লসিত; আগ্রহসহকারে দেখা; উল্লাস দৃষ্টিতে তাকান; তুষ্টির দৃষি্টতে তাকান; লোলুপনেত্রে দেখা;"}
+{ "_id" : { "$oid" : "566fdcebe4b03dcbb96c19a3"} , "Word" : "glutinous" , "meaning" : "আঠাযুক্ত; আঠালো"}
+{ "_id" : { "$oid" : "566fdcebe4b03dcbb96c19a4"} , "Word" : "gluttony" , "meaning" : "ঔদরিকতা"}
+{ "_id" : { "$oid" : "566fdcebe4b03dcbb96c19a5"} , "Word" : "glutton" , "meaning" : "পেটুক; ঔদরিক; অতিলোভী ব্যক্তি"}
+{ "_id" : { "$oid" : "566fdcece4b03dcbb96c19a6"} , "Word" : "gluts" , "meaning" : "তুষ্ট করা; পরিপূর্ণভাবে তৃপ্ত করা; সন্তুষ্ট করা; গোগ্রাসে গেলা;"}
+{ "_id" : { "$oid" : "566fdcece4b03dcbb96c19a7"} , "Word" : "glucagon" , "meaning" : "অগ্ন্যাশয় থেকে নিঃসৃত এক ধরনের রস;"}
+{ "_id" : { "$oid" : "566fdcece4b03dcbb96c19a8"} , "Word" : "glowing" , "meaning" : "প্রদীপ্ত; উদ্যমী; উদ্যমশীল; স্ফুরিত; উজ্জ্বল; প্রখর দীপ্তিপিূর্ণ; ভাসমান; দ্যুতিমান; ভাবাবেগপূর্ণ; আলোকিত; উত্সাহপূর্ণ;"}
+{ "_id" : { "$oid" : "566fdcede4b03dcbb96c19a9"} , "Word" : "glut" , "meaning" : "পেটুকের মত খাওয়া"}
+{ "_id" : { "$oid" : "566fdcede4b03dcbb96c19aa"} , "Word" : "glorification" , "meaning" : "কীর্তন; প্রশংসা; প্রসিদ্ধি; তারিফ; গুণগান; শ্লাঘা; গুণকীর্তন; সুখীকরণ; স্তব; স্তুতি; পূজা; সুখ্যাতি; খ্যাতি; যশ; নাম; সম্মান প্রদর্শন; সম্মানিত হওয়া;"}
+{ "_id" : { "$oid" : "566fdcede4b03dcbb96c19ab"} , "Word" : "gluttons" , "meaning" : "পেটুক; উদরসর্বস্ব; গ্রাসকারী; অতিভোজী ব্যক্তি; ভোজনবিলাসী ব্যাক্তি; অতিভোজী; অমিতভোজী; খাইয়ে লোক;"}
+{ "_id" : { "$oid" : "566fdceee4b03dcbb96c19ac"} , "Word" : "gloomy" , "meaning" : "ক্ষীণালোকিত ; হতাশ ; বিষন্ন"}
+{ "_id" : { "$oid" : "566fdceee4b03dcbb96c19ad"} , "Word" : "goatherd" , "meaning" : "ছাগপালক; যে ব্যক্তি ছাগল চরায়; ছাগ-রক্ষক;"}
+{ "_id" : { "$oid" : "566fdceee4b03dcbb96c19ae"} , "Word" : "gobs" , "meaning" : "নাবিক; হাঁ; মুখ; মুখগহ্বর; আঠাল পদার্থের দলা;"}
+{ "_id" : { "$oid" : "566fdcefe4b03dcbb96c19af"} , "Word" : "go ahead" , "meaning" : "বিনা দ্বিধায়; অগ্রসর হত্তয়া; আগাইয়া যাত্তয়া; উন্নতিলাভ করা; চলিতে থাকা; চালাইয়া যাত্তয়া; আগান;"}
+{ "_id" : { "$oid" : "566fdcefe4b03dcbb96c19b0"} , "Word" : "go at" , "meaning" : "আক্রমণ করা; কোনো কাজ উত্সাহের সঙ্গে হাতে নেওয়া;"}
+{ "_id" : { "$oid" : "566fdcefe4b03dcbb96c19b1"} , "Word" : "go through" , "meaning" : "সবিস্তারে আলোচনা করা; বিচার করা; সম্পাদন করা; উতরান হত্তয়া; সহ্য করা; সহ্য ভোগা; বিক্রীত হত্তয়া; গৃহীত হত্তয়া; নিষ্পন্ন হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdcf0e4b03dcbb96c19b2"} , "Word" : "go into" , "meaning" : "ঢোকা; প্রবেশ করা; সতর্কভাবে পরীক্ষা করা; তদন্ত করা; পরা; গায়ে চড়ান; স্বেচ্ছায় আক্রান্ত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdcf0e4b03dcbb96c19b3"} , "Word" : "gnaws" , "meaning" : "চিবান; ক্ষয় করা; যন্ত্রণা দেত্তয়া; কামড়ে খাত্তয়া; বিরক্ত করা; কষ্ট দেত্তয়া; জ্বালাতন করা; বিব্রত করা;"}
+{ "_id" : { "$oid" : "566fdcf0e4b03dcbb96c19b4"} , "Word" : "goaded" , "meaning" : "তাড়িত;"}
+{ "_id" : { "$oid" : "566fdcf1e4b03dcbb96c19b5"} , "Word" : "go alongwith" , "meaning" : "সঙ্গী হত্তয়া; অনুষঙ্গী হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdcf1e4b03dcbb96c19b6"} , "Word" : "go without" , "meaning" : "কোনো কিছুর অভাব সহ্য করে থাকা;"}
+{ "_id" : { "$oid" : "566fdcf1e4b03dcbb96c19b7"} , "Word" : "gnostic" , "meaning" : "জ্ঞানবাদী;"}
+{ "_id" : { "$oid" : "566fdcf2e4b03dcbb96c19b8"} , "Word" : "gobble" , "meaning" : "গরগর শব্দ;"}
+{ "_id" : { "$oid" : "566fdcf2e4b03dcbb96c19b9"} , "Word" : "go beyond" , "meaning" : "অতিক্রম করিয়া যাত্তয়া; অতিক্রম ছাড়াইয়া যাত্তয়া; অতিক্রম করা;"}
+{ "_id" : { "$oid" : "566fdcf2e4b03dcbb96c19ba"} , "Word" : "gnomon" , "meaning" : "সূর্যঘড়ির কাঁটা ইত্যাদি"}
+{ "_id" : { "$oid" : "566fdcf3e4b03dcbb96c19bb"} , "Word" : "go-between" , "meaning" : "দালাল, মধ্যস্থ ব্যক্তি"}
+{ "_id" : { "$oid" : "566fdcf3e4b03dcbb96c19bc"} , "Word" : "go after" , "meaning" : "পাইবার জন্য চেষ্টা করা; গোঁয়ান; পশ্চাদ্গমন করা;"}
+{ "_id" : { "$oid" : "566fdcf3e4b03dcbb96c19bd"} , "Word" : "godowns" , "meaning" : "মালগুদাম;"}
+{ "_id" : { "$oid" : "566fdcf4e4b03dcbb96c19be"} , "Word" : "goalie" , "meaning" : "গোলরক্ষক;"}
+{ "_id" : { "$oid" : "566fdcf4e4b03dcbb96c19bf"} , "Word" : "goat" , "meaning" : "ছাগল"}
+{ "_id" : { "$oid" : "566fdcf4e4b03dcbb96c19c0"} , "Word" : "go out" , "meaning" : "ছুটা; নিষ্ক্রমণ করা; বাহিরে যাত্তয়া; বাহির হত্তয়া; পদত্যাগ করা; ভ্রমণে বাহির হত্তয়া; বাতিল হত্তয়া; আকর্ষণ অনুভব করা; অতিবাহিত হইয়া যাত্তয়া; নিভিয়া যাত্তয়া; পা বাড়ান; অচল হত্তয়া; শেষ হত্তয়া; নিবা; বাড়ির বাইরে বেরোনো; নিমন্ত্রণ; নিভে যাওয়া;"}
+{ "_id" : { "$oid" : "566fdcf5e4b03dcbb96c19c1"} , "Word" : "godliness" , "meaning" : "ধার্মিকতা; দেবানুগত্য;"}
+{ "_id" : { "$oid" : "566fdcf5e4b03dcbb96c19c2"} , "Word" : "god-forsaken" , "meaning" : "দেবতা-পরিত্যক্ত, বিশৃঙ্খল ও দুর্দশাগ্রস্ত"}
+{ "_id" : { "$oid" : "566fdcf5e4b03dcbb96c19c3"} , "Word" : "goddess" , "meaning" : "দেবী"}
+{ "_id" : { "$oid" : "566fdcf6e4b03dcbb96c19c4"} , "Word" : "go on" , "meaning" : "চলতে থাকা; লেগে থাকা; অনেকক্ষণ ধরে কথা বলা; বকে চলা; চলিতে থাকা; চলা; চালু থাকা; অধ্যবসায়সহকারে করিতে থাকা; করিতে থাকা; বলিতে থাকা; অতিবাহিত হত্তয়া; মঁচে প্রবেশ করা; পালা আরম্ভ করা; বোলিং আরম্ভ করা; এগন; ঘটিতে থাকা;"}
+{ "_id" : { "$oid" : "566fdcf6e4b03dcbb96c19c5"} , "Word" : "go in" , "meaning" : "ঢুকে যাওয়া; প্রবিষ্ট হওয়া; ঢাকা পড়া; ঢোকা; মেঘে ঢাকিয়া যাত্তয়া; একত্র হত্তয়া; জড় হত্তয়া; ঢুকা;"}
+{ "_id" : { "$oid" : "566fdcf6e4b03dcbb96c19c6"} , "Word" : "godfather" , "meaning" : "ধর্মপিতা"}
+{ "_id" : { "$oid" : "566fdcf7e4b03dcbb96c19c7"} , "Word" : "goal" , "meaning" : "(উদ্যমের) লক্ষ্য, গন্তব্যস্থল বা সীমা; (ফুলবলাদির খেলার) গোল"}
+{ "_id" : { "$oid" : "566fdcf7e4b03dcbb96c19c8"} , "Word" : "gobbled" , "meaning" : "গরগর করা; বিড়বিড় করা; অস্ফুট স্বরে বলা; রাগে গরগর করা; গব্ গব্ করিয়া গেলা; দলায় দলায় গেলা; মারা; গোগ্রাসে গেলা; গোগ্রাসে খাত্তয়া;"}
+{ "_id" : { "$oid" : "566fdcf7e4b03dcbb96c19c9"} , "Word" : "go dutch" , "meaning" : "প্রত্যেকে খরচের স্বীয় অংশ বহন করা;"}
+{ "_id" : { "$oid" : "566fdcf8e4b03dcbb96c19ca"} , "Word" : "go for" , "meaning" : "আনতে যাওয়া; বিবেচিত বা গণ্য হওয়া; তেরে যাওয়া; আক্রমণ করা; পাইতে যাত্তয়া; আনিতে যাত্তয়া;"}
+{ "_id" : { "$oid" : "566fdcf8e4b03dcbb96c19cb"} , "Word" : "go of" , "meaning" : "গুবলেট; ভ্যাবাগঙ্গারাম; বোকাপাঁঠা; ধ্যাড়ানো; বোকা লোক;"}
+{ "_id" : { "$oid" : "566fdcf8e4b03dcbb96c19cc"} , "Word" : "goad" , "meaning" : "অঙ্কুশ"}
+{ "_id" : { "$oid" : "566fdcf9e4b03dcbb96c19cd"} , "Word" : "god forbid" , "meaning" : "ভগবান না করুন;"}
+{ "_id" : { "$oid" : "566fdcf9e4b03dcbb96c19ce"} , "Word" : "gobbles" , "meaning" : "গরগর শব্দ;"}
+{ "_id" : { "$oid" : "566fdcfae4b03dcbb96c19cf"} , "Word" : "go" , "meaning" : "যাওয়া, গমন করা"}
+{ "_id" : { "$oid" : "566fdcfae4b03dcbb96c19d0"} , "Word" : "godown" , "meaning" : "গুদামঘর"}
+{ "_id" : { "$oid" : "566fdcfbe4b03dcbb96c19d2"} , "Word" : "goading" , "meaning" : "তাড়ন;"}
+{ "_id" : { "$oid" : "566fdcfbe4b03dcbb96c19d3"} , "Word" : "god" , "meaning" : "দেবতা; ভক্তির পাত্র"}
+{ "_id" : { "$oid" : "566fdcfbe4b03dcbb96c19d4"} , "Word" : "goaway" , "meaning" : "চলে যাত্তয়া; ছুটিয়া যাত্তয়া; প্রস্থান করা; নিষ্ক্রমণ করা;"}
+{ "_id" : { "$oid" : "566fdcfce4b03dcbb96c19d5"} , "Word" : "go-by" , "meaning" : "ঠেলিয়া দেওয়া"}
+{ "_id" : { "$oid" : "566fdcfae4b03dcbb96c19d1"} , "Word" : "go down" , "meaning" : "ডুবে যাওয়া; অস্ত যাওয়া; পাটে নামা; ডুবিয়া যাত্তয়া; নামিয়া যাত্তয়া; গলাধ:কৃত হত্তয়া; গৃহীত হত্তয়া; আদৃত হত্তয়া; হার মানা; পরাজিত হত্তয়া; পরিত্যাগ করা; হ্রাস পাত্তয়া; লিপিবদ্ধ হত্তয়া; ঢলা; নামা; অস্তমিত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdcfce4b03dcbb96c19d6"} , "Word" : "gob" , "meaning" : "নাবিক; হাঁ; মুখ; মুখগহ্বর; আঠাল পদার্থের দলা; নোংরা জিনিসের ডেলা; থুথু ফেলা; ;"}
+{ "_id" : { "$oid" : "566fdcfce4b03dcbb96c19d7"} , "Word" : "gnome" , "meaning" : "ভূত; বামন; যক্ষ"}
+{ "_id" : { "$oid" : "566fdcfde4b03dcbb96c19d8"} , "Word" : "go away" , "meaning" : "চলে যাত্তয়া; ছুটিয়া যাত্তয়া; প্রস্থান করা; নিষ্ক্রমণ করা;"}
+{ "_id" : { "$oid" : "566fdcfde4b03dcbb96c19d9"} , "Word" : "go across" , "meaning" : "তরা;"}
+{ "_id" : { "$oid" : "566fdcfde4b03dcbb96c19da"} , "Word" : "go back" , "meaning" : "প্রত্যাবর্তন করা; পশ্চাদ্দিকে যাত্তয়া; প্রত্যাবৃত্ত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdcfee4b03dcbb96c19db"} , "Word" : "go-cart" , "meaning" : "শিশুদের হাঁটিতে শিখাইবার উপযোগী যন্ত্রবিশেষ"}
+{ "_id" : { "$oid" : "566fdcfee4b03dcbb96c19dc"} , "Word" : "goblet" , "meaning" : "পানপাত্র; কাপ; কটোরা; ভিত থেকে ওঠা ডাঁটিযুক্ত হাতলবিহীন পানপাত্র;"}
+{ "_id" : { "$oid" : "566fdcfee4b03dcbb96c19dd"} , "Word" : "gnu" , "meaning" : "বৃষবৎ হরিণবিশেষ; ষাঁড়ের মতো চেহারার একধরনের হরিণ;"}
+{ "_id" : { "$oid" : "566fdcffe4b03dcbb96c19de"} , "Word" : "gnus" , "meaning" : "বৃষবৎ হরিণবিশেষ;"}
+{ "_id" : { "$oid" : "566fdcffe4b03dcbb96c19df"} , "Word" : "goahead" , "meaning" : "কাজ শুরু করবার অনুমতি; সবুজ সংকেত; উদ্যোগী লোক;"}
+{ "_id" : { "$oid" : "566fdcffe4b03dcbb96c19e0"} , "Word" : "gobbet" , "meaning" : "মাংসের টুকরো; রচনা ইত্যাদির যে সারাংশ নিয়ে পরীক্ষায় প্রশ্ন ইঃ আসে;"}
+{ "_id" : { "$oid" : "566fdd00e4b03dcbb96c19e1"} , "Word" : "go back on" , "meaning" : "প্রতিশ্রুতি ইঃ ভঙ্গ করা; কথা ইঃ না রাখা; হঠিয়া আসা; পালনে অক্ষম হত্তয়া; পূরণে অক্ষম হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd00e4b03dcbb96c19e2"} , "Word" : "go in for" , "meaning" : "কোনো কিছুকে জীবনের লক্ষ্য; সাধনা; নীতি; রত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd00e4b03dcbb96c19e3"} , "Word" : "godmother" , "meaning" : "ধর্মমাতা;"}
+{ "_id" : { "$oid" : "566fdd01e4b03dcbb96c19e4"} , "Word" : "goddaughter" , "meaning" : "ধর্মকন্যা"}
+{ "_id" : { "$oid" : "566fdd01e4b03dcbb96c19e5"} , "Word" : "go over" , "meaning" : "খুঁটিনাটি খতিয়ে দেখা; মহড়া দেওয়া; ঝালিয়ে নেওয়া; পরীক্ষা করা; পরিদর্শন করা; পুনরাবৃত্তি করা; পুনরালোচনা করা; পুনরায় অধ্যয়ন করা; পুনরায় অনুশীলন করা;"}
+{ "_id" : { "$oid" : "566fdd01e4b03dcbb96c19e6"} , "Word" : "go along" , "meaning" : "অগ্রসর হত্তয়া; আগাইয়া যাত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd02e4b03dcbb96c19e7"} , "Word" : "go-getters" , "meaning" : "উদ্যোগী লোক;"}
+{ "_id" : { "$oid" : "566fdd02e4b03dcbb96c19e8"} , "Word" : "go by" , "meaning" : "কেটে যাওয়া; বয়ে যাওয়া; অতিক্রান্ত হত্তয়া; অতিবাহিত হত্তয়া; পরিচালিত হত্তয়া; মানিয়া চলা; গত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd03e4b03dcbb96c19e9"} , "Word" : "goddesses" , "meaning" : "দেবী; ঠাকুরানী; ঠাকরূণ;"}
+{ "_id" : { "$oid" : "566fdd03e4b03dcbb96c19ea"} , "Word" : "go up" , "meaning" : "ঊর্দ্ধগামী হওয়া; বিস্ফোরিত হওয়া; ত্তঠা; ঊর্ধ্বে যাত্তয়া; আরোহণ করা; বৃদ্ধি পাত্তয়া; নির্মিত হত্তয়া; চূর্ণ হত্তয়া; ধ্বংস হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd03e4b03dcbb96c19eb"} , "Word" : "go off" , "meaning" : "ফেটে যাওয়া; বিস্ফোরিত হওয়া; খারাপ হয়ে যাওয়া; অজ্ঞান হয়ে যাওয়া; কাটিয়া যাত্তয়া; মারা যাত্তয়া; না বলিয়া চলিয়া যাত্তয়া; চম্পট দেত্তয়া; খারাপ হইয়া যাত্তয়া; পচিয়া যাত্তয়া; টিকিয়া যাত্তয়া; আচ্ছন্ন হত্তয়া; নিমগ্ন হত্তয়া; প্রস্থান করা; বিক্রীত হত্তয়া; উতরান; অপসৃত হত্তয়া; সরিয়া যাত্তয়া; ছুটিয়া যাত্তয়া; বিস্ফোরিত হত্তয়া; ঔজ্বল্য হারান; অবনতি লাভ করা; পিট্টান দেত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd03e4b03dcbb96c19ec"} , "Word" : "god mather" , "meaning" : "ধর্ম মা"}
+{ "_id" : { "$oid" : "566fdd04e4b03dcbb96c19ed"} , "Word" : "goads" , "meaning" : "অঙ্কুশ; প্রেরণা; ডাঙ্গশ; উত্তেজিকা; উদ্দীপনা;"}
+{ "_id" : { "$oid" : "566fdd04e4b03dcbb96c19ee"} , "Word" : "godly" , "meaning" : "ধার্মিক, ঐশ্বারিক"}
+{ "_id" : { "$oid" : "566fdd04e4b03dcbb96c19ef"} , "Word" : "godchild" , "meaning" : "ধর্মপুত্র বা ধর্মকন্যা"}
+{ "_id" : { "$oid" : "566fdd05e4b03dcbb96c19f0"} , "Word" : "goblin" , "meaning" : "ভূত; অপদেবতা"}
+{ "_id" : { "$oid" : "566fdd05e4b03dcbb96c19f1"} , "Word" : "goals" , "meaning" : "লক্ষ্য; উদ্দেশ্য; কার্যবস্ত; কায়; কর্তব্য; গতি; কাজ; গোল; গোলপোস্ট্; নিকায়; শ্রীঘর;"}
+{ "_id" : { "$oid" : "566fdd06e4b03dcbb96c19f2"} , "Word" : "godlike" , "meaning" : "ঐশ্বরিক; ঈশ্বরের মতো; দেবোপম; ঠাকুরের মতো; স্বর্গীয়; দেবতুল্য;"}
+{ "_id" : { "$oid" : "566fdd06e4b03dcbb96c19f3"} , "Word" : "gnosticism" , "meaning" : "খ্রীষ্টানদের রহস্যবাদ; জ্ঞানবাদ;"}
+{ "_id" : { "$oid" : "566fdd06e4b03dcbb96c19f4"} , "Word" : "go forward" , "meaning" : "সম্মুখে যাত্তয়া; সম্মুখে চলা; অগ্রসর হত্তয়া; আগাইয়া যাত্তয়া; সম্পাদিত হত্তয়া; সঙ্ঘটিত হত্তয়া; আগান; এগন; আগুয়ান হত্তয়া; আগুসার হত্তয়া; নিষ্পন্ন হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd07e4b03dcbb96c19f5"} , "Word" : "go in to" , "meaning" : "ঢোকা; প্রবেশ করা; সতর্কভাবে পরীক্ষা করা; তদন্ত করা; পরা; গায়ে চড়ান; স্বেচ্ছায় আক্রান্ত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd07e4b03dcbb96c19f6"} , "Word" : "gnomic" , "meaning" : "প্রবাদধর্মী; নীতিবাক্য সম্পর্কিত; নীতিগর্ভ; নীতি-বাক্র্যসংক্রান্ত;"}
+{ "_id" : { "$oid" : "566fdd07e4b03dcbb96c19f7"} , "Word" : "goblins" , "meaning" : "অপদেবতা; ভূত; তাল;"}
+{ "_id" : { "$oid" : "566fdd08e4b03dcbb96c19f8"} , "Word" : "godhead" , "meaning" : "দেবতা; দেবত্ব; ঐশ্বর্য; বৈভব; স্বর্গীয় প্রকৃতি; ঠাকুরালী; ভগ; ঐশ্বরিকতা; স্বর্গীয় ভাব;"}
+{ "_id" : { "$oid" : "566fdd08e4b03dcbb96c19f9"} , "Word" : "go about" , "meaning" : "রত হত্তয়া; ব্যাপৃত হত্তয়া; চেষ্টা করা; খোঁজা; কোনো কাজে নামা বা প্রবৃত্ত হওয়া;"}
+{ "_id" : { "$oid" : "566fdd08e4b03dcbb96c19fa"} , "Word" : "good-night" , "meaning" : "শুভ রাত্রি; রাত্রিকালীন বিদায়-সম্ভাষণ বাক্য"}
+{ "_id" : { "$oid" : "566fdd09e4b03dcbb96c19fb"} , "Word" : "godsend" , "meaning" : "অপ্রত্যাশিত সৌভাগ্য"}
+{ "_id" : { "$oid" : "566fdd09e4b03dcbb96c19fc"} , "Word" : "good practice" , "meaning" : "উত্তম উপায়;"}
+{ "_id" : { "$oid" : "566fdd09e4b03dcbb96c19fd"} , "Word" : "gold-rush" , "meaning" : "নবাবিস্কৃত স্বর্ণ খনিতে দ্রুতবেগে যাত্রা"}
+{ "_id" : { "$oid" : "566fdd0ae4b03dcbb96c19fe"} , "Word" : "gold leaf" , "meaning" : "সোনার পাত;"}
+{ "_id" : { "$oid" : "566fdd0ae4b03dcbb96c19ff"} , "Word" : "golden oriole" , "meaning" : "হলদে পাখি; হলদে বেনেবউ;"}
+{ "_id" : { "$oid" : "566fdd0ae4b03dcbb96c1a00"} , "Word" : "good evening" , "meaning" : "শুভ সন্ধ্যা৷;"}
+{ "_id" : { "$oid" : "566fdd0be4b03dcbb96c1a01"} , "Word" : "goglet" , "meaning" : "কুঁজো; সরাই; মোরাই;"}
+{ "_id" : { "$oid" : "566fdd0be4b03dcbb96c1a02"} , "Word" : "good-for-nothing" , "meaning" : "অকর্মণ্য"}
+{ "_id" : { "$oid" : "566fdd0be4b03dcbb96c1a03"} , "Word" : "goggles" , "meaning" : "চশমাবিশেষ"}
+{ "_id" : { "$oid" : "566fdd0ce4b03dcbb96c1a04"} , "Word" : "good" , "meaning" : "ভালো; সন্তোষজনক; দোষশূন্য; সুন্দর; যথোচিত; শুভ; উপযুক্ত; প্রেয়; শ্রেয়; শিব; মঙ্গলকর; অনুকূল; সহায়ক; ধার্মিক; সাধু; সুশীল; খ্যাতির যোগ্য; দৃঢ়; যোগ্য; প্রশংসনীয়; পর্যাপ্ত; যুক্তিসিদ্ধ; প্রগাঢ়; ব্যবহার্য; খাঁটি; মনোরম; আচ্ছা; প্রচুর;"}
+{ "_id" : { "$oid" : "566fdd0ce4b03dcbb96c1a05"} , "Word" : "good smell" , "meaning" : "খুশবু;"}
+{ "_id" : { "$oid" : "566fdd0de4b03dcbb96c1a06"} , "Word" : "goodies" , "meaning" : "নেহাৎ ভালমানুষ; ভালমানুষের বউ;"}
+{ "_id" : { "$oid" : "566fdd0de4b03dcbb96c1a07"} , "Word" : "goldsmith" , "meaning" : "সেকরা ; স্বর্ণকার ; সোনার গাহনাদি নির্মাতা"}
+{ "_id" : { "$oid" : "566fdd0de4b03dcbb96c1a08"} , "Word" : "goes on" , "meaning" : "চলিতে থাকা; চলা; চালু থাকা; অধ্যবসায়সহকারে করিতে থাকা; করিতে থাকা; বলিতে থাকা; অতিবাহিত হত্তয়া; মঁচে প্রবেশ করা; পালা আরম্ভ করা; বোলিং আরম্ভ করা; এগন; ঘটিতে থাকা;"}
+{ "_id" : { "$oid" : "566fdd0de4b03dcbb96c1a09"} , "Word" : "good-humored" , "meaning" : "খোশমেজাজী;"}
+{ "_id" : { "$oid" : "566fdd0ee4b03dcbb96c1a0a"} , "Word" : "gong" , "meaning" : "পেটাঘড়ি; ধাতু নির্মিত ঘন্টা"}
+{ "_id" : { "$oid" : "566fdd0ee4b03dcbb96c1a0b"} , "Word" : "gold-ring" , "meaning" : "সোনার আংটি"}
+{ "_id" : { "$oid" : "566fdd0ee4b03dcbb96c1a0c"} , "Word" : "good will" , "meaning" : "শুভ বা সত্ উদ্দেশ্য; বদান্যতা; প্রীতি; সহৃদয়তা;"}
+{ "_id" : { "$oid" : "566fdd0fe4b03dcbb96c1a0d"} , "Word" : "gods sake" , "meaning" : "ভগবানের দোহাই;"}
+{ "_id" : { "$oid" : "566fdd0fe4b03dcbb96c1a0e"} , "Word" : "good-humoured" , "meaning" : "প্রফুল্ল; সৎস্বভাব সম্পন্ন"}
+{ "_id" : { "$oid" : "566fdd10e4b03dcbb96c1a0f"} , "Word" : "golly" , "meaning" : "বিস্ময়সূচক অব্যয়;"}
+{ "_id" : { "$oid" : "566fdd10e4b03dcbb96c1a10"} , "Word" : "godspeed" , "meaning" : "যাত্রা সফল হউক-এইরূপ শুভ কামনা"}
+{ "_id" : { "$oid" : "566fdd10e4b03dcbb96c1a11"} , "Word" : "goer" , "meaning" : "যাত্রী; গমনকর; গন্তা; যে ব্যক্তি নির্দিষ্ট স্থানে যায়; থিয়েটারের নিয়মিত দর্শক;"}
+{ "_id" : { "$oid" : "566fdd11e4b03dcbb96c1a12"} , "Word" : "good luck" , "meaning" : "সৌভাগ্য; জোর কপাল; সৌভাগ্য;"}
+{ "_id" : { "$oid" : "566fdd11e4b03dcbb96c1a13"} , "Word" : "going" , "meaning" : "গমন, প্রস্থান"}
+{ "_id" : { "$oid" : "566fdd11e4b03dcbb96c1a14"} , "Word" : "goes" , "meaning" : "গমন; ব্যাপার; গতি; সফল অভিযান; কর্মশক্তি; সক্রিয়তা; কার্যকরতা; প্রচেষ্টা;"}
+{ "_id" : { "$oid" : "566fdd12e4b03dcbb96c1a15"} , "Word" : "goodbye" , "meaning" : "আসি; চলি; বিদায়; বিদায়সূচক বাক্য;"}
+{ "_id" : { "$oid" : "566fdd12e4b03dcbb96c1a16"} , "Word" : "good thing" , "meaning" : "বুদ্ধিদীপ্ত রসিকতা;"}
+{ "_id" : { "$oid" : "566fdd12e4b03dcbb96c1a17"} , "Word" : "gone" , "meaning" : "সর্বস্বান্ত; খতম; মৃত; গ্রস্ত; ক্রিয়া সংশ্লিষ্ট বিভিন্ন অর্থে;"}
+{ "_id" : { "$oid" : "566fdd13e4b03dcbb96c1a18"} , "Word" : "good-afternoon" , "meaning" : "শুভ অপরাহ্ন; অপরাহ্নে সাক্ষাৎকালীন সম্ভাষণ বাক্য"}
+{ "_id" : { "$oid" : "566fdd13e4b03dcbb96c1a19"} , "Word" : "goin" , "meaning" : "ঢুকে যাওয়া; প্রবিষ্ট হওয়া; ঢাকা পড়া; ঢোকা; মেঘে ঢাকিয়া যাত্তয়া; একত্র হত্তয়া; জড় হত্তয়া; ঢুকা;"}
+{ "_id" : { "$oid" : "566fdd13e4b03dcbb96c1a1a"} , "Word" : "good looking" , "meaning" : "রূপবান; সুরূপ; সুশ্রী; সুদর্শন; সৌম্যদর্শন; ঠাম;"}
+{ "_id" : { "$oid" : "566fdd14e4b03dcbb96c1a1b"} , "Word" : "golden jubilee" , "meaning" : "সুবর্ণজয়ন্তী;"}
+{ "_id" : { "$oid" : "566fdd14e4b03dcbb96c1a1c"} , "Word" : "goodluck" , "meaning" : "সৌভাগ্য; জোর কপাল; সৌভাগ্য;"}
+{ "_id" : { "$oid" : "566fdd14e4b03dcbb96c1a1d"} , "Word" : "good day" , "meaning" : "সালক্ষাৎকালীন বা বিদায়কালীন সম্ভাষণ বাক্য"}
+{ "_id" : { "$oid" : "566fdd15e4b03dcbb96c1a1e"} , "Word" : "going up" , "meaning" : "ঊর্ধ্বগামী;"}
+{ "_id" : { "$oid" : "566fdd15e4b03dcbb96c1a1f"} , "Word" : "goo" , "meaning" : "সস্তা ভাবালুতা;"}
+{ "_id" : { "$oid" : "566fdd15e4b03dcbb96c1a20"} , "Word" : "good-friday" , "meaning" : "খ্রীষ্ঠীয় পর্বদিবস; যীশু এই দিন ক্রুশে বিদ্ধ হন বলিয়া ইহা খ্রীষ্টানদের উৎসবদিন রূপে পালিত হয়"}
+{ "_id" : { "$oid" : "566fdd16e4b03dcbb96c1a21"} , "Word" : "goodly" , "meaning" : "সুন্দর; সুদৃশ্য; উৎকৃষ্ট"}
+{ "_id" : { "$oid" : "566fdd16e4b03dcbb96c1a22"} , "Word" : "gomless" , "meaning" : "মাথামোটা; কাণ্ডজ্ঞানহীন; নির্বোধ;"}
+{ "_id" : { "$oid" : "566fdd16e4b03dcbb96c1a23"} , "Word" : "good-looking" , "meaning" : "সুন্দর; সুশ্রী"}
+{ "_id" : { "$oid" : "566fdd17e4b03dcbb96c1a24"} , "Word" : "golden" , "meaning" : "সোনালী; সোনার মত উজ্জ্বল বর্ণবিশিষ্ট"}
+{ "_id" : { "$oid" : "566fdd17e4b03dcbb96c1a25"} , "Word" : "going on" , "meaning" : "ঘটনাসমূহ; অদ্ভুত আচরণ;"}
+{ "_id" : { "$oid" : "566fdd17e4b03dcbb96c1a26"} , "Word" : "goldenoriole" , "meaning" : "হলদে পাখি; হলদে বেনেবউ;"}
+{ "_id" : { "$oid" : "566fdd18e4b03dcbb96c1a27"} , "Word" : "good-evening" , "meaning" : "সায়ংকালে সাক্ষাৎকালীন বা বিদায়কালীন অভিবাদন বাক্য"}
+{ "_id" : { "$oid" : "566fdd18e4b03dcbb96c1a28"} , "Word" : "goods" , "meaning" : "পণ্যদ্রব্য; মালপত্র"}
+{ "_id" : { "$oid" : "566fdd18e4b03dcbb96c1a29"} , "Word" : "good wishes" , "meaning" : "শুভ কামনা; শুভাকাঙ্ক্ষা;"}
+{ "_id" : { "$oid" : "566fdd19e4b03dcbb96c1a2a"} , "Word" : "good-natured" , "meaning" : "সৎ-স্বভাব;সদয়; দয়ালু"}
+{ "_id" : { "$oid" : "566fdd19e4b03dcbb96c1a2b"} , "Word" : "good fortune" , "meaning" : "জোর কপাল; সৌভাগ্য;"}
+{ "_id" : { "$oid" : "566fdd19e4b03dcbb96c1a2c"} , "Word" : "gondola" , "meaning" : "ভেনিসের হালকা নৌকা বিশেষ"}
+{ "_id" : { "$oid" : "566fdd1ae4b03dcbb96c1a2d"} , "Word" : "good bye" , "meaning" : "আসি; চলি; বিদায়; বিদায়সূচক বাক্য;"}
+{ "_id" : { "$oid" : "566fdd1ae4b03dcbb96c1a2e"} , "Word" : "going to" , "meaning" : "সম্ভাবনা থাকা; মুখোমুখি হওয়া;"}
+{ "_id" : { "$oid" : "566fdd1ae4b03dcbb96c1a2f"} , "Word" : "golf" , "meaning" : "গলফ-খেলা"}
+{ "_id" : { "$oid" : "566fdd1be4b03dcbb96c1a30"} , "Word" : "gointo" , "meaning" : "ঢোকা; প্রবেশ করা; সতর্কভাবে পরীক্ষা করা; তদন্ত করা; পরা; গায়ে চড়ান; স্বেচ্ছায় আক্রান্ত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd1be4b03dcbb96c1a31"} , "Word" : "going off" , "meaning" : "কাটিয়া যাত্তয়া; মারা যাত্তয়া; না বলিয়া চলিয়া যাত্তয়া; চম্পট দেত্তয়া; খারাপ হইয়া যাত্তয়া; পচিয়া যাত্তয়া; টিকিয়া যাত্তয়া; আচ্ছন্ন হত্তয়া; নিমগ্ন হত্তয়া; প্রস্থান করা; বিক্রীত হত্তয়া; উতরান; অপসৃত হত্তয়া; সরিয়া যাত্তয়া; ছুটিয়া যাত্তয়া; বিস্ফোরিত হত্তয়া; ঔজ্বল্য হারান; অবনতি লাভ করা; পিট্টান দেত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd1be4b03dcbb96c1a32"} , "Word" : "gold" , "meaning" : "সোনা, সোনার জিনিস"}
+{ "_id" : { "$oid" : "566fdd1ce4b03dcbb96c1a33"} , "Word" : "godson" , "meaning" : "ধর্মপুত্র"}
+{ "_id" : { "$oid" : "566fdd1ce4b03dcbb96c1a34"} , "Word" : "gonorrhoea" , "meaning" : "প্রমেহ; ধাতব ব্যাধি; ধাতের রোগ; গনোরিয়া;"}
+{ "_id" : { "$oid" : "566fdd1ce4b03dcbb96c1a35"} , "Word" : "going out" , "meaning" : "নির্গম; নিগমন; নিষ্ক্রমণ; নিষ্কাশ; নিস্তরণ;"}
+{ "_id" : { "$oid" : "566fdd1de4b03dcbb96c1a36"} , "Word" : "goodness" , "meaning" : "সাধুতা, সদাশয়তা, সততা; উৎকর্ষ"}
+{ "_id" : { "$oid" : "566fdd1de4b03dcbb96c1a37"} , "Word" : "goers" , "meaning" : "যাত্রী; গমনকর; গন্তা;"}
+{ "_id" : { "$oid" : "566fdd1de4b03dcbb96c1a38"} , "Word" : "gonorrhea" , "meaning" : "প্রমেহ; ধাতব ব্যাধি; ধাতের রোগ; গনোরিয়া;"}
+{ "_id" : { "$oid" : "566fdd1ee4b03dcbb96c1a39"} , "Word" : "good-morning" , "meaning" : "সুপ্রভাত; সকালে প্রথম সাক্ষাৎকালীন সম্ভাষণ বাক্য"}
+{ "_id" : { "$oid" : "566fdd1ee4b03dcbb96c1a3a"} , "Word" : "goitre" , "meaning" : "গলগণ্ড; ঘ্যাগ;"}
+{ "_id" : { "$oid" : "566fdd1ee4b03dcbb96c1a3b"} , "Word" : "goodevening" , "meaning" : "শুভ সন্ধ্যা৷;"}
+{ "_id" : { "$oid" : "566fdd1fe4b03dcbb96c1a3c"} , "Word" : "good for" , "meaning" : "আগ্রহী; যোগ্য;"}
+{ "_id" : { "$oid" : "566fdd1fe4b03dcbb96c1a3d"} , "Word" : "goldfish" , "meaning" : "গোল্ডফিশ; সোনালি চীনা মাছ;"}
+{ "_id" : { "$oid" : "566fdd1fe4b03dcbb96c1a3e"} , "Word" : "good taste" , "meaning" : "সুরুচি;"}
+{ "_id" : { "$oid" : "566fdd20e4b03dcbb96c1a3f"} , "Word" : "goods train" , "meaning" : "মালগাড়ি"}
+{ "_id" : { "$oid" : "566fdd20e4b03dcbb96c1a40"} , "Word" : "good-bye" , "meaning" : "বিদায়; বিদায়কালীন সম্ভাষণ বাক্য"}
+{ "_id" : { "$oid" : "566fdd20e4b03dcbb96c1a41"} , "Word" : "good faith" , "meaning" : "শুদ্ধমতি; সরল অন্তর;"}
+{ "_id" : { "$oid" : "566fdd21e4b03dcbb96c1a42"} , "Word" : "good conscience" , "meaning" : "সুবিবেক;"}
+{ "_id" : { "$oid" : "566fdd21e4b03dcbb96c1a43"} , "Word" : "goiter" , "meaning" : "গলগণ্ড;"}
+{ "_id" : { "$oid" : "566fdd21e4b03dcbb96c1a44"} , "Word" : "goggle" , "meaning" : "ঘূণ্র্যমান; অপলক; ড্যাবড্যাব করে; চোখ ছানাবড়া করে; হাঁ করে চেয়ে থাকা;"}
+{ "_id" : { "$oid" : "566fdd22e4b03dcbb96c1a45"} , "Word" : "goldmine" , "meaning" : "সোনার-খনি;"}
+{ "_id" : { "$oid" : "566fdd22e4b03dcbb96c1a46"} , "Word" : "gonad" , "meaning" : "অণ্ডকোষ; ডিম্বাশয়;"}
+{ "_id" : { "$oid" : "566fdd22e4b03dcbb96c1a47"} , "Word" : "good news" , "meaning" : "সু-সংবাদ;"}
+{ "_id" : { "$oid" : "566fdd23e4b03dcbb96c1a48"} , "Word" : "gold-mine" , "meaning" : "স্বর্ণখনি"}
+{ "_id" : { "$oid" : "566fdd23e4b03dcbb96c1a49"} , "Word" : "goldilocks" , "meaning" : "স্বর্ণকেশ; সোনালি চুলওয়ালা লোক; সোনালী কেশবিশিষ্ট ব্যক্তি; সোনালী ঝুমকা-ফুলবিশেষ;"}
+{ "_id" : { "$oid" : "566fdd24e4b03dcbb96c1a4a"} , "Word" : "gory" , "meaning" : "রক্তাক্ত; রক্তবৎ; রক্তিম; জমাট বাঁধা রক্তবৎ; শুষ্ক রক্তবৎ;"}
+{ "_id" : { "$oid" : "566fdd24e4b03dcbb96c1a4b"} , "Word" : "gouging" , "meaning" : "উপড়াইয়া ফেলা; গর্ত করা;"}
+{ "_id" : { "$oid" : "566fdd24e4b03dcbb96c1a4c"} , "Word" : "grabber" , "meaning" : "অর্থপিশাচ; ধান্দাবাজ লোক; অর্থলোলুপ লোক; অর্থলিপ্সু ব্যক্তি; অর্থগৃধ্নু ব্যক্তি; লোভী লোক; লোলুপ লোক;"}
+{ "_id" : { "$oid" : "566fdd25e4b03dcbb96c1a4d"} , "Word" : "governor-general" , "meaning" : "বড়লাট"}
+{ "_id" : { "$oid" : "566fdd25e4b03dcbb96c1a4e"} , "Word" : "govern" , "meaning" : "পরিচালনা করা, নিয়ন্ত্রিত করা; (রাজ্য) শাসন করা"}
+{ "_id" : { "$oid" : "566fdd25e4b03dcbb96c1a4f"} , "Word" : "gothic" , "meaning" : "গোথিক; গথিক; গথ জাতি; গথ ভাষা;"}
+{ "_id" : { "$oid" : "566fdd26e4b03dcbb96c1a50"} , "Word" : "government department" , "meaning" : "সরকারি বিভাগ;"}
+{ "_id" : { "$oid" : "566fdd26e4b03dcbb96c1a51"} , "Word" : "goodwill" , "meaning" : "ব্যবসায়ের সুনাম; পসার"}
+{ "_id" : { "$oid" : "566fdd26e4b03dcbb96c1a52"} , "Word" : "goout" , "meaning" : "ছুটা; নিষ্ক্রমণ করা; বাহিরে যাত্তয়া; বাহির হত্তয়া; পদত্যাগ করা; ভ্রমণে বাহির হত্তয়া; বাতিল হত্তয়া; আকর্ষণ অনুভব করা; অতিবাহিত হইয়া যাত্তয়া; নিভিয়া যাত্তয়া; পা বাড়ান; অচল হত্তয়া; শেষ হত্তয়া; নিবা; বাড়ির বাইরে বেরোনো; নিমন্ত্রণ; নিভে যাওয়া;"}
+{ "_id" : { "$oid" : "566fdd27e4b03dcbb96c1a53"} , "Word" : "goofs" , "meaning" : "বোকা লোক;"}
+{ "_id" : { "$oid" : "566fdd27e4b03dcbb96c1a54"} , "Word" : "goof" , "meaning" : "গুবলেট; ভ্যাবাগঙ্গারাম; বোকাপাঁঠা; ধ্যাড়ানো; বোকা লোক;"}
+{ "_id" : { "$oid" : "566fdd27e4b03dcbb96c1a55"} , "Word" : "governor" , "meaning" : "রাজ্যপাল; যিনি পরিচালনা করেন"}
+{ "_id" : { "$oid" : "566fdd28e4b03dcbb96c1a56"} , "Word" : "goofy" , "meaning" : "নির্বোধ; কাণ্ডজ্ঞানহীন; বোকা;"}
+{ "_id" : { "$oid" : "566fdd28e4b03dcbb96c1a57"} , "Word" : "gouges" , "meaning" : "প্রতারণা; বাটালিবিশেষ;"}
+{ "_id" : { "$oid" : "566fdd28e4b03dcbb96c1a58"} , "Word" : "governingbody" , "meaning" : "পরিচালকবর্গ; পরিচালনসভা;"}
+{ "_id" : { "$oid" : "566fdd29e4b03dcbb96c1a59"} , "Word" : "gorges" , "meaning" : "ঘাট; কণ্ঠনালী; গিরিসঙ্কট; সঙ্কীর্ণ প্রবেশপথ; পাকস্থলীর মধ্যস্থ খাদ্যাদি; দ্রোণী; গুরুভোজ; অতিভোজন;"}
+{ "_id" : { "$oid" : "566fdd29e4b03dcbb96c1a5a"} , "Word" : "gooseberry" , "meaning" : "বৈঁচিজাতীয় ভক্ষণযোগ্য ফল;"}
+{ "_id" : { "$oid" : "566fdd29e4b03dcbb96c1a5b"} , "Word" : "gourmands" , "meaning" : "খাদ্যপ্রি় ব্যক্তি; অতিভোজী ব্যক্তি; ভোজনবিলাসী ব্যাক্তি; অতিভোজী; অমিতভোজী; খাইয়ে লোক;"}
+{ "_id" : { "$oid" : "566fdd2ae4b03dcbb96c1a5c"} , "Word" : "gourmand" , "meaning" : "পেটুক"}
+{ "_id" : { "$oid" : "566fdd2ae4b03dcbb96c1a5d"} , "Word" : "gourd," , "meaning" : "লাউ; অলাবু;"}
+{ "_id" : { "$oid" : "566fdd2ae4b03dcbb96c1a5e"} , "Word" : "gosh" , "meaning" : "হায় ভগবান;"}
+{ "_id" : { "$oid" : "566fdd2be4b03dcbb96c1a5f"} , "Word" : "goose-quill" , "meaning" : "রাজহাঁসের পালকের কলম"}
+{ "_id" : { "$oid" : "566fdd2be4b03dcbb96c1a60"} , "Word" : "grabbing" , "meaning" : "দখল করা; অকস্মাৎ ধরা; হঠাৎ আঁকড়াইয়া ধরা; খাবলাইয়া নেত্তয়া; সঙ্গে নিয়ে যাত্তয়া; অধিকার করা;"}
+{ "_id" : { "$oid" : "566fdd2be4b03dcbb96c1a61"} , "Word" : "gorse" , "meaning" : "কাঁটাওয়ালা চিরহরিত্ গুল্ম;"}
+{ "_id" : { "$oid" : "566fdd2ce4b03dcbb96c1a62"} , "Word" : "governmental" , "meaning" : "সরকার সম্বন্ধীয়; সরকারী"}
+{ "_id" : { "$oid" : "566fdd2ce4b03dcbb96c1a63"} , "Word" : "gown" , "meaning" : "(স্ত্রীলোকের) লম্বা ও ঢিলা পোশাক ; আলখিল্লা"}
+{ "_id" : { "$oid" : "566fdd2ce4b03dcbb96c1a64"} , "Word" : "government" , "meaning" : "সরকার, শাসন পচিালনা; পরিচালকবর্গ; মন্ত্রিমন্ডলী"}
+{ "_id" : { "$oid" : "566fdd2de4b03dcbb96c1a65"} , "Word" : "goose berry" , "meaning" : "বৈঁচিজাতীয় ভক্ষণযোগ্য ফল;"}
+{ "_id" : { "$oid" : "566fdd2de4b03dcbb96c1a66"} , "Word" : "gormandize" , "meaning" : "পেটুকের মত খাওয়া"}
+{ "_id" : { "$oid" : "566fdd2de4b03dcbb96c1a67"} , "Word" : "gossiping" , "meaning" : "কথাচালাচালী;"}
+{ "_id" : { "$oid" : "566fdd2ee4b03dcbb96c1a68"} , "Word" : "gourmet" , "meaning" : "পানভোজনে বিশেষজ্ঞ; পানভোজনবিলাসী ব্যক্তি; পানভোজনবিলাসী ব্যক্তি; খাইয়ে লোক;"}
+{ "_id" : { "$oid" : "566fdd2ee4b03dcbb96c1a69"} , "Word" : "gout" , "meaning" : "গেঁটেবাত"}
+{ "_id" : { "$oid" : "566fdd2ee4b03dcbb96c1a6a"} , "Word" : "goup" , "meaning" : "ঊর্দ্ধগামী হওয়া; বিস্ফোরিত হওয়া; ত্তঠা; ঊর্ধ্বে যাত্তয়া; আরোহণ করা; বৃদ্ধি পাত্তয়া; নির্মিত হত্তয়া; চূর্ণ হত্তয়া; ধ্বংস হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd2fe4b03dcbb96c1a6b"} , "Word" : "gorilla" , "meaning" : "বনমানুষ"}
+{ "_id" : { "$oid" : "566fdd2fe4b03dcbb96c1a6c"} , "Word" : "got at" , "meaning" : "পৌঁছান; নাগাল পাত্তয়া; হাতে পাত্তয়া; ধরিতে পারা; খুঁজিয়া পাত্তয়া; বুঝিতে পারা; কোন কিছু বুঝাইতে চাত্তয়া; ইঙ্গিত করা; পরিহাস করা;"}
+{ "_id" : { "$oid" : "566fdd30e4b03dcbb96c1a6d"} , "Word" : "gossipy" , "meaning" : "আড্ডাবাজ; গপ্প; বাচাল; মুখফসকা; মুখফটকা; খোশগল্পে;"}
+{ "_id" : { "$oid" : "566fdd30e4b03dcbb96c1a6e"} , "Word" : "gore" , "meaning" : "যে রক্ত পড়ে জমাট বেঁধেছে"}
+{ "_id" : { "$oid" : "566fdd30e4b03dcbb96c1a6f"} , "Word" : "gouty" , "meaning" : "বাতরোগগ্রস্ত; বেতো"}
+{ "_id" : { "$oid" : "566fdd30e4b03dcbb96c1a70"} , "Word" : "governess" , "meaning" : "শিশুর গৃহশিক্ষিকা"}
+{ "_id" : { "$oid" : "566fdd31e4b03dcbb96c1a71"} , "Word" : "goosery" , "meaning" : "হাঁস রাখিবার জায়গা; নির্বুদ্ধিতা"}
+{ "_id" : { "$oid" : "566fdd31e4b03dcbb96c1a72"} , "Word" : "goodsintransit" , "meaning" : "পরিবহণকালীন পণ্য;"}
+{ "_id" : { "$oid" : "566fdd31e4b03dcbb96c1a73"} , "Word" : "gouged" , "meaning" : "উপড়াইয়া ফেলা; গর্ত করা;"}
+{ "_id" : { "$oid" : "566fdd32e4b03dcbb96c1a74"} , "Word" : "governs" , "meaning" : "শাসন করা; নিয়ন্ত্রিত করা; প্রভুত্ব করা; রাজ্যশাসন করা; আধিপত্য করা; পরিচালনা করা; চালনা করা; নির্ণয় করা; কারকনির্ণয় করা; কর্তৃত্ব করা; স্থির করা;"}
+{ "_id" : { "$oid" : "566fdd32e4b03dcbb96c1a75"} , "Word" : "got" , "meaning" : "ধরা;"}
+{ "_id" : { "$oid" : "566fdd33e4b03dcbb96c1a76"} , "Word" : "governance" , "meaning" : "শাসন; নিয়ন্ত্রণ; পরিচালনা; আচরণ; শাসনকার্য; শাসনপ্রক্রিয়া; শাসনপদ্ধতি;"}
+{ "_id" : { "$oid" : "566fdd33e4b03dcbb96c1a77"} , "Word" : "grab" , "meaning" : "হঠাৎ আঁকড়েধরা; হস্তগত বা আত্মসাৎ করা"}
+{ "_id" : { "$oid" : "566fdd33e4b03dcbb96c1a78"} , "Word" : "goody" , "meaning" : "ভালমানুষির ভানে পূর্ণ;"}
+{ "_id" : { "$oid" : "566fdd34e4b03dcbb96c1a79"} , "Word" : "goofiest" , "meaning" : "বোকা;"}
+{ "_id" : { "$oid" : "566fdd34e4b03dcbb96c1a7a"} , "Word" : "gosling" , "meaning" : "রাজহাঁসের বাচ্চা"}
+{ "_id" : { "$oid" : "566fdd34e4b03dcbb96c1a7b"} , "Word" : "gospel" , "meaning" : "যীশুর উপদেশাবলী, সুসমাচার"}
+{ "_id" : { "$oid" : "566fdd35e4b03dcbb96c1a7c"} , "Word" : "gorge" , "meaning" : "গলনালী; কন্ঠ"}
+{ "_id" : { "$oid" : "566fdd35e4b03dcbb96c1a7d"} , "Word" : "governing" , "meaning" : "শাসক; পরিচালক; নিয়ন্ত্রক; অধিষ্ঠাতা;"}
+{ "_id" : { "$oid" : "566fdd35e4b03dcbb96c1a7e"} , "Word" : "got to" , "meaning" : "আরম্ভ করা;"}
+{ "_id" : { "$oid" : "566fdd36e4b03dcbb96c1a7f"} , "Word" : "gownsman" , "meaning" : "ধর্র্মযাজক; কৌসুলী; উকিল; আইনজীবী"}
+{ "_id" : { "$oid" : "566fdd36e4b03dcbb96c1a80"} , "Word" : "gossip" , "meaning" : "জল্পনা; গালগল্প"}
+{ "_id" : { "$oid" : "566fdd36e4b03dcbb96c1a81"} , "Word" : "gopher" , "meaning" : "খনন করা; খোঁড়া; এক ধরণের ইঁদুরজাতীয় প্রাণী;"}
+{ "_id" : { "$oid" : "566fdd37e4b03dcbb96c1a82"} , "Word" : "gouge" , "meaning" : "প্রতারণা; বাটালিবিশেষ;"}
+{ "_id" : { "$oid" : "566fdd37e4b03dcbb96c1a83"} , "Word" : "gorgeous" , "meaning" : "জাঁকালো, আড়ম্বরপূর্ণ"}
+{ "_id" : { "$oid" : "566fdd37e4b03dcbb96c1a84"} , "Word" : "gowns" , "meaning" : "গাউন; আলখিল্লা; আলখিল্লাবিশেষ; লম্বা পরিচ্ছদ; স্ত্রীলোকের জামাবিশেষ; মেয়েদের পোষাক; স্ত্রীলোকের পরিচ্ছদ;"}
+{ "_id" : { "$oid" : "566fdd38e4b03dcbb96c1a85"} , "Word" : "gra, grey" , "meaning" : "ধুসরবর্ণ; বৃদ্ধ; পরিপক্ক"}
+{ "_id" : { "$oid" : "566fdd38e4b03dcbb96c1a86"} , "Word" : "government service" , "meaning" : "সরকারি চাকরি; চাকরি সরকারী চাকরি;"}
+{ "_id" : { "$oid" : "566fdd38e4b03dcbb96c1a87"} , "Word" : "gordian" , "meaning" : "কঠিন, জঠিল"}
+{ "_id" : { "$oid" : "566fdd39e4b03dcbb96c1a88"} , "Word" : "governed" , "meaning" : "শাসিত; শাসনাধীন; অধীন;"}
+{ "_id" : { "$oid" : "566fdd39e4b03dcbb96c1a89"} , "Word" : "gooey" , "meaning" : "ভাবালু; চটচটে; প্যানপেনে;"}
+{ "_id" : { "$oid" : "566fdd39e4b03dcbb96c1a8a"} , "Word" : "gouache" , "meaning" : "অনচ্ছ জলরঙের মিশ্রণ;"}
+{ "_id" : { "$oid" : "566fdd3ae4b03dcbb96c1a8b"} , "Word" : "governing body" , "meaning" : "পরিচালকবর্গ; পরিচালনসভা;"}
+{ "_id" : { "$oid" : "566fdd3ae4b03dcbb96c1a8c"} , "Word" : "got up" , "meaning" : "কূট;"}
+{ "_id" : { "$oid" : "566fdd3ae4b03dcbb96c1a8d"} , "Word" : "gorgons" , "meaning" : "ভয়ঙ্করী স্ত্রীলোক; কুদর্শনা স্ত্রীলোক;"}
+{ "_id" : { "$oid" : "566fdd3be4b03dcbb96c1a8e"} , "Word" : "goons" , "meaning" : "গণ্ডমূর্খ; জড়বুদ্ধি; স্থূলবুদ্ধি ব্যক্তি; নির্বোধ; বোকা;"}
+{ "_id" : { "$oid" : "566fdd3be4b03dcbb96c1a8f"} , "Word" : "governments" , "meaning" : "সরকার; শাসন; শাসকমণ্ডলী; শাসকবর্গ; আধিপত্য; পরিচালনা; নিয়ন্ত্রণ; শাসনতন্ত্র; শাসনকাল; শাসনবিভাগ; শাসনাধীন রাজ্য; রাজ;"}
+{ "_id" : { "$oid" : "566fdd3be4b03dcbb96c1a90"} , "Word" : "grabbed" , "meaning" : "দখল করা; অকস্মাৎ ধরা; হঠাৎ আঁকড়াইয়া ধরা; খাবলাইয়া নেত্তয়া; সঙ্গে নিয়ে যাত্তয়া; অধিকার করা;"}
+{ "_id" : { "$oid" : "566fdd3ce4b03dcbb96c1a91"} , "Word" : "gook" , "meaning" : "অশ্বেতাঙ্গ বিদেশী;"}
+{ "_id" : { "$oid" : "566fdd3ce4b03dcbb96c1a92"} , "Word" : "goth" , "meaning" : "প্রাচীন জার্মান জাতি বিশেষ"}
+{ "_id" : { "$oid" : "566fdd3ce4b03dcbb96c1a93"} , "Word" : "goon" , "meaning" : "গণ্ডমূর্খ; জড়বুদ্ধি; স্থূলবুদ্ধি ব্যক্তি; নির্বোধ; বোকা; হাঁদা; বুদ্ধু আদমি; গাড়ল;"}
+{ "_id" : { "$oid" : "566fdd3de4b03dcbb96c1a94"} , "Word" : "gotup" , "meaning" : "কূট;"}
+{ "_id" : { "$oid" : "566fdd3de4b03dcbb96c1a95"} , "Word" : "goulash" , "meaning" : "গোলাস;"}
+{ "_id" : { "$oid" : "566fdd3de4b03dcbb96c1a96"} , "Word" : "gossamer" , "meaning" : "শূন্যে ভাসমান বা ঝোপে নির্মিত মাকড়সার জাল"}
+{ "_id" : { "$oid" : "566fdd3ee4b03dcbb96c1a97"} , "Word" : "goose" , "meaning" : "রাজহংসী"}
+{ "_id" : { "$oid" : "566fdd3ee4b03dcbb96c1a98"} , "Word" : "gramophone" , "meaning" : "কলের গান; গ্রামাফোন"}
+{ "_id" : { "$oid" : "566fdd3fe4b03dcbb96c1a99"} , "Word" : "granny" , "meaning" : "বৃদ্ধা; ঠাকুরমা; দিদিমা; পিতামহী; মাতামহী; ঠাম্মা; দিদু;"}
+{ "_id" : { "$oid" : "566fdd3fe4b03dcbb96c1a9a"} , "Word" : "grandee" , "meaning" : "উচ্চপদস্থ সম্ভ্রান্ত ব্যক্তি"}
+{ "_id" : { "$oid" : "566fdd3fe4b03dcbb96c1a9b"} , "Word" : "grant" , "meaning" : "অনুদান. প্রদত্ত বস্তু"}
+{ "_id" : { "$oid" : "566fdd40e4b03dcbb96c1a9c"} , "Word" : "graceless" , "meaning" : "অসৎ; স্বাভাবিক মাধুর্যহীন; অপকৃষ্ট; করুণাহীন; অনুগ্রহহীন; দুর্বৃত্তিপরায়ণ; হতচ্ছাড়া; স্বাভাবিক সৌষ্ঠবহীন; অশোভন; অশোভন; অনুচিত; লাবণ্যহীন; বিশ্রী; অমার্জিত;"}
+{ "_id" : { "$oid" : "566fdd40e4b03dcbb96c1a9d"} , "Word" : "gramercy" , "meaning" : "ধন্যবাদ"}
+{ "_id" : { "$oid" : "566fdd40e4b03dcbb96c1a9e"} , "Word" : "grandfather" , "meaning" : "পিতামহ; নানা; মাতামহ; ঠাকুরদাদা; দাদামশায়;"}
+{ "_id" : { "$oid" : "566fdd41e4b03dcbb96c1a9f"} , "Word" : "grandiose" , "meaning" : "সুবিশাল; আড়ম্বরপূর্ণ; জাঁকাল; বাগাড়ম্বরপূর্ণ; চমত্কার; সুবিরাট; সুবিপুল; মহান; জমকালো; জাঁকালো; সমারোহপূর্ণ; সাড়ম্বর; আড়ম্বর-প্রধান;"}
+{ "_id" : { "$oid" : "566fdd41e4b03dcbb96c1aa0"} , "Word" : "grandad" , "meaning" : "মাতামহ; ঠাকুরদাদা; পিতামহ; দাদামশায়;"}
+{ "_id" : { "$oid" : "566fdd41e4b03dcbb96c1aa1"} , "Word" : "granaries" , "meaning" : "শস্যাগার; খামারবাড়ি; শস্যগার; খামার; গঁজ; শস্যগোলা; গোলা;"}
+{ "_id" : { "$oid" : "566fdd42e4b03dcbb96c1aa2"} , "Word" : "grammes" , "meaning" : "ত্তজনের মাপবিশেষ;"}
+{ "_id" : { "$oid" : "566fdd42e4b03dcbb96c1aa3"} , "Word" : "grand nephew" , "meaning" : "ভাই;"}
+{ "_id" : { "$oid" : "566fdd42e4b03dcbb96c1aa4"} , "Word" : "gracefulness" , "meaning" : "কমনীয়তা; লালিত্য; সৌন্দর্য;"}
+{ "_id" : { "$oid" : "566fdd43e4b03dcbb96c1aa5"} , "Word" : "grandchild" , "meaning" : "নাতি; নাতনী;"}
+{ "_id" : { "$oid" : "566fdd43e4b03dcbb96c1aa6"} , "Word" : "grafting" , "meaning" : "কলম; টিকা; কোদাল;"}
+{ "_id" : { "$oid" : "566fdd43e4b03dcbb96c1aa7"} , "Word" : "grand child" , "meaning" : "নাতি; নাতনী;"}
+{ "_id" : { "$oid" : "566fdd44e4b03dcbb96c1aa8"} , "Word" : "graduated" , "meaning" : "অংশিত; অংশাঙ্কিত;"}
+{ "_id" : { "$oid" : "566fdd44e4b03dcbb96c1aa9"} , "Word" : "graciously" , "meaning" : "অনুগ্রহপূর্বক; অমায়িকভাবে;"}
+{ "_id" : { "$oid" : "566fdd44e4b03dcbb96c1aaa"} , "Word" : "granary" , "meaning" : "গোলা ; মরাই শস্যের গুদাম"}
+{ "_id" : { "$oid" : "566fdd45e4b03dcbb96c1aab"} , "Word" : "grandiloquent" , "meaning" : "বাগাড়ম্বরপূর্ণ; আড়ম্বরপূর্ণ; জাঁকজমকপূর্ণ; জাঁকাল; সমারোহপূর্ণ; শব্দঝংকৃত; বাগাড়ম্বরপূর্ণ;"}
+{ "_id" : { "$oid" : "566fdd45e4b03dcbb96c1aac"} , "Word" : "granddad" , "meaning" : "দাদু; ঠাকুদ্দা; ঠাম্মা; পিতামহ; মাতামহ; ঠাকুরদাদা; দাদামশায়;"}
+{ "_id" : { "$oid" : "566fdd45e4b03dcbb96c1aad"} , "Word" : "grand" , "meaning" : "বৃহৎ, মহৎ, প্রধান, চমৎকার"}
+{ "_id" : { "$oid" : "566fdd46e4b03dcbb96c1aae"} , "Word" : "grander" , "meaning" : "মহীয়ান; জবর; মহান; প্রধান; চমত্কার; শ্রেষ্ঠ; পরম; প্রচুর; পূর্ণাঙ্গ; পুরা;"}
+{ "_id" : { "$oid" : "566fdd46e4b03dcbb96c1aaf"} , "Word" : "grantinaid" , "meaning" : "সহায়ক অনুদান; অনুদান;"}
+{ "_id" : { "$oid" : "566fdd46e4b03dcbb96c1ab0"} , "Word" : "grantor" , "meaning" : "দাতা;"}
+{ "_id" : { "$oid" : "566fdd47e4b03dcbb96c1ab1"} , "Word" : "grandson" , "meaning" : "নাতি"}
+{ "_id" : { "$oid" : "566fdd47e4b03dcbb96c1ab2"} , "Word" : "grandma" , "meaning" : "ঠাকুরমা; পিতামহী; দিদিমা; মাতামহী; ঠাকরূণদিদি;"}
+{ "_id" : { "$oid" : "566fdd47e4b03dcbb96c1ab3"} , "Word" : "granting" , "meaning" : "প্রদান করা; অর্থাদি প্রদান করা; অনুমতি দেত্তয়া; মানিয়া লত্তয়া; গ্রাহ্য করা; দিতে রাজি হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd48e4b03dcbb96c1ab4"} , "Word" : "grandest" , "meaning" : "মহীয়ান; জবর; মহান; প্রধান; চমত্কার; শ্রেষ্ঠ; পরম; প্রচুর; পূর্ণাঙ্গ; পুরা;"}
+{ "_id" : { "$oid" : "566fdd48e4b03dcbb96c1ab5"} , "Word" : "gradualness" , "meaning" : "ক্রমিকতা;"}
+{ "_id" : { "$oid" : "566fdd48e4b03dcbb96c1ab6"} , "Word" : "grange" , "meaning" : "গোলাবাড়ি সমন্বিত ক্ষৃদ্র পল্লীগৃহ"}
+{ "_id" : { "$oid" : "566fdd49e4b03dcbb96c1ab7"} , "Word" : "graciousness" , "meaning" : "বদান্যতা; উদারতা; দয়া; দরদ; অনুকংপা; প্রসন্নতা; সৌজন্য;"}
+{ "_id" : { "$oid" : "566fdd49e4b03dcbb96c1ab8"} , "Word" : "gradation" , "meaning" : "ক্রমবিন্যাস; ক্রম; ধাপ; ধাপে ধাপে উন্নতি; মাত্রাবিন্যাস; মাত্রা; ধাপে ধাপে আরোহণ; পদমর্যদা; অগ্রগতির পর্যায়;"}
+{ "_id" : { "$oid" : "566fdd49e4b03dcbb96c1ab9"} , "Word" : "grand mother" , "meaning" : "নানী; পিতামহী; দিদিমা; ঠাকুরমা; মাতামহী; ঠাকরূণদিদি; পূর্বপুরুষের পত্নী;"}
+{ "_id" : { "$oid" : "566fdd4ae4b03dcbb96c1aba"} , "Word" : "grammatical" , "meaning" : "ব্যাকরণগত"}
+{ "_id" : { "$oid" : "566fdd4ae4b03dcbb96c1abb"} , "Word" : "graft" , "meaning" : "গাছের কলম, দেহাংশ জোড়া (দেওয়া)"}
+{ "_id" : { "$oid" : "566fdd4be4b03dcbb96c1abc"} , "Word" : "grace" , "meaning" : "লাবণ্য; অনুগ্রহ; কৃপা"}
+{ "_id" : { "$oid" : "566fdd4be4b03dcbb96c1abd"} , "Word" : "grace period" , "meaning" : "অতিরিক্ত সময়;"}
+{ "_id" : { "$oid" : "566fdd4be4b03dcbb96c1abe"} , "Word" : "grammarian" , "meaning" : "বৈয়াকরণ"}
+{ "_id" : { "$oid" : "566fdd4ce4b03dcbb96c1abf"} , "Word" : "granddaughter" , "meaning" : "নাতনী; দৌহিত্রী;"}
+{ "_id" : { "$oid" : "566fdd4ce4b03dcbb96c1ac0"} , "Word" : "gradually" , "meaning" : "ক্রমে; ক্রমান্বয়ে"}
+{ "_id" : { "$oid" : "566fdd4ce4b03dcbb96c1ac1"} , "Word" : "grading" , "meaning" : "ক্রমানুসারে সাজান; মাত্রাবিভক্ত করা; ক্রমবিভক্ত করা; নির্দিষ্ট ক্রর্মভুক্ত করা; বাছাই করা;"}
+{ "_id" : { "$oid" : "566fdd4de4b03dcbb96c1ac2"} , "Word" : "graminivorous" , "meaning" : "তৃণভোজী"}
+{ "_id" : { "$oid" : "566fdd4de4b03dcbb96c1ac3"} , "Word" : "granted" , "meaning" : "প্রদান করা; অর্থাদি প্রদান করা; অনুমতি দেত্তয়া; মানিয়া লত্তয়া; গ্রাহ্য করা; দিতে রাজি হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd4de4b03dcbb96c1ac4"} , "Word" : "grandfater" , "meaning" : "পিতামহ ; দাদা ; নানা"}
+{ "_id" : { "$oid" : "566fdd4ee4b03dcbb96c1ac5"} , "Word" : "grafts" , "meaning" : "ঘুস; কলম; ঘুষ; টিকা; উত্কোচ;"}
+{ "_id" : { "$oid" : "566fdd4ee4b03dcbb96c1ac6"} , "Word" : "grandsire" , "meaning" : "পিতামহ বা মাতামহ; পিতামহাদি পূর্বপুরুষ্‌"}
+{ "_id" : { "$oid" : "566fdd4ee4b03dcbb96c1ac7"} , "Word" : "grantee" , "meaning" : "গ্রাহক;"}
+{ "_id" : { "$oid" : "566fdd4fe4b03dcbb96c1ac8"} , "Word" : "graduation" , "meaning" : "ক্রম, ধাপ; ক্রমবিন্যাস"}
+{ "_id" : { "$oid" : "566fdd4fe4b03dcbb96c1ac9"} , "Word" : "grandstand" , "meaning" : "খেলার মাঠের ছাউনিযুক্ত গ্যালারি; লোকদেখান;"}
+{ "_id" : { "$oid" : "566fdd4fe4b03dcbb96c1aca"} , "Word" : "graffito" , "meaning" : "দেত্তয়ালের ছবি; দেওয়ালচিত্র; দেওয়াললিপি;"}
+{ "_id" : { "$oid" : "566fdd50e4b03dcbb96c1acb"} , "Word" : "grand-daughter" , "meaning" : "নাতনী"}
+{ "_id" : { "$oid" : "566fdd50e4b03dcbb96c1acc"} , "Word" : "grand total" , "meaning" : "মহাসমষ্টি;"}
+{ "_id" : { "$oid" : "566fdd50e4b03dcbb96c1acd"} , "Word" : "gradual" , "meaning" : "ক্রমিক; ঢালুভাব"}
+{ "_id" : { "$oid" : "566fdd51e4b03dcbb96c1ace"} , "Word" : "gran" , "meaning" : "ঠাকরূণদিদি;"}
+{ "_id" : { "$oid" : "566fdd51e4b03dcbb96c1acf"} , "Word" : "graduate" , "meaning" : "বিশ্ববিদ্যালয়ের স্নাতক-উপাধিপ্রাপ্ত ব্যক্তি"}
+{ "_id" : { "$oid" : "566fdd51e4b03dcbb96c1ad0"} , "Word" : "graffiti" , "meaning" : "দেত্তয়ালের ছবি;"}
+{ "_id" : { "$oid" : "566fdd52e4b03dcbb96c1ad1"} , "Word" : "grabble" , "meaning" : "হাতড়ানো"}
+{ "_id" : { "$oid" : "566fdd52e4b03dcbb96c1ad2"} , "Word" : "grade" , "meaning" : "ক্রমমাত্রা বা ধাপ, পদমর্যদা"}
+{ "_id" : { "$oid" : "566fdd52e4b03dcbb96c1ad3"} , "Word" : "gram" , "meaning" : "ছোলা, কলাই ওজন বিশেষ"}
+{ "_id" : { "$oid" : "566fdd53e4b03dcbb96c1ad4"} , "Word" : "granite" , "meaning" : "ফটিক প্রস্তুর বিশেষ"}
+{ "_id" : { "$oid" : "566fdd53e4b03dcbb96c1ad5"} , "Word" : "grand-ma" , "meaning" : "ঠাকুরমা ; দিদিমা ; বৃদ্ধা স্ত্রীলোক"}
+{ "_id" : { "$oid" : "566fdd53e4b03dcbb96c1ad6"} , "Word" : "graduates" , "meaning" : "স্নাতক;"}
+{ "_id" : { "$oid" : "566fdd54e4b03dcbb96c1ad7"} , "Word" : "graded" , "meaning" : "ক্রমানুসারে সাজান; মাত্রাবিভক্ত করা; ক্রমবিভক্ত করা; নির্দিষ্ট ক্রর্মভুক্ত করা; বাছাই করা;"}
+{ "_id" : { "$oid" : "566fdd54e4b03dcbb96c1ad8"} , "Word" : "grandtotal" , "meaning" : "মহাসমষ্টি;"}
+{ "_id" : { "$oid" : "566fdd54e4b03dcbb96c1ad9"} , "Word" : "grandparent" , "meaning" : "ঠাকুরমা; পিতামহ; মাতামহ; পিতামহী; মাতামহী; ঠাকুরদাদা; দাদামশায়; দিদিমা;"}
+{ "_id" : { "$oid" : "566fdd55e4b03dcbb96c1ada"} , "Word" : "grandmother" , "meaning" : "মাতামহী ; দাদী ; নানী"}
+{ "_id" : { "$oid" : "566fdd55e4b03dcbb96c1adb"} , "Word" : "graces" , "meaning" : "অনুগ্রহ; চারুতা; দয়া; কৃপা; লাবণ্য; ক্ষমা; ঐশ্বরিক করুণা; বিভূষণ; চটুলতা; আচরণে স্বাভাবিক মাধুর্য; সদ্গুণ; প্রশংসনীয় গুণ; কমনীয়তা; চারুত্ব; প্রসাদ; অলঙ্কার; স্বর্গীয় প্রভাব; অমর জীবন; আখ্যাবিশেষ; বন্ধুত্ব; চেহারায় স্বাভাবিক মাধুর্য; সৌন্দর্য; আচরণে স্বাভাবিক সৌষ্ঠব; অমর মোক্ষ; চেহারায় স্বাভাবিক সৌষ্ঠব;"}
+{ "_id" : { "$oid" : "566fdd55e4b03dcbb96c1adc"} , "Word" : "gracious" , "meaning" : "দয়াময়; অনুগ্রহশীল"}
+{ "_id" : { "$oid" : "566fdd56e4b03dcbb96c1add"} , "Word" : "grammar" , "meaning" : "ব্যাকরণ শাস্ত্র, ব্যাকরণ শিক্ষার বই"}
+{ "_id" : { "$oid" : "566fdd56e4b03dcbb96c1ade"} , "Word" : "grandeur" , "meaning" : "বিশালতা, জাকজমক; আড়ম্বর"}
+{ "_id" : { "$oid" : "566fdd56e4b03dcbb96c1adf"} , "Word" : "grainy" , "meaning" : "দানাদার;"}
+{ "_id" : { "$oid" : "566fdd57e4b03dcbb96c1ae0"} , "Word" : "grail" , "meaning" : "চেপ্টা বড় থালা"}
+{ "_id" : { "$oid" : "566fdd57e4b03dcbb96c1ae1"} , "Word" : "grains" , "meaning" : "শস্য; বালুকণা; শস্যকণা; দানা; খাদ্যশস্য; ছিবড়া; বুনন; শক্ত কণা; ত্তজনবিশেষ; শাঁস;"}
+{ "_id" : { "$oid" : "566fdd57e4b03dcbb96c1ae2"} , "Word" : "grain" , "meaning" : "শস্য; শস্যের দানা; ক্ষুদ্র শক্ত বস্তু; ওজন পরিমাণ (০.০৬৪৮ গ্র্যাম),"}
+{ "_id" : { "$oid" : "566fdd58e4b03dcbb96c1ae3"} , "Word" : "grams" , "meaning" : "গ্রাম; চণক; ছোলা; ত্তজনের মাপবিশেষ; কলাই; দানা; বুট;"}
+{ "_id" : { "$oid" : "566fdd58e4b03dcbb96c1ae4"} , "Word" : "grades" , "meaning" : "শ্রেণী; মান; পদমর্যাদা; ক্রম; ত্তজন; বিদ্যালয়ের পাঠশ্রেণী; উতরাই; ঢল;"}
+{ "_id" : { "$oid" : "566fdd58e4b03dcbb96c1ae5"} , "Word" : "graceful" , "meaning" : "লাবণ্যময়; শোভন; করুণাময়"}
+{ "_id" : { "$oid" : "566fdd59e4b03dcbb96c1ae6"} , "Word" : "gradients" , "meaning" : "নতিমাত্রা; নতির পরিমাণ;"}
+{ "_id" : { "$oid" : "566fdd59e4b03dcbb96c1ae7"} , "Word" : "gradient" , "meaning" : "ক্রমোচ্চ"}
+{ "_id" : { "$oid" : "566fdd5ae4b03dcbb96c1ae8"} , "Word" : "granulate" , "meaning" : "কণিকাকার করা; কণিকাকার হত্তয়া; দানা বাঁধা; দানা বাঁধান;"}
+{ "_id" : { "$oid" : "566fdd5ae4b03dcbb96c1ae9"} , "Word" : "gravely" , "meaning" : "গুরুত্বসহকারে; গুরুত্ব দিয়ে;"}
+{ "_id" : { "$oid" : "566fdd5ae4b03dcbb96c1aea"} , "Word" : "gravedigger" , "meaning" : "কবর-খনক;"}
+{ "_id" : { "$oid" : "566fdd5be4b03dcbb96c1aeb"} , "Word" : "grapefruits" , "meaning" : "জাম্বুরা; শরবতী-লেবু; মোসম্বিলেবু;"}
+{ "_id" : { "$oid" : "566fdd5be4b03dcbb96c1aec"} , "Word" : "gratefulness" , "meaning" : "কৃতজ্ঞতা"}
+{ "_id" : { "$oid" : "566fdd5be4b03dcbb96c1aed"} , "Word" : "gratifying" , "meaning" : "খুশি করা; সন্তুষ্ট করা; পরিতৃপ্ত করা; তুষ্ট করা; বাসনা চরিতার্থ করা; চরিতার্থ করা; ঘুস দেত্তয়া; বকশী দেত্তয়া; গা জুড়ান;"}
+{ "_id" : { "$oid" : "566fdd5ce4b03dcbb96c1aee"} , "Word" : "grasshopper" , "meaning" : "ফড়িং ; গঙ্গাফড়িং"}
+{ "_id" : { "$oid" : "566fdd5ce4b03dcbb96c1aef"} , "Word" : "gratings" , "meaning" : "ঝাঁঝরি; জাফরি;"}
+{ "_id" : { "$oid" : "566fdd5ce4b03dcbb96c1af0"} , "Word" : "gravimetric" , "meaning" : "অভিকর্ষ-ব্যবধান মাপনী-সংক্রান্ত; ওজন পরিমাপ-সংক্রান্ত;"}
+{ "_id" : { "$oid" : "566fdd5de4b03dcbb96c1af1"} , "Word" : "gratefully" , "meaning" : "কৃতজ্ঞচিত্তে; সকৃতজ্ঞভাবে;"}
+{ "_id" : { "$oid" : "566fdd5de4b03dcbb96c1af2"} , "Word" : "graphical" , "meaning" : "গ্রাফিক; রৈখিক; চিত্রলেখসংক্রান্ত; চিত্রানুগ; লৈখিক; স্পষ্ট;"}
+{ "_id" : { "$oid" : "566fdd5de4b03dcbb96c1af3"} , "Word" : "grating" , "meaning" : "শ্রুতিকটু; কর্কশ; দারূণ; কটু; খর্খরে;"}
+{ "_id" : { "$oid" : "566fdd5ee4b03dcbb96c1af4"} , "Word" : "gravels" , "meaning" : "নুড়ি; কাঁকর; শর্করা; কঙ্কর; সিকতা; পাথুরি-রোগ;"}
+{ "_id" : { "$oid" : "566fdd5ee4b03dcbb96c1af5"} , "Word" : "grapple" , "meaning" : "জোর করিয়া ধরা; হাতাহাতি করা।জোর করিয়া ধারণ"}
+{ "_id" : { "$oid" : "566fdd5ee4b03dcbb96c1af6"} , "Word" : "grape vine" , "meaning" : "দ্রাক্ষালতা;"}
+{ "_id" : { "$oid" : "566fdd5fe4b03dcbb96c1af7"} , "Word" : "grasp" , "meaning" : "আকড়ে ধরা; উপলব্ধি, গ্রহণ"}
+{ "_id" : { "$oid" : "566fdd5fe4b03dcbb96c1af8"} , "Word" : "grassland" , "meaning" : "তৃণভূমি; তৃণাচ্ছাদিত চারণক্ষেত্র; কেদার;"}
+{ "_id" : { "$oid" : "566fdd5fe4b03dcbb96c1af9"} , "Word" : "gravies" , "meaning" : "রসা; মাংসের রস; অপ্রত্যাশিত অর্থ; অনুপার্জিত অর্থ; মাংসের রসা ঝোল;"}
+{ "_id" : { "$oid" : "566fdd60e4b03dcbb96c1afa"} , "Word" : "grated" , "meaning" : "রগড়ান; খর্খর করা; পালিশ করা; খেপান; জ্বালাতন করা; বিরক্ত করা; ক্রোধে অস্থির করা; দু:খে অস্থির করা; ক্রোধে অস্থির হত্তয়া; দু:খে অস্থির হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd60e4b03dcbb96c1afb"} , "Word" : "gratified" , "meaning" : "ধন্য; তৃপ্ত; লব্ধকাম; চরিতার্থ;"}
+{ "_id" : { "$oid" : "566fdd60e4b03dcbb96c1afc"} , "Word" : "grave-stone" , "meaning" : "সমাধি প্রস্তর"}
+{ "_id" : { "$oid" : "566fdd61e4b03dcbb96c1afd"} , "Word" : "grass" , "meaning" : "ঘাস, তৃণ"}
+{ "_id" : { "$oid" : "566fdd61e4b03dcbb96c1afe"} , "Word" : "graze" , "meaning" : "চরে ঘাস খাওয়া; চরানো ও ঘাস খাওয়ানো"}
+{ "_id" : { "$oid" : "566fdd61e4b03dcbb96c1aff"} , "Word" : "gravy train" , "meaning" : "স্বল্পায়াসে অর্থোপার্জনের সুযোগ;"}
+{ "_id" : { "$oid" : "566fdd62e4b03dcbb96c1b00"} , "Word" : "grave" , "meaning" : "কবর, সমাধি"}
+{ "_id" : { "$oid" : "566fdd62e4b03dcbb96c1b01"} , "Word" : "grappled" , "meaning" : "জড়ান;"}
+{ "_id" : { "$oid" : "566fdd62e4b03dcbb96c1b02"} , "Word" : "graveyard" , "meaning" : "গোরস্থান ; কবরখানা"}
+{ "_id" : { "$oid" : "566fdd63e4b03dcbb96c1b03"} , "Word" : "gravelly" , "meaning" : "কাঁকুরে; শর্করাবৎ;"}
+{ "_id" : { "$oid" : "566fdd63e4b03dcbb96c1b04"} , "Word" : "graphite" , "meaning" : "কৃষ্ণসীস-নামক ধাতু"}
+{ "_id" : { "$oid" : "566fdd63e4b03dcbb96c1b05"} , "Word" : "gratification" , "meaning" : "তৃপ্তি; পরিতৃপ্তি; তুষ্টি; আনন্দ; আহ্লাদ; পরিতুষ্টি; পরিতুষ্টিকরণ; তৃপ্তকরণ; সন্তুষ্টিসাধন; রঁজন; পরিতোষ; সন্তোষকরণ;"}
+{ "_id" : { "$oid" : "566fdd64e4b03dcbb96c1b06"} , "Word" : "gravy" , "meaning" : "ঝোল, রস, শুরুয়া"}
+{ "_id" : { "$oid" : "566fdd64e4b03dcbb96c1b07"} , "Word" : "gravid" , "meaning" : "অন্তঃসত্ত্বা; গর্ভবতী; গর্ভিণী;"}
+{ "_id" : { "$oid" : "566fdd64e4b03dcbb96c1b08"} , "Word" : "gravitation" , "meaning" : "মহাকর্ষ; মধ্যাকর্ষণ শক্তি"}
+{ "_id" : { "$oid" : "566fdd65e4b03dcbb96c1b09"} , "Word" : "gratuitously" , "meaning" : "অবাঞ্ছিতভাবে; অযৌক্তিকভাবে; বিনা পয়সায়; বিনা দক্ষিণায়;"}
+{ "_id" : { "$oid" : "566fdd65e4b03dcbb96c1b0a"} , "Word" : "grappling" , "meaning" : "কুস্তি করা; আঁকড়াইয়া ধরা; সংগ্রাম করা; লড়াই করা; মল্লযুদ্ধ করা; জড়ান; আঁকড়ান;"}
+{ "_id" : { "$oid" : "566fdd65e4b03dcbb96c1b0b"} , "Word" : "gravitate" , "meaning" : "কোনও কিছুর দিকে চলতে থাকা বা আকৃষ্ট হওয়া"}
+{ "_id" : { "$oid" : "566fdd66e4b03dcbb96c1b0c"} , "Word" : "grapefruit" , "meaning" : "জাম্বুরা; শরবতী-লেবু; মোসম্বিলেবু;"}
+{ "_id" : { "$oid" : "566fdd66e4b03dcbb96c1b0d"} , "Word" : "gratis" , "meaning" : "বিনামূল্যে ; মাগনা"}
+{ "_id" : { "$oid" : "566fdd66e4b03dcbb96c1b0e"} , "Word" : "gravity" , "meaning" : "গম্ভীর্য, গুরুত্ব; ভার; অভিকর্ষ"}
+{ "_id" : { "$oid" : "566fdd67e4b03dcbb96c1b0f"} , "Word" : "grapples" , "meaning" : "আঁকর্শিবিশেষ; সাঁড়াশিবিশেষ; আঁকড়াইয়া ধরা; ক্ষুদ্র নঙ্গরবিশেষ; কবল;"}
+{ "_id" : { "$oid" : "566fdd67e4b03dcbb96c1b10"} , "Word" : "graven" , "meaning" : "ক্ষোদিত;"}
+{ "_id" : { "$oid" : "566fdd67e4b03dcbb96c1b11"} , "Word" : "graphic" , "meaning" : "লেখা বা চিত্রাদি সম্বন্ধীয়, সুস্পষ্ট বর্ণনামূলক্‌"}
+{ "_id" : { "$oid" : "566fdd68e4b03dcbb96c1b12"} , "Word" : "graves" , "meaning" : "সমাধি; কবর; কারবালা; কবরখানা; মৃতের আলয়; মৃতু্য; ধ্বংস; গোর; গোরস্থান;"}
+{ "_id" : { "$oid" : "566fdd68e4b03dcbb96c1b13"} , "Word" : "graver" , "meaning" : "ভাস্কর; খোদাই করিবার যন্ত্র"}
+{ "_id" : { "$oid" : "566fdd68e4b03dcbb96c1b14"} , "Word" : "grapevine" , "meaning" : "দ্রাক্ষালতা;"}
+{ "_id" : { "$oid" : "566fdd69e4b03dcbb96c1b15"} , "Word" : "grape fruits" , "meaning" : "জাম্বুরা; শরবতী-লেবু; মোসম্বিলেবু;"}
+{ "_id" : { "$oid" : "566fdd69e4b03dcbb96c1b16"} , "Word" : "gravel" , "meaning" : "নুড়িপাথর"}
+{ "_id" : { "$oid" : "566fdd69e4b03dcbb96c1b17"} , "Word" : "graph" , "meaning" : "চিত্রলেখ, নকশা"}
+{ "_id" : { "$oid" : "566fdd6ae4b03dcbb96c1b18"} , "Word" : "grate" , "meaning" : "ঘষে গুড়য় পরিণত করা, কর্কশ শব্দ করা;(দাঁত) কড়মড় করা"}
+{ "_id" : { "$oid" : "566fdd6ae4b03dcbb96c1b19"} , "Word" : "gratuity" , "meaning" : "আনুতোষিক; পারিতোষিক; গ্র্যাচুয়িটি; উপহার; বকশিশ; কর্মের স্বীকৃতি; সেবার স্বীকৃতি; আনুতোষিক;"}
+{ "_id" : { "$oid" : "566fdd6ae4b03dcbb96c1b1a"} , "Word" : "gratuities" , "meaning" : "উপহার; বকশিশ; কর্মের স্বীকৃতি; সেবার স্বীকৃতি; আনুতোষিক;"}
+{ "_id" : { "$oid" : "566fdd6be4b03dcbb96c1b1b"} , "Word" : "grape" , "meaning" : "আঙুর"}
+{ "_id" : { "$oid" : "566fdd6be4b03dcbb96c1b1c"} , "Word" : "grasping" , "meaning" : "সুদৃঢ়; অর্থগৃধ্নু; লোলুপ; লোভী; নাছোড়বান্দা; একরোখা;"}
+{ "_id" : { "$oid" : "566fdd6be4b03dcbb96c1b1d"} , "Word" : "gravestones" , "meaning" : "সমাধিস্তম্ভ; সমাধিশিলা;"}
+{ "_id" : { "$oid" : "566fdd6ce4b03dcbb96c1b1e"} , "Word" : "grateful" , "meaning" : "কৃতজ্ঞ"}
+{ "_id" : { "$oid" : "566fdd6ce4b03dcbb96c1b1f"} , "Word" : "grater" , "meaning" : "আঁচড়া;"}
+{ "_id" : { "$oid" : "566fdd6ce4b03dcbb96c1b20"} , "Word" : "grasped" , "meaning" : "করায়ত্ত; জড়ান;"}
+{ "_id" : { "$oid" : "566fdd6de4b03dcbb96c1b21"} , "Word" : "graphics" , "meaning" : "গ্র্যাফিকস;"}
+{ "_id" : { "$oid" : "566fdd6de4b03dcbb96c1b22"} , "Word" : "grateful ness" , "meaning" : "কৃতজ্ঞতা; ধন্যবাদ;"}
+{ "_id" : { "$oid" : "566fdd6de4b03dcbb96c1b23"} , "Word" : "grasps" , "meaning" : "উপলব্ধি; দৃঢ়মুষ্টিতে ধারণ; লড়াই; কুস্তি; পাল্লা;"}
+{ "_id" : { "$oid" : "566fdd6ee4b03dcbb96c1b24"} , "Word" : "gratulty" , "meaning" : "আনুতোষিক; কর্মের পুরষ্কার স্বরূপ অর্ঘদান"}
+{ "_id" : { "$oid" : "566fdd6ee4b03dcbb96c1b25"} , "Word" : "granule" , "meaning" : "কণিকা, ক্ষুদ্র (শস্য) দানা"}
+{ "_id" : { "$oid" : "566fdd6ee4b03dcbb96c1b26"} , "Word" : "gravest" , "meaning" : "গুরুতর; গভীর; গম্ভীর; গুরুত্বপূর্ণ; গুরুগম্ভীর; গোমড়া; রাশভারী; পরম; অনুদাত্ত;"}
+{ "_id" : { "$oid" : "566fdd6fe4b03dcbb96c1b27"} , "Word" : "granular" , "meaning" : "ঝুরা; কণিকাকার; গুটিকাসদৃশ; ক্ষুদ্র শস্যদানাবৎ; শর্করাবৎ; ঝুরা-ঝুরা; দোবরা;"}
+{ "_id" : { "$oid" : "566fdd6fe4b03dcbb96c1b28"} , "Word" : "grape fruit" , "meaning" : "জাম্বুরা; শরবতী-লেবু; মোসম্বিলেবু;"}
+{ "_id" : { "$oid" : "566fdd6fe4b03dcbb96c1b29"} , "Word" : "gray" , "meaning" : "ধূসর; পাকা; ধূসরবর্ণ; শ্বেত; ধবল; সাদা; শুক্ল; শুভ্র; ছাইরঙা; পলিত; পলিতকেশ; পক্ব; বৃদ্ধ; পরিণত; অনুজ্বল; নীরস; অনুজ্জ্বল; ধোঁয়েটে; মেঘাচ্ছন্ন; ম্লান; সীসেরঙা; ধোঁয়াটে; বিষণ্ণ;"}
+{ "_id" : { "$oid" : "566fdd70e4b03dcbb96c1b2a"} , "Word" : "graveness" , "meaning" : "গম্ভীরতা"}
+{ "_id" : { "$oid" : "566fdd70e4b03dcbb96c1b2b"} , "Word" : "gratify" , "meaning" : "খুশি করা, তৃপ্ত করা"}
+{ "_id" : { "$oid" : "566fdd70e4b03dcbb96c1b2c"} , "Word" : "grass-widow" , "meaning" : "পরিত্যক্তা স্ত্রী; যে স্ত্রী স্বামীর সহিত বাস করে না"}
+{ "_id" : { "$oid" : "566fdd71e4b03dcbb96c1b2d"} , "Word" : "gratuitous" , "meaning" : "বিনামূল্যে প্রদ্‌ত্ত; অকারণকৃত"}
+{ "_id" : { "$oid" : "566fdd71e4b03dcbb96c1b2e"} , "Word" : "graph-paper" , "meaning" : "ছক কাগজ"}
+{ "_id" : { "$oid" : "566fdd71e4b03dcbb96c1b2f"} , "Word" : "grassy" , "meaning" : "সবুজবর্ণ; তুণাচ্ছাদিত"}
+{ "_id" : { "$oid" : "566fdd72e4b03dcbb96c1b30"} , "Word" : "grass-land" , "meaning" : "তৃৃণভূমি"}
+{ "_id" : { "$oid" : "566fdd72e4b03dcbb96c1b31"} , "Word" : "grants" , "meaning" : "অনুদান; প্রদান; দান; সরকারি অনুদান; মানিয়া লত্তয়া; দিতে রাজি হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd72e4b03dcbb96c1b32"} , "Word" : "gravestone" , "meaning" : "সমাধিস্তম্ভ; সমাধিশিলা; সমাধিফলক বা সমাধিপ্রস্তর;"}
+{ "_id" : { "$oid" : "566fdd73e4b03dcbb96c1b33"} , "Word" : "grayish" , "meaning" : "ষৎ ধূসর; ষৎ পলিত; ষৎ নীরস;"}
+{ "_id" : { "$oid" : "566fdd73e4b03dcbb96c1b34"} , "Word" : "gravitational" , "meaning" : "মহাকর্ষীয়;"}
+{ "_id" : { "$oid" : "566fdd73e4b03dcbb96c1b35"} , "Word" : "graphs" , "meaning" : "লেখ; চিত্রলেখ; নকশা;"}
+{ "_id" : { "$oid" : "566fdd74e4b03dcbb96c1b36"} , "Word" : "gratitude" , "meaning" : "কৃতজ্ঞতা, ধন্যবাদ"}
+{ "_id" : { "$oid" : "566fdd74e4b03dcbb96c1b37"} , "Word" : "grassroots" , "meaning" : "মূল স্তর উপাদান; মূল স্তর উত্স; ভোটদাতৃগণ; বুনিয়াদি স্তর; তৃণমূলের কর্মীবৃন্দ;"}
+{ "_id" : { "$oid" : "566fdd75e4b03dcbb96c1b38"} , "Word" : "green coconut" , "meaning" : "ডাব;"}
+{ "_id" : { "$oid" : "566fdd75e4b03dcbb96c1b39"} , "Word" : "greed" , "meaning" : "লোভ; অর্থলিপ্সা; পেটুকতা"}
+{ "_id" : { "$oid" : "566fdd75e4b03dcbb96c1b3a"} , "Word" : "great joy" , "meaning" : "কল্লোল;"}
+{ "_id" : { "$oid" : "566fdd76e4b03dcbb96c1b3b"} , "Word" : "grids" , "meaning" : "রন্ধনের ঝাঁঝরি; উনানের শিক; নর্দমার ঝাঁঝরি; বিদ্যুদ্বাহী তারজালি; ঝাঁঝরি; জাফরি;"}
+{ "_id" : { "$oid" : "566fdd76e4b03dcbb96c1b3c"} , "Word" : "grievances" , "meaning" : "নালিশের কারণ; দুর্দশা; কষ্ট; উত্পীড়িত অবস্থা; দায়িত্ব; দু:খের কারণ; অসন্তোষ; বোঝা; ক্ষতি;"}
+{ "_id" : { "$oid" : "566fdd76e4b03dcbb96c1b3d"} , "Word" : "grill" , "meaning" : "জানালার দরজার জাফরি; রেস্তোরা"}
+{ "_id" : { "$oid" : "566fdd77e4b03dcbb96c1b3e"} , "Word" : "greenhouse" , "meaning" : "গাছপালা গজাবার জন্য কাচের গৃহ"}
+{ "_id" : { "$oid" : "566fdd77e4b03dcbb96c1b3f"} , "Word" : "grieves" , "meaning" : "কষ্ট পাত্তয়া; দু:খ দেত্তয়া; দু:খ পাত্তয়া; শোক করা;"}
+{ "_id" : { "$oid" : "566fdd77e4b03dcbb96c1b40"} , "Word" : "greensward" , "meaning" : "তৃণাবৃত ভুমিখণ্ড"}
+{ "_id" : { "$oid" : "566fdd78e4b03dcbb96c1b41"} , "Word" : "grief" , "meaning" : "দুঃখ, শোক"}
+{ "_id" : { "$oid" : "566fdd78e4b03dcbb96c1b42"} , "Word" : "greenwood" , "meaning" : "গ্রীষ্মকালীন বনভূমি, সবুজ বনভুমি"}
+{ "_id" : { "$oid" : "566fdd78e4b03dcbb96c1b43"} , "Word" : "green horn" , "meaning" : "বালক; নবযুবক; আনকোরা অনভিজ্ঞ যুবক;"}
+{ "_id" : { "$oid" : "566fdd79e4b03dcbb96c1b44"} , "Word" : "grimace" , "meaning" : "মুখভক্ষী;"}
+{ "_id" : { "$oid" : "566fdd79e4b03dcbb96c1b45"} , "Word" : "greyhound" , "meaning" : "ডালকুত্তা, একজাতের বড় শিকারী কুকুর"}
+{ "_id" : { "$oid" : "566fdd79e4b03dcbb96c1b46"} , "Word" : "griffon" , "meaning" : "যে কল্পিত জন্তুর মাথা পাখা ঈগল পাখির মতো এবং দেহ সিংহের মত্‌"}
+{ "_id" : { "$oid" : "566fdd7ae4b03dcbb96c1b47"} , "Word" : "grieved" , "meaning" : "মন:ক্ষুণ্ণ;"}
+{ "_id" : { "$oid" : "566fdd7ae4b03dcbb96c1b48"} , "Word" : "grenadier" , "meaning" : "হাত বোমানিক্ষেপকারী সৈনিকবিশেষ"}
+{ "_id" : { "$oid" : "566fdd7ae4b03dcbb96c1b49"} , "Word" : "griefs" , "meaning" : "বিষাদ; দুর্দশা; আর্তি; খেদ; অসুখ; ব্যসন; অভিষঙ্গ; মর্মযন্ত্রণা; তাপ; ঘা; দু:খ; তীব্র শোক; চিত্তক্ষোভ; দৌর্মনস্য;"}
+{ "_id" : { "$oid" : "566fdd7be4b03dcbb96c1b4a"} , "Word" : "grazes" , "meaning" : "পশুচারণ করা; চরা; চরান; ঘষা; ঘষটান; ঘষড়ান; ঘর্ষণ করা; গোচারণে যাত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd7be4b03dcbb96c1b4b"} , "Word" : "green tea" , "meaning" : "সবুজ চা;"}
+{ "_id" : { "$oid" : "566fdd7be4b03dcbb96c1b4c"} , "Word" : "greeting" , "meaning" : "অভিবাদন; সম্ভাষণ; নমস্কার; অভ্যর্থনা; শুভেচ্ছা জ্ঞাপন; প্রীতিসম্ভাষণ; আনন্দ জ্ঞাপন; দূর হইতে আহ্বান; অভ্যর্থন; স্বাগতভাষণ;"}
+{ "_id" : { "$oid" : "566fdd7ce4b03dcbb96c1b4d"} , "Word" : "greedy" , "meaning" : "পেটুক; ধনলোভী"}
+{ "_id" : { "$oid" : "566fdd7ce4b03dcbb96c1b4e"} , "Word" : "greave" , "meaning" : "হাঁটুর নিচের অংশের বর্ম;"}
+{ "_id" : { "$oid" : "566fdd7ce4b03dcbb96c1b4f"} , "Word" : "greener" , "meaning" : "নবীন; শিক্ষানবিস; আনাড়ি; নবব্রতী; নবশিক্ষার্থী;"}
+{ "_id" : { "$oid" : "566fdd7de4b03dcbb96c1b50"} , "Word" : "greengrocer" , "meaning" : "সবজিত্তয়ালা; তরিতরকারি-বিক্রেতা; ফলমূল বিক্রেতা;"}
+{ "_id" : { "$oid" : "566fdd7de4b03dcbb96c1b51"} , "Word" : "greets" , "meaning" : "অভিবাদন জানান; অভিবাদন করা; নমস্কার করা; সম্ভাষণ করা; আনন্দ জ্ঞাপন করা; সাক্ষাৎ পাত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd7de4b03dcbb96c1b52"} , "Word" : "grieve" , "meaning" : "দুঃখ দেওয়া বা পাওয়া ; শোক করা"}
+{ "_id" : { "$oid" : "566fdd7ee4b03dcbb96c1b53"} , "Word" : "grieving" , "meaning" : "খিদ্যমান;"}
+{ "_id" : { "$oid" : "566fdd7ee4b03dcbb96c1b54"} , "Word" : "greenwich" , "meaning" : "গ্রীনিচ; গ্রিনিজ;"}
+{ "_id" : { "$oid" : "566fdd7ee4b03dcbb96c1b55"} , "Word" : "gregarious" , "meaning" : "দলবদ্ধ বা সমাজবদ্ধ হয়ে বাসকারী; সঙ্গপ্রিয়"}
+{ "_id" : { "$oid" : "566fdd7fe4b03dcbb96c1b56"} , "Word" : "greenish" , "meaning" : "সবুজাভ; সবজে; হরিতাভ; ষৎ সবুজ;"}
+{ "_id" : { "$oid" : "566fdd7fe4b03dcbb96c1b57"} , "Word" : "gremlins" , "meaning" : "অলস; ভূত; নিষ্কর্মা;"}
+{ "_id" : { "$oid" : "566fdd7fe4b03dcbb96c1b58"} , "Word" : "gride" , "meaning" : "ক্যাঁচ্ক্যাঁচ শব্দ;"}
+{ "_id" : { "$oid" : "566fdd80e4b03dcbb96c1b59"} , "Word" : "grazed" , "meaning" : "ঘষা; ঘর্ষিত; চারিত; ঘৃষ্ট;"}
+{ "_id" : { "$oid" : "566fdd80e4b03dcbb96c1b5a"} , "Word" : "griddle" , "meaning" : "তাত্তয়া; চাটু; তাওয়া;"}
+{ "_id" : { "$oid" : "566fdd80e4b03dcbb96c1b5b"} , "Word" : "green beans" , "meaning" : "সবুজ মটরশুটি;"}
+{ "_id" : { "$oid" : "566fdd81e4b03dcbb96c1b5c"} , "Word" : "grenade" , "meaning" : "ছোট হাত বোমা"}
+{ "_id" : { "$oid" : "566fdd81e4b03dcbb96c1b5d"} , "Word" : "greatness" , "meaning" : "মহিমা; মহত্ত্ব; উদারতা; মাহাত্ম্য; গরিমা; পরিমাণ; আয়তন; রাশি; খ্যাতি; প্রসিদ্ধি; গুরুত্ব;"}
+{ "_id" : { "$oid" : "566fdd81e4b03dcbb96c1b5e"} , "Word" : "greediness" , "meaning" : "লালসা; কৃপণতা; অর্থলিপ্সা; স্পৃহা; লোভ; লোলুপতা;"}
+{ "_id" : { "$oid" : "566fdd82e4b03dcbb96c1b5f"} , "Word" : "greasing" , "meaning" : "লেপন;"}
+{ "_id" : { "$oid" : "566fdd82e4b03dcbb96c1b60"} , "Word" : "greens" , "meaning" : "সবুজ শাকসবজি; টাটকা তরকারি;"}
+{ "_id" : { "$oid" : "566fdd82e4b03dcbb96c1b61"} , "Word" : "gregariousness" , "meaning" : "যূথবদ্ধতা; যূথপ্রিয়তা;"}
+{ "_id" : { "$oid" : "566fdd83e4b03dcbb96c1b62"} , "Word" : "greedily" , "meaning" : "সাগ্রহে; সতৃষ্ণায়; সলোভে; লোভার্তভাবে;"}
+{ "_id" : { "$oid" : "566fdd83e4b03dcbb96c1b63"} , "Word" : "grazing" , "meaning" : "পশুচারণ"}
+{ "_id" : { "$oid" : "566fdd84e4b03dcbb96c1b64"} , "Word" : "grease" , "meaning" : "চর্বি"}
+{ "_id" : { "$oid" : "566fdd84e4b03dcbb96c1b65"} , "Word" : "grievous" , "meaning" : "দুঃখদায়ক; কষ্টকর; শোচনীয়"}
+{ "_id" : { "$oid" : "566fdd84e4b03dcbb96c1b66"} , "Word" : "greeneries" , "meaning" : "সবুজ গাছপালা; শ্যামলিমা; নবশ্যাম; শ্যামশোভা;"}
+{ "_id" : { "$oid" : "566fdd85e4b03dcbb96c1b67"} , "Word" : "grim" , "meaning" : "ভয়ানক, নিষ্ঠুর, বিকট"}
+{ "_id" : { "$oid" : "566fdd85e4b03dcbb96c1b68"} , "Word" : "greedier" , "meaning" : "অর্থগৃধ্নু; অর্থলিপ্সু; লুব্ধ; লালস; প্রলুব্ধ; লোভী; লোলুপ; আকুল আকাঙ্ক্ষী; ক্ষুধিত; অভীক;"}
+{ "_id" : { "$oid" : "566fdd85e4b03dcbb96c1b69"} , "Word" : "griffin" , "meaning" : "যে কল্পিত জন্তুর মাথা পাখা ঈগল পাখির মতো এবং দেহ সিংহের মত্‌"}
+{ "_id" : { "$oid" : "566fdd86e4b03dcbb96c1b6a"} , "Word" : "grig" , "meaning" : "বাইন মাছ বিশেষ; ঝিঝিপোকা; গঙ্গাফড়িঙ"}
+{ "_id" : { "$oid" : "566fdd86e4b03dcbb96c1b6b"} , "Word" : "gremlin" , "meaning" : "অলস; ভূত; নিষ্কর্মা; মেশিন-বিগরে-দেওয়া ভূত;"}
+{ "_id" : { "$oid" : "566fdd86e4b03dcbb96c1b6c"} , "Word" : "greenery" , "meaning" : "সবুজ গাছপালা; শ্যামলিমা; নবশ্যাম; শ্যামশোভা;"}
+{ "_id" : { "$oid" : "566fdd87e4b03dcbb96c1b6d"} , "Word" : "grew" , "meaning" : "হত্তয়া; চাষ করা; উঠা; জন্মান; বৃদ্ধি পাত্তয়া; হইয়া ত্তঠা; বড় হত্তয়া; বয়সে বাড়া; অবস্থান্তর প্রাপ্ত হত্তয়া; ফলান; ফলা; উত্পাদন করা; জন্মদান করা; উদিত হত্তয়া; উদ্গত হত্তয়া; উন্নতিলাভ করা; প্রসারিত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd87e4b03dcbb96c1b6e"} , "Word" : "grid" , "meaning" : "ঝাজরি"}
+{ "_id" : { "$oid" : "566fdd87e4b03dcbb96c1b6f"} , "Word" : "grey" , "meaning" : "ধূসর; ধূসরবর্ণ"}
+{ "_id" : { "$oid" : "566fdd88e4b03dcbb96c1b70"} , "Word" : "grilled" , "meaning" : "ভাজা; গ্রীল করা;"}
+{ "_id" : { "$oid" : "566fdd88e4b03dcbb96c1b71"} , "Word" : "grilles" , "meaning" : "জাফরি; ঝাঁঝরি;"}
+{ "_id" : { "$oid" : "566fdd88e4b03dcbb96c1b72"} , "Word" : "greatly" , "meaning" : "ব্যাপকভাবে; বিশেষভাবে; প্রবলভাবে; অতিশয়; সাতিশয়; অনেক; অত্যন্ত; অতি;"}
+{ "_id" : { "$oid" : "566fdd89e4b03dcbb96c1b73"} , "Word" : "grebe" , "meaning" : "একধরনের ছোটো ডুবুরি পাখি;"}
+{ "_id" : { "$oid" : "566fdd89e4b03dcbb96c1b74"} , "Word" : "greying" , "meaning" : "ধূসর করা; ধূসর হত্তয়া; নীরস করা; নীরস হত্তয়া; অনুজ্বল করা; অনুজ্বল হত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd89e4b03dcbb96c1b75"} , "Word" : "greyish" , "meaning" : "পাঁশুটে; প্রায় ধূসরবর্ণ; ষৎ ধূসর; ষৎ পলিত; ষৎ নীরস; আকপিল; ধূসরাভ;"}
+{ "_id" : { "$oid" : "566fdd8ae4b03dcbb96c1b76"} , "Word" : "greek" , "meaning" : "গ্রীসদেশীয়;"}
+{ "_id" : { "$oid" : "566fdd8ae4b03dcbb96c1b77"} , "Word" : "green" , "meaning" : "সবুজ, শ্যামল; টাটকা ; কাচা"}
+{ "_id" : { "$oid" : "566fdd8ae4b03dcbb96c1b78"} , "Word" : "greece" , "meaning" : "গ্রীস;"}
+{ "_id" : { "$oid" : "566fdd8be4b03dcbb96c1b79"} , "Word" : "greatest" , "meaning" : "শ্রেষ্ঠ; গরিষ্ঠ; সর্বাধিক; বর; বরিষ্ঠ;"}
+{ "_id" : { "$oid" : "566fdd8be4b03dcbb96c1b7a"} , "Word" : "green revolution" , "meaning" : "সবুজবিপ্লব;"}
+{ "_id" : { "$oid" : "566fdd8be4b03dcbb96c1b7b"} , "Word" : "grills" , "meaning" : "ভাজাভুজি; রন্ধনের ঝাঁঝরি; ঝাঁঝরিতে করিয়া ভাজা;"}
+{ "_id" : { "$oid" : "566fdd8ce4b03dcbb96c1b7c"} , "Word" : "grievance" , "meaning" : "অভিযোগ; কষ্ট; দুঃখের কারণ"}
+{ "_id" : { "$oid" : "566fdd8ce4b03dcbb96c1b7d"} , "Word" : "greet" , "meaning" : "সাদর সন্তাষণ করা বা পাঠানো"}
+{ "_id" : { "$oid" : "566fdd8ce4b03dcbb96c1b7e"} , "Word" : "greasy" , "meaning" : "চর্বি মাখানো ; তৈলময়; মৃসণ"}
+{ "_id" : { "$oid" : "566fdd8de4b03dcbb96c1b7f"} , "Word" : "green land" , "meaning" : "গ্রীনল্যাণ্ড;"}
+{ "_id" : { "$oid" : "566fdd8de4b03dcbb96c1b80"} , "Word" : "great" , "meaning" : "মহৎ, মহান, গুরুত্বপূৃর্ণ; বিখ্যাত"}
+{ "_id" : { "$oid" : "566fdd8de4b03dcbb96c1b81"} , "Word" : "green-room" , "meaning" : "সাজঘর; নটনটীদের বিশ্রামঘর"}
+{ "_id" : { "$oid" : "566fdd8ee4b03dcbb96c1b82"} , "Word" : "greenhorn" , "meaning" : "অনভিজ্ঞ ব্যক্তি; বোকা"}
+{ "_id" : { "$oid" : "566fdd8ee4b03dcbb96c1b83"} , "Word" : "greenness" , "meaning" : "অপক্ব; কাঁচা; সবুজ;"}
+{ "_id" : { "$oid" : "566fdd8ee4b03dcbb96c1b84"} , "Word" : "grille" , "meaning" : "জাফরি; ঝাঁঝরি;"}
+{ "_id" : { "$oid" : "566fdd8fe4b03dcbb96c1b85"} , "Word" : "greenback" , "meaning" : "আমেরিকার পত্রমুদ্রা;"}
+{ "_id" : { "$oid" : "566fdd8fe4b03dcbb96c1b86"} , "Word" : "gregorian" , "meaning" : "গ্রিগরিআন; গ্রেগরির; গ্রেগরিকৃত; গ্রেগরির অনুষায়ী;"}
+{ "_id" : { "$oid" : "566fdd8fe4b03dcbb96c1b87"} , "Word" : "grecian" , "meaning" : "গ্র্র্রীসদেশবাসী; গ্রীক ভাষা"}
+{ "_id" : { "$oid" : "566fdd90e4b03dcbb96c1b88"} , "Word" : "grimly" , "meaning" : "ক্ষমাহীনভাবে;"}
+{ "_id" : { "$oid" : "566fdd90e4b03dcbb96c1b89"} , "Word" : "grizzly" , "meaning" : "কিঞ্চিৎ ধূসরবর্ণ,উত্তরআমেরিকার ভয়ংকর ধুূসর বর্ণের ভাললুক"}
+{ "_id" : { "$oid" : "566fdd91e4b03dcbb96c1b8a"} , "Word" : "grocery" , "meaning" : "মুদি-খানার মালপত্র,মুদিদোকান"}
+{ "_id" : { "$oid" : "566fdd91e4b03dcbb96c1b8b"} , "Word" : "gross weight" , "meaning" : "স্থূল ওজন; স্থূল ভার;"}
+{ "_id" : { "$oid" : "566fdd91e4b03dcbb96c1b8c"} , "Word" : "groundwork" , "meaning" : "ভিত্তি, বনিয়াদ"}
+{ "_id" : { "$oid" : "566fdd92e4b03dcbb96c1b8d"} , "Word" : "ground-floor" , "meaning" : "বাড়ির সকলের নীচের তলা"}
+{ "_id" : { "$oid" : "566fdd92e4b03dcbb96c1b8e"} , "Word" : "gropes" , "meaning" : "অনুভব করা;"}
+{ "_id" : { "$oid" : "566fdd92e4b03dcbb96c1b8f"} , "Word" : "gripe" , "meaning" : "পেটকামড়ানি"}
+{ "_id" : { "$oid" : "566fdd93e4b03dcbb96c1b90"} , "Word" : "grouping" , "meaning" : "শ্রেণীবদ্ধন; বিন্যাস; উপদলগঠন; জোট; গোষ্ঠী; উপদল গঠন; গুণ বয়স প্রভৃতি অনুযায়ী দলে দলে বিভাজন;"}
+{ "_id" : { "$oid" : "566fdd93e4b03dcbb96c1b91"} , "Word" : "grits" , "meaning" : "খোসা-ছাড়ানো জই; মোটাভাবে চূর্ণিত শস্য;"}
+{ "_id" : { "$oid" : "566fdd93e4b03dcbb96c1b92"} , "Word" : "ground floor" , "meaning" : "একতলা; অট্টালিকার সর্বনিম্ন তল; নিচের তলা;"}
+{ "_id" : { "$oid" : "566fdd94e4b03dcbb96c1b93"} , "Word" : "grounding" , "meaning" : "ভিত্তি; পটভূমি; ভিত্তি স্থাপন; শিক্ষার বা প্রশিক্ষণের ভিত;"}
+{ "_id" : { "$oid" : "566fdd94e4b03dcbb96c1b94"} , "Word" : "grinder" , "meaning" : "পেষকদন্ত; চূর্ণকারী; চূর্ণনযন্ত্র; শানত্তয়ালা; মাড়ীর দান্ত; শান-যন্ত্র; কঠোর অধ্যবসায়ী ছাত্র; ঘানি; পেষাইকল; জাঁতাকল; পেষাইকারী; শানওয়ালা; পরিশ্রমী ছাত্র;"}
+{ "_id" : { "$oid" : "566fdd94e4b03dcbb96c1b95"} , "Word" : "ground-nut" , "meaning" : "চীনাবাদাম ; মাঠকড়াই"}
+{ "_id" : { "$oid" : "566fdd95e4b03dcbb96c1b96"} , "Word" : "grindstone" , "meaning" : "শান; পেষণী; শাণ; জাঁতা; চাকি; গোল শানপাথরবিশেষ; গোল ঘুরন্ত শানপাথর; জাঁতাকল;"}
+{ "_id" : { "$oid" : "566fdd95e4b03dcbb96c1b97"} , "Word" : "gripping" , "meaning" : "প্রভাববিস্তার করা; আঁকড়ান; গ্রাস করা; চাপা; চাপ দেত্তয়া; চেপে রাখা; চেপে ধরা; দৃঢ়মুষ্টিতে ধরা; আঁকড়াইয়া ধরা; আকর্ষণ করা; সম্যক্ অবধারণা করা;"}
+{ "_id" : { "$oid" : "566fdd95e4b03dcbb96c1b98"} , "Word" : "grounds" , "meaning" : "তলানি;"}
+{ "_id" : { "$oid" : "566fdd96e4b03dcbb96c1b99"} , "Word" : "grippe" , "meaning" : "ইনফ্লুয়েঞ্জা জ্বর"}
+{ "_id" : { "$oid" : "566fdd96e4b03dcbb96c1b9a"} , "Word" : "grooved" , "meaning" : "খাঁজ কাটা;"}
+{ "_id" : { "$oid" : "566fdd96e4b03dcbb96c1b9b"} , "Word" : "group test" , "meaning" : "সংঘাভিক্ষণ;"}
+{ "_id" : { "$oid" : "566fdd97e4b03dcbb96c1b9c"} , "Word" : "groped" , "meaning" : "অনুভব করা;"}
+{ "_id" : { "$oid" : "566fdd97e4b03dcbb96c1b9d"} , "Word" : "grinned" , "meaning" : "কাষ্ঠহাসি হাসা; বাঁকা হাসা; ভেঙচি কাটিয়া হাসা; দান্ত বাহির করিয়া হাসা; ঠোঁট ত্তলটানো;"}
+{ "_id" : { "$oid" : "566fdd97e4b03dcbb96c1b9e"} , "Word" : "gripes" , "meaning" : "পিত্তশূল বেদনা;"}
+{ "_id" : { "$oid" : "566fdd98e4b03dcbb96c1b9f"} , "Word" : "groupings" , "meaning" : "শ্রেণীবদ্ধন; বিন্যাস; উপদলগঠন; জোট; গোষ্ঠী;"}
+{ "_id" : { "$oid" : "566fdd98e4b03dcbb96c1ba0"} , "Word" : "grips" , "meaning" : "খপ্পর; দৃঢ়মুষ্টি; কবজী; গ্রাস; মানসিক অবধারণা; চাপ; বুদ্ধিগত অবধারণা; চাপাচাপি; কবজা; বোধশক্তি;"}
+{ "_id" : { "$oid" : "566fdd98e4b03dcbb96c1ba1"} , "Word" : "groovy" , "meaning" : "খাঁজকাটা; খাঁজওয়ালা; খাঁজ-খাঁজ;"}
+{ "_id" : { "$oid" : "566fdd99e4b03dcbb96c1ba2"} , "Word" : "groove" , "meaning" : "খাঁজ, খাঁজ কাটা"}
+{ "_id" : { "$oid" : "566fdd99e4b03dcbb96c1ba3"} , "Word" : "gritty" , "meaning" : "বালুকাময়; শক্ত কণিকাপূর্ণ; দৃঢ়চরিত্র; কাঁকুরে; দানাদার; হিম্মত্দার; দৃঢ়চরিত্র;"}
+{ "_id" : { "$oid" : "566fdd9ae4b03dcbb96c1ba4"} , "Word" : "grouchy" , "meaning" : "খিট্খিটে; খেঁকী;"}
+{ "_id" : { "$oid" : "566fdd9ae4b03dcbb96c1ba5"} , "Word" : "grotto" , "meaning" : "গুহা; নকল গুহা; মনোহর গুহা; অলংকৃত ও সুসজ্জিত কৃত্রিম উদ্যান;"}
+{ "_id" : { "$oid" : "566fdd9ae4b03dcbb96c1ba6"} , "Word" : "groupware" , "meaning" : "মিলিতভাবে কাজ করার জন্য উদ্ভাবিত সফটওয়্যার;"}
+{ "_id" : { "$oid" : "566fdd9be4b03dcbb96c1ba7"} , "Word" : "groaning" , "meaning" : "ক্রঁদ; ক্রঁদন;"}
+{ "_id" : { "$oid" : "566fdd9be4b03dcbb96c1ba8"} , "Word" : "grime" , "meaning" : "চর্মের মধ্যে প্রবিষ্ট ময়লা;"}
+{ "_id" : { "$oid" : "566fdd9be4b03dcbb96c1ba9"} , "Word" : "ground rule" , "meaning" : "মূল নীতি;"}
+{ "_id" : { "$oid" : "566fdd9ce4b03dcbb96c1baa"} , "Word" : "groan" , "meaning" : "কাতর আর্তনাদ, আর্তনাদ করা"}
+{ "_id" : { "$oid" : "566fdd9ce4b03dcbb96c1bab"} , "Word" : "gripper" , "meaning" : "যার সাহায্যে শক্ত করে ধরা হয়;"}
+{ "_id" : { "$oid" : "566fdd9ce4b03dcbb96c1bac"} , "Word" : "groping" , "meaning" : "অনুভব করা;"}
+{ "_id" : { "$oid" : "566fdd9de4b03dcbb96c1bad"} , "Word" : "grinning" , "meaning" : "বাঁকা হাসা; ভেঙচি কাটিয়া হাসা; দান্ত বাহির করিয়া হাসা; কাষ্ঠহাসি হাসা; ঠোঁট ত্তলটানো;"}
+{ "_id" : { "$oid" : "566fdd9de4b03dcbb96c1bae"} , "Word" : "groat" , "meaning" : "পূর্বে ইংলণ্ডে প্রচলিত চার পেনি মূল্যোর মুদ্রা; কানাকড়ি; ফুটো পয়সা;"}
+{ "_id" : { "$oid" : "566fdd9de4b03dcbb96c1baf"} , "Word" : "grimaced" , "meaning" : "মুখবিকৃতি করা; ভেঙ্গান; ভেংচান; ভেঙচি কাটিয়া হাসা;"}
+{ "_id" : { "$oid" : "566fdd9ee4b03dcbb96c1bb0"} , "Word" : "groin" , "meaning" : "কুঁচকি; পরস্পরছেদী খিলানসমূহের সংযোগস্থল; কটিসন্ধি;"}
+{ "_id" : { "$oid" : "566fdd9ee4b03dcbb96c1bb1"} , "Word" : "grimalkin" , "meaning" : "বৃদ্ধ বিড়ালী; হিংসুটে বুড়ি"}
+{ "_id" : { "$oid" : "566fdd9ee4b03dcbb96c1bb2"} , "Word" : "grooms" , "meaning" : "বর; সহিস; অশ্বপাল; হাত-দেত্তয়া;"}
+{ "_id" : { "$oid" : "566fdd9fe4b03dcbb96c1bb3"} , "Word" : "grizzle" , "meaning" : "ধূসর বর্ণ"}
+{ "_id" : { "$oid" : "566fdd9fe4b03dcbb96c1bb4"} , "Word" : "groundnuts" , "meaning" : "চীনাবাদাম; মাটকলাই;"}
+{ "_id" : { "$oid" : "566fdd9fe4b03dcbb96c1bb5"} , "Word" : "gross" , "meaning" : "স্থুল, মোট, মোটা মুটি, ১২ডজন (১৪৪)"}
+{ "_id" : { "$oid" : "566fdda0e4b03dcbb96c1bb6"} , "Word" : "ground" , "meaning" : "ভুমি,মাট, মাঠ, অবস্থ, কর্মক্ষেত্র, পটভূমি"}
+{ "_id" : { "$oid" : "566fdda0e4b03dcbb96c1bb7"} , "Word" : "grit" , "meaning" : "পাথরের কুচি, চরিত্রের দৃঢ়তা"}
+{ "_id" : { "$oid" : "566fdda0e4b03dcbb96c1bb8"} , "Word" : "gripped" , "meaning" : "করায়ত্ত; কবলিত;"}
+{ "_id" : { "$oid" : "566fdda1e4b03dcbb96c1bb9"} , "Word" : "grip" , "meaning" : "দৃঢ়মুষ্টি, হাতল,দৃঢ়মুষ্টিতে ধরা"}
+{ "_id" : { "$oid" : "566fdda1e4b03dcbb96c1bba"} , "Word" : "grimy" , "meaning" : "মলিন; ময়লা; অপরিষ্কার; ঝুলবিশিষ্ট; ঝুলকালি-মাখা; অতি নোংরা; নোংরা;"}
+{ "_id" : { "$oid" : "566fdda1e4b03dcbb96c1bbb"} , "Word" : "grin" , "meaning" : "ঁদেতো হাসি (হাসা ), বিদ্রপের হাসি (হাসা)"}
+{ "_id" : { "$oid" : "566fdda2e4b03dcbb96c1bbc"} , "Word" : "ground water" , "meaning" : "ভূজল; ভৌমজল;"}
+{ "_id" : { "$oid" : "566fdda2e4b03dcbb96c1bbd"} , "Word" : "grind" , "meaning" : "চূর্ণকরা, শান দেওয়া"}
+{ "_id" : { "$oid" : "566fdda2e4b03dcbb96c1bbe"} , "Word" : "grimmest" , "meaning" : "ভয়ানক; হিংস্র; দুর্দান্ত; করালদর্শন; কঠোর;"}
+{ "_id" : { "$oid" : "566fdda3e4b03dcbb96c1bbf"} , "Word" : "groundnut" , "meaning" : "চীনেবাদাম;"}
+{ "_id" : { "$oid" : "566fdda3e4b03dcbb96c1bc0"} , "Word" : "ground-rent" , "meaning" : "অপরের জমির উপর গৃহ নির্মাণের জন্য প্রদত্ত খাজনা"}
+{ "_id" : { "$oid" : "566fdda3e4b03dcbb96c1bc1"} , "Word" : "groggy" , "meaning" : "মাতাল; অস্থির; টলায়মান; পরিবর্তনশীল; চঁচল; ষৎ মাতাল;"}
+{ "_id" : { "$oid" : "566fdda4e4b03dcbb96c1bc2"} , "Word" : "grotesque" , "meaning" : "অদ্ভুত হাস্যোদীপক"}
+{ "_id" : { "$oid" : "566fdda4e4b03dcbb96c1bc3"} , "Word" : "gristle" , "meaning" : "তরুণাস্থি ; কোমলাস্থি ; নরম হাড়"}
+{ "_id" : { "$oid" : "566fdda5e4b03dcbb96c1bc4"} , "Word" : "grouch" , "meaning" : "বিমর্ষতা; মনমরা ভাব; অপমান; অনাদর; অবজ্ঞা; গোঙরানি; গোঙানি;"}
+{ "_id" : { "$oid" : "566fdda5e4b03dcbb96c1bc5"} , "Word" : "grossly" , "meaning" : "একেবারেই; চূড়ান্তভাবে;"}
+{ "_id" : { "$oid" : "566fdda5e4b03dcbb96c1bc6"} , "Word" : "grog" , "meaning" : "মদ; ঐ মদ খাওয়া; জলমিশ্রিত সুরা;"}
+{ "_id" : { "$oid" : "566fdda6e4b03dcbb96c1bc7"} , "Word" : "ground nut" , "meaning" : "চীনাবাদাম; মাটকলাই;"}
+{ "_id" : { "$oid" : "566fdda6e4b03dcbb96c1bc8"} , "Word" : "grope" , "meaning" : "হাতড়ান, অন্ধের মত খোঁজা"}
+{ "_id" : { "$oid" : "566fdda6e4b03dcbb96c1bc9"} , "Word" : "griping" , "meaning" : "অর্থলোলুপ, নিরতিশয় যন্ত্রণাদায়ক"}
+{ "_id" : { "$oid" : "566fdda7e4b03dcbb96c1bca"} , "Word" : "grossness" , "meaning" : "স্থূলতা;"}
+{ "_id" : { "$oid" : "566fdda7e4b03dcbb96c1bcb"} , "Word" : "grinds" , "meaning" : "চূর্ণনশব্দ; কর্ণপীড়াদায়ক শব্দ; মর্দন; চূর্ণন;"}
+{ "_id" : { "$oid" : "566fdda7e4b03dcbb96c1bcc"} , "Word" : "grocer" , "meaning" : "মুদি"}
+{ "_id" : { "$oid" : "566fdda8e4b03dcbb96c1bcd"} , "Word" : "grinding" , "meaning" : "নাকাল; হয়রান;"}
+{ "_id" : { "$oid" : "566fdda8e4b03dcbb96c1bce"} , "Word" : "grounded" , "meaning" : "ভূতলে স্থাপন করা; মতের উপর স্থাপন করা; কূলে লাগান; চড়ায় আটকান; মূলসূত্র শিক্ষা দেত্তয়া; পটভূমি তৈয়ারি করা; ভূতলে নামা; ভূতলে পড়া;"}
+{ "_id" : { "$oid" : "566fdda8e4b03dcbb96c1bcf"} , "Word" : "groaned" , "meaning" : "ককান; গভীর আর্তনাদ করা; যন্ত্রণা পাত্তয়া;"}
+{ "_id" : { "$oid" : "566fdda9e4b03dcbb96c1bd0"} , "Word" : "grist" , "meaning" : "ছাতু; পেষণযোগ্য শস্য; শস্যচূর্ণ; লাভ;"}
+{ "_id" : { "$oid" : "566fdda9e4b03dcbb96c1bd1"} , "Word" : "grimmer" , "meaning" : "ভয়ানক; হিংস্র; দুর্দান্ত; করালদর্শন; কঠোর;"}
+{ "_id" : { "$oid" : "566fdda9e4b03dcbb96c1bd2"} , "Word" : "groceries" , "meaning" : "মুদীখানার পণ্যদ্রব্য;"}
+{ "_id" : { "$oid" : "566fddaae4b03dcbb96c1bd3"} , "Word" : "grislier" , "meaning" : "ভয়ানক; ভীষণ; ভয়াবহ; ভয়ঙ্কর; খারাপ; ভয়প্রদর্শক;"}
+{ "_id" : { "$oid" : "566fddaae4b03dcbb96c1bd4"} , "Word" : "groundless" , "meaning" : "ভিত্তিহীন অকারণ,মিথ্যা"}
+{ "_id" : { "$oid" : "566fddaae4b03dcbb96c1bd5"} , "Word" : "grisly" , "meaning" : "বিকট, ভয়ানক"}
+{ "_id" : { "$oid" : "566fddabe4b03dcbb96c1bd6"} , "Word" : "group" , "meaning" : "সমষ্টি, দল পুঞ্জ, শ্রেনী বা শাখা, দলবদ্ধ হওয়া বা করা"}
+{ "_id" : { "$oid" : "566fddabe4b03dcbb96c1bd7"} , "Word" : "groom" , "meaning" : "অশ্বপাল সহিস, বর"}
+{ "_id" : { "$oid" : "566fddabe4b03dcbb96c1bd8"} , "Word" : "guaranty" , "meaning" : "জামিন; জামিননামা; জামিনদার; জামানৎ;"}
+{ "_id" : { "$oid" : "566fddace4b03dcbb96c1bd9"} , "Word" : "guests" , "meaning" : "অতিথি; অভ্যাগত; আগন্তুক; গৃহাগত; নিমন্ত্রিত ব্যক্তি; অভ্যাগত ব্যক্তি;"}
+{ "_id" : { "$oid" : "566fddace4b03dcbb96c1bda"} , "Word" : "guardian" , "meaning" : "অভিভাবক, তত্ত্বাবধায়ক"}
+{ "_id" : { "$oid" : "566fddade4b03dcbb96c1bdb"} , "Word" : "gudgeon" , "meaning" : "সরলবিশ্বাসী ব্যক্তি; ভালোমানুষ; মাছ ধরার টোপ হিসেবে ব্যবহৃত মিষ্টিজলের কুচো মাছ;"}
+{ "_id" : { "$oid" : "566fddade4b03dcbb96c1bdc"} , "Word" : "grunted" , "meaning" : "ঘোঁৎ ঘোঁৎ করা;"}
+{ "_id" : { "$oid" : "566fddade4b03dcbb96c1bdd"} , "Word" : "grout" , "meaning" : "শিটা; তলানি; অপকৃষ্ট খাদ্য;"}
+{ "_id" : { "$oid" : "566fddaee4b03dcbb96c1bde"} , "Word" : "grubs" , "meaning" : "কীড়া; কীটপতঙ্গের শূক; ভাড়াটে লেখক; খাবার;"}
+{ "_id" : { "$oid" : "566fddaee4b03dcbb96c1bdf"} , "Word" : "guards" , "meaning" : "রক্ষিবাহিনী;"}
+{ "_id" : { "$oid" : "566fddaee4b03dcbb96c1be0"} , "Word" : "grudging" , "meaning" : "কৃপণ; দ্বেষী; অনুদার; ব্যয়কুণ্ঠ; কৃপণবত; কৃপণতাপূর্ণ; রুক্ষ; অনিচ্ছুক;"}
+{ "_id" : { "$oid" : "566fddafe4b03dcbb96c1be1"} , "Word" : "gruff" , "meaning" : "রুঢ়প্রকৃতি,অভদ্র"}
+{ "_id" : { "$oid" : "566fddafe4b03dcbb96c1be2"} , "Word" : "guerdon" , "meaning" : "পুরস্কার; ক্ষতিপূরণ; বাঞ্ছিত বস্তু;"}
+{ "_id" : { "$oid" : "566fddafe4b03dcbb96c1be3"} , "Word" : "guarantees" , "meaning" : "জামিন; জামিনদার; প্রাতিভূ; জামিননামা; জামানৎ;"}
+{ "_id" : { "$oid" : "566fddb0e4b03dcbb96c1be4"} , "Word" : "guernsey" , "meaning" : "গেঞ্জি"}
+{ "_id" : { "$oid" : "566fddb0e4b03dcbb96c1be5"} , "Word" : "gruelling" , "meaning" : "কঠোর শাসি্তমূলক; কঠোর;"}
+{ "_id" : { "$oid" : "566fddb0e4b03dcbb96c1be6"} , "Word" : "guaranteeing" , "meaning" : "জামিন দেত্তয়া; জামিন হত্তয়া; প্রতিশ্রুত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fddb1e4b03dcbb96c1be7"} , "Word" : "gruels" , "meaning" : "লপসি; জাউ; মণ্ড; জইয়ের মণ্ড; কঠোর শাস্তি;"}
+{ "_id" : { "$oid" : "566fddb1e4b03dcbb96c1be8"} , "Word" : "grunter" , "meaning" : "শুয়োরছানা;"}
+{ "_id" : { "$oid" : "566fddb1e4b03dcbb96c1be9"} , "Word" : "grove" , "meaning" : "কুঞ্জবন, তরু-বীথিকা"}
+{ "_id" : { "$oid" : "566fddb2e4b03dcbb96c1bea"} , "Word" : "gruel" , "meaning" : "জলে সিদ্ধ তরল খাদ্য, মাড়, ফেন"}
+{ "_id" : { "$oid" : "566fddb2e4b03dcbb96c1beb"} , "Word" : "guardianship" , "meaning" : "অভিভাবকত্ব; তত্ত্বাবধান; ন্যাস; খবরদারি; আত্ততা;"}
+{ "_id" : { "$oid" : "566fddb2e4b03dcbb96c1bec"} , "Word" : "growling" , "meaning" : "গর্জন করা; গর্জন করিয়া বলা; গজরান; গোঁ গোঁ শব্দ করা;"}
+{ "_id" : { "$oid" : "566fddb3e4b03dcbb96c1bed"} , "Word" : "grudges" , "meaning" : "দ্বেষ; র্ষা; হিংসা; গাত্রদাহ; শত্রুতা; অতৃপ্তি; বিরক্তি; আড়ি; অবজ্ঞা; মাত্সর্ষ; মনের ঝাল; অনাদর; রিষ; অপমান; পুরাতন বিবাদ; আক্রোশ; অসন্তোষ;"}
+{ "_id" : { "$oid" : "566fddb3e4b03dcbb96c1bee"} , "Word" : "guessed" , "meaning" : "অনুমিত;"}
+{ "_id" : { "$oid" : "566fddb3e4b03dcbb96c1bef"} , "Word" : "grovel" , "meaning" : "নিজেকে নত করা"}
+{ "_id" : { "$oid" : "566fddb4e4b03dcbb96c1bf0"} , "Word" : "grower" , "meaning" : "চাষী; যে ব্যক্তি কোনো কিছুর চাষ বা উত্পাদন করে; ফল-চাষী; চারা; উদ্ভিদ; উদ্ভিজ্জ; উদ্যানপালনবিৎ; গাছ; কৃষক;"}
+{ "_id" : { "$oid" : "566fddb4e4b03dcbb96c1bf1"} , "Word" : "grow up" , "meaning" : "বড় হইয়া উঠা; সাবালক হইয়া ত্তঠা; বড় হত্তয়া; বৃদ্ধি পাত্তয়া; বেড়ে ত্তঠা; উদ্ভিন্ন হত্তয়া;"}
+{ "_id" : { "$oid" : "566fddb4e4b03dcbb96c1bf2"} , "Word" : "grueling" , "meaning" : "অবসাদজনক,তীব্র"}
+{ "_id" : { "$oid" : "566fddb5e4b03dcbb96c1bf3"} , "Word" : "guarding" , "meaning" : "গুপ্তি; প্রহারহীনতা;"}
+{ "_id" : { "$oid" : "566fddb5e4b03dcbb96c1bf4"} , "Word" : "guardian angel" , "meaning" : "অধিষ্ঠাতা দেবদূত; কোনো স্থানের মঙ্গলবিধায়ক দেবদূত; মানুষের ব্যক্তিগত শুভসাধক দেবদূত;"}
+{ "_id" : { "$oid" : "566fddb5e4b03dcbb96c1bf5"} , "Word" : "guarantor" , "meaning" : "জামিনদার;"}
+{ "_id" : { "$oid" : "566fddb6e4b03dcbb96c1bf6"} , "Word" : "guerilla" , "meaning" : "গরিলা; অনিয়মিত খণ্ডযুদ্ধ; খণ্ডযুদ্ধকারী; গরিলা যোদ্ধা;"}
+{ "_id" : { "$oid" : "566fddb6e4b03dcbb96c1bf7"} , "Word" : "guaranteed" , "meaning" : "জামিন দেত্তয়া; জামিন হত্তয়া; প্রতিশ্রুত হত্তয়া;"}
+{ "_id" : { "$oid" : "566fddb6e4b03dcbb96c1bf8"} , "Word" : "gruesome" , "meaning" : "ভয়ানক ভীতিজনক"}
+{ "_id" : { "$oid" : "566fddb7e4b03dcbb96c1bf9"} , "Word" : "grown-up" , "meaning" : "প্রাপ্তবয়স্ক বা বয়ঃপ্রাপ্ত(ব্যক্তি)"}
+{ "_id" : { "$oid" : "566fddb7e4b03dcbb96c1bfa"} , "Word" : "groyne" , "meaning" : "সমুদ্র বা নদীর উপকূলের অবক্ষয় রোধ করার উদ্দেশ্যে নির্মিত কাঠ ইত্যাদির তৈরি বাঁধ;"}
+{ "_id" : { "$oid" : "566fddb7e4b03dcbb96c1bfb"} , "Word" : "grown" , "meaning" : "উত্থিত; পূর্ণবয়স্ক; পূর্ণতাপ্রাপ্ত; উদ্গত; বর্ধিত; রুঢ়; জাত; উদিত; সাবালক; সোমত্ত; পরিণত; বয়োপ্রাপ্ত; প্রাপ্তবয়স্ক;"}
+{ "_id" : { "$oid" : "566fddb8e4b03dcbb96c1bfc"} , "Word" : "grudged" , "meaning" : "বিদ্বিষ্ট;"}
+{ "_id" : { "$oid" : "566fddb8e4b03dcbb96c1bfd"} , "Word" : "growl" , "meaning" : "কুকুরের মত গো গো করাঃ ক্রুদ্ধগর্জন (করা)"}
+{ "_id" : { "$oid" : "566fddb8e4b03dcbb96c1bfe"} , "Word" : "growing up" , "meaning" : "উদ্ভিন্ন;"}
+{ "_id" : { "$oid" : "566fddb9e4b03dcbb96c1bff"} , "Word" : "gruffer" , "meaning" : "বিষাদময়; অসদয়; অমিত্রভাবাপন্ন; অবন্ধুভাবাপন্ন; বিষণ্ণপ্রকৃতি; বিষণ্ণ; বিষাদগ্রস্ত; ভাঙা গলা;"}
+{ "_id" : { "$oid" : "566fddb9e4b03dcbb96c1c00"} , "Word" : "guarded" , "meaning" : "সতর্ক; সুরক্ষিত; সংরক্ষিত; গোপিত;"}
+{ "_id" : { "$oid" : "566fddb9e4b03dcbb96c1c01"} , "Word" : "grovelling" , "meaning" : "নীচ"}
+{ "_id" : { "$oid" : "566fddbae4b03dcbb96c1c02"} , "Word" : "gruesomeness" , "meaning" : "বীভত্সতা; ভয়াবহতা;"}
+{ "_id" : { "$oid" : "566fddbae4b03dcbb96c1c03"} , "Word" : "gruffness" , "meaning" : "অভদ্রতা; অশিষ্টতা;"}
+{ "_id" : { "$oid" : "566fddbae4b03dcbb96c1c04"} , "Word" : "grudge’" , "meaning" : "দ্বেষ; হিংসা; র্ষা; গাত্রদাহ; মাত্সর্ষ; শত্রুতা; পুরাতন বিবাদ; অপমান; রিষ; অনাদর; মনের ঝাল; অবজ্ঞা; আড়ি; অতৃপ্তি; বিরক্তি; আক্রোশ; অসন্তোষ;"}
+{ "_id" : { "$oid" : "566fddbbe4b03dcbb96c1c05"} , "Word" : "grows" , "meaning" : "হত্তয়া; জন্মান; বড় হত্তয়া; বৃদ্ধি পাত্তয়া; বয়সে বাড়া; উদিত হত্তয়া; উন্নতিলাভ করা; প্রসারিত হত্তয়া; উঠা; উদ্গত হত্তয়া; জন্মদান করা; উত্পাদন করা; ফলা; ফলান; অবস্থান্তর প্রাপ্ত হত্তয়া; চাষ করা; হইয়া ত্তঠা;"}
+{ "_id" : { "$oid" : "566fddbbe4b03dcbb96c1c06"} , "Word" : "grumpy" , "meaning" : "রুক্ষ-মেজাজী"}
+{ "_id" : { "$oid" : "566fddbbe4b03dcbb96c1c07"} , "Word" : "gubernatorial" , "meaning" : "রাজ্যপালের অধিকারসমূহ; শাসক-সংক্রান্ত;"}
+{ "_id" : { "$oid" : "566fddbce4b03dcbb96c1c08"} , "Word" : "grumpiness" , "meaning" : "তিরিক্ষিপনা;"}
+{ "_id" : { "$oid" : "566fddbce4b03dcbb96c1c09"} , "Word" : "growled" , "meaning" : "গর্জন করা; গর্জন করিয়া বলা; গজরান; গোঁ গোঁ শব্দ করা;"}
+{ "_id" : { "$oid" : "566fddbce4b03dcbb96c1c0a"} , "Word" : "grouse" , "meaning" : "মেঠো মোরগ বিমেষ, অসন্তোষ প্রকাশ করা"}
+{ "_id" : { "$oid" : "566fddbde4b03dcbb96c1c0b"} , "Word" : "grumble" , "meaning" : "অসন্তষ্ট হইয়া বিড়বিড় করা ; অসন্তোষ প্রকাশ করা"}
+{ "_id" : { "$oid" : "566fddbde4b03dcbb96c1c0c"} , "Word" : "guard" , "meaning" : "পাহারা দেওয়া, রক্ষা করা, রেলগাড়ির গার্ড"}
+{ "_id" : { "$oid" : "566fddbde4b03dcbb96c1c0d"} , "Word" : "grub" , "meaning" : "উপর উপর খনন করা, শ্রমসাধ্য কাজ করা"}
+{ "_id" : { "$oid" : "566fddbee4b03dcbb96c1c0e"} , "Word" : "grunts" , "meaning" : "ঘোঁৎ ঘোঁৎ করা;"}
+{ "_id" : { "$oid" : "566fddbee4b03dcbb96c1c0f"} , "Word" : "groves" , "meaning" : "উপবন; উদ্যান; কূঁজবন; কুঁজকানন; কুঁজ; তরূবীথিকা;"}
+{ "_id" : { "$oid" : "566fddbee4b03dcbb96c1c10"} , "Word" : "grunting" , "meaning" : "ঘোঁৎ ঘোঁৎ করা;"}
+{ "_id" : { "$oid" : "566fddbfe4b03dcbb96c1c11"} , "Word" : "grubber" , "meaning" : "খনক; খননযন্ত্র; খনিত্র; নিড়ানি; হীনকর্মরত ব্যক্তি; কোদাল; খুরপি; মাটি খোঁড়ার হাতিয়ার;"}
+{ "_id" : { "$oid" : "566fddbfe4b03dcbb96c1c12"} , "Word" : "guardrail" , "meaning" : "সিঁড়ির পার্শ্বস্থ রেলিং;"}
+{ "_id" : { "$oid" : "566fddc0e4b03dcbb96c1c13"} , "Word" : "growingup" , "meaning" : "উদ্ভিন্ন;"}
+{ "_id" : { "$oid" : "566fddc0e4b03dcbb96c1c14"} , "Word" : "grubby" , "meaning" : "অসাবধান; অপরিচ্ছন্ন; নোংরা; অমনোযোগী; নোংরা; শূককীটে পরিপূর্ণ; এলোমেলো;"}
+{ "_id" : { "$oid" : "566fddc0e4b03dcbb96c1c15"} , "Word" : "grubbing" , "meaning" : "নির্মূল করা; হীন কাজে নিযুক্ত থাকা; নোংরার মধ্যে খনন করা; খুঁড়িয়া তোলা;"}
+{ "_id" : { "$oid" : "566fddc1e4b03dcbb96c1c16"} , "Word" : "grumblings" , "meaning" : "গজ্গজানি; অপরিস্ফুট বিরক্ত ভাব;"}
+{ "_id" : { "$oid" : "566fddc1e4b03dcbb96c1c17"} , "Word" : "guessing" , "meaning" : "মনন;"}
+{ "_id" : { "$oid" : "566fddc1e4b03dcbb96c1c18"} , "Word" : "guerrilla" , "meaning" : "গেরিলা; গেরিলা-যোদ্ধা; গরিলা;"}
+{ "_id" : { "$oid" : "566fddc2e4b03dcbb96c1c19"} , "Word" : "grumbled" , "meaning" : "নালিশ করা; অভিযোগ করা; ঘোঁৎ ঘোঁৎ করা;"}
+{ "_id" : { "$oid" : "566fddc2e4b03dcbb96c1c1a"} , "Word" : "grumbling" , "meaning" : "গজ্গজানি; অপরিস্ফুট বিরক্ত ভাব;"}
+{ "_id" : { "$oid" : "566fddc2e4b03dcbb96c1c1b"} , "Word" : "growing" , "meaning" : "উত্থিতি;"}
+{ "_id" : { "$oid" : "566fddc3e4b03dcbb96c1c1c"} , "Word" : "growls" , "meaning" : "গজরানি; কুকুরের ক্রুদ্ধ গর্জনধ্বনি;"}
+{ "_id" : { "$oid" : "566fddc3e4b03dcbb96c1c1d"} , "Word" : "guava" , "meaning" : "পেয়ারা ; পেয়ারা গাছ"}
+{ "_id" : { "$oid" : "566fddc3e4b03dcbb96c1c1e"} , "Word" : "guess" , "meaning" : "অনুধাবন"}
+{ "_id" : { "$oid" : "566fddc4e4b03dcbb96c1c1f"} , "Word" : "grow" , "meaning" : "বড় হওয়া, বৃদ্ধি পাওয়া, জম্মান, উৎপাদন করা"}
+{ "_id" : { "$oid" : "566fddc4e4b03dcbb96c1c20"} , "Word" : "groveling" , "meaning" : "ঘৃণ্য; লজ্জাকর; নীচ; নিকৃষ্ট; বুকে-হাঁটা;"}
+{ "_id" : { "$oid" : "566fddc4e4b03dcbb96c1c21"} , "Word" : "guest" , "meaning" : "নিমন্ত্রিত ব্যক্তি ; অতিথি"}
+{ "_id" : { "$oid" : "566fddc5e4b03dcbb96c1c22"} , "Word" : "guarantee" , "meaning" : "জামিন ; জামানত ; প্রতিভু ; জামিনদার । জামিন হওয়া"}
+{ "_id" : { "$oid" : "566fddc5e4b03dcbb96c1c23"} , "Word" : "grudgingly" , "meaning" : "অনিচ্ছায়; অনিচ্ছাপূর্বক; কৃপণতার সহিত;"}
+{ "_id" : { "$oid" : "566fddc5e4b03dcbb96c1c24"} , "Word" : "grunt" , "meaning" : "শুকরের ঘোৎঘোৎ শব্দ(করা)"}
+{ "_id" : { "$oid" : "566fddc6e4b03dcbb96c1c25"} , "Word" : "grumbler" , "meaning" : "খেঁকী লোক; খিট্খিটে লোক;"}
+{ "_id" : { "$oid" : "566fddc6e4b03dcbb96c1c26"} , "Word" : "growth" , "meaning" : "বৃদ্ধি, জাতবস্তু, জন্ম, ক্রমোন্নতি"}
+{ "_id" : { "$oid" : "566fddc7e4b03dcbb96c1c27"} , "Word" : "guide" , "meaning" : "পথ প্রদর্শন করা,পথনির্দেশক"}
+{ "_id" : { "$oid" : "566fddc7e4b03dcbb96c1c28"} , "Word" : "guide-book" , "meaning" : "ভ্রমণকারীর ঞ্জাতব্য বিষয়পূর্ণ পুস্তক"}
+{ "_id" : { "$oid" : "566fddc7e4b03dcbb96c1c29"} , "Word" : "gun-metal" , "meaning" : "তামা ও টিন বা দস্তামিশ্রিত ধাতু বিশিষ"}
+{ "_id" : { "$oid" : "566fddc8e4b03dcbb96c1c2a"} , "Word" : "guillotine" , "meaning" : "শিরচ্ছেদ করার বা কাগজ কাটার যন্ত্র বিশেষ, গিলোটিন যন্ত্রে শিরচ্ছেদ করা"}
+{ "_id" : { "$oid" : "566fddc8e4b03dcbb96c1c2b"} , "Word" : "guileful" , "meaning" : "শঠ ;ধূর্ত; প্রতারক"}
+{ "_id" : { "$oid" : "566fddc8e4b03dcbb96c1c2c"} , "Word" : "gureilla" , "meaning" : "গেরিলা যুদ্ধ, অনিয়মিত ও অতর্কিত খন্ডযুদ্ধ, গেরিলাযোদ্ধা"}
+{ "_id" : { "$oid" : "566fddc9e4b03dcbb96c1c2d"} , "Word" : "gunshot" , "meaning" : "কামানের পাল্লা"}
+{ "_id" : { "$oid" : "566fddc9e4b03dcbb96c1c2e"} , "Word" : "gun-stock" , "meaning" : "যে কাঠের কুদায় কামান বা বন্দুকের নল বসানো থাকে"}
+{ "_id" : { "$oid" : "566fddc9e4b03dcbb96c1c2f"} , "Word" : "gulp" , "meaning" : "এক ঢোকে গিলে ফেলা, গবগব করে গেলা"}
+{ "_id" : { "$oid" : "566fddcae4b03dcbb96c1c30"} , "Word" : "gully" , "meaning" : "জলে ক্ষয়প্রাপ্ত হয়ে সে খাদ্যের সৃষ্টি হয়"}
+{ "_id" : { "$oid" : "566fddcae4b03dcbb96c1c31"} , "Word" : "gurus" , "meaning" : "গুরু; গুরুঠাকুর; ঠাকুর; গোস্বামী;"}
+{ "_id" : { "$oid" : "566fddcae4b03dcbb96c1c32"} , "Word" : "gull" , "meaning" : "সামুদ্রিক পক্ষী,গাংচিল"}
+{ "_id" : { "$oid" : "566fddcbe4b03dcbb96c1c33"} , "Word" : "guinea-hen" , "meaning" : "এক জাতীয় মোরগ বা মুরগী"}
+{ "_id" : { "$oid" : "566fddcbe4b03dcbb96c1c34"} , "Word" : "gulps" , "meaning" : "গ্রাস; কবল; ঢোক;"}
+{ "_id" : { "$oid" : "566fddcbe4b03dcbb96c1c35"} , "Word" : "gum" , "meaning" : "দাঁতের মাড়ি ; আঠা ; গঁদ"}
+{ "_id" : { "$oid" : "566fddcce4b03dcbb96c1c36"} , "Word" : "gulf" , "meaning" : "উপসাগর, গভীর খাত, ব্যবধান"}
+{ "_id" : { "$oid" : "566fddcce4b03dcbb96c1c37"} , "Word" : "guile" , "meaning" : "প্রতারণা, ছল"}
+{ "_id" : { "$oid" : "566fddcce4b03dcbb96c1c38"} , "Word" : "guilt" , "meaning" : "দোষ, পাপ, অপরাধ-প্রবণতা"}
+{ "_id" : { "$oid" : "566fddcde4b03dcbb96c1c39"} , "Word" : "guild" , "meaning" : "সমাজ সংঘ"}
+{ "_id" : { "$oid" : "566fddcde4b03dcbb96c1c3a"} , "Word" : "gulls" , "meaning" : "জলকুক্কুট;"}
+{ "_id" : { "$oid" : "566fddcde4b03dcbb96c1c3b"} , "Word" : "guileless" , "meaning" : "সরল, সাধু, অকপট"}
+{ "_id" : { "$oid" : "566fddcee4b03dcbb96c1c3c"} , "Word" : "gunsmith" , "meaning" : "বন্দকু নির্মান ও মেরামতকারী"}
+{ "_id" : { "$oid" : "566fddcee4b03dcbb96c1c3d"} , "Word" : "guide-post" , "meaning" : "পথ নির্দেশক স্তম্ববিশেষ"}
+{ "_id" : { "$oid" : "566fddcee4b03dcbb96c1c3e"} , "Word" : "gulping" , "meaning" : "গ্রসন; ঢোক;"}
+{ "_id" : { "$oid" : "566fddcfe4b03dcbb96c1c3f"} , "Word" : "guilty" , "meaning" : "অপরাধ, দোষাবহ"}
+{ "_id" : { "$oid" : "566fddcfe4b03dcbb96c1c40"} , "Word" : "gush" , "meaning" : "প্রবলবেগে বা প্রচুর পরিমাণেবর্হিগত হওয়া"}
+{ "_id" : { "$oid" : "566fddcfe4b03dcbb96c1c41"} , "Word" : "gummy" , "meaning" : "আঠাযুক্ত; আঠাল; গঁদনির্মিত; ফোকলা; দন্তহীন; আঠালো; চটচটে; ফুলে-ওঠা; মাড়িসর্বস্ব;"}
+{ "_id" : { "$oid" : "566fddd0e4b03dcbb96c1c42"} , "Word" : "gun man" , "meaning" : "বন্দুকধারী সৈনিক; রিভলভরধারী দুর্বৃত্ত; আগ্নেয়াস্ত্রে সজ্জিত লোক; আগ্নেয়াস্ত্র ব্যবহারকারী খুনী;"}
+{ "_id" : { "$oid" : "566fddd0e4b03dcbb96c1c43"} , "Word" : "guiltless" , "meaning" : "নির্দোষ, নিরপরাধ"}
+{ "_id" : { "$oid" : "566fddd0e4b03dcbb96c1c44"} , "Word" : "guffawed" , "meaning" : "অট্টহাস্য করা; হোহো করিয়া হাসা;"}
+{ "_id" : { "$oid" : "566fddd1e4b03dcbb96c1c45"} , "Word" : "guitarist" , "meaning" : "গিটার বাদক;"}
+{ "_id" : { "$oid" : "566fddd1e4b03dcbb96c1c46"} , "Word" : "gulped" , "meaning" : "গ্রস্ত; কবলিত;"}
+{ "_id" : { "$oid" : "566fddd1e4b03dcbb96c1c47"} , "Word" : "gun-lock" , "meaning" : "বন্দুকের বা কামানের টিপকল বা ঘোড়া"}
+{ "_id" : { "$oid" : "566fddd2e4b03dcbb96c1c48"} , "Word" : "gurgle" , "meaning" : "কলকল বা গড়গড় কলকল শব্দে র্নিগত হওয়া গড়গড় শব্দে পড়া"}
+{ "_id" : { "$oid" : "566fddd2e4b03dcbb96c1c49"} , "Word" : "gunnery" , "meaning" : "কামান বিষয়ক বিদ্যা"}
+{ "_id" : { "$oid" : "566fddd2e4b03dcbb96c1c4a"} , "Word" : "gum boot" , "meaning" : "রবারের উঁচু বুটজুতা"}
+{ "_id" : { "$oid" : "566fddd3e4b03dcbb96c1c4b"} , "Word" : "guidance" , "meaning" : "পারিচালন, নেতৃত্ব, পথনির্দেশ"}
+{ "_id" : { "$oid" : "566fddd3e4b03dcbb96c1c4c"} , "Word" : "gulf stream" , "meaning" : "উপসাগর-স্রোত;"}
+{ "_id" : { "$oid" : "566fddd3e4b03dcbb96c1c4d"} , "Word" : "gunpowder" , "meaning" : "বারুদ"}
+{ "_id" : { "$oid" : "566fddd4e4b03dcbb96c1c4e"} , "Word" : "guffaw" , "meaning" : "অট্টহাস্য ;অট্টহাস্য করা"}
+{ "_id" : { "$oid" : "566fddd4e4b03dcbb96c1c4f"} , "Word" : "gunny" , "meaning" : "পাট বা শনের চট,"}
+{ "_id" : { "$oid" : "566fddd5e4b03dcbb96c1c50"} , "Word" : "gun-barrel" , "meaning" : "কামানের নালী,বন্দুকের চুঙ্গি"}
+{ "_id" : { "$oid" : "566fddd5e4b03dcbb96c1c51"} , "Word" : "gun metal" , "meaning" : "পেতল;"}
+{ "_id" : { "$oid" : "566fddd5e4b03dcbb96c1c52"} , "Word" : "gun-fire" , "meaning" : "তোপ পড়ার সময়, তোপ"}
+{ "_id" : { "$oid" : "566fddd6e4b03dcbb96c1c53"} , "Word" : "guideline" , "meaning" : "মূলনীতি; চালক-নীতি; পথনির্দেশক সূত্র;"}
+{ "_id" : { "$oid" : "566fddd6e4b03dcbb96c1c54"} , "Word" : "gumption" , "meaning" : "বুঝ; সাধারণ বুদ্ধি; কাণ্ডজ্ঞান; ণত্বষত্বজ্ঞান; কেজো বা ব্যবহারিক বুদ্ধি;"}
+{ "_id" : { "$oid" : "566fddd6e4b03dcbb96c1c55"} , "Word" : "gunk" , "meaning" : "চটচটে বা তরল পদার্থ;"}
+{ "_id" : { "$oid" : "566fddd7e4b03dcbb96c1c56"} , "Word" : "gulled" , "meaning" : "বেষ্টন করা; গ্রাস করিয়া ফেলা;"}
+{ "_id" : { "$oid" : "566fddd7e4b03dcbb96c1c57"} , "Word" : "gushes" , "meaning" : "প্রবাহ;"}
+{ "_id" : { "$oid" : "566fddd7e4b03dcbb96c1c58"} , "Word" : "gun-carriage" , "meaning" : "কামানবাহী গাড়ি"}
+{ "_id" : { "$oid" : "566fddd8e4b03dcbb96c1c59"} , "Word" : "guides" , "meaning" : "প্রদর্শক; পথপ্রদর্শক; উপদেষ্টা; নেতা; অগ্রদূত;"}
+{ "_id" : { "$oid" : "566fddd8e4b03dcbb96c1c5a"} , "Word" : "gusher" , "meaning" : "যে তৈলকূপ থেকে বিনা-পাম্পেই তেল বেরোতে থাকে; প্রবলভাবে নি:সৃত পদার্থ; প্রচুরভাবে নি:সৃত পদার্থ;"}
+{ "_id" : { "$oid" : "566fddd8e4b03dcbb96c1c5b"} , "Word" : "guiding-star" , "meaning" : "সঙ্কেত-গৃহ;"}
+{ "_id" : { "$oid" : "566fddd9e4b03dcbb96c1c5c"} , "Word" : "guided" , "meaning" : "পরিচালিত; চালিত; অধ্যক্ষ;"}
+{ "_id" : { "$oid" : "566fddd9e4b03dcbb96c1c5d"} , "Word" : "gunmen" , "meaning" : "বন্দুকধারী সৈনিক; রিভলভরধারী দুর্বৃত্ত;"}
+{ "_id" : { "$oid" : "566fddd9e4b03dcbb96c1c5e"} , "Word" : "guiding" , "meaning" : "পথনির্দেশক; পথপ্রদর্শক; নায়ক; ম্যানেজার; নেতা;"}
+{ "_id" : { "$oid" : "566fdddae4b03dcbb96c1c5f"} , "Word" : "gunman" , "meaning" : "বন্দুকধারী বা সশন্ত্র দসু্য"}
+{ "_id" : { "$oid" : "566fdddae4b03dcbb96c1c60"} , "Word" : "guru" , "meaning" : "গুরু; গুরুঠাকুর; ঠাকুর; গোস্বামী;"}
+{ "_id" : { "$oid" : "566fdddae4b03dcbb96c1c61"} , "Word" : "gurgling" , "meaning" : "কবল;"}
+{ "_id" : { "$oid" : "566fdddbe4b03dcbb96c1c62"} , "Word" : "gun-cotton" , "meaning" : "নাইট্রিক ও সালফিউরিক এ্যাসিডে তুলা ভিজাইয়া যে তীব্র বিস্ফোরক দ্রব্য তৈরি হয়"}
+{ "_id" : { "$oid" : "566fdddbe4b03dcbb96c1c63"} , "Word" : "gullet" , "meaning" : "অনন্ননালী, কন্ঠ হইতে নালী"}
+{ "_id" : { "$oid" : "566fdddbe4b03dcbb96c1c64"} , "Word" : "gurgled" , "meaning" : "গড়্ গড়্ শব্দে পড়া; কল্কল করা;"}
+{ "_id" : { "$oid" : "566fdddce4b03dcbb96c1c65"} , "Word" : "guff" , "meaning" : "অর্থহীন অট্টহাস; ফালতু বাত; উদ্ভট বাজে কথা;"}
+{ "_id" : { "$oid" : "566fdddce4b03dcbb96c1c66"} , "Word" : "guise" , "meaning" : "পোশাক, ভান, আচরণ"}
+{ "_id" : { "$oid" : "566fdddce4b03dcbb96c1c67"} , "Word" : "gusset" , "meaning" : "পোশাকের কোনো অংশ মজবুত করার বা বাড়ানোর জন্য বসানো পটি;"}
+{ "_id" : { "$oid" : "566fdddde4b03dcbb96c1c68"} , "Word" : "gullible" , "meaning" : "সহজে ঠকানো যায় এমন"}
+{ "_id" : { "$oid" : "566fdddde4b03dcbb96c1c69"} , "Word" : "guinea" , "meaning" : "ইংল্যান্ডের মুদ্রাবিশেষ"}
+{ "_id" : { "$oid" : "566fdddde4b03dcbb96c1c6a"} , "Word" : "gunner" , "meaning" : "গোলন্দাজ সৈনিক"}
+{ "_id" : { "$oid" : "566fdddee4b03dcbb96c1c6b"} , "Word" : "gum boil" , "meaning" : "মাড়িতে ফোড়া;"}
+{ "_id" : { "$oid" : "566fdddee4b03dcbb96c1c6c"} , "Word" : "gup" , "meaning" : "গল্পগুজব; খোশগল্প; বাজে কথা; খোশগল্প;"}
+{ "_id" : { "$oid" : "566fdddee4b03dcbb96c1c6d"} , "Word" : "gulch" , "meaning" : "গিরিখাত; সংকীর্ণ গিরিখাত; গভীর;"}
+{ "_id" : { "$oid" : "566fdddfe4b03dcbb96c1c6e"} , "Word" : "gushing" , "meaning" : "প্রচুর পরিমাণে নির্গমনশীল; প্রবলবেগে নির্গমনশীল; বেগে নি:সরণশীল; ফিনকি দিয়ে বা প্রচণ্ড তোড়ে ধেয়ে-আসা;"}
+{ "_id" : { "$oid" : "566fdddfe4b03dcbb96c1c6f"} , "Word" : "gun" , "meaning" : "বন্দুক, কামান ইত্যাদি আগ্নেয়াস্ত্র"}
+{ "_id" : { "$oid" : "566fdddfe4b03dcbb96c1c70"} , "Word" : "guinea-fowl" , "meaning" : "এক জাতীয় মোরগ বা মুরগী"}
+{ "_id" : { "$oid" : "566fdde0e4b03dcbb96c1c71"} , "Word" : "guilds" , "meaning" : "সমবায় সঙ্ঘ; পৌরসভা; সংস্থা;"}
+{ "_id" : { "$oid" : "566fdde0e4b03dcbb96c1c72"} , "Word" : "gum arabic" , "meaning" : "বাবলা-জাতীয় গাছ-নিঃসৃত গঁদ;"}
+{ "_id" : { "$oid" : "566fdde0e4b03dcbb96c1c73"} , "Word" : "gun-boat" , "meaning" : "কামান বাহী ছোট যুদ্ধজাহাজ"}
+{ "_id" : { "$oid" : "566fdde1e4b03dcbb96c1c74"} , "Word" : "guitar" , "meaning" : "গিটার ; ছয় তারের বাদ্যযন্ত্র বিশেষ"}
+{ "_id" : { "$oid" : "566fdde1e4b03dcbb96c1c75"} , "Word" : "gunny bag" , "meaning" : "চটের থলি; গুনথলি; বোরা;"}
+{ "_id" : { "$oid" : "566fdde1e4b03dcbb96c1c76"} , "Word" : "guinea pig" , "meaning" : "গিনিপিগ;"}
+{ "_id" : { "$oid" : "566fdde2e4b03dcbb96c1c77"} , "Word" : "guts" , "meaning" : "নাড়িভুঁড়ি; সাহস; তেজ ইত্যাদি; গবগবিয়ে গেলা;"}
+{ "_id" : { "$oid" : "566fdde2e4b03dcbb96c1c78"} , "Word" : "gyratory" , "meaning" : "চক্রাকরে গতিশীল"}
+{ "_id" : { "$oid" : "566fdde2e4b03dcbb96c1c79"} , "Word" : "gynaecology" , "meaning" : "স্ত্রীরোগবিদ্যা;"}
+{ "_id" : { "$oid" : "566fdde3e4b03dcbb96c1c7a"} , "Word" : "gusty" , "meaning" : "দমকা; সহজে উত্তেজনশীল; ঝড়ো; ঝোড়ো; উত্সাহে ভরপুর; বাত্যাবিক্ষুব্ধ; ঝোড়ো;"}
+{ "_id" : { "$oid" : "566fdde3e4b03dcbb96c1c7b"} , "Word" : "gyrations" , "meaning" : "চক্রগতি; চক্রাকারে পরিভ্রমণ; চক্রবৎ গতি;"}
+{ "_id" : { "$oid" : "566fdde3e4b03dcbb96c1c7c"} , "Word" : "gyroscope" , "meaning" : "যে বস্ত্র আবর্তনের নিয়ম প্রদর্শন করে"}
+{ "_id" : { "$oid" : "566fdde4e4b03dcbb96c1c7d"} , "Word" : "gusts" , "meaning" : "ঝাপটা; সুস্বাদ; আকস্মিক দমকা বাতাস; প্রবল অভিব্যক্তি; রসনেন্দ্রি়; রূচি; স্বাদ; আকস্মিক বেগ; আকস্মিক শক্তি; রূচিবোধ;"}
+{ "_id" : { "$oid" : "566fdde4e4b03dcbb96c1c7e"} , "Word" : "gymnasts" , "meaning" : "মল্ল; ব্যায়ামবিদ; মল্লক্রীড়ায়ে দক্ষ ব্যক্তি; শরীরচর্চার দক্ষ ব্যক্তি; পালোয়ান;"}
+{ "_id" : { "$oid" : "566fdde4e4b03dcbb96c1c7f"} , "Word" : "gutters" , "meaning" : "নর্দমা; গর্ত; নয়নজুলি; নরদমা; খাঁজ; বস্তিজীবন; খানা; পয়োনালী;"}
+{ "_id" : { "$oid" : "566fdde5e4b03dcbb96c1c80"} , "Word" : "guys" , "meaning" : "পলায়ন; ঠাট্টা; তামাশা; কুশপুত্তল; অদ্ভুত মূর্তি; লোক;"}
+{ "_id" : { "$oid" : "566fdde5e4b03dcbb96c1c81"} , "Word" : "gusto" , "meaning" : "আগ্রহ"}
+{ "_id" : { "$oid" : "566fdde5e4b03dcbb96c1c82"} , "Word" : "gutter" , "meaning" : "বৃষ্টির জল র্নিগমণের জন্য সরু ধাতুর তৈরি ছাদের নালী"}
+{ "_id" : { "$oid" : "566fdde6e4b03dcbb96c1c83"} , "Word" : "gymnast" , "meaning" : "ব্যায়াম-শিক্ষক"}
+{ "_id" : { "$oid" : "566fdde6e4b03dcbb96c1c84"} , "Word" : "gyres" , "meaning" : "বলয়; চক্র; বৃত্ত;"}
+{ "_id" : { "$oid" : "566fdde6e4b03dcbb96c1c85"} , "Word" : "gypsum" , "meaning" : "জিপ্সাম; নরম খনিজ পদার্থবিশেষ;"}
+{ "_id" : { "$oid" : "566fdde7e4b03dcbb96c1c86"} , "Word" : "gustatory" , "meaning" : "রাসন;"}
+{ "_id" : { "$oid" : "566fdde7e4b03dcbb96c1c87"} , "Word" : "gyrate" , "meaning" : "কুন্ডলাকারে বা চক্রকারে পরিভ্রমন করা"}
+{ "_id" : { "$oid" : "566fdde7e4b03dcbb96c1c88"} , "Word" : "gynecological" , "meaning" : "স্ত্রীরোগঘটিত; স্ত্রীরোগবিদ্যা সংক্রান্ত; স্ত্রীরোগবিদ্যা-সংক্রান্ত;"}
+{ "_id" : { "$oid" : "566fdde8e4b03dcbb96c1c89"} , "Word" : "gutted" , "meaning" : "অন্ত্রাদি বার করিয়া ফাটা; নাড়িভুঁড়ি বার করে ফাটা; লুণ্ঠন করা; অন্ত্রহীন করা;"}
+{ "_id" : { "$oid" : "566fdde8e4b03dcbb96c1c8a"} , "Word" : "gynecologist" , "meaning" : "ধাত্রীবিদ্র্যাবিশারদ; স্ত্রীরোগবিশারদ; স্ত্রীরোর্গচিকিত্সক; স্ত্রীরোগবিশেষজ্ঞ;"}
+{ "_id" : { "$oid" : "566fdde8e4b03dcbb96c1c8b"} , "Word" : "gymnastic" , "meaning" : "ব্যায়ামবিষয়ক"}
+{ "_id" : { "$oid" : "566fdde9e4b03dcbb96c1c8c"} , "Word" : "gym" , "meaning" : "জিম; শারীরক্রীড়াঙ্গন; জনসাধারণের মল্লক্রীড়ার স্থান; মল্লক্রীড়ার অনূষ্ঠান;"}
+{ "_id" : { "$oid" : "566fdde9e4b03dcbb96c1c8d"} , "Word" : "guzzle" , "meaning" : "গোগ্রাসে ভোজন করা বা প
