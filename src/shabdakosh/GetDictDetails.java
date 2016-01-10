@@ -119,7 +119,7 @@ public class GetDictDetails {
 		
 	//	HashMap<String,String> map = getWordsList("http://www.shabdkosh.com/bn/browse/C/3");
 		for(int ii=0;ii<1;ii++){
-			File file = new File(System.getProperty("user.dir"+File.separator)+(char)('a'+ii)+".txt");	
+			File file = new File(System.getProperty("user.dir")+File.separator+(char)('a'+ii)+".txt");	
 			System.out.println(file.getAbsolutePath());
 			System.out.println(file.getPath());
 
