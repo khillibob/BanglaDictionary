@@ -60,7 +60,7 @@ public class GetDictDetails {
 
 	public static boolean storeInMongo(String word,String meaning,String collection){
 		DB db = getMongoDatabase("localhost", 27017, "testDB");
-		System.out.println("Connect to database successfully");
+		//System.out.println("Connect to database successfully");
 		// boolean auth = db.authenticate(myUserName, myPassword);
 		// System.out.println("Authentication: "+auth);
 		DBCollection coll = db.createCollection(collection, null);
@@ -210,17 +210,23 @@ public class GetDictDetails {
 				/*Writer out = new BufferedWriter(new OutputStreamWriter(
 						new FileOutputStream(file.getAbsoluteFile()), "UTF-8"));
 				//out.write("\n");
-*/				for(int i = 1;i<pages[ii];i++){
-
+				 * 
+*/				/*
+				* Page 2 for letter a is incomplete	
+				* 5 incomplete
+				* 9-10
+				* */
+				for(int i = 7;i<10;i++){
+					System.out.println("Page No: "+i+"\n\n");
 					String pageUrl = buildPageURL((char)('a'+ii), i);
 					HashMap<String, String> wordList= getWordsList(pageUrl);
 					Set<String> words = wordList.keySet();
 					for(String s:words){
 						/*out = new BufferedWriter(new OutputStreamWriter(
 								new FileOutputStream(file.getAbsoluteFile()), "UTF-8"));*/
-						System.out.println(s);
+					//	System.out.println(s);
 						String meaning = constructWordMeaning(retrieveWords(buildWordURL(wordList.get(s))));
-						System.out.println(s+" : "+meaning);
+				//		System.out.println(s+" : "+meaning);
 					//	String pageLine = buildPageContent(s, meaning);
 						storeInMongo(s, meaning, Character.toString((char)('a'+ii)));
 						/*out.write(pageLine+"\n");
