@@ -60,11 +60,16 @@ public class GetBDWordDictDetails {
 		//System.out.println("Connect to database successfully");
 		// boolean auth = db.authenticate(myUserName, myPassword);
 		// System.out.println("Authentication: "+auth);
-		DBCollection coll = db.createCollection(collection, null);
-		coll.ensureIndex(new BasicDBObject("Word", 1), new BasicDBObject("unique", true));
+		
 		try{
+			DBCollection coll = db.createCollection(collection, null);
+			coll.ensureIndex(new BasicDBObject("Word", 1), new BasicDBObject("unique", true));
 			coll.insert(createDocObject(word,meaning));
+			
 		}catch(Exception e){
+			System.out.println(e.getMessage());
+			System.out.println(e.getLocalizedMessage());
+			
 			return true;
 		}
 		return true;
@@ -143,12 +148,37 @@ public class GetBDWordDictDetails {
 				12,
 				9,
 				9,
-				6
-		};
-		for(int ii=0;ii<1;ii++){
+				6,
+				7,
+				9,
+				1,
+				1,
+				7,
+				11,
+				4,
+				5,
+				20,
+				1,
+				11,
+				20,
+				8,
+				4,
+				3,
+				4,
+				0,
+				0,
+				0
 
-			for(int i = 0;i<10;i++){
-				System.out.println("Page No: "+i+"\n\n");
+		};
+		/*
+		 * e 9 to rest remaining
+		 * h 5 to rest
+		 */
+		for(int ii=5
+				;ii<26;ii++){
+			System.out.println("Completed: "+(char)('a'+ii));
+			for(int i = 0;i<=pages[ii];i++){
+				System.out.println("Page No: "+i);
 				String pageUrl = buildWordsListPage((char)('a'+ii), i);
 				HashMap<String, String> wordList= getWordsList(pageUrl);
 				Set<String> words = wordList.keySet();
@@ -161,10 +191,6 @@ public class GetBDWordDictDetails {
 
 
 			}
-
-
-
-			//	FileWriter fw = new FileWriter(file.getAbsoluteFile());
 
 		}
 
